@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Docs\ApiController;
+use App\Http\Controllers\Docs\LegalController;
 use App\Http\Controllers\Docs\BusinessController;
 use App\Http\Controllers\Docs\CustomerController;
 use App\Http\Controllers\Docs\SupportController;
@@ -50,6 +51,12 @@ Route::prefix('support')->name('support.')->group(function () {
     Route::get('/help-center', [SupportController::class, 'helpCenter'])->name('help-center');
     Route::get('/knowledge-base', [SupportController::class, 'knowledgeBase'])->name('knowledge-base');
     Route::get('/contact-team', [SupportController::class, 'contactTeam'])->name('contact-team');
+});
+
+Route::prefix('legal')->name('legal.')->group(function () {
+    Route::get('/privacy-policy', [LegalController::class, 'privacyPolicy'])->name('privacy-policy');
+    Route::get('/terms-of-service', [LegalController::class, 'termsOfService'])->name('terms-of-service');
+    Route::get('/return-policy', [LegalController::class, 'returnPolicy'])->name('return-policy');
 });
 
 Route::prefix('api')->name('api.')->group(function () {
