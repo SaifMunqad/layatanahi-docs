@@ -204,20 +204,12 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
 
     return (
         <>
-            {open ? <div className="fixed inset-0 z-30 bg-zinc-900/40 lg:hidden" onClick={onClose} /> : null}
+            {open ? <div className="fixed inset-0 z-30 lg:hidden" onClick={onClose} /> : null}
             <aside
-                className={`sticky left-0 z-10 h-[calc(100vh-3.5rem)] w-64 shrink-0 self-start overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:top-14 lg:translate-x-0 ${
+                className={`fixed inset-x-auto bottom-0 left-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
                     open ? 'translate-x-0' : '-translate-x-full'
                 }`}
             >
-                <div className="flex items-center justify-between px-4 pb-4 lg:hidden">
-                    <a href="#" className="flex items-center gap-2 text-zinc-900 dark:text-zinc-100">
-                        <span className="text-[15px] font-semibold tracking-tight">Layatanahi</span>
-                    </a>
-                    <button type="button" onClick={onClose} className="text-zinc-400">
-                        <X className="h-5 w-5" />
-                    </button>
-                </div>
                 <nav className="z-50 px-2">
                     {NAV_SECTIONS.map((section, index) => {
                         // Default open: first section or the currently active section

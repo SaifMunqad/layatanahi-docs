@@ -265,12 +265,12 @@ function Sidebar({open, onClose, onNavigate}) {
             {/* mobile backdrop */}
             {open && (
                 <div
-                    className="fixed inset-0 z-30 bg-zinc-900/40 lg:hidden"
+                    className="fixed inset-0 z-30 lg:hidden"
                     onClick={onClose}
                 />
             )}
             <aside
-                className={`sticky inset-y-0 left-0 z-20 w-64 shrink-0 transform overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:static lg:translate-x-0 ${
+                className={`fixed inset-y-0 left-0 z-40 w-64 shrink-0 transform overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:static lg:translate-x-0 ${
                     open ? "translate-x-0" : "-translate-x-full"
                 }`}
             >
