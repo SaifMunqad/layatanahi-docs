@@ -4,13 +4,11 @@ import { ChevronDown, X } from 'lucide-react';
 import {
     NAV_SECTIONS,
     findActiveNavBranch,
+    resolveHref,
     type NavItem,
     type NavSectionData,
 } from '@/components/layout/docs/docs-data';
 import { useCurrentUrl } from '@/hooks/use-current-url';
-
-// Resolve route helpers or hrefs that may be functions (route helpers) or strings
-const resolveHref = (href: any) => (typeof href === 'function' ? href() : href);
 
 type NavLinkProps = {
     item: NavItem;
@@ -25,7 +23,7 @@ function NavLink({ item, onNavigate, nested = false, active = false }: NavLinkPr
     return (
         <Link
             href={href}
-            onClick={() => onNavigate?.(href as string)}
+            onClick={() => onNavigate?.(href)}
             className={`block rounded-md py-1.5 leading-5 transition-colors ${
                 nested ? 'px-2.5 text-[12px]' : 'px-3 text-[13px]'
             } ${

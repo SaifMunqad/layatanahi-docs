@@ -1,11 +1,4 @@
-import DocsPage from '@/pages/docs/_docs-page';
+import BusinessPage from '@/pages/docs/business/_business-page';
+import markdown from './demo.md?raw';
 
-export default function PublicDemoPage() {
-    return (
-        <DocsPage
-            section="Business"
-            title="Public Demo"
-            description="Public Demo demo content for the public flow in the business module."
-        />
-    );
-}
+export default function PublicDemoPage() { return <BusinessPage markdown={markdown} />; }

@@ -1,4 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
+import markdown from './overview.md?raw';
 
 export default function CustomerOverviewPage() {
     return (
@@ -6,6 +7,7 @@ export default function CustomerOverviewPage() {
             section="Customer"
             title="Customer Overview"
             description="Customer overview for managing accounts, activity, and service status."
+            markdown={markdown}
         />
     );
 }

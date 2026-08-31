@@ -1,11 +1,4 @@
-import DocsPage from '@/pages/docs/_docs-page';
+import BusinessPage from '@/pages/docs/business/_business-page';
+import markdown from './overview.md?raw';
 
-export default function InventoryOverviewPage() {
-    return (
-        <DocsPage
-            section="Business"
-            title="Inventory Overview"
-            description="Inventory Overview demo content for the inventory flow in the business module."
-        />
-    );
-}
+export default function InventoryOverviewPage() { return <BusinessPage markdown={markdown} />; }

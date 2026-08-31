@@ -1,11 +1,4 @@
-import DocsPage from '@/pages/docs/_docs-page';
+import BusinessPage from '@/pages/docs/business/_business-page';
+import markdown from './listing.md?raw';
 
-export default function PurchaseListingPage() {
-    return (
-        <DocsPage
-            section="Business"
-            title="Purchase Listing"
-            description="Purchase Listing demo content for the purchase flow in the business module."
-        />
-    );
-}
+export default function PurchaseListingPage() { return <BusinessPage markdown={markdown} />; }

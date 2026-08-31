@@ -1,4 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
+import markdown from './overview.md?raw';
 
 export default function APIOverviewPage() {
     return (
@@ -6,6 +7,7 @@ export default function APIOverviewPage() {
             section="Api"
             title="API Overview"
             description="Overview of the API capabilities and service integrations available to clients."
+            markdown={markdown}
         />
     );
 }

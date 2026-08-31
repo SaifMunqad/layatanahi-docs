@@ -1,4 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
+import markdown from './portal.md?raw';
 
 export default function CustomerPortalPage() {
     return (
@@ -6,6 +7,7 @@ export default function CustomerPortalPage() {
             section="Customer"
             title="Customer Portal"
             description="Customer portal for tracking orders, communicating with support, and using self-service tools."
+            markdown={markdown}
         />
     );
 }
