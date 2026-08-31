@@ -4,6 +4,7 @@ import { ChevronDown, X } from 'lucide-react';
 import {
     NAV_SECTIONS,
     findActiveNavBranch,
+    isNavItemActive,
     resolveHref,
     type NavItem,
     type NavSectionData,
@@ -142,10 +143,10 @@ type NavSectionProps = {
 };
 
 function NavSection({ section, onNavigate, defaultOpen = false }: NavSectionProps) {
-    const { currentUrl, isCurrentOrParentUrl } = useCurrentUrl();
+    const { currentUrl } = useCurrentUrl();
     const [localOpen, setLocalOpen] = useState(defaultOpen);
     const [activeItemSlug, setActiveItemSlug] = useState<string | null>(() => {
-        const active = section.items.find((item) => isCurrentOrParentUrl(resolveHref(item.path), currentUrl));
+        const active = section.items.find((item) => isNavItemActive(item, currentUrl));
         return active?.slug ?? null;
     });
 
@@ -153,10 +154,10 @@ function NavSection({ section, onNavigate, defaultOpen = false }: NavSectionProp
     // open the section so the active item is visible. This does not prevent
     // the user from manually toggling the section afterward.
     useEffect(() => {
-        const active = section.items.find((item) => isCurrentOrParentUrl(resolveHref(item.path), currentUrl));
+        const active = section.items.find((item) => isNavItemActive(item, currentUrl));
         setActiveItemSlug(active?.slug ?? null);
         if (active) setLocalOpen(true);
-    }, [currentUrl, section, isCurrentOrParentUrl]);
+    }, [currentUrl, section]);
 
     const isOpen = localOpen;
 
@@ -178,7 +179,7 @@ function NavSection({ section, onNavigate, defaultOpen = false }: NavSectionProp
                             key={item.slug}
                             item={item}
                             level={1}
-                            open={activeItemSlug === item.slug && isOpen}
+                            open={activeItemSlug === item.slug}
                             onToggle={() => handleItemToggle(item.slug)}
                             onNavigate={onNavigate}
                         />

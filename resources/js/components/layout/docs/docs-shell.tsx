@@ -26,7 +26,7 @@ function DocsShellContent({ children }: { children?: ReactNode }) {
                 <Sidebar
                     open={mobileNavOpen}
                     onClose={() => setMobileNavOpen(false)}
-                    onNavigate={() => setMobileNavOpen(false)}
+                    onNavigate={() => undefined}
                 />
 
                 <div className="flex min-w-0 flex-1 justify-center">
