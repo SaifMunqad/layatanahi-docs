@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, type ReactNode } from 'react';
 import { ChevronDown, X } from 'lucide-react';
 import { NAV_SECTIONS, type NavItem, type NavSectionData } from '@/components/layout/docs/docs-data';
 
@@ -37,16 +37,36 @@ function SectionToggleButton({ label, open, onToggle, nested = false }: SectionT
     return (
         <button
             type="button"
+            aria-expanded={open}
             onClick={onToggle}
-            className={`flex w-full items-center justify-between py-1.5 text-zinc-400 transition-colors hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300 ${
+            className={`flex w-full items-center justify-between py-1.5 text-zinc-400 transition-all duration-200 ease-out hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300 ${
                 nested
                     ? 'px-2.5 text-[10px] font-semibold uppercase tracking-wide'
                     : 'px-3 text-[11px] font-semibold uppercase tracking-wide'
             }`}
         >
             {label}
-            <ChevronDown className={`h-3 w-3 transition-transform ${open ? '' : '-rotate-90'}`} />
+            <ChevronDown className={`h-3 w-3 transition-transform duration-200 ${open ? '' : '-rotate-90'}`} />
         </button>
+    );
+}
+
+type AccordionContentProps = {
+    open: boolean;
+    children: ReactNode;
+};
+
+function AccordionContent({ open, children }: AccordionContentProps) {
+    return (
+        <div
+            className={`grid transition-all duration-200 ease-out ${
+                open ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'
+            }`}
+        >
+            <div className="overflow-hidden">
+                <div className="pt-1">{children}</div>
+            </div>
+        </div>
     );
 }
 
@@ -61,13 +81,26 @@ type NavBranchProps = {
     item: NavItem;
     defaultOpen?: boolean;
     level?: number;
+    open?: boolean;
+    onToggle?: () => void;
     onNavigate?: (slug: string) => void;
 };
 
-function NavBranch({ item, defaultOpen = false, level = 0, onNavigate }: NavBranchProps) {
-    const [open, setOpen] = useState(defaultOpen || Boolean(item.active));
+function NavBranch({
+    item,
+    defaultOpen = false,
+    level = 0,
+    open: controlledOpen,
+    onToggle,
+    onNavigate,
+}: NavBranchProps) {
+    const [activeChildSlug, setActiveChildSlug] = useState<string | null>(() => {
+        return item.children?.find((child) => child.active)?.slug ?? null;
+    });
+
     const hasChildren = Boolean(item.children?.length);
     const indentClass = LEVEL_INDENT_CLASSES[level] ?? 'ml-6';
+    const isOpen = controlledOpen ?? (defaultOpen || Boolean(item.active));
 
     return (
         <li className={`${indentClass} ${level > 0 ? 'border-l border-zinc-200 pl-2 dark:border-zinc-800' : ''}`}>
@@ -75,23 +108,27 @@ function NavBranch({ item, defaultOpen = false, level = 0, onNavigate }: NavBran
                 <div className="mb-1">
                     <SectionToggleButton
                         label={item.label}
-                        open={open}
-                        onToggle={() => setOpen((value) => !value)}
+                        open={isOpen}
+                        onToggle={() => onToggle?.()}
                         nested={level > 0}
                     />
-                    {open ? (
-                        <ul className="mt-1 space-y-1">
+                    <AccordionContent open={isOpen}>
+                        <ul className="space-y-1">
                             {item.children?.map((child) => (
                                 <NavBranch
                                     key={child.slug}
                                     item={child}
                                     defaultOpen={Boolean(child.active)}
                                     level={level + 1}
+                                    open={activeChildSlug === child.slug && isOpen}
+                                    onToggle={() => {
+                                        setActiveChildSlug((current) => (current === child.slug ? null : child.slug));
+                                    }}
                                     onNavigate={onNavigate}
                                 />
                             ))}
                         </ul>
-                    ) : null}
+                    </AccordionContent>
                 </div>
             ) : (
                 <NavLink item={item} onNavigate={onNavigate} nested={level > 0} />
@@ -103,28 +140,45 @@ function NavBranch({ item, defaultOpen = false, level = 0, onNavigate }: NavBran
 type NavSectionProps = {
     section: NavSectionData;
     defaultOpen: boolean;
+    open?: boolean;
+    onToggle?: () => void;
     onNavigate?: (slug: string) => void;
 };
 
-function NavSection({ section, defaultOpen, onNavigate }: NavSectionProps) {
+function NavSection({ section, defaultOpen, open: controlledOpen, onToggle, onNavigate }: NavSectionProps) {
     const [open, setOpen] = useState(defaultOpen);
+    const [activeItemSlug, setActiveItemSlug] = useState<string | null>(() => {
+        return section.items.find((item) => item.active)?.slug ?? null;
+    });
+
+    const isOpen = controlledOpen ?? open;
+
+    const handleItemToggle = (itemSlug: string) => {
+        setActiveItemSlug((current) => (current === itemSlug ? null : itemSlug));
+    };
 
     return (
         <div className="mb-1">
-            <SectionToggleButton label={section.label} open={open} onToggle={() => setOpen((value) => !value)} />
-            {open ? (
-                <ul className="mt-0.5 space-y-0.5">
+            <SectionToggleButton
+                label={section.label}
+                open={isOpen}
+                onToggle={() => onToggle?.() ?? setOpen((value) => !value)}
+            />
+            <AccordionContent open={isOpen}>
+                <ul className="space-y-0.5">
                     {section.items.map((item) => (
                         <NavBranch
                             key={item.slug}
                             item={item}
                             defaultOpen={Boolean(item.active)}
                             level={1}
+                            open={activeItemSlug === item.slug}
+                            onToggle={() => handleItemToggle(item.slug)}
                             onNavigate={onNavigate}
                         />
                     ))}
                 </ul>
-            ) : null}
+            </AccordionContent>
         </div>
     );
 }
@@ -136,6 +190,12 @@ type SidebarProps = {
 };
 
 export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
+    const [activeSectionLabel, setActiveSectionLabel] = useState<string | null>(() => NAV_SECTIONS[0]?.label ?? null);
+
+    const handleSectionToggle = (sectionLabel: string) => {
+        setActiveSectionLabel((current) => (current === sectionLabel ? null : sectionLabel));
+    };
+
     return (
         <>
             {open ? <div className="fixed inset-0 z-30 bg-zinc-900/40 lg:hidden" onClick={onClose} /> : null}
@@ -157,7 +217,9 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
                         <NavSection
                             key={section.label}
                             section={section}
-                            defaultOpen={i < 2}
+                            defaultOpen={i < 1}
+                            open={activeSectionLabel === section.label}
+                            onToggle={() => handleSectionToggle(section.label)}
                             onNavigate={onNavigate}
                         />
                     ))}
