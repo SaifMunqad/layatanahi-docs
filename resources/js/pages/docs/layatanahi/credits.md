@@ -1,0 +1,3 @@
+# Credits
+
+Placeholder for credits.

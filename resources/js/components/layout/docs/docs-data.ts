@@ -1,3 +1,4 @@
+import layatanahi from '@/routes/layatanahi';
 import customer from '@/routes/customer';
 import business from '@/routes/business';
 import support from '@/routes/support';
@@ -23,6 +24,16 @@ export type NavSectionData = {
 export const resolveHref = (path: NavItem['path']) => path().url;
 
 export const NAV_SECTIONS: NavSectionData[] = [
+    {
+        label: 'LAYATANAHI',
+        items: [
+            { label: 'Overview', slug: 'layatanahi-overview', path: layatanahi.overview },
+            { label: 'Credits', slug: 'layatanahi-credits', path: layatanahi.credits },
+            { label: 'Team', slug: 'layatanahi-team', path: layatanahi.team },
+            { label: 'Idea', slug: 'layatanahi-idea', path: layatanahi.idea },
+            { label: 'Features', slug: 'layatanahi-features', path: layatanahi.features },
+        ],
+    },
     {
         label: 'CUSTOMER',
         items: [
