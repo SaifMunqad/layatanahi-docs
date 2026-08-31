@@ -1,6 +1,7 @@
 import customer from '@/routes/customer';
 import business from '@/routes/business';
 import support from '@/routes/support';
+import legal from '@/routes/legal';
 import api from '@/routes/api';
 import type { RouteQueryOptions, RouteDefinition } from '@/wayfinder';
 
@@ -92,6 +93,14 @@ export const NAV_SECTIONS: NavSectionData[] = [
             { label: 'Help Center', slug: 'support-help-center', path: support.helpCenter },
             { label: 'Knowledge Base', slug: 'support-knowledge-base', path: support.knowledgeBase },
             { label: 'Contact Team', slug: 'support-contact-team', path: support.contactTeam },
+        ],
+    },
+    {
+        label: 'LEGAL',
+        items: [
+            { label: 'Privacy Policy', slug: 'legal-privacy-policy', path: legal.privacyPolicy },
+            { label: 'Terms of Service', slug: 'legal-terms-of-service', path: legal.termsOfService },
+            { label: 'Return Policy', slug: 'legal-return-policy', path: legal.returnPolicy },
         ],
     },
     {
