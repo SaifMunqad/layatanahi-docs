@@ -198,13 +198,8 @@ type SidebarProps = {
 };
 
 export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
-    const currentPath = useMemo(() => {
-        if (typeof window === 'undefined') {
-            return '/';
-        }
-
-        return window.location.pathname.replace(/\/+$/, '') || '/';
-    }, [typeof window !== 'undefined' ? window.location.pathname : '/']);
+    const { currentUrl } = useCurrentUrl();
+    const currentPath = currentUrl;
 
     const activeSection = useMemo(() => findActiveNavBranch(currentPath).sectionLabel, [currentPath]);
 
@@ -233,7 +228,6 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
                             <NavSection
                                 key={section.label}
                                 section={section}
-                                currentPath={currentPath}
                                 defaultOpen={defaultOpen}
                                 onNavigate={onNavigate}
                             />
