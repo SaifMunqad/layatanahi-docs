@@ -165,131 +165,103 @@ function PageNav() {
     );
 }
 
-export function Article() {
+export function Article({ children }: { children?: ReactNode }) {
     return (
         <article className="mx-auto w-full max-w-3xl px-6 py-10 lg:px-10">
-            <p className="mb-2 text-sm font-medium text-red-600">Getting Started</p>
-            <Heading id="meet-laravel" level={1}>
-                Installation
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                Laravel is a web application framework built around expressive, readable
-                syntax. It gives you a solid starting point &mdash; routing, an ORM,
-                queues, testing helpers, and more &mdash; so you can spend your time on
-                the parts of your application that are actually unique.
-            </p>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                Whether this is your first framework or your fifteenth, the docs are
-                organized so you can move from a blank folder to a running application
-                in a few minutes, then go as deep as you need on any topic.
-            </p>
+            {children ?? (
+                <>
+                    <p className="mb-2 text-sm font-medium text-red-600">Getting Started</p>
+                    <Heading id="meet-laravel" level={1}>
+                        Installation
+                    </Heading>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        Laravel is a web application framework built around expressive, readable
+                        syntax. It gives you a solid starting point &mdash; routing, an ORM,
+                        queues, testing helpers, and more &mdash; so you can spend your time on
+                        the parts of your application that are actually unique.
+                    </p>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        Whether this is your first framework or your fifteenth, the docs are
+                        organized so you can move from a blank folder to a running application
+                        in a few minutes, then go as deep as you need on any topic.
+                    </p>
 
-            <Heading id="why-laravel" level={2}>
-                Why Laravel?
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                There is no shortage of tools for building on the web. Laravel's pitch
-                is consistency: predictable file locations, expressive helpers for
-                everyday tasks, and a large ecosystem of official packages that cover
-                the things almost every application eventually needs, like queues,
-                search, and billing.
-            </p>
+                    <Heading id="why-laravel" level={2}>
+                        Why Laravel?
+                    </Heading>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        There is no shortage of tools for building on the web. Laravel's pitch
+                        is consistency: predictable file locations, expressive helpers for
+                        everyday tasks, and a large ecosystem of official packages that cover
+                        the things almost every application eventually needs, like queues,
+                        search, and billing.
+                    </p>
 
-            <Callout type="note">
-                New to PHP entirely? The framework is written to be approachable &mdash;
-                you do not need years of experience to build something real with it.
-            </Callout>
+                    <Callout type="note">
+                        New to PHP entirely? The framework is written to be approachable &mdash;
+                        you do not need years of experience to build something real with it.
+                    </Callout>
 
-            <Heading id="creating" level={1}>
-                Creating a Laravel application
-            </Heading>
+                    <Heading id="creating" level={1}>
+                        Creating a Laravel application
+                    </Heading>
 
-            <Heading id="installing-php" level={2}>
-                Installing PHP and the installer
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                Before scaffolding your first project, make sure PHP, Composer, and the
-                Laravel installer are available on your machine. On macOS or Linux, a
-                single command handles all three:
-            </p>
+                    <Heading id="installing-php" level={2}>
+                        Installing PHP and the installer
+                    </Heading>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        Before scaffolding your first project, make sure PHP, Composer, and the
+                        Laravel installer are available on your machine. On macOS or Linux, a
+                        single command handles all three:
+                    </p>
 
-            <CodeBlock code={`curl -fsSL https://php.new/install/mac/8.5 | bash`} />
+                    <CodeBlock code={`curl -fsSL https://php.new/install/mac/8.5 | bash`} />
 
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                Once installed, creating a new project is a single command away. The
-                installer will ask a few questions about testing frameworks and
-                starter kits along the way.
-            </p>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        Once installed, creating a new project is a single command away. The
+                        installer will ask a few questions about testing frameworks and
+                        starter kits along the way.
+                    </p>
 
-            <CodeBlock code={`laravel new example-app\ncd example-app\nnpm install && npm run build\ncomposer run dev`} />
+                    <CodeBlock code={`laravel new example-app\ncd example-app\nnpm install && npm run build\ncomposer run dev`} />
 
-            <Callout type="warning">
-                Avoid serving your application from inside a subdirectory of the
-                project. Doing so can expose files that were never meant to be public.
-            </Callout>
+                    <Callout type="warning">
+                        Avoid serving your application from inside a subdirectory of the
+                        project. Doing so can expose files that were never meant to be public.
+                    </Callout>
 
-            <Heading id="initial-config" level={1}>
-                Initial configuration
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                Every configuration file lives under <InlineCode>config/</InlineCode>{' '}
-                and is commented, so browsing them is a good way to learn what is
-                available. Out of the box the defaults are sensible enough that you
-                rarely need to touch anything before you start building.
-            </p>
+                    <Heading id="initial-config" level={1}>
+                        Initial configuration
+                    </Heading>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        Every configuration file lives under <InlineCode>config/</InlineCode>{' '}
+                        and is commented, so browsing them is a good way to learn what is
+                        available. Out of the box the defaults are sensible enough that you
+                        rarely need to touch anything before you start building.
+                    </p>
 
-            <Heading id="env-config" level={2}>
-                Environment based configuration
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                Values that differ between your laptop and a production server &mdash;
-                database credentials, API keys, debug flags &mdash; live in an{' '}
-                <InlineCode>.env</InlineCode> file at the project root rather than in
-                the config files themselves. This file should never be committed to
-                source control.
-            </p>
+                    <Heading id="env-config" level={2}>
+                        Environment based configuration
+                    </Heading>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        Values that differ between your laptop and a production server &mdash;
+                        database credentials, API keys, debug flags &mdash; live in an{' '}
+                        <InlineCode>.env</InlineCode> file at the project root rather than in
+                        the config files themselves. This file should never be committed to
+                        source control.
+                    </p>
 
-            <Heading id="db-migrations" level={2}>
-                Databases and migrations
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                A fresh install is preconfigured to use SQLite, with a database file
-                and the framework's own tables already created for you. Switching to
-                MySQL or PostgreSQL just means updating a handful of variables:
-            </p>
-
-            <CodeBlock
-                lang="env"
-                code={`DB_CONNECTION=mysql\nDB_HOST=127.0.0.1\nDB_PORT=3306\nDB_DATABASE=laravel\nDB_USERNAME=root\nDB_PASSWORD=`}
-            />
-
-            <Heading id="next-steps" level={1}>
-                Next steps
-            </Heading>
-            <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
-                From here, most people branch in one of two directions: using Laravel
-                as a full-stack framework with Blade or Inertia, or using it purely as
-                an API backend for a separate frontend application. Either path is
-                well supported &mdash; pick the one that matches what you are
-                building and follow the relevant guide.
-            </p>
-
-            <ul className="mb-4 list-disc space-y-1 pl-5 leading-7 text-zinc-600 dark:text-zinc-400">
-                <li>Request lifecycle</li>
-                <li>Directory structure</li>
-                <li>Frontend</li>
-                <li>Service container</li>
-            </ul>
-
-            <a
-                href="#"
-                className="inline-flex items-center gap-1 text-sm font-medium text-red-600 hover:text-red-700"
-            >
-                Read the full framework documentation
-                <ArrowUpRight className="h-3.5 w-3.5" />
-            </a>
-
-            <PageNav />
+                    <Heading id="db-migrations" level={2}>
+                        Databases and migrations
+                    </Heading>
+                    <p className="mb-4 leading-7 text-zinc-600 dark:text-zinc-400">
+                        A fresh install is preconfigured to use SQLite, with a database file
+                        and the framework's own tables already created for you. Switching to
+                        MySQL or PostgreSQL just means updating a handful of variables:
+                    </p>
+                </>
+            )}
         </article>
     );
 }
+

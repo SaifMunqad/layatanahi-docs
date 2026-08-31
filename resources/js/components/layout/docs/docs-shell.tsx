@@ -1,11 +1,11 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, type ReactNode } from 'react';
 import { Article, TableOfContents } from '@/components/layout/docs/docs-article';
 import { TopBar } from '@/components/layout/docs/docs-header';
 import { SearchModal } from '@/components/layout/docs/docs-search-modal';
 import { Sidebar } from '@/components/layout/docs/docs-sidebar';
 import { TOC_ITEMS } from '@/components/layout/docs/docs-data';
 
-export default function DocsLayout() {
+export default function DocsLayout({ children }: { children?: ReactNode }) {
     const [dark, setDark] = useState(false);
     const [mobileNavOpen, setMobileNavOpen] = useState(false);
     const [searchOpen, setSearchOpen] = useState(false);
@@ -30,7 +30,7 @@ export default function DocsLayout() {
                     />
 
                     <div className="flex min-w-0 flex-1 justify-center">
-                        <Article />
+                        <Article>{children}</Article>
                         <TableOfContents items={toc} />
                     </div>
                 </div>

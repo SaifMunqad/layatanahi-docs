@@ -1,6 +1,7 @@
 export type NavItem = {
     label: string;
     slug: string;
+    path: string;
     active?: boolean;
     children?: NavItem[];
 };
@@ -16,13 +17,15 @@ export type TocItem = {
     id: string;
 };
 
+const sectionBase = (segment: string, rest = '') => `/${segment}${rest ? `/${rest}` : ''}`;
+
 export const NAV_SECTIONS: NavSectionData[] = [
     {
         label: 'CUSTOMER',
         items: [
-            { label: 'Overview', slug: 'customer-overview' },
-            { label: 'Customer Portal', slug: 'customer-portal' },
-            { label: 'Account Center', slug: 'customer-account-center' },
+            { label: 'Overview', slug: 'customer-overview', path: sectionBase('customer', 'overview') },
+            { label: 'Customer Portal', slug: 'customer-portal', path: sectionBase('customer', 'portal') },
+            { label: 'Account Center', slug: 'customer-account-center', path: sectionBase('customer', 'account-center') },
         ],
     },
     {
@@ -31,47 +34,52 @@ export const NAV_SECTIONS: NavSectionData[] = [
             {
                 label: 'Purchase',
                 slug: 'business-purchase',
+                path: sectionBase('business', 'purchase'),
                 active: true,
                 children: [
-                    { label: 'Overview', slug: 'purchase-overview' },
-                    { label: 'Listing', slug: 'purchase-listing' },
-                    { label: 'Demo', slug: 'purchase-demo' },
+                    { label: 'Overview', slug: 'purchase-overview', path: sectionBase('business', 'purchase/overview') },
+                    { label: 'Listing', slug: 'purchase-listing', path: sectionBase('business', 'purchase/listing') },
+                    { label: 'Demo', slug: 'purchase-demo', path: sectionBase('business', 'purchase/demo') },
                 ],
             },
             {
                 label: 'Inventory',
                 slug: 'business-inventory',
+                path: sectionBase('business', 'inventory'),
                 children: [
-                    { label: 'Overview', slug: 'inventory-overview' },
-                    { label: 'Listing', slug: 'inventory-listing' },
-                    { label: 'Demo', slug: 'inventory-demo' },
+                    { label: 'Overview', slug: 'inventory-overview', path: sectionBase('business', 'inventory/overview') },
+                    { label: 'Listing', slug: 'inventory-listing', path: sectionBase('business', 'inventory/listing') },
+                    { label: 'Demo', slug: 'inventory-demo', path: sectionBase('business', 'inventory/demo') },
                 ],
             },
             {
                 label: 'Sale',
                 slug: 'business-sale',
+                path: sectionBase('business', 'sale'),
                 children: [
-                    { label: 'Overview', slug: 'sale-overview' },
-                    { label: 'Listing', slug: 'sale-listing' },
-                    { label: 'Demo', slug: 'sale-demo' },
+                    { label: 'Overview', slug: 'sale-overview', path: sectionBase('business', 'sale/overview') },
+                    { label: 'Listing', slug: 'sale-listing', path: sectionBase('business', 'sale/listing') },
+                    { label: 'Demo', slug: 'sale-demo', path: sectionBase('business', 'sale/demo') },
                 ],
             },
             {
                 label: 'Store',
                 slug: 'business-store',
+                path: sectionBase('business', 'store'),
                 children: [
-                    { label: 'Overview', slug: 'store-overview' },
-                    { label: 'Listing', slug: 'store-listing' },
-                    { label: 'Demo', slug: 'store-demo' },
+                    { label: 'Overview', slug: 'store-overview', path: sectionBase('business', 'store/overview') },
+                    { label: 'Listing', slug: 'store-listing', path: sectionBase('business', 'store/listing') },
+                    { label: 'Demo', slug: 'store-demo', path: sectionBase('business', 'store/demo') },
                 ],
             },
             {
                 label: 'Public',
                 slug: 'business-public',
+                path: sectionBase('business', 'public'),
                 children: [
-                    { label: 'Overview', slug: 'public-overview' },
-                    { label: 'Listing', slug: 'public-listing' },
-                    { label: 'Demo', slug: 'public-demo' },
+                    { label: 'Overview', slug: 'public-overview', path: sectionBase('business', 'public/overview') },
+                    { label: 'Listing', slug: 'public-listing', path: sectionBase('business', 'public/listing') },
+                    { label: 'Demo', slug: 'public-demo', path: sectionBase('business', 'public/demo') },
                 ],
             },
         ],
@@ -79,28 +87,48 @@ export const NAV_SECTIONS: NavSectionData[] = [
     {
         label: 'SUPPORT',
         items: [
-            { label: 'Help Center', slug: 'support-help-center' },
-            { label: 'Knowledge Base', slug: 'support-knowledge-base' },
-            { label: 'Contact Team', slug: 'support-contact-team' },
+            { label: 'Help Center', slug: 'support-help-center', path: sectionBase('support', 'help-center') },
+            { label: 'Knowledge Base', slug: 'support-knowledge-base', path: sectionBase('support', 'knowledge-base') },
+            { label: 'Contact Team', slug: 'support-contact-team', path: sectionBase('support', 'contact-team') },
         ],
     },
     {
         label: 'API',
         items: [
-            { label: 'Overview', slug: 'api-overview' },
-            { label: 'Authentication', slug: 'api-authentication' },
-            { label: 'Reference', slug: 'api-reference' },
+            { label: 'Overview', slug: 'api-overview', path: sectionBase('api', 'overview') },
+            { label: 'Authentication', slug: 'api-authentication', path: sectionBase('api', 'authentication') },
+            { label: 'Reference', slug: 'api-reference', path: sectionBase('api', 'reference') },
         ],
     },
 ];
 
+export function findActiveNavBranch(pathname: string) {
+    const normalized = pathname.replace(/\/+$/, '') || '/';
+
+    for (const section of NAV_SECTIONS) {
+        for (const item of section.items) {
+            if (isNavItemActive(item, normalized)) {
+                return { sectionLabel: section.label, itemPath: item.path };
+            }
+        }
+    }
+
+    return { sectionLabel: null, itemPath: null };
+}
+
+export function isNavItemActive(item: NavItem, pathname: string): boolean {
+    if (item.path === pathname) {
+        return true;
+    }
+
+    return Boolean(item.children?.some((child) => isNavItemActive(child, pathname)));
+}
+
 export const TOC_ITEMS: TocItem[] = [
-    { label: 'Meet Laravel', depth: 1, id: 'meet-laravel' },
-    { label: 'Why Laravel?', depth: 2, id: 'why-laravel' },
-    { label: 'Creating an application', depth: 1, id: 'creating' },
-    { label: 'Installing PHP and the installer', depth: 2, id: 'installing-php' },
-    { label: 'Initial configuration', depth: 1, id: 'initial-config' },
-    { label: 'Environment based configuration', depth: 2, id: 'env-config' },
-    { label: 'Databases and migrations', depth: 2, id: 'db-migrations' },
-    { label: 'Next steps', depth: 1, id: 'next-steps' },
+    { label: 'Overview', depth: 1, id: 'overview' },
+    { label: 'Highlights', depth: 2, id: 'highlights' },
+    { label: 'Configuration', depth: 1, id: 'configuration' },
+    { label: 'Flows', depth: 2, id: 'flows' },
+    { label: 'Demo', depth: 1, id: 'demo' },
+    { label: 'Next steps', depth: 2, id: 'next-steps' },
 ];
