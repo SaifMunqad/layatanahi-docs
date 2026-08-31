@@ -2,6 +2,7 @@ export type NavItem = {
     label: string;
     slug: string;
     active?: boolean;
+    children?: NavItem[];
 };
 
 export type NavSectionData = {
@@ -17,60 +18,78 @@ export type TocItem = {
 
 export const NAV_SECTIONS: NavSectionData[] = [
     {
-        label: 'Prologue',
+        label: 'CUSTOMER',
         items: [
-            { label: 'Release Notes', slug: 'release-notes' },
-            { label: 'Upgrade Guide', slug: 'upgrade-guide' },
-            { label: 'Contribution Guide', slug: 'contributions' },
+            { label: 'Overview', slug: 'customer-overview' },
+            { label: 'Customer Portal', slug: 'customer-portal' },
+            { label: 'Account Center', slug: 'customer-account-center' },
         ],
     },
     {
-        label: 'Getting Started',
+        label: 'BUSINESS',
         items: [
-            { label: 'Installation', slug: 'installation', active: true },
-            { label: 'Configuration', slug: 'configuration' },
-            { label: 'Directory Structure', slug: 'structure' },
-            { label: 'Frontend', slug: 'frontend' },
-            { label: 'Starter Kits', slug: 'starter-kits' },
-            { label: 'Deployment', slug: 'deployment' },
+            {
+                label: 'Purchase',
+                slug: 'business-purchase',
+                active: true,
+                children: [
+                    { label: 'Overview', slug: 'purchase-overview' },
+                    { label: 'Listing', slug: 'purchase-listing' },
+                    { label: 'Demo', slug: 'purchase-demo' },
+                ],
+            },
+            {
+                label: 'Inventory',
+                slug: 'business-inventory',
+                children: [
+                    { label: 'Overview', slug: 'inventory-overview' },
+                    { label: 'Listing', slug: 'inventory-listing' },
+                    { label: 'Demo', slug: 'inventory-demo' },
+                ],
+            },
+            {
+                label: 'Sale',
+                slug: 'business-sale',
+                children: [
+                    { label: 'Overview', slug: 'sale-overview' },
+                    { label: 'Listing', slug: 'sale-listing' },
+                    { label: 'Demo', slug: 'sale-demo' },
+                ],
+            },
+            {
+                label: 'Store',
+                slug: 'business-store',
+                children: [
+                    { label: 'Overview', slug: 'store-overview' },
+                    { label: 'Listing', slug: 'store-listing' },
+                    { label: 'Demo', slug: 'store-demo' },
+                ],
+            },
+            {
+                label: 'Public',
+                slug: 'business-public',
+                children: [
+                    { label: 'Overview', slug: 'public-overview' },
+                    { label: 'Listing', slug: 'public-listing' },
+                    { label: 'Demo', slug: 'public-demo' },
+                ],
+            },
         ],
     },
     {
-        label: 'Architecture Concepts',
+        label: 'SUPPORT',
         items: [
-            { label: 'Request Lifecycle', slug: 'lifecycle' },
-            { label: 'Service Container', slug: 'container' },
-            { label: 'Service Providers', slug: 'providers' },
-            { label: 'Facades', slug: 'facades' },
+            { label: 'Help Center', slug: 'support-help-center' },
+            { label: 'Knowledge Base', slug: 'support-knowledge-base' },
+            { label: 'Contact Team', slug: 'support-contact-team' },
         ],
     },
     {
-        label: 'The Basics',
+        label: 'API',
         items: [
-            { label: 'Routing', slug: 'routing' },
-            { label: 'Middleware', slug: 'middleware' },
-            { label: 'Controllers', slug: 'controllers' },
-            { label: 'Requests', slug: 'requests' },
-            { label: 'Responses', slug: 'responses' },
-            { label: 'Views', slug: 'views' },
-            { label: 'Blade Templates', slug: 'blade' },
-        ],
-    },
-    {
-        label: 'Database',
-        items: [
-            { label: 'Getting Started', slug: 'database' },
-            { label: 'Query Builder', slug: 'queries' },
-            { label: 'Migrations', slug: 'migrations' },
-            { label: 'Seeding', slug: 'seeding' },
-        ],
-    },
-    {
-        label: 'Eloquent ORM',
-        items: [
-            { label: 'Getting Started', slug: 'eloquent' },
-            { label: 'Relationships', slug: 'eloquent-relationships' },
-            { label: 'Collections', slug: 'eloquent-collections' },
+            { label: 'Overview', slug: 'api-overview' },
+            { label: 'Authentication', slug: 'api-authentication' },
+            { label: 'Reference', slug: 'api-reference' },
         ],
     },
 ];
