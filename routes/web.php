@@ -56,6 +56,7 @@ Route::prefix('support')->name('support.')->group(function () {
 
 Route::prefix('layatanahi')->name('layatanahi.')->group(function () {
     Route::get('/overview', [LayatanahiController::class, 'overview'])->name('overview');
+    Route::get('/introduction', [LayatanahiController::class, 'introduction'])->name('introduction');
     Route::get('/credits', [LayatanahiController::class, 'credits'])->name('credits');
     Route::get('/team', [LayatanahiController::class, 'team'])->name('team');
     Route::get('/idea', [LayatanahiController::class, 'idea'])->name('idea');

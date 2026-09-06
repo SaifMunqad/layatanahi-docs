@@ -46,4 +46,12 @@ class LayatanahiController extends Controller
             'page' => 'Features',
         ]);
     }
+
+    public function introduction()
+    {
+        return Inertia::render('docs/layatanahi/introduction', [
+            'section' => 'Layatanahi',
+            'page' => 'Introduction',
+        ]);
+    }
 }

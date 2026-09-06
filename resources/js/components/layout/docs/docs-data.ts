@@ -28,6 +28,7 @@ export const NAV_SECTIONS: NavSectionData[] = [
         label: 'LAYATANAHI',
         items: [
             { label: 'Overview', slug: 'layatanahi-overview', path: layatanahi.overview },
+            { label: 'Introduction', slug: 'layatanahi-introduction', path: layatanahi.introduction },
             { label: 'Credits', slug: 'layatanahi-credits', path: layatanahi.credits },
             { label: 'Team', slug: 'layatanahi-team', path: layatanahi.team },
             { label: 'Idea', slug: 'layatanahi-idea', path: layatanahi.idea },

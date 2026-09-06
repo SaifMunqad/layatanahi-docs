@@ -1,6 +1,6 @@
 # Layatanahi System
 
-## Overview
+## Overview 
 
 Layatanahi is an e-commerce web application designed to help Afghan businesses manage their operations more easily and connect with one another. Many small and medium businesses still rely on paper-based records or simple spreadsheets, which are slow, costly, and difficult to maintain. Layatanahi was developed to solve these problems by providing a single online platform where businesses, suppliers, and customers can interact smoothly.
 
