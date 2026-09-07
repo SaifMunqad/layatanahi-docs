@@ -13,4 +13,21 @@ This system is to advance traditional existing accounting and comunication syste
 
 **Sales:** all sales informations, what products sell at which price and which quantity and report for sales by product, sales by business,sales by customer,etc...
 
-**Expenses:** cover all the expenses a business can do 
+**Expenses:** cover all the expenses a business can do from purchasing material, supplies, paying salaries and expenses.
+
+**Employees and payroll mangment system:** the system has all information about employees and we can assign salaries to them.
+
+**Inventory managment system:** every branch of a business has its own inventories also by every purchase the inventory adds those items and with every sale the inventory removes that item sold.
+
+**Activities:** record the log for every change made in system as an Audit log.
+
+# features of system
+**Core E-commerce:** this system applies the core e-commers activities as its main functionality and by them its task and jobs were done.
+   
+      
+- Multi business managment,with dashboard. 
+- Products catalog with categories, variants SKUs,and barcodes.
+- Inventory managment system [**Stock alert,low stock,batch tracking**]
+
+# User and business mangment
+
