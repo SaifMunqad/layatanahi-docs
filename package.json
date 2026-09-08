@@ -5,7 +5,7 @@
     "scripts": {
         "build": "set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp build",
         "build:ssr": "set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp build && set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp build --ssr",
-        "dev": "vp dev",
+        "dev": "set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp dev",
         "check": "vp check",
         "check:fix": "vp check --fix",
         "types:check": "tsc --noEmit"
