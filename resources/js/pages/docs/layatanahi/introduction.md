@@ -29,5 +29,11 @@ This system is to advance traditional existing accounting and comunication syste
 - Products catalog with categories, variants SKUs,and barcodes.
 - Inventory managment system [**Stock alert,low stock,batch tracking**]
 
-# User and business mangment
+# User and business mangment 
+ Managment of users is a significantly import portion of every computer system, especially in financial related projects as of authorization for management of this task this system has its own relation [**table**] for users and also applies Google Auto Sign in function using Google's API.
 
+### There main types of users in this system are:
+
+1. Business [Vendor/Store Owner]
+2. Customer [B2B and B2C]
+3. 
