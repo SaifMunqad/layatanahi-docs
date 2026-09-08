@@ -81,6 +81,87 @@ overviewForm.head = (options?: RouteQueryOptions): RouteFormDefinition<'get'> =>
 overview.form = overviewForm
 
 /**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+export const introduction = (options?: RouteQueryOptions): RouteDefinition<'get'> => ({
+    url: introduction.url(options),
+    method: 'get',
+})
+
+introduction.definition = {
+    methods: ["get","head"],
+    url: '/layatanahi/introduction',
+} satisfies RouteDefinition<["get","head"]>
+
+/**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+introduction.url = (options?: RouteQueryOptions) => {
+    return introduction.definition.url + queryParams(options)
+}
+
+/**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+introduction.get = (options?: RouteQueryOptions): RouteDefinition<'get'> => ({
+    url: introduction.url(options),
+    method: 'get',
+})
+
+/**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+introduction.head = (options?: RouteQueryOptions): RouteDefinition<'head'> => ({
+    url: introduction.url(options),
+    method: 'head',
+})
+
+/**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+const introductionForm = (options?: RouteQueryOptions): RouteFormDefinition<'get'> => ({
+    action: introduction.url(options),
+    method: 'get',
+})
+
+/**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+introductionForm.get = (options?: RouteQueryOptions): RouteFormDefinition<'get'> => ({
+    action: introduction.url(options),
+    method: 'get',
+})
+
+/**
+* @see \App\Http\Controllers\Docs\LayatanahiController::introduction
+* @see app/Http/Controllers/Docs/LayatanahiController.php:50
+* @route '/layatanahi/introduction'
+*/
+introductionForm.head = (options?: RouteQueryOptions): RouteFormDefinition<'get'> => ({
+    action: introduction.url({
+        [options?.mergeQuery ? 'mergeQuery' : 'query']: {
+            _method: 'HEAD',
+            ...(options?.query ?? options?.mergeQuery ?? {}),
+        }
+    }),
+    method: 'get',
+})
+
+introduction.form = introductionForm
+
+/**
 * @see \App\Http\Controllers\Docs\LayatanahiController::credits
 * @see app/Http/Controllers/Docs/LayatanahiController.php:18
 * @route '/layatanahi/credits'
@@ -406,6 +487,7 @@ features.form = featuresForm
 
 const layatanahi = {
     overview: Object.assign(overview, overview),
+    introduction: Object.assign(introduction, introduction),
     credits: Object.assign(credits, credits),
     team: Object.assign(team, team),
     idea: Object.assign(idea, idea),

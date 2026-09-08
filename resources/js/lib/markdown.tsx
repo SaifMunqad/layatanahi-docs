@@ -160,6 +160,12 @@ const isTableSeparator = (line?: string) =>
 
 const BLOCK_BOUNDARY = /^(#{1,6})\s|^```|^\s*([-+*]|\d+\.)\s+|^>\s?|^([-*_])(?:\s*\3){2,}\s*$/;
 
+function HtmlBlock({ html }: { html: string }) {
+    const tag = html.trim().match(/^<([a-zA-Z0-9-]+)/)?.[1] ?? 'div';
+    const Wrapper = tag === 'img' ? 'span' : 'div';
+    return <Wrapper dangerouslySetInnerHTML={{ __html: html }} />;
+}
+
 /**
  * Parses a Markdown string into rendered React content and a flat list of
  * headings (with unique ids) suitable for building a table of contents.
@@ -195,6 +201,44 @@ export function parseMarkdown(rawSource: string): ParsedMarkdown {
             while (i < lines.length && !/^```/.test(lines[i].trim())) i++;
             blocks.push(<CodeBlock key={key++} code={lines.slice(start, i).join('\n')} language={language} />);
             i++;
+            continue;
+        }
+
+        // Raw HTML block.
+        if (/^<([A-Za-z][A-Za-z0-9-]*)(\s[^>]*)?>/.test(line.trim())) {
+            const tagMatch = line.trim().match(/^<([A-Za-z][A-Za-z0-9-]*)/);
+            const tagName = tagMatch?.[1] ?? 'div';
+            const html: string[] = [line];
+
+            if (line.trim().endsWith('/>') || /^<\s*(img|br|hr|input|meta|link)\b/i.test(line.trim())) {
+                blocks.push(<HtmlBlock key={key++} html={line.trim()} />);
+                i++;
+                continue;
+            }
+
+            const countTagNesting = (value: string) => {
+                const openTags = (value.match(new RegExp(`<\\s*${tagName}\\b`, 'gi')) || []).length;
+                const selfClosingTags = (value.match(new RegExp(`<\\s*${tagName}\\b[^>]*\\/\\s*>`, 'gi')) || []).length;
+                const closeTags = (value.match(new RegExp(`</\\s*${tagName}\\s*>`, 'gi')) || []).length;
+                return openTags - selfClosingTags - closeTags;
+            };
+
+            let depth = countTagNesting(line);
+            let j = i + 1;
+            while (j < lines.length && depth > 0) {
+                html.push(lines[j]);
+                depth += countTagNesting(lines[j]);
+                j++;
+            }
+
+            if (depth !== 0) {
+                blocks.push(<HtmlBlock key={key++} html={html.join('\n')} />);
+                i = j;
+                continue;
+            }
+
+            blocks.push(<HtmlBlock key={key++} html={html.join('\n')} />);
+            i = j;
             continue;
         }
 

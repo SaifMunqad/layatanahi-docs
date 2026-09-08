@@ -3,9 +3,9 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "vp build",
-        "build:ssr": "vp build && vp build --ssr",
-        "dev": "vp dev",
+        "build": "cross-env NODE_OPTIONS=--max-old-space-size=8192 node node_modules/vite-plus/bin/vp build",
+        "build:ssr": "cross-env NODE_OPTIONS=--max-old-space-size=8192 node node_modules/vite-plus/bin/vp build && cross-env NODE_OPTIONS=--max-old-space-size=8192 node node_modules/vite-plus/bin/vp build --ssr",
+        "dev": "cross-env INERTIA_SSR_ENABLED=false NODE_OPTIONS=--max-old-space-size=8192 node node_modules/vite-plus/bin/vp dev",
         "check": "vp check",
         "check:fix": "vp check --fix",
         "types:check": "tsc --noEmit"
@@ -52,6 +52,7 @@
         "@rolldown/plugin-babel": "^0.2.3",
         "@types/node": "^22.13.5",
         "babel-plugin-react-compiler": "^1.0.0",
+        "cross-env": "^7.0.1",
         "vite-plus": "0.3.0"
     },
     "optionalDependencies": {

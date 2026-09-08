@@ -18,7 +18,7 @@ export default defineConfig({
                 }),
             ],
         }),
-        inertia(),
+        inertia({ ssr: false }),
         react(),
         babel({
             presets: [reactCompilerPreset()],
@@ -29,6 +29,10 @@ export default defineConfig({
         }),
     ]),
     server: {
+        host: '127.0.0.1',
+        hmr: {
+            host: '127.0.0.1',
+        },
         watch: {
             ignored: [
                 '**/.agents/**',
