@@ -3,8 +3,8 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "node --max-old-space-size=4096 node_modules\\vite-plus\\bin\\vp build",
-        "build:ssr": "node --max-old-space-size=4096 node_modules\\vite-plus\\bin\\vp build && node --max-old-space-size=4096 node_modules\\vite-plus\\bin\\vp build --ssr",
+        "build": "set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp build",
+        "build:ssr": "set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp build && set \"NODE_OPTIONS=--max-old-space-size=8192\" && node node_modules\\vite-plus\\bin\\vp build --ssr",
         "dev": "vp dev",
         "check": "vp check",
         "check:fix": "vp check --fix",
