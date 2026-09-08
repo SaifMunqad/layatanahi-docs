@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import {
     ChevronDown,
     Menu,
@@ -86,6 +86,12 @@ type ThemeToggleProps = {
 };
 
 function ThemeToggle({ dark, onToggle }: ThemeToggleProps) {
+    const [mounted, setMounted] = useState(false);
+
+    useEffect(() => {
+        setMounted(true);
+    }, []);
+
     return (
         <button
             type="button"
@@ -93,7 +99,7 @@ function ThemeToggle({ dark, onToggle }: ThemeToggleProps) {
             aria-label="Toggle dark mode"
             className="flex h-8 w-8 items-center justify-center rounded-md text-zinc-500 hover:bg-zinc-100 dark:text-zinc-400 dark:hover:bg-zinc-800"
         >
-            {dark ? <SunMedium className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
+            {mounted && dark ? <SunMedium className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
         </button>
     );
 }
