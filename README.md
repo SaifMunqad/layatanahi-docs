@@ -409,7 +409,7 @@ a small set of props (`section`, `page`).
 | Controller             | Responsibility                                             |
 |------------------------|-----------------------------------------------------------|
 | `LayatanahiController` | Overview, Credits, Team, Idea, Features pages             |
-| `CustomerController`   | Customer Overview, Portal, Account Center                 |
+| `UserController`   | User Overview, Purchase, AI, Profile                       |
 | `BusinessController`   | Purchase / Inventory / Sale / Store / Public sub-sections |
 | `SupportController`    | Help Center, Knowledge Base, Contact Team                 |
 | `LegalController`      | Privacy Policy, Terms of Service, Return Policy           |
@@ -468,9 +468,10 @@ Named route groups keep URLs and route names organized by section.
 | Method | URL                              | Route name                   | Handler                                |
 |--------|----------------------------------|------------------------------|----------------------------------------|
 | GET    | `/`                              | `home`                       | `Inertia → docs/home`                  |
-| GET    | `/customer/overview`             | `customer.overview`          | `CustomerController@overview`          |
-| GET    | `/customer/portal`               | `customer.portal`            | `CustomerController@portal`            |
-| GET    | `/customer/account-center`       | `customer.account-center`    | `CustomerController@accountCenter`     |
+| GET    | `/user/overview`                 | `user.overview`              | `UserController@overview`              |
+| GET    | `/user/purchase`                 | `user.purchase`              | `UserController@purchase`              |
+| GET    | `/user/ai`                       | `user.ai`                    | `UserController@ai`                    |
+| GET    | `/user/profile`                  | `user.profile`               | `UserController@profile`               |
 | GET    | `/business/purchase/overview`    | `business.purchase.overview` | `BusinessController@purchaseOverview`  |
 | GET    | `/business/purchase/listing`     | `business.purchase.listing`  | `BusinessController@purchaseListing`   |
 | GET    | `/business/purchase/demo`        | `business.purchase.demo`     | `BusinessController@purchaseDemo`      |
@@ -535,7 +536,7 @@ resources/js/
 │   │   ├── home.tsx
 │   │   ├── _docs-page.tsx      # Shared page renderer (Markdown → article + TOC)
 │   │   ├── layatanahi/         # overview/credits/team/idea/features (.tsx + .md)
-│   │   ├── customer/
+│   │   ├── user/                   # overview / purchase / ai / profile
 │   │   ├── business/           # purchase / inventory / sale / store / public
 │   │   ├── support/
 │   │   ├── legal/
@@ -641,10 +642,10 @@ DocsLayout (docs-shell)
 ## 13. How the Documentation System Works
 
 1. **Author** writes/edits a Markdown file next to its page component, e.g.
-   `resources/js/pages/docs/customer/overview.md`.
-2. **Route** — a request to `/customer/overview` is matched in `routes/web.php` and handled
-   by `CustomerController@overview`, which returns
-   `Inertia::render('docs/customer/overview', [...])`.
+   `resources/js/pages/docs/user/overview.md`.
+2. **Route** — a request to `/user/overview` is matched in `routes/web.php` and handled
+   by `UserController@overview`, which returns
+   `Inertia::render('docs/user/overview', [...])`.
 3. **Layout resolution** — because the page name starts with `docs/`, `app.tsx` wraps it in
    `DocsLayout`.
 4. **Rendering** — the page imports `./overview.md?raw` and passes it to `_docs-page.tsx`.
@@ -713,7 +714,7 @@ resources/docs/guide/
 ```
 
 - The three locales correspond to `APP_LOCALE` / `APP_FALLBACK_LOCALE` (`en` by default).
-- Each locale mirrors the same folder layout (`business`, `customer`, `support`) so a guide
+- Each locale mirrors the same folder layout (`business`, `user`, `support`) so a guide
   can be translated by adding the equivalent Markdown file under the matching language folder.
 - Right-to-left (RTL) languages (`fa_AF`, `ps`) render naturally through the Markdown
   renderer and Tailwind styles.

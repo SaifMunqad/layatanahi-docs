@@ -1,5 +1,5 @@
 import layatanahi from '@/routes/layatanahi';
-import customer from '@/routes/customer';
+import user from '@/routes/user';
 import business from '@/routes/business';
 import support from '@/routes/support';
 import legal from '@/routes/legal';
@@ -36,11 +36,12 @@ export const NAV_SECTIONS: NavSectionData[] = [
         ],
     },
     {
-        label: 'CUSTOMER',
+        label: 'USER',
         items: [
-            { label: 'Overview', slug: 'customer-overview', path: customer.overview },
-            { label: 'Customer Portal', slug: 'customer-portal', path: customer.portal },
-            { label: 'Account Center', slug: 'customer-account-center', path: customer.accountCenter },
+            { label: 'Overview', slug: 'user-overview', path: user.overview },
+            { label: 'Purchase', slug: 'user-purchase', path: user.purchase },
+            { label: 'AI', slug: 'user-ai', path: user.ai },
+            { label: 'Profile', slug: 'user-profile', path: user.profile },
         ],
     },
     {

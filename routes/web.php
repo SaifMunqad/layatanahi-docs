@@ -4,16 +4,17 @@ use App\Http\Controllers\Docs\ApiController;
 use App\Http\Controllers\Docs\LayatanahiController;
 use App\Http\Controllers\Docs\LegalController;
 use App\Http\Controllers\Docs\BusinessController;
-use App\Http\Controllers\Docs\CustomerController;
+use App\Http\Controllers\Docs\UserController;
 use App\Http\Controllers\Docs\SupportController;
 use Illuminate\Support\Facades\Route;
 
 Route::inertia('/', 'docs/home')->name('home');
 
-Route::prefix('customer')->name('customer.')->group(function () {
-    Route::get('/overview', [CustomerController::class, 'overview'])->name('overview');
-    Route::get('/portal', [CustomerController::class, 'portal'])->name('portal');
-    Route::get('/account-center', [CustomerController::class, 'accountCenter'])->name('account-center');
+Route::prefix('user')->name('user.')->group(function () {
+    Route::get('/overview', [UserController::class, 'overview'])->name('overview');
+    Route::get('/purchase', [UserController::class, 'purchase'])->name('purchase');
+    Route::get('/ai', [UserController::class, 'ai'])->name('ai');
+    Route::get('/profile', [UserController::class, 'profile'])->name('profile');
 });
 
 Route::prefix('business')->name('business.')->group(function () {
