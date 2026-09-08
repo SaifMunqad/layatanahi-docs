@@ -37,4 +37,4 @@ This system is to advance traditional existing accounting and comunication syste
 1. Business (Vendor/Store Owner)
 2. Customer (B2B and B2C)
 3. Supplier (can be an external entity )
-4. 
+4.
