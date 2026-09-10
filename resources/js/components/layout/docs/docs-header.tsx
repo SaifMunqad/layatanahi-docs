@@ -1,62 +1,13 @@
 import { useEffect, useState } from 'react';
-import {
-    ChevronDown,
-    Menu,
-    Moon,
-    Search,
-    SunMedium,
-} from 'lucide-react';
-import AppLogoIcon from '@/components/app-logo-icon';
-
-const VERSIONS = ['13.x', '12.x', '11.x', '10.x'];
+import { Menu, Moon, Search, SunMedium } from 'lucide-react';
+import LayatanahiIcon from '@/components/icons/LayatanahiIcon.jsx';
+import {Link} from "@inertiajs/react";
 
 function Logo() {
     return (
-        <a href="#" className="flex shrink-0 items-center gap-2">
-            <AppLogoIcon className="h-6 w-auto text-red-600" />
-            <span className="text-[15px] font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
-                Layatanahi
-            </span>
-        </a>
-    );
-}
-
-function VersionSwitcher() {
-    const [open, setOpen] = useState(false);
-    const [version, setVersion] = useState('13.x');
-
-    return (
-        <div className="relative">
-            <button
-                type="button"
-                onClick={() => setOpen((v) => !v)}
-                className="flex items-center gap-1 rounded-md border border-zinc-200 px-2 py-1 text-xs font-medium text-zinc-600 hover:border-zinc-300 dark:border-zinc-800 dark:text-zinc-400 dark:hover:border-zinc-700"
-            >
-                v{version}
-                <ChevronDown className="h-3 w-3" />
-            </button>
-            {open && (
-                <div className="absolute left-0 top-8 z-30 w-24 overflow-hidden rounded-md border border-zinc-200 bg-white shadow-lg dark:border-zinc-800 dark:bg-zinc-900">
-                    {VERSIONS.map((v) => (
-                        <button
-                            key={v}
-                            type="button"
-                            onClick={() => {
-                                setVersion(v);
-                                setOpen(false);
-                            }}
-                            className={`block w-full px-3 py-1.5 text-left text-xs hover:bg-zinc-50 dark:hover:bg-zinc-800 ${
-                                v === version
-                                    ? 'font-semibold text-red-600'
-                                    : 'text-zinc-600 dark:text-zinc-400'
-                            }`}
-                        >
-                            v{v}
-                        </button>
-                    ))}
-                </div>
-            )}
-        </div>
+        <Link href="/" className="flex shrink-0 items-center">
+            <LayatanahiIcon className="h-7 w-auto fill-gray-700 dark:fill-gray-100" />
+        </Link>
     );
 }
 
@@ -122,10 +73,9 @@ export function TopBar({ onMenuClick, onSearchClick, dark, onToggleTheme }: TopB
             >
                 <Menu className="h-5 w-5" />
             </button>
-            <div className="hidden lg:block">
+            <div className="block">
                 <Logo />
             </div>
-            <VersionSwitcher />
             <div className="flex-1" />
             <div className="hidden flex-1 sm:block">
                 <SearchBar onOpen={onSearchClick} />
@@ -143,4 +93,4 @@ export function TopBar({ onMenuClick, onSearchClick, dark, onToggleTheme }: TopB
     );
 }
 
-export { Logo, SearchBar, ThemeToggle, VersionSwitcher };
+export { Logo, SearchBar, ThemeToggle };
