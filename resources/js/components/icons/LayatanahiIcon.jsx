@@ -3,7 +3,7 @@ import Svg from './Svg.jsx';
 
 export default function LayatanahiIcon({className}) {
     return <>
-        <Svg className={className + ' '} viewBox="0 0 408.22 78.81">
+        <Svg className={className} viewBox="0 0 408.22 78.81">
             <g>
                 <g>
                     <polygon points="205.04 24.1 205.04 28.6 186.28 28.6 186.28 0 190.98 0 190.98 24.1 205.04 24.1"/>
