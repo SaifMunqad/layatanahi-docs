@@ -137,6 +137,11 @@
         @apply border-border;
     }
 
+    html {
+        /* enable smooth scrolling for anchor navigation */
+        scroll-behavior: smooth;
+    }
+
     body {
         @apply bg-background text-foreground;
     }

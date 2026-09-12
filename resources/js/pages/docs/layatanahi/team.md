@@ -14,7 +14,7 @@ The strength of our team lies in how well we support one another. We listen care
 
   <div class="flex w-[150px] flex-col items-center text-center">
     <img class="h-[110px] w-[110px] rounded-full border-2 border-zinc-200 object-cover shadow-lg shadow-zinc-200/50 dark:border-zinc-700 dark:shadow-zinc-950/40" src="/imgs/jasur.jpeg" alt="Amina Rahimi" />
-    <p class="mt-3 text-sm text-zinc-700 dark:text-zinc-300"><strong class="font-semibold text-zinc-900 dark:text-zinc-100">Amina Rahimi</strong><br /><span class="text-zinc-500 dark:text-zinc-400">CTO</span></p>
+    <p class="mt-3 text-sm text-zinc-700 dark:text-zinc-300"><strong class="font-semibold text-zinc-900 dark:text-zinc-100">JASUR</strong><br /><span class="text-zinc-500 dark:text-zinc-400">CTO</span></p>
   </div>
 
   <div class="flex w-[150px] flex-col items-center text-center">
