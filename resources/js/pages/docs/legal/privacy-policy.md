@@ -221,7 +221,7 @@ If you have any questions, concerns, or complaints about this Privacy Policy or 
 #### Our Contact Information:
 - **Email**: info@layatanahi.store
 - **Phone**: +93 70 902 8214
-- **Address**: Ahmad-yar tower, Macrorayan square, Kabul, Afghanistan 
+- **Address**: Ahmad-yar Tower, Macrorayan square, Kabul, Afghanistan 
 
 #### Data Protection Officer:
 We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions about this Privacy Policy. If you have any questions about this Privacy Policy or our data practices, you may contact our DPO at **Info@Layatanahi.store**
