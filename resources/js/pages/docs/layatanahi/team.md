@@ -6,6 +6,7 @@ We work hard every day to turn ideas into reliable, scalable solutions that meet
 
 The strength of our team lies in how well we support one another. We listen carefully, share ideas openly, and take ownership of our responsibilities with professionalism and care. By combining technical expertise with teamwork and a strong work ethic, we create a system that reflects both innovation and trust. This coordinated effort is what makes our progress possible and what helps us build something valuable for the future.
 
+## Our team 
 <div class="mt-8 flex flex-wrap justify-center gap-6">
   <div class="flex w-[150px] flex-col items-center text-center">
     <img class="h-[110px] w-[110px] rounded-full border-2 border-zinc-200 object-cover shadow-lg shadow-zinc-200/50 dark:border-zinc-700 dark:shadow-zinc-950/40" src="https://i.pravatar.cc/200?img=12" alt="Najeebullah Saleh" />
