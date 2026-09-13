@@ -2,7 +2,7 @@
 
 *Your satisfaction is our priority. Learn about our comprehensive return, refund, and exchange policies.*
 
-**Last Updated:** September /13 /2026
+**Last Updated:** September / 13 /2026
 
 ---
 

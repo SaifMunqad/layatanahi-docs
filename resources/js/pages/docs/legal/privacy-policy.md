@@ -2,7 +2,8 @@
 
 *Learn how we collect, use, and protect your personal information when you use our e-commerce platform and related services.*
 
-**Last Updated:** September 13, 2026  
+**Last Updated:** September / 13 /2026  
+
 **Company:** Layatanahi Store
 
 ---
@@ -14,7 +15,7 @@ Welcome to our comprehensive Privacy Policy. At our company, your privacy is of 
 
 This policy applies to all visitors, users, and customers of our website, mobile applications, and related services (collectively, the "Services"). By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure, and other uses of your information as described in this Privacy Policy.
 
-We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at privacy@ourstore.com.
+We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at **Info@layatanahi.store**
 
 Our Privacy Policy was last updated on January 1, 2025 and may be updated periodically to reflect changes in our practices, technologies, legal requirements, and other factors. We encourage you to review this policy regularly to stay informed about how we are protecting your information.
 

@@ -2,7 +2,7 @@
 
 *Please read these terms carefully before using our services. These terms contain important information about your legal rights and obligations.*
 
-**Last Updated:** January 1
+**Last Updated:** September / 13 / 2026
 
 ---
 
