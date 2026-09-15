@@ -102,8 +102,8 @@ Escalate to a human support agent when:
 
 For direct support, customers can contact the team through:
 
-- Phone: +93 70 902 8214
-- Email: info@layatanahi.store
-- Address: Ahmad Yar Tower, Macro Rayyan Square, Kabul, Afghanistan
+- **Phone**: +93 70 902 8214
+- **Email**: info@layatanahi.store
+- **Address**: Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan
 
 This knowledge base should be updated regularly as new product issues, policies, and support workflows are identified.
