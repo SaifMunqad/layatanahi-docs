@@ -78,6 +78,26 @@ Route::prefix('api')->name('api.')->group(function () {
 
 Route::middleware(['auth', 'verified'])->group(function () {
     Route::inertia('dashboard', 'dashboard')->name('dashboard');
+
+    // Purchase routes
+    Route::prefix('purchase')->name('purchase.')->group(function () {
+        Route::get('/list', [\App\Http\Controllers\PurchaseController::class, 'index'])->name('list');
+        Route::get('/create', [\App\Http\Controllers\PurchaseController::class, 'create'])->name('create');
+        Route::get('/{id}', [\App\Http\Controllers\PurchaseController::class, 'show'])->name('show');
+        Route::get('/status', [\App\Http\Controllers\PurchaseController::class, 'status'])->name('status');
+        Route::get('/requests', [\App\Http\Controllers\PurchaseController::class, 'requests'])->name('requests');
+        Route::get('/filters', [\App\Http\Controllers\PurchaseController::class, 'filters'])->name('filters');
+    });
+
+    // Sale routes
+    Route::prefix('sale')->name('sale.')->group(function () {
+        Route::get('/list', [\App\Http\Controllers\SaleController::class, 'index'])->name('list');
+        Route::get('/create', [\App\Http\Controllers\SaleController::class, 'create'])->name('create');
+        Route::get('/{id}', [\App\Http\Controllers\SaleController::class, 'show'])->name('show');
+        Route::get('/status', [\App\Http\Controllers\SaleController::class, 'status'])->name('status');
+        Route::get('/requests', [\App\Http\Controllers\SaleController::class, 'requests'])->name('requests');
+        Route::get('/filters', [\App\Http\Controllers\SaleController::class, 'filters'])->name('filters');
+    });
 });
 
 require __DIR__.'/settings.php';
