@@ -10,6 +10,7 @@ import {
     SidebarContent,
     SidebarFooter,
     SidebarGroup,
+    SidebarGroupLabel,
     SidebarHeader,
     SidebarMenu,
     SidebarMenuButton,
@@ -66,6 +67,124 @@ export function AppSidebar() {
 
             <SidebarContent>
                 <NavMain items={mainNavItems} />
+
+                <SidebarGroup className="px-2 py-0">
+                    <SidebarGroupLabel>Business</SidebarGroupLabel>
+
+                    <SidebarMenu>
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Purchase List' }}>
+                                <Link href="/purchase/list" prefetch>
+                                    <ShoppingCart />
+                                    <span>Purchase List</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Make Purchase' }}>
+                                <Link href="/purchase/create" prefetch>
+                                    <ShoppingCart />
+                                    <span>Make Purchase</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'View Purchase (example)' }}>
+                                <Link href="/purchase/1" prefetch>
+                                    <ShoppingCart />
+                                    <span>View Purchase</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Purchase Status' }}>
+                                <Link href="/purchase/status" prefetch>
+                                    <ShoppingCart />
+                                    <span>Purchase Status</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Purchase Requests' }}>
+                                <Link href="/purchase/requests" prefetch>
+                                    <ShoppingCart />
+                                    <span>Purchase Requests</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Purchase Filters' }}>
+                                <Link href="/purchase/filters" prefetch>
+                                    <ShoppingCart />
+                                    <span>Purchase Filters</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+                    </SidebarMenu>
+
+                    <div className="mt-4" />
+
+                    <SidebarMenu>
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Sale List' }}>
+                                <Link href="/sale/list" prefetch>
+                                    <DollarSign />
+                                    <span>Sale List</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Make Sale' }}>
+                                <Link href="/sale/create" prefetch>
+                                    <DollarSign />
+                                    <span>Make Sale</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'View Sale (example)' }}>
+                                <Link href="/sale/1" prefetch>
+                                    <DollarSign />
+                                    <span>View Sale</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Sale Status' }}>
+                                <Link href="/sale/status" prefetch>
+                                    <DollarSign />
+                                    <span>Sale Status</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Sale Requests' }}>
+                                <Link href="/sale/requests" prefetch>
+                                    <DollarSign />
+                                    <span>Sale Requests</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+
+                        <SidebarMenuItem>
+                            <SidebarMenuButton asChild tooltip={{ children: 'Sale Filters' }}>
+                                <Link href="/sale/filters" prefetch>
+                                    <DollarSign />
+                                    <span>Sale Filters</span>
+                                </Link>
+                            </SidebarMenuButton>
+                        </SidebarMenuItem>
+                    </SidebarMenu>
+                </SidebarGroup>
             </SidebarContent>
 
             <SidebarFooter>

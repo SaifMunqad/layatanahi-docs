@@ -31,6 +31,46 @@ class BusinessController extends Controller
         ]);
     }
 
+    public function purchaseCreate()
+    {
+        return Inertia::render('docs/business/purchase/create', [
+            'section' => 'Business',
+            'page' => 'Make Purchase',
+        ]);
+    }
+
+    public function purchaseShow()
+    {
+        return Inertia::render('docs/business/purchase/show', [
+            'section' => 'Business',
+            'page' => 'View Purchase',
+        ]);
+    }
+
+    public function purchaseStatus()
+    {
+        return Inertia::render('docs/business/purchase/status', [
+            'section' => 'Business',
+            'page' => 'Purchase Status',
+        ]);
+    }
+
+    public function purchaseRequests()
+    {
+        return Inertia::render('docs/business/purchase/requests', [
+            'section' => 'Business',
+            'page' => 'Purchase Requests',
+        ]);
+    }
+
+    public function purchaseFilters()
+    {
+        return Inertia::render('docs/business/purchase/filters', [
+            'section' => 'Business',
+            'page' => 'Purchase Filters',
+        ]);
+    }
+
     public function inventoryOverview()
     {
         return Inertia::render('docs/business/inventory/overview', [
@@ -76,6 +116,46 @@ class BusinessController extends Controller
         return Inertia::render('docs/business/sale/demo', [
             'section' => 'Business',
             'page' => 'Sale Demo',
+        ]);
+    }
+
+    public function saleCreate()
+    {
+        return Inertia::render('docs/business/sale/create', [
+            'section' => 'Business',
+            'page' => 'Make Sale',
+        ]);
+    }
+
+    public function saleShow()
+    {
+        return Inertia::render('docs/business/sale/show', [
+            'section' => 'Business',
+            'page' => 'View Sale',
+        ]);
+    }
+
+    public function saleStatus()
+    {
+        return Inertia::render('docs/business/sale/status', [
+            'section' => 'Business',
+            'page' => 'Sale Status',
+        ]);
+    }
+
+    public function saleRequests()
+    {
+        return Inertia::render('docs/business/sale/requests', [
+            'section' => 'Business',
+            'page' => 'Sale Requests',
+        ]);
+    }
+
+    public function saleFilters()
+    {
+        return Inertia::render('docs/business/sale/filters', [
+            'section' => 'Business',
+            'page' => 'Sale Filters',
         ]);
     }
 

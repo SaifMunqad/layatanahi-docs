@@ -1,11 +1,13 @@
 <?php
 
 use App\Http\Controllers\Docs\ApiController;
+use App\Http\Controllers\Docs\BusinessController;
 use App\Http\Controllers\Docs\LayatanahiController;
 use App\Http\Controllers\Docs\LegalController;
-use App\Http\Controllers\Docs\BusinessController;
-use App\Http\Controllers\Docs\UserController;
 use App\Http\Controllers\Docs\SupportController;
+use App\Http\Controllers\Docs\UserController;
+use App\Http\Controllers\PurchaseController;
+use App\Http\Controllers\SaleController;
 use Illuminate\Support\Facades\Route;
 
 Route::inertia('/', 'docs/home')->name('home');
@@ -22,6 +24,11 @@ Route::prefix('business')->name('business.')->group(function () {
         Route::get('/overview', [BusinessController::class, 'purchaseOverview'])->name('overview');
         Route::get('/listing', [BusinessController::class, 'purchaseListing'])->name('listing');
         Route::get('/demo', [BusinessController::class, 'purchaseDemo'])->name('demo');
+        Route::get('/create', [BusinessController::class, 'purchaseCreate'])->name('create');
+        Route::get('/show', [BusinessController::class, 'purchaseShow'])->name('show');
+        Route::get('/status', [BusinessController::class, 'purchaseStatus'])->name('status');
+        Route::get('/requests', [BusinessController::class, 'purchaseRequests'])->name('requests');
+        Route::get('/filters', [BusinessController::class, 'purchaseFilters'])->name('filters');
     });
 
     Route::prefix('inventory')->name('inventory.')->group(function () {
@@ -34,6 +41,11 @@ Route::prefix('business')->name('business.')->group(function () {
         Route::get('/overview', [BusinessController::class, 'saleOverview'])->name('overview');
         Route::get('/listing', [BusinessController::class, 'saleListing'])->name('listing');
         Route::get('/demo', [BusinessController::class, 'saleDemo'])->name('demo');
+        Route::get('/create', [BusinessController::class, 'saleCreate'])->name('create');
+        Route::get('/show', [BusinessController::class, 'saleShow'])->name('show');
+        Route::get('/status', [BusinessController::class, 'saleStatus'])->name('status');
+        Route::get('/requests', [BusinessController::class, 'saleRequests'])->name('requests');
+        Route::get('/filters', [BusinessController::class, 'saleFilters'])->name('filters');
     });
 
     Route::prefix('store')->name('store.')->group(function () {
@@ -76,27 +88,27 @@ Route::prefix('api')->name('api.')->group(function () {
     Route::get('/reference', [ApiController::class, 'reference'])->name('reference');
 });
 
-Route::middleware(['auth', 'verified'])->group(function () {
+Route::middleware([])->group(function () {
     Route::inertia('dashboard', 'dashboard')->name('dashboard');
 
     // Purchase routes
     Route::prefix('purchase')->name('purchase.')->group(function () {
-        Route::get('/list', [\App\Http\Controllers\PurchaseController::class, 'index'])->name('list');
-        Route::get('/create', [\App\Http\Controllers\PurchaseController::class, 'create'])->name('create');
-        Route::get('/{id}', [\App\Http\Controllers\PurchaseController::class, 'show'])->name('show');
-        Route::get('/status', [\App\Http\Controllers\PurchaseController::class, 'status'])->name('status');
-        Route::get('/requests', [\App\Http\Controllers\PurchaseController::class, 'requests'])->name('requests');
-        Route::get('/filters', [\App\Http\Controllers\PurchaseController::class, 'filters'])->name('filters');
+        Route::get('/list', [PurchaseController::class, 'index'])->name('list');
+        Route::get('/create', [PurchaseController::class, 'create'])->name('create');
+        Route::get('/{id}', [PurchaseController::class, 'show'])->name('show');
+        Route::get('/status', [PurchaseController::class, 'status'])->name('status');
+        Route::get('/requests', [PurchaseController::class, 'requests'])->name('requests');
+        Route::get('/filters', [PurchaseController::class, 'filters'])->name('filters');
     });
 
     // Sale routes
     Route::prefix('sale')->name('sale.')->group(function () {
-        Route::get('/list', [\App\Http\Controllers\SaleController::class, 'index'])->name('list');
-        Route::get('/create', [\App\Http\Controllers\SaleController::class, 'create'])->name('create');
-        Route::get('/{id}', [\App\Http\Controllers\SaleController::class, 'show'])->name('show');
-        Route::get('/status', [\App\Http\Controllers\SaleController::class, 'status'])->name('status');
-        Route::get('/requests', [\App\Http\Controllers\SaleController::class, 'requests'])->name('requests');
-        Route::get('/filters', [\App\Http\Controllers\SaleController::class, 'filters'])->name('filters');
+        Route::get('/list', [SaleController::class, 'index'])->name('list');
+        Route::get('/create', [SaleController::class, 'create'])->name('create');
+        Route::get('/{id}', [SaleController::class, 'show'])->name('show');
+        Route::get('/status', [SaleController::class, 'status'])->name('status');
+        Route::get('/requests', [SaleController::class, 'requests'])->name('requests');
+        Route::get('/filters', [SaleController::class, 'filters'])->name('filters');
     });
 });
 

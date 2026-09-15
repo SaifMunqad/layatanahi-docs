@@ -50,12 +50,16 @@ export const NAV_SECTIONS: NavSectionData[] = [
             {
                 label: 'Purchase',
                 slug: 'business-purchase',
-                path: business.purchase.overview,
+                path: business?.purchase?.overview ?? (() => ({ url: '/purchase/list', method: 'get' } as any)),
                 active: true,
                 children: [
                     { label: 'Overview', slug: 'purchase-overview', path: business.purchase.overview },
                     { label: 'Listing', slug: 'purchase-listing', path: business.purchase.listing },
-                    { label: 'Demo', slug: 'purchase-demo', path: business.purchase.demo },
+                    { label: 'Make Purchase', slug: 'purchase-create', path: (() => ({ url: '/business/purchase/create', method: 'get' } as any)) },
+                    { label: 'View', slug: 'purchase-show', path: (() => ({ url: '/business/purchase/show', method: 'get' } as any)) },
+                    { label: 'Status', slug: 'purchase-status', path: (() => ({ url: '/business/purchase/status', method: 'get' } as any)) },
+                    { label: 'Purchase Requests', slug: 'purchase-requests', path: (() => ({ url: '/business/purchase/requests', method: 'get' } as any)) },
+                    { label: 'Filters', slug: 'purchase-filters', path: (() => ({ url: '/business/purchase/filters', method: 'get' } as any)) },
                 ],
             },
             {
@@ -71,11 +75,15 @@ export const NAV_SECTIONS: NavSectionData[] = [
             {
                 label: 'Sale',
                 slug: 'business-sale',
-                path: business.sale.overview,
+                path: business?.sale?.overview ?? (() => ({ url: '/sale/list', method: 'get' } as any)),
                 children: [
                     { label: 'Overview', slug: 'sale-overview', path: business.sale.overview },
                     { label: 'Listing', slug: 'sale-listing', path: business.sale.listing },
-                    { label: 'Demo', slug: 'sale-demo', path: business.sale.demo },
+                    { label: 'Make Sale', slug: 'sale-create', path: (() => ({ url: '/business/sale/create', method: 'get' } as any)) },
+                    { label: 'View', slug: 'sale-show', path: (() => ({ url: '/business/sale/show', method: 'get' } as any)) },
+                    { label: 'Status', slug: 'sale-status', path: (() => ({ url: '/business/sale/status', method: 'get' } as any)) },
+                    { label: 'Sale Requests', slug: 'sale-requests', path: (() => ({ url: '/business/sale/requests', method: 'get' } as any)) },
+                    { label: 'Filters', slug: 'sale-filters', path: (() => ({ url: '/business/sale/filters', method: 'get' } as any)) },
                 ],
             },
             {
