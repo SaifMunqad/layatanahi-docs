@@ -1,4 +1,4 @@
-import { useEffect, useState, type ReactNode } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { type Heading } from '@/lib/markdown';
 
 /** The main documentation column. Renders page content directly (no card). */
@@ -54,14 +54,26 @@ type TableOfContentsProps = {
 };
 
 /** Tracks which heading is currently in view to highlight it in the TOC. */
-function useActiveHeading(ids: string[]): string | null {
+function useActiveHeading(ids: string[]): {
+    active: string | null;
+    direction: 'down' | 'up' | null;
+} {
     const [active, setActive] = useState<string | null>(null);
+    const [direction, setDirection] = useState<'down' | 'up' | null>(null);
     const key = ids.join('|');
 
     useEffect(() => {
         if (ids.length === 0) return;
 
+        let previousScrollY = window.scrollY;
+
         const updateActiveHeading = () => {
+            const currentScrollY = window.scrollY;
+            const hasScrolled = currentScrollY !== previousScrollY;
+            const scrollDirection = currentScrollY > previousScrollY ? 'down' : 'up';
+
+            previousScrollY = currentScrollY;
+
             const headings = ids
                 .map((id) => document.getElementById(id))
                 .filter((heading): heading is HTMLElement => heading !== null);
@@ -72,7 +84,15 @@ function useActiveHeading(ids: string[]): string | null {
                 )
                 .at(-1);
 
-            setActive(current?.id ?? headings[0]?.id ?? null);
+            const nextActive = current?.id ?? headings[0]?.id ?? null;
+
+            setActive((previousActive) => {
+                if (nextActive !== previousActive && hasScrolled) {
+                    setDirection(scrollDirection);
+                }
+
+                return nextActive;
+            });
         };
 
         updateActiveHeading();
@@ -88,17 +108,46 @@ function useActiveHeading(ids: string[]): string | null {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [key]);
 
-    return active;
+    return { active, direction };
 }
 
 /** "On this page" navigation built from the current page's headings. */
 export function TableOfContents({ items }: TableOfContentsProps) {
-    const active = useActiveHeading(items.map((item) => item.id));
+    const { active, direction } = useActiveHeading(items.map((item) => item.id));
+    const navigationRef = useRef<HTMLElement>(null);
+
+    useEffect(() => {
+        if (!active || !direction || !navigationRef.current) return;
+
+        const navigation = navigationRef.current;
+        const link = navigation.querySelector<HTMLElement>(
+            `[data-toc-id="${CSS.escape(active)}"]`,
+        );
+
+        if (!link) return;
+
+        const targetPosition =
+            direction === 'down'
+                ? navigation.clientHeight * 0.85
+                : navigation.clientHeight * 0.15;
+        const navigationRect = navigation.getBoundingClientRect();
+        const linkRect = link.getBoundingClientRect();
+        const linkPosition = linkRect.top - navigationRect.top;
+        const targetScrollTop = navigation.scrollTop + linkPosition - targetPosition;
+        const maxScrollTop = navigation.scrollHeight - navigation.clientHeight;
+
+        if (Math.abs(targetScrollTop - navigation.scrollTop) < 4) return;
+
+        navigation.scrollTo({
+            top: Math.max(0, Math.min(targetScrollTop, maxScrollTop)),
+            behavior: 'smooth',
+        });
+    }, [active, direction]);
 
     if (items.length === 0) return null;
 
     return (
-        <nav className="scrollbar-docs sticky top-20 hidden max-h-[calc(100vh-6rem)] w-56 shrink-0 overflow-y-auto pl-6 xl:block">
+        <nav ref={navigationRef} className="scrollbar-docs sticky top-20 hidden max-h-[calc(100vh-6rem)] w-56 shrink-0 overflow-y-auto pl-6 xl:block">
             <p className="mb-3 text-[11px] font-semibold tracking-wide text-zinc-400 uppercase dark:text-zinc-500">
                 On this page
             </p>
@@ -112,6 +161,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
                     >
                         <a
                             href={`#${item.id}`}
+                            data-toc-id={item.id}
                             className={`-ml-px block border-l-2 pl-3 text-[13px] leading-5 transition-colors ${
                                 active === item.id
                                     ? 'border-red-500 font-medium text-red-600 dark:border-red-400 dark:text-red-400'
