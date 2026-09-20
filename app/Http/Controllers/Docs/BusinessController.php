@@ -191,11 +191,51 @@ class BusinessController extends Controller
         ]);
     }
 
-    public function storeDemo()
+    public function storeBranches()
     {
-        return Inertia::render('docs/business/store/demo', [
+        return Inertia::render('docs/business/store/branches', [
             'section' => 'Business',
-            'page' => 'Store Demo',
+            'page' => 'Store Branches',
+        ]);
+    }
+
+    public function storeEmployees()
+    {
+        return Inertia::render('docs/business/store/employees', [
+            'section' => 'Business',
+            'page' => 'Store Employees',
+        ]);
+    }
+
+    public function storeAssets()
+    {
+        return Inertia::render('docs/business/store/assets', [
+            'section' => 'Business',
+            'page' => 'Store Assets',
+        ]);
+    }
+
+    public function storeReports()
+    {
+        return Inertia::render('docs/business/store/reports', [
+            'section' => 'Business',
+            'page' => 'Store Reports',
+        ]);
+    }
+
+    public function storeActivities()
+    {
+        return Inertia::render('docs/business/store/activities', [
+            'section' => 'Business',
+            'page' => 'Store Activities',
+        ]);
+    }
+
+    public function storeAnalytics()
+    {
+        return Inertia::render('docs/business/store/analytics', [
+            'section' => 'Business',
+            'page' => 'Store Analytics',
         ]);
     }
 

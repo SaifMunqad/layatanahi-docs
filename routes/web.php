@@ -53,7 +53,12 @@ Route::prefix('business')->name('business.')->group(function () {
     Route::prefix('store')->name('store.')->group(function () {
         Route::get('/overview', [BusinessController::class, 'storeOverview'])->name('overview');
         Route::get('/listing', [BusinessController::class, 'storeListing'])->name('listing');
-        Route::get('/demo', [BusinessController::class, 'storeDemo'])->name('demo');
+        Route::get('/branches', [BusinessController::class, 'storeBranches'])->name('branches');
+        Route::get('/employees', [BusinessController::class, 'storeEmployees'])->name('employees');
+        Route::get('/assets', [BusinessController::class, 'storeAssets'])->name('assets');
+        Route::get('/reports', [BusinessController::class, 'storeReports'])->name('reports');
+        Route::get('/activities', [BusinessController::class, 'storeActivities'])->name('activities');
+        Route::get('/analytics', [BusinessController::class, 'storeAnalytics'])->name('analytics');
     });
 
     Route::prefix('public')->name('public.')->group(function () {

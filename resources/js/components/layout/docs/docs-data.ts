@@ -94,8 +94,12 @@ export const NAV_SECTIONS: NavSectionData[] = [
                 path: business.store.overview,
                 children: [
                     { label: 'Overview', slug: 'store-overview', path: business.store.overview },
-                    { label: 'Listing', slug: 'store-listing', path: business.store.listing },
-                    { label: 'Demo', slug: 'store-demo', path: business.store.demo },
+                    { label: 'Branches', slug: 'store-branches', path: business.store.branches },
+                    { label: 'Employees', slug: 'store-employees', path: business.store.employees },
+                    { label: 'Store Assets', slug: 'store-assets', path: business.store.assets },
+                    { label: 'Reports', slug: 'store-reports', path: business.store.reports },
+                    { label: 'Activities', slug: 'store-activities', path: business.store.activities },
+                    { label: 'Analytics', slug: 'store-analytics', path: business.store.analytics },
                 ],
             },
             {
