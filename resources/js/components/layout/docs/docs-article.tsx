@@ -98,7 +98,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
     if (items.length === 0) return null;
 
     return (
-        <nav className="sticky top-20 hidden max-h-[calc(100vh-6rem)] w-56 shrink-0 overflow-y-auto pl-6 xl:block">
+        <nav className="scrollbar-docs sticky top-20 hidden max-h-[calc(100vh-6rem)] w-56 shrink-0 overflow-y-auto pl-6 xl:block">
             <p className="mb-3 text-[11px] font-semibold tracking-wide text-zinc-400 uppercase dark:text-zinc-500">
                 On this page
             </p>

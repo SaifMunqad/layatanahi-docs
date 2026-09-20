@@ -206,7 +206,7 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
         <>
             {open ? <div className="fixed inset-0 z-30 lg:hidden" onClick={onClose} /> : null}
             <aside
-                className={`fixed inset-x-auto bottom-0 left-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
+                className={`scrollbar-docs fixed inset-x-auto bottom-0 left-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
                     open ? 'translate-x-0' : '-translate-x-full'
                 }`}
             >
