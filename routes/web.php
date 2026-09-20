@@ -100,6 +100,18 @@ Route::prefix('api')->name('api.')->group(function () {
     Route::get('/overview', [ApiController::class, 'overview'])->name('overview');
     Route::get('/authentication', [ApiController::class, 'authentication'])->name('authentication');
     Route::get('/reference', [ApiController::class, 'reference'])->name('reference');
+    Route::get('/usage', [ApiController::class, 'usage'])->name('usage');
+    Route::get('/guideline', [ApiController::class, 'guideline'])->name('guideline');
+    Route::get('/api-key', [ApiController::class, 'apiKey'])->name('api-key');
+    Route::get('/products', [ApiController::class, 'products'])->name('products');
+    Route::get('/stocks', [ApiController::class, 'stocks'])->name('stocks');
+    Route::get('/accounts', [ApiController::class, 'accounts'])->name('accounts');
+    Route::get('/activities', [ApiController::class, 'activities'])->name('activities');
+    Route::get('/errors', [ApiController::class, 'errors'])->name('errors');
+    Route::get('/pagination', [ApiController::class, 'pagination'])->name('pagination');
+    Route::get('/rate-limits', [ApiController::class, 'rateLimits'])->name('rate-limits');
+    Route::get('/webhooks', [ApiController::class, 'webhooks'])->name('webhooks');
+    Route::get('/changelog', [ApiController::class, 'changelog'])->name('changelog');
 });
 
 Route::middleware([])->group(function () {
