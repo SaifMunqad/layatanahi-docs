@@ -25,11 +25,11 @@ function NavLink({ item, onNavigate, nested = false, active = false }: NavLinkPr
         <Link
             href={href}
             onClick={() => onNavigate?.(href)}
-            className={`-ml-px block border-l py-1.5 leading-5 transition-colors ${
+            className={`-ms-px block border-s py-1.5 leading-5 transition-colors ${
                 nested ? 'px-2.5 text-[12px]' : 'px-3 text-[13px]'
             } ${
                 active
-                    ? 'border-l-2 border-cyan-500 font-bold text-cyan-600 dark:border-cyan-400 dark:text-cyan-400'
+                    ? 'border-s-2 border-cyan-500 font-bold text-cyan-600 dark:border-cyan-400 dark:text-cyan-400'
                     : 'border-gray-200 text-gray-600 hover:border-gray-300 hover:text-gray-900 dark:border-gray-800 dark:text-gray-400 dark:hover:border-gray-600 dark:hover:text-gray-100'
             }`}
         >
@@ -210,7 +210,7 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
         <>
             {open ? <div className="fixed inset-0 z-30 lg:hidden" onClick={onClose} /> : null}
             <aside
-                className={`scrollbar-docs fixed inset-x-auto bottom-0 left-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-r border-gray-200 bg-white pb-10 pt-4 transition-transform dark:border-gray-800 dark:bg-gray-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
+                className={`scrollbar-docs fixed inset-x-auto bottom-0 start-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-s border-gray-200 bg-white pb-10 pt-4 transition-transform dark:border-gray-800 dark:bg-gray-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
                     open ? 'translate-x-0' : '-translate-x-full'
                 }`}
             >

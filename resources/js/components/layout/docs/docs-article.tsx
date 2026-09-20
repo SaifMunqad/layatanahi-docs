@@ -151,7 +151,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
             <p className="mb-3 text-[11px] font-semibold tracking-wide text-gray-400 uppercase dark:text-gray-500">
                 On this page
             </p>
-            <ul className="space-y-2 border-l border-gray-200 dark:border-gray-800">
+            <ul className="space-y-2 border-s border-gray-200 dark:border-gray-800">
                 {items.map((item) => (
                     <li
                         key={item.id}
@@ -162,7 +162,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
                         <a
                             href={`#${item.id}`}
                             data-toc-id={item.id}
-                            className={`-ml-px block border-l-2 pl-3 text-[13px] leading-5 transition-colors ${
+                            className={`-ms-px block border-s-2 ps-3 text-[13px] leading-5 transition-colors ${
                                 active === item.id
                                     ? 'border-cyan-500 font-medium text-cyan-600 dark:border-cyan-400 dark:text-cyan-400'
                                     : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-900 dark:text-gray-500 dark:hover:border-gray-600 dark:hover:text-gray-100'
