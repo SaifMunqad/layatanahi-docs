@@ -25,12 +25,12 @@ function NavLink({ item, onNavigate, nested = false, active = false }: NavLinkPr
         <Link
             href={href}
             onClick={() => onNavigate?.(href)}
-            className={`block rounded-md py-1.5 leading-5 transition-colors ${
+            className={`-ml-px block border-l py-1.5 leading-5 transition-colors ${
                 nested ? 'px-2.5 text-[12px]' : 'px-3 text-[13px]'
             } ${
                 active
-                    ? 'bg-red-50 font-medium text-red-700 dark:bg-red-950/40 dark:text-red-400'
-                    : 'text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-800 dark:hover:text-zinc-100'
+                    ? 'border-l-2 border-red-500 font-bold text-red-600 dark:border-red-400 dark:text-red-400'
+                    : 'border-zinc-200 text-zinc-600 hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-400 dark:hover:border-zinc-600 dark:hover:text-zinc-100'
             }`}
         >
             {item.label}
@@ -100,7 +100,7 @@ function NavBranch({ item, level = 0, open: controlledOpen, onToggle, onNavigate
     const isOpen = controlledOpen ?? (localOpen || isActive);
 
     return (
-        <li className={`${indentClass} ${level > 0 ? 'border-l border-zinc-200 pl-2 dark:border-zinc-800' : ''}`}>
+        <li className={indentClass}>
             {hasChildren ? (
                 <div className="mb-1">
                     <SectionToggleButton
