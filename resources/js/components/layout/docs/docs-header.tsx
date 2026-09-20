@@ -4,7 +4,7 @@ import LayatanahiIcon from '@/components/icons/LayatanahiIcon.jsx';
 import {Link} from "@inertiajs/react";
 import layatanahi from '@/routes/layatanahi';
 import { useTranslation } from 'react-i18next';
-import '@/lib/i18n';
+import { applyDocsLocale, type DocsLocale } from '@/lib/i18n';
 
 function Logo() {
     return (
@@ -41,13 +41,13 @@ const languages = [
 
 function LanguageMenu() {
     const { t } = useTranslation();
-    const [current, setCurrent] = useState(() => localStorage.getItem('docs-locale') ?? 'en');
+    const [current, setCurrent] = useState<DocsLocale>(() => applyDocsLocale());
     const [open, setOpen] = useState(false);
     const menuRef = useRef<HTMLDetailsElement>(null);
     const selected = languages.find((language) => language.code === current) ?? languages[0];
 
     useEffect(() => {
-        const updateLanguage = () => setCurrent(localStorage.getItem('docs-locale') ?? 'en');
+        const updateLanguage = () => setCurrent(applyDocsLocale());
         window.addEventListener('docs-locale-change', updateLanguage);
         return () => window.removeEventListener('docs-locale-change', updateLanguage);
     }, []);
@@ -65,10 +65,7 @@ function LanguageMenu() {
 
     const changeLanguage = (code: (typeof languages)[number]['code']) => {
         const language = languages.find((item) => item.code === code) ?? languages[0];
-        localStorage.setItem('docs-locale', language.code);
-        document.documentElement.lang = language.code;
-        document.documentElement.dir = language.direction;
-        setCurrent(language.code);
+        setCurrent(applyDocsLocale(language.code));
         window.dispatchEvent(new Event('docs-locale-change'));
     };
 

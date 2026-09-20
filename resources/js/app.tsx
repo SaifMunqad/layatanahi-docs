@@ -6,8 +6,11 @@ import AppLayout from '@/layouts/app-layout';
 import AuthLayout from '@/layouts/auth-layout';
 import DocsLayout from '@/layouts/docs/docs-layout';
 import SettingsLayout from '@/layouts/settings/layout';
+import { applyDocsLocale } from '@/lib/i18n';
 
 const appName = import.meta.env.VITE_APP_NAME || 'Laravel';
+
+applyDocsLocale();
 
 void createInertiaApp({
     title: (title) => (title ? `${title} - ${appName}` : appName),

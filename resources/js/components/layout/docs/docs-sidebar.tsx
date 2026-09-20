@@ -1,6 +1,6 @@
-import { useMemo, useState, useEffect, type ReactNode } from 'react';
-import { Link } from '@inertiajs/react';
-import { ChevronDown } from 'lucide-react';
+import {useMemo, useState, useEffect, type ReactNode} from 'react';
+import {Link} from '@inertiajs/react';
+import {ChevronDown} from 'lucide-react';
 import {
     NAV_SECTIONS,
     findActiveNavBranch,
@@ -9,7 +9,8 @@ import {
     type NavItem,
     type NavSectionData,
 } from '@/components/layout/docs/docs-data';
-import { useCurrentUrl } from '@/hooks/use-current-url';
+import {useCurrentUrl} from '@/hooks/use-current-url';
+import {useTranslation} from 'react-i18next';
 
 type NavLinkProps = {
     item: NavItem;
@@ -18,7 +19,8 @@ type NavLinkProps = {
     active?: boolean;
 };
 
-function NavLink({ item, onNavigate, nested = false, active = false }: NavLinkProps) {
+function NavLink({item, onNavigate, nested = false, active = false}: NavLinkProps) {
+    const {t} = useTranslation();
     const href = resolveHref(item.path);
 
     return (
@@ -33,7 +35,7 @@ function NavLink({ item, onNavigate, nested = false, active = false }: NavLinkPr
                     : 'border-gray-200 text-gray-600 hover:border-gray-300 hover:text-gray-900 dark:border-gray-800 dark:text-gray-400 dark:hover:border-gray-600 dark:hover:text-gray-100'
             }`}
         >
-            {item.label}
+            {t(`sidebar.items.${item.slug}`, {defaultValue: item.label})}
         </Link>
     );
 }
@@ -45,7 +47,7 @@ type SectionToggleButtonProps = {
     nested?: boolean;
 };
 
-function SectionToggleButton({ label, open, onToggle, nested = false }: SectionToggleButtonProps) {
+function SectionToggleButton({label, open, onToggle, nested = false}: SectionToggleButtonProps) {
     return (
         <button
             type="button"
@@ -56,7 +58,7 @@ function SectionToggleButton({ label, open, onToggle, nested = false }: SectionT
             }`}
         >
             {label}
-            <ChevronDown className={`h-3 w-3 transition-transform duration-200 ${open ? '' : '-rotate-90'}`} />
+            <ChevronDown className={`h-3 w-3 transition-transform duration-200 ${open ? '' : '-rotate-90'}`}/>
         </button>
     );
 }
@@ -66,9 +68,10 @@ type AccordionContentProps = {
     children: ReactNode;
 };
 
-function AccordionContent({ open, children }: AccordionContentProps) {
+function AccordionContent({open, children}: AccordionContentProps) {
     return (
-        <div className={`grid transition-all duration-200 ease-out ${open ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'}`}>
+        <div
+            className={`grid transition-all duration-200 ease-out ${open ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'}`}>
             <div className="overflow-hidden">
                 <div className="pt-1">{children}</div>
             </div>
@@ -91,8 +94,9 @@ type NavBranchProps = {
     onNavigate?: (path: string) => void;
 };
 
-function NavBranch({ item, level = 0, open: controlledOpen, onToggle, onNavigate }: NavBranchProps) {
-    const { currentUrl, isCurrentUrl, isCurrentOrParentUrl } = useCurrentUrl();
+function NavBranch({item, level = 0, open: controlledOpen, onToggle, onNavigate}: NavBranchProps) {
+    const {t} = useTranslation();
+    const {currentUrl, isCurrentUrl, isCurrentOrParentUrl} = useCurrentUrl();
     const [localOpen, setLocalOpen] = useState(Boolean(item.active) || Boolean(item.children?.some((child) => child.active)));
     const hasChildren = Boolean(item.children?.length);
     const indentClass = LEVEL_INDENT_CLASSES[level] ?? 'ml-6';
@@ -104,7 +108,7 @@ function NavBranch({ item, level = 0, open: controlledOpen, onToggle, onNavigate
             {hasChildren ? (
                 <div className="mb-1">
                     <SectionToggleButton
-                        label={item.label}
+                        label={t(`sidebar.items.${item.slug}`, {defaultValue: item.label})}
                         open={isOpen}
                         onToggle={() => {
                             if (onToggle) {
@@ -130,7 +134,8 @@ function NavBranch({ item, level = 0, open: controlledOpen, onToggle, onNavigate
                     </AccordionContent>
                 </div>
             ) : (
-                <NavLink item={item} onNavigate={onNavigate} nested={level > 0} active={isCurrentUrl(resolveHref(item.path), currentUrl)} />
+                <NavLink item={item} onNavigate={onNavigate} nested={level > 0}
+                         active={isCurrentUrl(resolveHref(item.path), currentUrl)}/>
             )}
         </li>
     );
@@ -143,8 +148,9 @@ type NavSectionProps = {
     onNavigate?: (path: string) => void;
 };
 
-function NavSection({ section, open, onToggle, onNavigate }: NavSectionProps) {
-    const { currentUrl } = useCurrentUrl();
+function NavSection({section, open, onToggle, onNavigate}: NavSectionProps) {
+    const {t} = useTranslation();
+    const {currentUrl} = useCurrentUrl();
     const [activeItemSlug, setActiveItemSlug] = useState<string | null>(() => {
         const active = section.items.find((item) => isNavItemActive(item, currentUrl));
         return active?.slug ?? null;
@@ -163,7 +169,7 @@ function NavSection({ section, open, onToggle, onNavigate }: NavSectionProps) {
     return (
         <div className="mb-1">
             <SectionToggleButton
-                label={section.label}
+                label={t(`sidebar.sections.${section.label}`, {defaultValue: section.label})}
                 open={open}
                 onToggle={onToggle}
             />
@@ -191,8 +197,8 @@ type SidebarProps = {
     onNavigate: (path: string) => void;
 };
 
-export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
-    const { currentUrl } = useCurrentUrl();
+export function Sidebar({open, onClose, onNavigate}: SidebarProps) {
+    const {currentUrl} = useCurrentUrl();
     const currentPath = currentUrl;
 
     const activeSection = useMemo(() => findActiveNavBranch(currentPath).sectionLabel, [currentPath]);
@@ -208,7 +214,7 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
 
     return (
         <>
-            {open ? <div className="fixed inset-0 z-30 lg:hidden" onClick={onClose} /> : null}
+            {open ? <div className="fixed inset-0 z-30 lg:hidden" onClick={onClose}/> : null}
             <aside
                 className={`scrollbar-docs fixed inset-x-auto bottom-0 start-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-s border-gray-200 bg-white pb-10 pt-4 transition-transform dark:border-gray-800 dark:bg-gray-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
                     open ? 'translate-x-0' : '-translate-x-full'
