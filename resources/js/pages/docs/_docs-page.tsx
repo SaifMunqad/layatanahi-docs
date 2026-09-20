@@ -1,7 +1,13 @@
 import { Head } from '@inertiajs/react';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { usePublishToc } from '@/components/layout/docs/docs-toc-context';
 import { useMarkdown } from '@/lib/markdown';
+
+const localizedMarkdown = import.meta.glob('../../../docs/{en,fa_AF,ps}/**/*.md', {
+    eager: true,
+    query: '?raw',
+    import: 'default',
+}) as Record<string, string>;
 
 type DocsPageProps = {
     markdown: string;
@@ -11,11 +17,22 @@ type DocsPageProps = {
 };
 
 export default function DocsPage({ markdown, section, description }: DocsPageProps) {
-    const { headings, content } = useMarkdown(markdown);
+    const [locale, setLocale] = useState(() => localStorage.getItem('docs-locale') ?? 'en');
+    const pagePath = window.location.pathname.replace(/^\/docs\/?/, '').replace(/\/$/, '') || 'overview';
+    const localizedSource = localizedMarkdown[`../../../docs/${locale}/${pagePath}.md`]
+        ?? localizedMarkdown[`../../../docs/en/${pagePath}.md`]
+        ?? markdown;
+    const { headings, content } = useMarkdown(localizedSource);
     const contentRef = useRef<HTMLElement>(null);
 
     // Publish the page headings so the layout can build the "on this page" nav.
     usePublishToc(headings);
+
+    useEffect(() => {
+        const updateLocale = () => setLocale(localStorage.getItem('docs-locale') ?? 'en');
+        window.addEventListener('docs-locale-change', updateLocale);
+        return () => window.removeEventListener('docs-locale-change', updateLocale);
+    }, []);
 
     const title = headings.find((heading) => heading.depth === 1)?.label ?? 'Documentation';
 

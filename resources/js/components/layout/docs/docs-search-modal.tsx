@@ -2,6 +2,8 @@ import { Link } from '@inertiajs/react';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { ArrowRight, Search, X } from 'lucide-react';
 import { NAV_SECTIONS, resolveHref, type NavItem } from '@/components/layout/docs/docs-data';
+import { useTranslation } from 'react-i18next';
+import '@/lib/i18n';
 
 type SearchModalProps = {
     open: boolean;
@@ -71,6 +73,7 @@ const hrefWithSearch = (href: string, query: string) => {
 };
 
 export function SearchModal({ open, onClose }: SearchModalProps) {
+    const { t } = useTranslation();
     const [query, setQuery] = useState('');
     const [selectedIndex, setSelectedIndex] = useState(0);
     const inputRef = useRef<HTMLInputElement>(null);
@@ -147,7 +150,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
             <div
                 role="dialog"
                 aria-modal="true"
-                aria-label="Search the documentation"
+                aria-label={t('searchDocumentation')}
                 className="w-full max-w-lg overflow-hidden rounded-none border border-zinc-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-900"
                 onClick={(e) => e.stopPropagation()}
             >
@@ -165,8 +168,8 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                                 window.location.href = hrefWithSearch(results[selectedIndex].href, query);
                             }
                         }}
-                        aria-label="Search documentation"
-                        placeholder="Search the docs..."
+                        aria-label={t('searchDocumentation')}
+                        placeholder={t('searchDocs')}
                         className="flex-1 bg-transparent text-sm outline-none placeholder:text-zinc-400 dark:text-zinc-100"
                     />
                     <button type="button" onClick={onClose} className="text-zinc-400 hover:text-zinc-600">
@@ -189,7 +192,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                             <ArrowRight className="h-3.5 w-3.5 text-zinc-300" />
                         </Link>
                     )) : (
-                        <p className="px-3 py-6 text-center text-sm text-zinc-500">No documentation found.</p>
+                        <p className="px-3 py-6 text-center text-sm text-zinc-500">{t('noDocumentationFound')}</p>
                     )}
                 </div>
             </div>
