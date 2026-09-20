@@ -1,4 +1,4 @@
-import { useState, type ReactNode } from 'react';
+import { useEffect, useState, type ReactNode } from 'react';
 import { Article, TableOfContents } from '@/components/layout/docs/docs-article';
 import { TopBar } from '@/components/layout/docs/docs-header';
 import { SearchModal } from '@/components/layout/docs/docs-search-modal';
@@ -12,6 +12,18 @@ function DocsShellContent({ children }: { children?: ReactNode }) {
     const [searchOpen, setSearchOpen] = useState(false);
     const headings = useTocHeadings();
     const dark = resolvedAppearance === 'dark';
+
+    useEffect(() => {
+        const handleShortcut = (event: KeyboardEvent) => {
+            if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+                event.preventDefault();
+                setSearchOpen(true);
+            }
+        };
+
+        window.addEventListener('keydown', handleShortcut);
+        return () => window.removeEventListener('keydown', handleShortcut);
+    }, []);
 
     return (
         <div className="min-h-screen bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
