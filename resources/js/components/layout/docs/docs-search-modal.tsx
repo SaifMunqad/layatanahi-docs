@@ -16,6 +16,44 @@ const markdownFiles = import.meta.glob('/resources/js/pages/docs/**/*.md', {
 
 const normalize = (value: string) => value.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
+const plainText = (value: string) =>
+    value
+        .replace(/<[^>]*>/g, ' ')
+        .replace(/!?([[^]]*])\([^)]*\)/g, '$1')
+        .replace(/[#*_`>-]/g, '')
+        .replace(/&(?:amp|lt|gt|quot|#39|nbsp);/g, (entity) => ({
+            '&amp;': '&',
+            '&lt;': '<',
+            '&gt;': '>',
+            '&quot;': '"',
+            '&#39;': "'",
+            '&nbsp;': ' ',
+        })[entity] ?? entity)
+        .replace(/\s+/g, ' ')
+        .trim();
+
+function HighlightedText({ text, query }: { text: string; query: string }) {
+    const trimmedQuery = query.trim();
+
+    if (!trimmedQuery) return <>{text}</>;
+
+    const parts = text.split(new RegExp(`(${trimmedQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'ig'));
+
+    return (
+        <>
+            {parts.map((part, index) =>
+                part.toLowerCase() === trimmedQuery.toLowerCase() ? (
+                    <span key={index} className="text-cyan-600 dark:text-cyan-400">
+                        {part}
+                    </span>
+                ) : (
+                    part
+                ),
+            )}
+        </>
+    );
+}
+
 const contentForHref = (href: string) => {
     const routeName = normalize(href.split('/').filter(Boolean).pop() ?? '');
     const match = Object.entries(markdownFiles).find(([file]) => {
@@ -48,13 +86,14 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
         return items
             .map((entry) => {
                 const title = entry.item.label.toLowerCase();
-                const searchable = `${title} ${entry.item.slug} ${entry.section.toLowerCase()} ${entry.content}`.toLowerCase();
+                const textContent = plainText(entry.content);
+                const searchable = `${title} ${entry.item.slug} ${entry.section.toLowerCase()} ${textContent}`.toLowerCase();
                 let score = searchable.includes(normalizedQuery) ? 10 : 0;
                 if (title === normalizedQuery) score += 30;
                 if (title.startsWith(normalizedQuery)) score += 20;
-                const contentIndex = normalize(entry.content).indexOf(normalize(normalizedQuery));
+                const contentIndex = normalize(textContent).indexOf(normalize(normalizedQuery));
                 const excerptStart = Math.max(0, contentIndex - 45);
-                const excerpt = entry.content.replace(/[#*_`>-]/g, '').replace(/\s+/g, ' ').trim().slice(excerptStart, excerptStart + 110);
+                const excerpt = textContent.slice(excerptStart, excerptStart + 110);
                 return { ...entry, score, excerpt };
             })
             .filter((entry) => entry.score > 0)
@@ -103,7 +142,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                 role="dialog"
                 aria-modal="true"
                 aria-label="Search the documentation"
-                className="w-full max-w-lg overflow-hidden rounded-lg border border-zinc-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-900"
+                className="w-full max-w-lg overflow-hidden rounded-none border border-zinc-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-900"
                 onClick={(e) => e.stopPropagation()}
             >
                 <div className="flex items-center gap-2 border-b border-zinc-200 px-4 py-3 dark:border-zinc-800">
@@ -134,12 +173,12 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                             key={result.item.slug}
                             href={result.href}
                             onClick={onClose}
-                            className={`flex w-full items-center justify-between rounded-md px-3 py-2 text-left text-sm text-zinc-700 dark:text-zinc-300 ${index === selectedIndex ? 'bg-zinc-100 dark:bg-zinc-800' : 'hover:bg-zinc-50 dark:hover:bg-zinc-800'}`}
+                            className={`flex w-full items-center justify-between rounded-none px-3 py-2 text-left text-sm text-zinc-700 dark:text-zinc-300 ${index === selectedIndex ? 'bg-zinc-100 dark:bg-zinc-800' : 'hover:bg-zinc-50 dark:hover:bg-zinc-800'}`}
                         >
                             <span>
-                                <span className="block">{result.item.label}</span>
+                                <span className="block"><HighlightedText text={result.item.label} query={query} /></span>
                                 <span className="block text-xs text-zinc-400">{result.section}</span>
-                                {result.excerpt && <span className="mt-1 block line-clamp-2 text-xs text-zinc-500">{result.excerpt}</span>}
+                                {result.excerpt && <span className="mt-1 block line-clamp-2 text-xs text-zinc-500"><HighlightedText text={result.excerpt} query={query} /></span>}
                             </span>
                             <ArrowRight className="h-3.5 w-3.5 text-zinc-300" />
                         </Link>

@@ -6,7 +6,7 @@ import {Link} from "@inertiajs/react";
 function Logo() {
     return (
         <Link href="/" className="flex shrink-0 items-center">
-            <LayatanahiIcon className="h-7 w-auto fill-gray-700 dark:fill-gray-100" />
+            <LayatanahiIcon className="h-7 w-auto fill-cyan-800 dark:fill-cyan-500" />
         </Link>
     );
 }
@@ -20,13 +20,10 @@ function SearchBar({ onOpen }: SearchBarProps) {
         <button
             type="button"
             onClick={onOpen}
-            className="flex w-full max-w-sm items-center gap-2 rounded-md border border-zinc-200 bg-zinc-50 px-3 py-1.5 text-sm text-zinc-400 hover:border-zinc-300 dark:border-zinc-800 dark:bg-zinc-900 dark:hover:border-zinc-700"
+            className="flex w-full max-w-sm items-center gap-2 rounded-0 border border-zinc-200 bg-zinc-50 px-3 py-1.5 text-sm text-zinc-400 hover:border-zinc-300 dark:border-zinc-800 dark:bg-zinc-900 dark:hover:border-zinc-700"
         >
-            <Search className="h-4 w-4 shrink-0" />
+            <Search className="h-4 w-4 shrink-0 text-cyan-800 dark:text-cyan-500" />
             <span className="flex-1 text-left">Search the docs...</span>
-            <kbd className="hidden rounded border border-zinc-300 bg-white px-1.5 py-0.5 font-mono text-[10px] text-zinc-400 dark:border-zinc-700 dark:bg-zinc-800 sm:inline">
-                &#8984;K
-            </kbd>
         </button>
     );
 }
@@ -48,7 +45,7 @@ function ThemeToggle({ dark, onToggle }: ThemeToggleProps) {
             type="button"
             onClick={onToggle}
             aria-label="Toggle dark mode"
-            className="flex h-8 w-8 items-center justify-center rounded-md text-zinc-500 hover:bg-zinc-100 dark:text-zinc-400 dark:hover:bg-zinc-800"
+            className="flex h-8 w-8 items-center justify-center rounded-0 text-cyan-800 hover:bg-zinc-100 dark:text-cyan-500 dark:hover:bg-zinc-800"
         >
             {mounted && dark ? <SunMedium className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
         </button>
@@ -86,7 +83,7 @@ export function TopBar({ onMenuClick, onSearchClick, dark, onToggleTheme }: TopB
                 className="text-zinc-500 hover:text-zinc-800 dark:text-zinc-400 dark:hover:text-zinc-100 sm:hidden"
                 aria-label="Search"
             >
-                <Search className="h-5 w-5" />
+                <Search className="h-5 w-5 text-cyan-800 dark:text-cyan-500" />
             </button>
             <ThemeToggle dark={dark} onToggle={onToggleTheme} />
         </header>
