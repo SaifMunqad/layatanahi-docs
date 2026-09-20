@@ -138,28 +138,23 @@ function NavBranch({ item, level = 0, open: controlledOpen, onToggle, onNavigate
 
 type NavSectionProps = {
     section: NavSectionData;
+    open: boolean;
+    onToggle: () => void;
     onNavigate?: (path: string) => void;
-    defaultOpen?: boolean;
 };
 
-function NavSection({ section, onNavigate, defaultOpen = false }: NavSectionProps) {
+function NavSection({ section, open, onToggle, onNavigate }: NavSectionProps) {
     const { currentUrl } = useCurrentUrl();
-    const [localOpen, setLocalOpen] = useState(defaultOpen);
     const [activeItemSlug, setActiveItemSlug] = useState<string | null>(() => {
         const active = section.items.find((item) => isNavItemActive(item, currentUrl));
         return active?.slug ?? null;
     });
 
-    // When the route changes and an item in this section becomes active,
-    // open the section so the active item is visible. This does not prevent
-    // the user from manually toggling the section afterward.
+    // Keep the active item expanded within the currently selected section.
     useEffect(() => {
         const active = section.items.find((item) => isNavItemActive(item, currentUrl));
         setActiveItemSlug(active?.slug ?? null);
-        if (active) setLocalOpen(true);
     }, [currentUrl, section]);
-
-    const isOpen = localOpen;
 
     const handleItemToggle = (itemSlug: string) => {
         setActiveItemSlug((current) => (current === itemSlug ? null : itemSlug));
@@ -169,10 +164,10 @@ function NavSection({ section, onNavigate, defaultOpen = false }: NavSectionProp
         <div className="mb-1">
             <SectionToggleButton
                 label={section.label}
-                open={isOpen}
-                onToggle={() => setLocalOpen((value) => !value)}
+                open={open}
+                onToggle={onToggle}
             />
-            <AccordionContent open={isOpen}>
+            <AccordionContent open={open}>
                 <ul className="space-y-0.5">
                     {section.items.map((item) => (
                         <NavBranch
@@ -201,6 +196,15 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
     const currentPath = currentUrl;
 
     const activeSection = useMemo(() => findActiveNavBranch(currentPath).sectionLabel, [currentPath]);
+    const [openSection, setOpenSection] = useState<string | null>(activeSection);
+
+    useEffect(() => {
+        setOpenSection(activeSection);
+    }, [activeSection]);
+
+    const toggleSection = (sectionLabel: string) => {
+        setOpenSection((current) => (current === sectionLabel ? null : sectionLabel));
+    };
 
     return (
         <>
@@ -211,19 +215,15 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
                 }`}
             >
                 <nav className="z-50 px-2">
-                    {NAV_SECTIONS.map((section, index) => {
-                        // Default open: first section or the currently active section
-                        const defaultOpen = index < 1 || activeSection === section.label;
-
-                        return (
-                            <NavSection
-                                key={section.label}
-                                section={section}
-                                defaultOpen={defaultOpen}
-                                onNavigate={onNavigate}
-                            />
-                        );
-                    })}
+                    {NAV_SECTIONS.map((section) => (
+                        <NavSection
+                            key={section.label}
+                            section={section}
+                            open={openSection === section.label}
+                            onToggle={() => toggleSection(section.label)}
+                            onNavigate={onNavigate}
+                        />
+                    ))}
                 </nav>
             </aside>
         </>
