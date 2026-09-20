@@ -64,6 +64,12 @@ const contentForHref = (href: string) => {
     return match?.[1] ?? '';
 };
 
+const hrefWithSearch = (href: string, query: string) => {
+    const url = new URL(href, window.location.origin);
+    url.searchParams.set('search', query.trim());
+    return `${url.pathname}${url.search}${url.hash}`;
+};
+
 export function SearchModal({ open, onClose }: SearchModalProps) {
     const [query, setQuery] = useState('');
     const [selectedIndex, setSelectedIndex] = useState(0);
@@ -156,7 +162,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                         }}
                         onKeyDown={(event) => {
                             if (event.key === 'Enter' && results[selectedIndex]) {
-                                window.location.href = results[selectedIndex].href;
+                                window.location.href = hrefWithSearch(results[selectedIndex].href, query);
                             }
                         }}
                         aria-label="Search documentation"
@@ -171,7 +177,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                     {results.length > 0 ? results.map((result, index) => (
                         <Link
                             key={result.item.slug}
-                            href={result.href}
+                            href={hrefWithSearch(result.href, query)}
                             onClick={onClose}
                             className={`flex w-full items-center justify-between rounded-none px-3 py-2 text-left text-sm text-zinc-700 dark:text-zinc-300 ${index === selectedIndex ? 'bg-zinc-100 dark:bg-zinc-800' : 'hover:bg-zinc-50 dark:hover:bg-zinc-800'}`}
                         >
