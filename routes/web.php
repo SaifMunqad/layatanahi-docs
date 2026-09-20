@@ -34,7 +34,9 @@ Route::prefix('business')->name('business.')->group(function () {
     Route::prefix('inventory')->name('inventory.')->group(function () {
         Route::get('/overview', [BusinessController::class, 'inventoryOverview'])->name('overview');
         Route::get('/listing', [BusinessController::class, 'inventoryListing'])->name('listing');
-        Route::get('/demo', [BusinessController::class, 'inventoryDemo'])->name('demo');
+        Route::get('/configurations', [BusinessController::class, 'inventoryConfigurations'])->name('configurations');
+        Route::get('/transfers', [BusinessController::class, 'inventoryTransfers'])->name('transfers');
+        Route::get('/changes', [BusinessController::class, 'inventoryChanges'])->name('changes');
     });
 
     Route::prefix('sale')->name('sale.')->group(function () {

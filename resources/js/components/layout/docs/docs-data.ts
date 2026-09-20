@@ -69,7 +69,9 @@ export const NAV_SECTIONS: NavSectionData[] = [
                 children: [
                     { label: 'Overview', slug: 'inventory-overview', path: business.inventory.overview },
                     { label: 'Listing', slug: 'inventory-listing', path: business.inventory.listing },
-                    { label: 'Demo', slug: 'inventory-demo', path: business.inventory.demo },
+                    { label: 'Configurations (Activities)', slug: 'inventory-configurations', path: business.inventory.configurations },
+                    { label: 'Transfers', slug: 'inventory-transfers', path: business.inventory.transfers },
+                    { label: 'Changes', slug: 'inventory-changes', path: business.inventory.changes },
                 ],
             },
             {

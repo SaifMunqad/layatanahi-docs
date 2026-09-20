@@ -87,11 +87,27 @@ class BusinessController extends Controller
         ]);
     }
 
-    public function inventoryDemo()
+    public function inventoryConfigurations()
     {
-        return Inertia::render('docs/business/inventory/demo', [
+        return Inertia::render('docs/business/inventory/configurations', [
             'section' => 'Business',
-            'page' => 'Inventory Demo',
+            'page' => 'Inventory Configurations',
+        ]);
+    }
+
+    public function inventoryTransfers()
+    {
+        return Inertia::render('docs/business/inventory/transfers', [
+            'section' => 'Business',
+            'page' => 'Inventory Transfers',
+        ]);
+    }
+
+    public function inventoryChanges()
+    {
+        return Inertia::render('docs/business/inventory/changes', [
+            'section' => 'Business',
+            'page' => 'Inventory Changes',
         ]);
     }
 
