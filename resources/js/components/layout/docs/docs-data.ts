@@ -7,11 +7,12 @@ import api from '@/routes/api';
 import type { RouteQueryOptions, RouteDefinition } from '@/wayfinder';
 
 type RouteHelper = (options?: RouteQueryOptions) => RouteDefinition<'get'>;
+type NavPath = RouteHelper | RouteDefinition<'get'> | undefined;
 
 export type NavItem = {
     label: string;
     slug: string;
-    path: RouteHelper;
+    path: NavPath;
     active?: boolean;
     children?: NavItem[];
 };
@@ -21,7 +22,8 @@ export type NavSectionData = {
     items: NavItem[];
 };
 
-export const resolveHref = (path: NavItem['path']) => path().url;
+export const resolveHref = (path: NavItem['path']) =>
+    (typeof path === 'function' ? path() : path)?.url ?? '';
 
 export const NAV_SECTIONS: NavSectionData[] = [
     {
