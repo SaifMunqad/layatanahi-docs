@@ -22,7 +22,7 @@ export default function DocsPage({ markdown, section, description }: DocsPagePro
             <Head title={title} />
 
             {section && (
-                <p className="mb-2 text-sm font-medium text-red-600 dark:text-red-400">{section}</p>
+                <p className="mb-2 text-sm font-medium text-cyan-600 dark:text-cyan-400">{section}</p>
             )}
 
             {content}

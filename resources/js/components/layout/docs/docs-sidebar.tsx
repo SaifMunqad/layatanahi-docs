@@ -1,6 +1,6 @@
 import { useMemo, useState, useEffect, type ReactNode } from 'react';
 import { Link } from '@inertiajs/react';
-import { ChevronDown, X } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 import {
     NAV_SECTIONS,
     findActiveNavBranch,
@@ -29,8 +29,8 @@ function NavLink({ item, onNavigate, nested = false, active = false }: NavLinkPr
                 nested ? 'px-2.5 text-[12px]' : 'px-3 text-[13px]'
             } ${
                 active
-                    ? 'border-l-2 border-red-500 font-bold text-red-600 dark:border-red-400 dark:text-red-400'
-                    : 'border-zinc-200 text-zinc-600 hover:border-zinc-300 hover:text-zinc-900 dark:border-zinc-800 dark:text-zinc-400 dark:hover:border-zinc-600 dark:hover:text-zinc-100'
+                    ? 'border-l-2 border-cyan-500 font-bold text-cyan-600 dark:border-cyan-400 dark:text-cyan-400'
+                    : 'border-gray-200 text-gray-600 hover:border-gray-300 hover:text-gray-900 dark:border-gray-800 dark:text-gray-400 dark:hover:border-gray-600 dark:hover:text-gray-100'
             }`}
         >
             {item.label}
@@ -51,7 +51,7 @@ function SectionToggleButton({ label, open, onToggle, nested = false }: SectionT
             type="button"
             aria-expanded={open}
             onClick={onToggle}
-            className={`flex w-full items-center justify-between py-1.5 text-zinc-400 transition-all duration-200 ease-out hover:text-zinc-600 dark:text-zinc-500 dark:hover:text-zinc-300 ${
+            className={`flex w-full items-center justify-between py-1.5 text-gray-400 transition-all duration-200 ease-out hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 ${
                 nested ? 'px-2.5 text-[10px] font-semibold uppercase tracking-wide' : 'px-3 text-[11px] font-semibold uppercase tracking-wide'
             }`}
         >
@@ -210,7 +210,7 @@ export function Sidebar({ open, onClose, onNavigate }: SidebarProps) {
         <>
             {open ? <div className="fixed inset-0 z-30 lg:hidden" onClick={onClose} /> : null}
             <aside
-                className={`scrollbar-docs fixed inset-x-auto bottom-0 left-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-r border-zinc-200 bg-white pb-10 pt-4 transition-transform dark:border-zinc-800 dark:bg-zinc-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
+                className={`scrollbar-docs fixed inset-x-auto bottom-0 left-0 top-14 z-40 w-64 shrink-0 overflow-y-auto border-r border-gray-200 bg-white pb-10 pt-4 transition-transform dark:border-gray-800 dark:bg-gray-950 lg:sticky lg:h-[calc(100vh-3.5rem)] lg:self-start lg:translate-x-0 ${
                     open ? 'translate-x-0' : '-translate-x-full'
                 }`}
             >

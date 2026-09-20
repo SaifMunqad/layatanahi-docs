@@ -98,7 +98,7 @@ const VERSIONS = ["13.x", "12.x", "11.x", "10.x"];
 function Logo() {
     return (
         <a href="#" className="flex items-center gap-2 shrink-0">
-            <LayatanahiIcon className="h-6 w-auto text-red-600"/>
+            <LayatanahiIcon className="h-6 w-auto text-cyan-600"/>
             <span className="text-[15px] font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
                 Layatanahi
             </span>
@@ -131,7 +131,7 @@ function VersionSwitcher() {
                             }}
                             className={`block w-full px-3 py-1.5 text-left text-xs hover:bg-zinc-50 dark:hover:bg-zinc-800 ${
                                 v === version
-                                    ? "font-semibold text-red-600"
+                                    ? "font-semibold text-cyan-600"
                                     : "text-zinc-600 dark:text-zinc-400"
                             }`}
                         >
@@ -224,7 +224,7 @@ function NavLink({item, onNavigate}) {
                 onClick={() => onNavigate?.(item.slug)}
                 className={`block rounded-md px-3 py-1.5 text-[13px] leading-5 transition-colors ${
                     item.active
-                        ? "bg-red-50 font-medium text-red-700 dark:bg-red-950/40 dark:text-red-400"
+                        ? "bg-cyan-50 font-medium text-cyan-700 dark:bg-cyan-950/40 dark:text-cyan-400"
                         : "text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-800 dark:hover:text-zinc-100"
                 }`}
             >
@@ -405,7 +405,7 @@ function Heading({id, level, children}) {
         >
             <a href={`#${id}`} className="no-underline">
                 {children}
-                <span className="ml-2 hidden text-red-500 group-hover:inline">#</span>
+                <span className="ml-2 hidden text-cyan-500 group-hover:inline">#</span>
             </a>
         </Tag>
     );
@@ -414,7 +414,7 @@ function Heading({id, level, children}) {
 function InlineCode({children}) {
     return (
         <code
-            className="rounded bg-zinc-100 px-1.5 py-0.5 font-mono text-[13px] text-red-700 dark:bg-zinc-800 dark:text-red-400">
+            className="rounded bg-gray-100 px-1.5 py-0.5 font-mono text-[13px] text-cyan-700 dark:bg-gray-800 dark:text-cyan-400">
             {children}
         </code>
     );
@@ -486,7 +486,7 @@ function PageNav() {
 function Article() {
     return (
         <article className="mx-auto w-full max-w-3xl px-6 py-10 lg:px-10">
-            <p className="mb-2 text-sm font-medium text-red-600">Getting Started</p>
+            <p className="mb-2 text-sm font-medium text-cyan-600">Getting Started</p>
             <Heading id="meet-laravel" level={1}>
                 Installation
             </Heading>
@@ -602,7 +602,7 @@ function Article() {
 
             <a
                 href="#"
-                className="inline-flex items-center gap-1 text-sm font-medium text-red-600 hover:text-red-700"
+                className="inline-flex items-center gap-1 text-sm font-medium text-cyan-600 hover:text-cyan-700"
             >
                 Read the full framework documentation
                 <ArrowTopRightOnSquareIcon className="h-3.5 w-3.5"/>

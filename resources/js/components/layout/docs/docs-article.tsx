@@ -148,10 +148,10 @@ export function TableOfContents({ items }: TableOfContentsProps) {
 
     return (
         <nav ref={navigationRef} className="scrollbar-docs sticky top-20 hidden max-h-[calc(100vh-6rem)] w-56 shrink-0 overflow-y-auto pl-6 xl:block">
-            <p className="mb-3 text-[11px] font-semibold tracking-wide text-zinc-400 uppercase dark:text-zinc-500">
+            <p className="mb-3 text-[11px] font-semibold tracking-wide text-gray-400 uppercase dark:text-gray-500">
                 On this page
             </p>
-            <ul className="space-y-2 border-l border-zinc-200 dark:border-zinc-800">
+            <ul className="space-y-2 border-l border-gray-200 dark:border-gray-800">
                 {items.map((item) => (
                     <li
                         key={item.id}
@@ -164,8 +164,8 @@ export function TableOfContents({ items }: TableOfContentsProps) {
                             data-toc-id={item.id}
                             className={`-ml-px block border-l-2 pl-3 text-[13px] leading-5 transition-colors ${
                                 active === item.id
-                                    ? 'border-red-500 font-medium text-red-600 dark:border-red-400 dark:text-red-400'
-                                    : 'border-transparent text-zinc-500 hover:border-zinc-300 hover:text-zinc-900 dark:text-zinc-500 dark:hover:border-zinc-600 dark:hover:text-zinc-100'
+                                    ? 'border-cyan-500 font-medium text-cyan-600 dark:border-cyan-400 dark:text-cyan-400'
+                                    : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-900 dark:text-gray-500 dark:hover:border-gray-600 dark:hover:text-gray-100'
                             }`}
                         >
                             {item.label}

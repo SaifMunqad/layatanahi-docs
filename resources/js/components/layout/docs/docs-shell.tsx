@@ -14,7 +14,7 @@ function DocsShellContent({ children }: { children?: ReactNode }) {
     const dark = resolvedAppearance === 'dark';
 
     return (
-        <div className="min-h-screen bg-white text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100">
+        <div className="min-h-screen bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
             <TopBar
                 onMenuClick={() => setMobileNavOpen(true)}
                 onSearchClick={() => setSearchOpen(true)}

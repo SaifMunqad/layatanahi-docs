@@ -66,7 +66,7 @@ function renderInline(value: string): ReactNode[] {
                         key={index}
                         href={link[2]}
                         {...(external ? { target: '_blank', rel: 'noreferrer' } : {})}
-                        className="font-medium text-red-600 underline decoration-red-300 underline-offset-2 transition-colors hover:text-red-500 dark:text-red-400 dark:decoration-red-500/50"
+                        className="font-medium text-cyan-600 underline decoration-cyan-300 underline-offset-2 transition-colors hover:text-cyan-500 dark:text-cyan-400 dark:decoration-cyan-500/50"
                     >
                         {renderInline(link[1])}
                     </a>
@@ -77,7 +77,7 @@ function renderInline(value: string): ReactNode[] {
                 return (
                     <code
                         key={index}
-                        className="rounded bg-zinc-100 px-1.5 py-0.5 font-mono text-[0.85em] text-red-700 dark:bg-zinc-800 dark:text-red-300"
+                        className="rounded bg-gray-100 px-1.5 py-0.5 font-mono text-[0.85em] text-cyan-700 dark:bg-gray-800 dark:text-cyan-300"
                     >
                         {part.slice(1, -1)}
                     </code>
@@ -149,7 +149,7 @@ function HeadingBlock({ depth, id, children }: { depth: number; id: string; chil
         <Tag id={id} className={`group scroll-mt-24 text-zinc-900 dark:text-zinc-100 ${HEADING_CLASSES[depth]}`}>
             <a href={`#${id}`} className="no-underline">
                 {children}
-                <span className="ml-2 text-red-500 opacity-0 transition-opacity group-hover:opacity-100">#</span>
+                <span className="ml-2 text-cyan-500 opacity-0 transition-opacity group-hover:opacity-100">#</span>
             </a>
         </Tag>
     );

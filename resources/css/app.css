@@ -9,7 +9,7 @@
 
 @utility scrollbar-docs {
     scrollbar-width: thin;
-    scrollbar-color: var(--color-zinc-300) transparent;
+    scrollbar-color: var(--color-gray-300) transparent;
 
     &::-webkit-scrollbar {
         width: 0.5rem;
@@ -24,31 +24,31 @@
         border: 2px solid transparent;
         border-radius: 9999px;
         background-clip: content-box;
-        background-color: var(--color-zinc-300);
+        background-color: var(--color-gray-300);
     }
 
     &:hover {
-        scrollbar-color: var(--color-zinc-400) transparent;
+        scrollbar-color: var(--color-gray-400) transparent;
     }
 
     &:hover::-webkit-scrollbar-thumb {
-        background-color: var(--color-zinc-400);
+        background-color: var(--color-gray-400);
     }
 
     .dark & {
-        scrollbar-color: var(--color-zinc-700) transparent;
+        scrollbar-color: var(--color-gray-700) transparent;
     }
 
     .dark &::-webkit-scrollbar-thumb {
-        background-color: var(--color-zinc-700);
+        background-color: var(--color-gray-700);
     }
 
     .dark &:hover {
-        scrollbar-color: var(--color-zinc-600) transparent;
+        scrollbar-color: var(--color-gray-600) transparent;
     }
 
     .dark &:hover::-webkit-scrollbar-thumb {
-        background-color: var(--color-zinc-600);
+        background-color: var(--color-gray-600);
     }
 }
 
@@ -185,6 +185,7 @@
     html {
         /* enable smooth scrolling for anchor navigation */
         scroll-behavior: smooth;
+        scrollbar-gutter: stable;
     }
 
     body {
