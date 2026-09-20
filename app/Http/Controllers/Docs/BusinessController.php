@@ -255,6 +255,62 @@ class BusinessController extends Controller
         ]);
     }
 
+    public function publicBrands()
+    {
+        return Inertia::render('docs/business/public/brands', [
+            'section' => 'Business',
+            'page' => 'Public Brands',
+        ]);
+    }
+
+    public function publicCategories()
+    {
+        return Inertia::render('docs/business/public/categories', [
+            'section' => 'Business',
+            'page' => 'Public Categories',
+        ]);
+    }
+
+    public function publicBusinesses()
+    {
+        return Inertia::render('docs/business/public/businesses', [
+            'section' => 'Business',
+            'page' => 'Public Businesses',
+        ]);
+    }
+
+    public function publicBranches()
+    {
+        return Inertia::render('docs/business/public/branches', [
+            'section' => 'Business',
+            'page' => 'Public Branches',
+        ]);
+    }
+
+    public function publicProducts()
+    {
+        return Inertia::render('docs/business/public/products', [
+            'section' => 'Business',
+            'page' => 'Public Products',
+        ]);
+    }
+
+    public function publicProductVariants()
+    {
+        return Inertia::render('docs/business/public/product-variants', [
+            'section' => 'Business',
+            'page' => 'Public Product Variants',
+        ]);
+    }
+
+    public function publicCities()
+    {
+        return Inertia::render('docs/business/public/cities', [
+            'section' => 'Business',
+            'page' => 'Public Cities',
+        ]);
+    }
+
     public function publicDemo()
     {
         return Inertia::render('docs/business/public/demo', [

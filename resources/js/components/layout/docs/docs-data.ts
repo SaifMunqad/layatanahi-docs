@@ -109,6 +109,13 @@ export const NAV_SECTIONS: NavSectionData[] = [
                 children: [
                     { label: 'Overview', slug: 'public-overview', path: business.public.overview },
                     { label: 'Listing', slug: 'public-listing', path: business.public.listing },
+                    { label: 'Brands', slug: 'public-brands', path: business.public.brands },
+                    { label: 'Categories', slug: 'public-categories', path: business.public.categories },
+                    { label: 'Businesses', slug: 'public-businesses', path: business.public.businesses },
+                    { label: 'Branches', slug: 'public-branches', path: business.public.branches },
+                    { label: 'Products', slug: 'public-products', path: business.public.products },
+                    { label: 'Product Variants', slug: 'public-product-variants', path: business.public.productVariants },
+                    { label: 'Cities', slug: 'public-cities', path: business.public.cities },
                     { label: 'Demo', slug: 'public-demo', path: business.public.demo },
                 ],
             },

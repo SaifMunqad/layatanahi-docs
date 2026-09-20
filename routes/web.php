@@ -64,6 +64,13 @@ Route::prefix('business')->name('business.')->group(function () {
     Route::prefix('public')->name('public.')->group(function () {
         Route::get('/overview', [BusinessController::class, 'publicOverview'])->name('overview');
         Route::get('/listing', [BusinessController::class, 'publicListing'])->name('listing');
+        Route::get('/brands', [BusinessController::class, 'publicBrands'])->name('brands');
+        Route::get('/categories', [BusinessController::class, 'publicCategories'])->name('categories');
+        Route::get('/businesses', [BusinessController::class, 'publicBusinesses'])->name('businesses');
+        Route::get('/branches', [BusinessController::class, 'publicBranches'])->name('branches');
+        Route::get('/products', [BusinessController::class, 'publicProducts'])->name('products');
+        Route::get('/product-variants', [BusinessController::class, 'publicProductVariants'])->name('product-variants');
+        Route::get('/cities', [BusinessController::class, 'publicCities'])->name('cities');
         Route::get('/demo', [BusinessController::class, 'publicDemo'])->name('demo');
     });
 });
