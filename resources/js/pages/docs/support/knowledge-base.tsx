@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './knowledge-base.md?raw';
+import markdown from '../../../../docs/en/support/knowledge-base.md?raw';
 
 export default function KnowledgeBasePage() {
     return (

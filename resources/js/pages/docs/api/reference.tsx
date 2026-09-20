@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './reference.md?raw';
+import markdown from '../../../../docs/en/api/reference.md?raw';
 
 export default function APIReferencePage() {
     return (

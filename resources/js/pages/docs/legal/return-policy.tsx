@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './return-policy.md?raw';
+import markdown from '../../../../docs/en/legal/return-policy.md?raw';
 
 export default function ReturnPolicyPage() {
     return (

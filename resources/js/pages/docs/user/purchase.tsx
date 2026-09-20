@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './purchase.md?raw';
+import markdown from '../../../../docs/en/user/purchase.md?raw';
 
 export default function UserPurchasePage() {
     return (

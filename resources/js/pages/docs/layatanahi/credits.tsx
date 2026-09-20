@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './credits.md?raw';
+import markdown from '../../../../docs/en/layatanahi/credits.md?raw';
 
 export default function CreditsPage() {
     return (

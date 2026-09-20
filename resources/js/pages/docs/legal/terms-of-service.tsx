@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './terms-of-service.md?raw';
+import markdown from '../../../../docs/en/legal/terms-of-service.md?raw';
 
 export default function TermsOfServicePage() {
     return (

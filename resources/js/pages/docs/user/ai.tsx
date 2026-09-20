@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './ai.md?raw';
+import markdown from '../../../../docs/en/user/ai.md?raw';
 
 export default function UserAiPage() {
     return (

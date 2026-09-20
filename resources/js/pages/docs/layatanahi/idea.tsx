@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './idea.md?raw';
+import markdown from '../../../../docs/en/layatanahi/idea.md?raw';
 
 export default function IdeaPage() {
     return (

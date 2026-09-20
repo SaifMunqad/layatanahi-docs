@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './overview.md?raw';
+import markdown from '../../../../docs/en/api/overview.md?raw';
 
 export default function APIOverviewPage() {
     return (

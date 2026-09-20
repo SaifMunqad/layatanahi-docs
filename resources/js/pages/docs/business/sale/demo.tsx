@@ -1,4 +1,4 @@
 import BusinessPage from '@/pages/docs/business/_business-page';
-import markdown from './demo.md?raw';
+import markdown from '../../../../../docs/en/business/sale/demo.md?raw';
 
 export default function SaleDemoPage() { return <BusinessPage markdown={markdown} />; }

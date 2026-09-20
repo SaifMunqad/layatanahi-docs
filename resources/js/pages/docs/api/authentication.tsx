@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './authentication.md?raw';
+import markdown from '../../../../docs/en/api/authentication.md?raw';
 
 export default function AuthenticationPage() {
     return (

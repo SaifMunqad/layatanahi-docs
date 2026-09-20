@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Docs\ApiController;
+use App\Http\Controllers\Docs\DocumentationQueryController;
 use App\Http\Controllers\Docs\BusinessController;
 use App\Http\Controllers\Docs\LayatanahiController;
 use App\Http\Controllers\Docs\LegalController;
@@ -97,6 +98,8 @@ Route::prefix('legal')->name('legal.')->group(function () {
 });
 
 Route::prefix('api')->name('api.')->group(function () {
+    Route::post('/docs/query', DocumentationQueryController::class)
+        ->middleware(['auth', 'throttle:60,1'])->name('docs.query');
     Route::get('/overview', [ApiController::class, 'overview'])->name('overview');
     Route::get('/authentication', [ApiController::class, 'authentication'])->name('authentication');
     Route::get('/reference', [ApiController::class, 'reference'])->name('reference');

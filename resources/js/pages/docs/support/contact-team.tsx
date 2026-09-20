@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './contact-team.md?raw';
+import markdown from '../../../../docs/en/support/contact-team.md?raw';
 
 export default function ContactTeamPage() {
     return (

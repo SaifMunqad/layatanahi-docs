@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './help-center.md?raw';
+import markdown from '../../../../docs/en/support/help-center.md?raw';
 
 export default function HelpCenterPage() {
     return (

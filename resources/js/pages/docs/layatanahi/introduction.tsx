@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './introduction.md?raw';
+import markdown from '../../../../docs/en/layatanahi/introduction.md?raw';
 
 export default function IntroductionPage() {
     return (

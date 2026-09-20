@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './profile.md?raw';
+import markdown from '../../../../docs/en/user/profile.md?raw';
 
 export default function UserProfilePage() {
     return (

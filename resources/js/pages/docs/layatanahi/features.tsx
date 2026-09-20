@@ -1,5 +1,5 @@
 import DocsPage from '@/pages/docs/_docs-page';
-import markdown from './features.md?raw';
+import markdown from '../../../../docs/en/layatanahi/features.md?raw';
 
 export default function FeaturesPage() {
     return (
