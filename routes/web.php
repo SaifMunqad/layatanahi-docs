@@ -10,7 +10,7 @@ use App\Http\Controllers\PurchaseController;
 use App\Http\Controllers\SaleController;
 use Illuminate\Support\Facades\Route;
 
-Route::inertia('/', 'docs/home')->name('home');
+Route::redirect('/', '/layatanahi/overview')->name('home');
 
 Route::prefix('user')->name('user.')->group(function () {
     Route::get('/overview', [UserController::class, 'overview'])->name('overview');

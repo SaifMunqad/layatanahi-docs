@@ -2,10 +2,11 @@ import { useEffect, useState } from 'react';
 import { Menu, Moon, Search, SunMedium } from 'lucide-react';
 import LayatanahiIcon from '@/components/icons/LayatanahiIcon.jsx';
 import {Link} from "@inertiajs/react";
+import layatanahi from '@/routes/layatanahi';
 
 function Logo() {
     return (
-        <Link href="/" className="flex shrink-0 items-center">
+        <Link href={layatanahi.overview()} className="flex shrink-0 items-center">
             <LayatanahiIcon className="h-7 w-auto fill-cyan-800 dark:fill-cyan-500" />
         </Link>
     );

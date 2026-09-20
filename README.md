@@ -467,7 +467,7 @@ Named route groups keep URLs and route names organized by section.
 
 | Method | URL                              | Route name                   | Handler                                |
 |--------|----------------------------------|------------------------------|----------------------------------------|
-| GET    | `/`                              | `home`                       | `Inertia → docs/home`                  |
+| GET    | `/`                              | `home`                       | *(redirect)* → `/layatanahi/overview`  |
 | GET    | `/user/overview`                 | `user.overview`              | `UserController@overview`              |
 | GET    | `/user/purchase`                 | `user.purchase`              | `UserController@purchase`              |
 | GET    | `/user/ai`                       | `user.ai`                    | `UserController@ai`                    |
@@ -533,7 +533,6 @@ resources/js/
 ├── app.tsx                     # Inertia bootstrap + layout resolver
 ├── pages/                      # Inertia page components (mirror route names)
 │   ├── docs/                   # Documentation pages
-│   │   ├── home.tsx
 │   │   ├── _docs-page.tsx      # Shared page renderer (Markdown → article + TOC)
 │   │   ├── layatanahi/         # overview/credits/team/idea/features (.tsx + .md)
 │   │   ├── user/                   # overview / purchase / ai / profile
