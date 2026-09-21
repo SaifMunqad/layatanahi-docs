@@ -78,6 +78,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
     const [query, setQuery] = useState('');
     const [selectedIndex, setSelectedIndex] = useState(0);
     const inputRef = useRef<HTMLInputElement>(null);
+    const resultRefs = useRef<Array<HTMLAnchorElement | null>>([]);
 
     const results = useMemo(() => {
         const normalizedQuery = query.trim().toLowerCase();
@@ -86,11 +87,21 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
 
         const collect = (item: NavItem, section: string) => {
             const href = resolveHref(item.path);
-            items.push({ item, section, href, content: contentForHref(href, locale), excerpt: '' });
-            item.children?.forEach((child) => collect(child, `${section} / ${item.label}`));
+            const itemLabel = t(`sidebar.items.${item.slug}`, {defaultValue: item.label});
+            items.push({
+                item: {...item, label: itemLabel},
+                section,
+                href,
+                content: contentForHref(href, locale),
+                excerpt: '',
+            });
+            item.children?.forEach((child) => collect(child, `${section} / ${itemLabel}`));
         };
 
-        NAV_SECTIONS.forEach((section) => section.items.forEach((item) => collect(item, section.label)));
+        NAV_SECTIONS.forEach((section) => {
+            const sectionLabel = t(`sidebar.sections.${section.label}`, {defaultValue: section.label});
+            section.items.forEach((item) => collect(item, sectionLabel));
+        });
 
         if (!normalizedQuery) return items.slice(0, 8);
 
@@ -110,7 +121,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
             .filter((entry) => entry.score > 0)
             .sort((a, b) => b.score - a.score || a.item.label.localeCompare(b.item.label))
             .slice(0, 12);
-    }, [query, i18n.resolvedLanguage, i18n.language]);
+    }, [query, t, i18n.resolvedLanguage, i18n.language]);
 
     useEffect(() => {
         if (!open) return;
@@ -122,6 +133,12 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
     useEffect(() => {
         setSelectedIndex((index) => Math.min(index, Math.max(results.length - 1, 0)));
     }, [results.length]);
+
+    useEffect(() => {
+        if (!open || !results.length) return;
+
+        resultRefs.current[selectedIndex]?.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+    }, [open, results.length, selectedIndex]);
 
     useEffect(() => {
         if (!open) return;
@@ -182,6 +199,9 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                     {results.length > 0 ? results.map((result, index) => (
                         <Link
                             key={result.item.slug}
+                            ref={(element) => {
+                                resultRefs.current[index] = element;
+                            }}
                             href={hrefWithSearch(result.href, query)}
                             onClick={onClose}
                             className={`flex w-full items-center justify-between rounded-none px-3 py-2 text-left text-sm text-zinc-700 dark:text-zinc-300 ${index === selectedIndex ? 'bg-zinc-100 dark:bg-zinc-800' : 'hover:bg-zinc-50 dark:hover:bg-zinc-800'}`}
