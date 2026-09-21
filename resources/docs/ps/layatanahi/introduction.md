@@ -1,40 +1,39 @@
-# Introduction
-This project contains a system which mainly focuses on connecting businesses and developing a powerful network platform for Afghan E-commerce and Business and on operations that every business needs as an operating object,including connecting all the Afghan businesses,it suppliers, localstores, super stores, and customer [**both B2B and B2C**] nationwide with global scalability.
+# پېژندنه
+دا پروژه یو سیسټم لري چې عمده تمرکز یې د سوداګریزو کلتورو نښلول دي او د افغانستان د الیکټرانیک تجارت او سوداګرۍ لپاره د پیاوړي شبکې پلیټ فارم جوړول، او هغه عملیات چې هر سوداګر یې د خپلې فعالیتونو یوه اړینه برخه ګڼي. دا سیسټم ټول افغان سوداګر، ورکړونکي، محلي پلورنځیونه، لوی پلورنځیونه او پیرودونکي [**هم B2B او هم B2C**] په هېواد کې سره نښلوي او د نړیوالې پراختیا وړتیا لري.
 
-The collaboration feature of this system helps simplify communication amongst businesses while monitoring provides interface for system admins to help maintain the application and to keep track of what users of the system perform.
+د دې سیسټم د همکارۍ ځانګړتیا د سوداګریزو کلتورو ترمنځ اړیکې اسانه کوي، او څارنه د سیسټم مدیرانو ته interface برابروي چې غوښتنلیک ساتلای شي او څارنه کړي چې کاروونکي په سیسټم کې څه ترسره کوي.
 
-This system can generate various reports related to the function of the system The system uses traditional form system to perform **CRUD** operations due to its simplicity of use and familiarity of people
-## Project overview
-This system is to advance traditional existing accounting and comunication system with busineses that are paper based or traditional spreadsheets base systems or there is no communications at all between busineses,and also replace the heavy and expensive international accounting systems that a small store can't afford of its price and its complexity which people would go for when they are trying to manage their business or when busineses want to communicate with each other the information related to each of them **e.g.** invoice provided by supplier those this invoice is reached to its customers and dose the customer pays that invoice and is this payment made by customer recived in busineses the traditional system is to print the docomentation as a transaction made between two busineses and send it to the customer via post,or Email,or phone this system is simplifies this and when there is a need for exchanging data and information by automating this process inside the system for each of them both the suppliers and customers or between two busineses.
+دا سیسټم کولای شي د سیسټم د فعالیتونو اړوند بېلابېل راپورونه جوړ کړي. سیسټم د **CRUD** عملیاتو د ترسره کولو لپاره له دودیز فورمه سیسټم څخه کار اخلي، ځکه چې کارول یې اسانه دي او خلک ورسره بلد دي.
+## د پروژې لنډه کتنه
+دا سیسټم د دودیزو شته محاسبوي او اړیکو سیسټمونو د پرمختګ لپاره دی — هغه سوداګرۍ چې کاغذي_records کاروي، دودیز spreadsheets لري، یا د سوداګریزو کلتورو ترمنځ هیڅ ډول اړیکې شته ندي. همدارنګه د درنو او ګرانو نړیوالو محاسبوي سیسټمونو ځای ناستی کېږي چې یو کوچنی پلورنځی یې بیه او پیچلتیا نه شي تحمیلولای؛ هغه سیسټم چې خلک د خپلې سوداګرۍ د مدیریت لپاره ورته مخ کوي. کله چې سوداګرۍ غواړي خپلمنځي اړوند معلومات سره شریک کړي — **لکه** د ورکړونکي له خوا ورکړل شوې بل، چې ایا بل پیرودونکي ته رسیدلی دی، ایا پیرودونکي هغه بل ورکړی دی، او ایا د پیرودونکي تادیه سوداګرۍ ته رسیدلې ده — دودیز سیسټم دا دی چې د دوو سوداګریزو کلتورو ترمنځ د معاملې سند چاپ شي او post، برېښنایي ایمیل یا ټیلیفون له لارې پیرودونکي ته واستول شي. دا سیسټم دا پروسه ساده کوي: کله چې د معلوماتو تبادله اړینه وي، دا بهیر د سیسټم دننه اتومات کوي — که د ورکړونکو او پیرودونکو ترمنځ یا د دوو سوداګریزو کلتورو ترمنځ.
 
-## This platform contains
+## دا پلیټ فارم لاندې برخې لري
 
-**Purchases:** contain all the incoming transactions ,purchase of raw materials,supplies,inventory,by every purchase the business recives a purchase invoice from a seller and contains purchases repors .
+**تېروتونه (Purchases):** ټولې راتلونکې معاملې پکې شاملې دي — د خامو توکو، سامانونو او زخیرې تېروتونه. په هر تېروت سوداګري د پلورونکي څخه د تېروت بل ترلاسه کوي او د تېروتونو راپورونه پکې شته.
 
-**Sales:** all sales informations, what products sell at which price and which quantity and report for sales by product, sales by business,sales by customer,etc...
+**پلورنې (Sales):** د ټولو پلورنو معلومات — کوم توکي په کومه بیه او څومره مقدار پلورل شوي، او د توکي پر بنسټ پلور، د سوداګرۍ پر بنسټ پلور، د پیرودونکي پر بنسټ پلور او نور راپورونه.
 
-**Expenses:** cover all the expenses a business can do from purchasing material, supplies, paying salaries and expenses.
+**لګښتونه (Expenses):** د سوداګرۍ ټول لګښت پکې پوښل کېږي — د توکو او سامانونو تېروت، معاشاتو او نورو لګښتونو تادیه.
 
-**Employees and payroll mangment system:** the system has all information about employees and we can assign salaries to them.
+**د کارکوونکو او معاشاتو مدیریت:** سیسټم د کارکوونکو په اړه ټول معلومات لري او موږ کولای شو ورته معاشات وټاکو.
 
-**Inventory managment system:** every branch of a business has its own inventories also by every purchase the inventory adds those items and with every sale the inventory removes that item sold.
+**د زخیرې مدیریت (Inventory):** د هرې سوداګرۍ هر څانګه خپله جلا زخره لري؛ په هر تېروت زخره توکي زیاتوي او په هر پلور پلورل شوی توکی ترې کمېږي.
 
-**Activities:** record the log for every change made in system as an Audit log.
+**فعالیتونه (Activities):** په سیسټم کې د هرې بدلون لوګ د Audit log په بڼه ثبتوي.
 
-# features of system
-**Core E-commerce:** this system applies the core e-commers activities as its main functionality and by them its task and jobs were done.
+# د سیسټم ځانګړتیاوې
+**بنسټیز الیکټرانیک تجارت:** دا سیسټم د الیکټرانیک تجارت اصلي فعالیتونه د خپلې اصلي دندې په توګه پلي کوي او خپلې دندې او کارونه په همدې ترسره کوي.
    
       
-- Multi business managment,with dashboard. 
-- Products catalog with categories, variants SKUs,and barcodes.
-- Inventory managment system (**Stock alert,low stock,batch tracking**)
+- د څو سوداګریزو کلتورو مدیریت، له dashboard سره.
+- د توکو کاتالوګ له وېشنو، variants، SKU او بارکوډونو سره.
+- د زخیرې د مدیریت سیسټم (**د زخیرې خبرتیا، ټیټه زخره، د batch تعقیب**)
 
-# User and business mangment 
- Managment of users is a significantly import portion of every computer system, especially in financial related projects as of authorization for management of this task this system has its own relation [**table**] for users and also applies Google Auto Sign in function using Google's API.
+# د کاروونکو او سوداګریزو کلتورو مدیریت
+د کاروونکو مدیریت د هر کمپیوټري سیسټم یوه خورا مهمه برخه ده، په ځانګړي توګه د مالي اړخ پروژه ګانو کې لکه د دندې د ترسره کولو واک ورکول (authorization). دا سیسټم د کاروونکو لپاره خپله اړیکه [**table**] لري او د ګوګل د API په کارولو سره د Google Auto Sign in ځانګړتیا هم پلي کوي.
 
-### There main types of users in this system are:
+### د دې سیسټم د کاروونکو اصلي ډولونه دا دي:
 
-1. Business (Vendor/Store Owner)
-2. Customer (B2B and B2C)
-3. Supplier (can be an external entity )
-
+1. سوداګري (فروشي / د پلورنځي خاوند)
+2. پیرودونکی (B2B او B2C)
+3. ورکړونکی (کولای شي بهرنۍ entity وي)

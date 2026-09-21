@@ -1,93 +1,93 @@
-# Idea
+# ایده
 
-## Our Idea
+## ایده ما
 
-From Business Data to Business Intelligence
+از داده‌های کسب‌وکار تا هوش کسب‌وکار (Business Intelligence)
 
-Layatanahi started with a simple idea: make business information easier to manage, organize, and use.
+لایاتناهی با یک ایده ساده آغاز شد: آسان‌تر ساختن مدیریت، سازماندهی و استفاده از اطلاعات کسب‌وکار.
 
-We first created a web-based system for managing business data. As we understood the needs of businesses, we realized that storing information was only the beginning. Businesses also need to manage sales, purchases, products, customers, suppliers, inventory, reporting, and daily operations — all in one connected place.
+در ابتدا یک سیستم تحت وب برای مدیریت داده‌های کسب‌وکار ساختیم. هنگامی که نیازهای کسب‌وکارها را درک کردیم، دریافتیم که ذخیره اطلاعات تنها آغاز راه است. کسب‌وکارها همچنین نیاز دارند فروش‌ها، خریدها، محصولات، مشتریان، تأمین‌کنندگان، زخیره، گزارش‌دهی و عملیات روزانه را مدیریت کنند — همه در یک مکان به هم پیوسته.
 
-So, the idea grew.
+بنابراین، ایده رشد کرد.
 
-### One System. Every Part of Your Business.
+### یک سیستم. هر بخش از کسب‌وکار شما.
 
-We expanded Layatanahi into a complete business platform where information entered once can become useful across the entire business.
+لایاتناهی را به یک پلتفرم کامل کسب‌وکار تبدیل کردیم که در آن اطلاعاتی که یک بار وارد می‌شود می‌تواند در سراسر کسب‌وکار مفید واقع شود.
 
-Sales can connect with inventory.
-Purchases can connect with suppliers.
-Products can have rich information and 3D experiences.
-Business activity can become reports.
-Reports can become insights.
-And business data can become intelligent decisions.
+فروش می‌تواند به زخیره متصل شود.
+خریدها می‌توانند به تأمین‌کنندگان متصل شوند.
+محصولات می‌توانند اطلاعات غنی و تجربه‌های سه‌بعدی (3D) داشته باشند.
+فعالیت کسب‌وکار می‌تواند به گزارش تبدیل شود.
+گزارش‌ها می‌توانند به بینش تبدیل شوند.
+و داده‌های کسب‌وکار می‌توانند به تصمیم‌های هوشمند تبدیل شوند.
 
-## Our AI Vision
+## چشم‌انداز هوش مصنوعی (AI) ما
 
-We then asked:
+سپس پرسیدیم:
 
-What if businesses could talk to their own system?
+چه شود که کسب‌وکارها با سیستم خودشان گفت‌وگو کنند؟
 
-That led us to AI.
+این پرسش ما را به سمت AI برد.
 
-Layatanahi is designed to provide intelligent AI agents that understand the business and help people interact with their data and operations.
+لایاتناهی به‌گونه‌ای طراحی شده که ایجن‌ت‌های هوشمند AI ارائه کند که کسب‌وکار را می‌فهمند و به مردم کمک می‌کنند با داده‌ها و عملیات خود تعامل کنند.
 
-### AI Customer Agent
+### ایجن AI مشتری
 
-A customer can ask questions, discover products, receive recommendations, get order information, and receive support through an intelligent AI experience.
+مشتری می‌تواند از طریق یک تجربه هوشمند AI پرسش کند، محصول کشف کند، توصیه دریافت کند، اطلاعات سفارش بگیرد و پشتیبانی دریافت نماید.
 
-### AI Business Agent
+### ایجن AI کسب‌وکار
 
-Business owners and employees can ask questions about their business in natural language.
+صاحبان و کارمندان کسب‌وکار می‌توانند درباره کسب‌وکار خود به زبان طبیعی پرسش کنند.
 
-For example:
+برای مثال:
 
-- "What were our best-selling products this month?"
-- "Which products need to be reordered?"
-- "Show me our sales performance."
-- "Which customers have outstanding payments?"
+- «پرفروش‌ترین محصولات ما در این ماه کدام بودند؟»
+- «کدام محصولات نیاز به سفارش مجدد دارند؟»
+- «عملکرد فروش ما را نشان بده.»
+- «کدام مشتریان پرداخت‌های معوق دارند؟»
 
-The goal is not only to provide answers, but eventually to help businesses take action — with the appropriate permissions and approvals.
+هدف تنها ارائه پاسخ نیست، بلکه در نهایت کمک به کسب‌وکارها برای انجام اقدام است — با اجازت‌ها و تأییدهای مناسب.
 
-## From Data to Reports
+## از داده تا گزارش
 
-Business activity creates valuable information every day.
+فعالیت کسب‌وکار هر روز اطلاعات باارزشی تولید می‌کند.
 
-Layatanahi organizes this information and turns it into useful reports, including business activity and tax-related data where applicable.
+لایاتناهی این اطلاعات را سازماندهی می‌کند و آن‌ها را به گزارش‌های مفید تبدیل می‌نماید، از جمله فعالیت کسب‌وکار و داده‌های مربوط به مالیات در موارد مربوطه.
 
-Reports can be exported to formats such as Excel, making it easier for businesses, managers, and accountants to work with their information.
+گزارش‌ها را می‌توان به فارمیت‌هایی مانند Excel صادر (export) کرد تا کار با اطلاعات برای کسب‌وکارها، مدیران و محاسبان آسان‌تر شود.
 
-## Business Monitoring
+## نظارت بر کسب‌وکار
 
-A modern business needs to know what is happening.
+یک کسب‌وکار مدرن نیاز دارد بداند چه در حال رخ دادن است.
 
-Layatanahi brings important information together through monitoring, alerts, activity tracking, and system insights.
+لایاتناهی اطلاعات مهم را از طریق نظارت، هشدارها، ردیابی فعالیت و بینش‌های سیستمی کنار هم می‌آورد.
 
-Instead of searching through different systems, businesses can have one place to understand what needs attention.
+به‌جای جست‌وجو در سیستم‌های مختلف، کسب‌وکارها می‌توانند یک مکان برای فهمیدن اینکه چه چیزی نیاز به توجه دارد داشته باشند.
 
-## Connected Support
+## پشتیبانی پیوسته
 
-We also wanted support to be part of the system itself.
+ما همچنین می‌خواستیم پشتیبانی بخشی از خود سیستم باشد.
 
-Layatanahi brings together customer support, business support, issue tracking, AI assistance, and human support so problems can be identified and handled more efficiently.
+لایاتناهی پشتیبانی مشتری، پشتیبانی کسب‌وکار، ردیابی مسائل، کمک AI و پشتیبانی انسانی را کنار هم می‌آورد تا مشکلات کارآمدتر شناسایی و رسیدگی شوند.
 
-## Where We Are Going
+## به کجا می‌رویم
 
-Layatanahi is not just a database.
+لایاتناهی تنها یک پایگاه داده نیست.
 
-It is not only a sales system.
+تنها یک سیستم فروش نیست.
 
-It is not only an AI assistant.
+تنها یک دستیار AI نیست.
 
-It is not only a reporting platform.
+تنها یک پلتفرم گزارش‌دهی نیست.
 
-Our vision is to connect all of these into one intelligent business operating system.
+چشم‌انداز ما این است که همه این‌ها را در یک سیستم عامل هوشمند کسب‌وکار به هم متصل کنیم.
 
-Data → Operations → Intelligence → Action → Growth
+داده ← عملیات ← هوش ← اقدام ← رشد
 
-We believe businesses should spend less time moving information between systems and more time using that information to make better decisions.
+باور داریم که کسب‌وکارها باید زمان کمتری را برای جابه‌جایی اطلاعات میان سیستم‌ها صرف کنند و زمان بیشتری را برای استفاده از آن اطلاعات جهت تصمیم‌گیری بهتر به کار برند.
 
-Layatanahi brings the business together — one system, one connected data foundation, and intelligent AI working alongside people.
+لایاتناهی کسب‌وکار را یکجا می‌آورد — یک سیستم، یک بنیاد داده‌ای به هم پیوسته، و AI هوشمندی که در کنار مردم کار می‌کند.
 
-### Layatanahi
+### لایاتناهی
 
-One intelligent system for your business.
+یک سیستم هوشمند برای کسب‌وکار شما.

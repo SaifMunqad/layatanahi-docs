@@ -1,23 +1,23 @@
-# User Overview
+# د کاروونکي لنډه کتنه
 
-User overview for managing accounts, activity, service status, and the complete shopping experience.
+د کاروونکي لنډه کتنه د حسابونو، فعالیت، د خدمت حالت، او بشپړې د پیرود تجربې د مدیریت لپاره.
 
-## Products
+## توکي (Products)
 
-Customers can browse and explore products through a rich shopping experience designed to make discovery, comparison, and purchase simple. Users can view a product in a quick-view drawer for a fast preview or open it on a dedicated full-page product detail screen for a deeper review. On either view, they can inspect key information such as product description, pricing, specifications, stock availability, variants, dimensions, materials, and related items.
+پیرودونکي کولای شي توکي د بډایې پیرود تجربې له لارې وګورئ او وپلټئ، چې کشف، پرتله کول او پیرود یې اسانه کړي. کاروونکي کولای شي توکی په چټک-کتنه ډراور (quick-view drawer) کې لنډ وګوري، یا یې په بشپړ-پاڼې د توکي تفصیل سکرین پرانیستي چې نور یې وڅاري. په دواړو لیدونو کې دوی مهم معلومات لکه د توکي تشریح، بیې، مشخصات، د زخیرې شتون، variants، اندازه ګانې، مواد او اړوند توکي ګوري.
 
-Users can choose to purchase products directly from the product page or add them to the cart and complete the purchase later. This gives customers flexibility depending on whether they want an immediate transaction or a more careful comparison before checkout. Once an item is added to the cart, users can review quantities, update selections, remove products, and continue shopping before finalizing the order.
+کاروونکي کولای شي توکي مستقیم د توکي له پاڼې وپيري، یا ټوکر یې زیات کړي او وروسته پیرود بشپړ کړي. دا پیرودونکو ته انعطاف ورکوي، پر بنسټ دا چې بې سمدستي معامله غواړي که مخکې له checkout پام وړ پرتله. کله چې توکی ټوکر زیان شي، کاروونکي مقدار بیا کتلای، غوریدلې ټاکنې بدلولای، توکي لیرې کولای او مخکې له وروستي کولو پیرود ته دوام ورکولای شي.
 
-The product experience also includes customer feedback and visual exploration. Users can read and add reviews and ratings, helping them understand product quality and real-world use before buying. They can inspect product images, download available media, or open 3D product views for more interactive inspection. Downloaded images and 3D model files are intended for personal use and evaluation, and they may not be reused for commercial purposes without explicit permission.
+د توکي تجربه د پیرودونکو نظریات او بصري کتنه هم لري. کاروونکي کولای شي بیاکتنې (reviews) او درجې (ratings) ولولي او زیات کړي، چې د پیرود مخکې یې د توکي کیفیت او ریښتینی کارونه تشریح کړي. دوی کولای شي د توکي انځورونه وګوري، شته میډیا ډاونلوډ کړي، یا د تعامل کتنې لپاره درې اړخیز (3D) view پرانیستي. ډاونلوډ شوي انځورونه او 3D model فایلونه د شخصي کارونې او ارزونې لپاره دي، او تجارتي موخو ته یې بیا کارول د روښنا اجازې پرته جایز نه دي.
 
-## AI and Search
+## AI او لټون
 
-Users can take advantage of AI-powered support to search for products, refine results, and receive recommendations based on their needs. They can ask for product suggestions, compare alternatives, and explore options that match their preferences, budget, or use case without needing to manually browse every item.
+کاروونکي کولای شي له AI پر بنسټ ملاتړ ګټه واخلي — توکي وپلټي، پایلې اصلاح کړي، او د خپلو اړتیاوو پر بنسټ وړاندیزونه ترلاسه کړي. دوی کولای شي د توکي وړاندیز وغواړي، بدیلونه پرتله کړي، او هغه انتخابونه وګوري چې د غوښتنو، بودیجې یا کارونې سره سمون لري، پرته له دې چې هر توکی لاسي وګرځوي.
 
-## Orders and Account Activity
+## غوښتنې او د حساب فعالیت
 
-The user overview also includes account-level activity so customers can stay informed about their purchases, shipments, and recent actions. Users can see their order history, review current items in transit, and monitor account status from a single place.
+د کاروونکي لنډه کتنه د حساب کچه فعالیت هم لري ترڅو پیرودونکي له خپلو پیرودونو، لېږدونو او وروستیو چارو خبر پاتې شي. کاروونکي کولای شي خپل د غوښتنو تاریخچه وګوري، اوسني لېږدول کېدونکي توکي وڅاري، او د حساب حالت له یوې ځای څخه وڅاري.
 
-## Profile and Settings
+## پروفایل او تنظیمات
 
-Users can manage their personal account information, language preferences, security settings, and general platform settings from the profile area. They can also enable or disable AI features, switch between supported languages, and export their personal data as an Excel file when needed.
+کاروونکي کولای شي له پروفایل برخې څخه خپل شخصي حساب معلومات، د ژبې غوره‌توبونه، د امنیت تنظیمات او عمومي پلیټ فارم تنظیمات مدیریت کړي. دوی کولای شي AI ځانګړتیاوې فعال یا غیرفعال کړي، د ملاتړ شوو ژبو ترمنځ بدلون ورکړي، او کله چې اړتیا وي خپل شخصي ډاټا د Excel فایل په بڼه export کړي.

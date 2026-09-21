@@ -1,46 +1,46 @@
-# Layatanahi System
+# د لایاتناهی سیسټم
 
-## Overview 
+## لنډه کتنه
 
-Layatanahi is an e-commerce web application designed to help Afghan businesses manage their operations more easily and connect with one another. Many small and medium businesses still rely on paper-based records or simple spreadsheets, which are slow, costly, and difficult to maintain. Layatanahi was developed to solve these problems by providing a single online platform where businesses, suppliers, and customers can interact smoothly.
+لایاتناهی یو الیکټرانیک تجارت ویب غوښتنلیک دی چې د افغان سوداګریزو کلتورو سره مرسته کوي ترڅو خپل عملیات په اسانۍ سره مدیریت کړي او یو له بل سره ونښلوي. ډیرې کوچنۍ او منځنۍ سوداګرۍ لا هم په کاغذي ریکارډونو یا ساده spreadsheets تکیه کوي چې ورو، ګران او د ساتل ستونزمن دي. لایاتناهی د دې ستونزو د حل لپاره جوړ شوی ترڅو یو آنلاین پلیټ فارم برابور کړي چیرې چې سوداګرۍ، ورکړونکي او پیرودونکي په هوار ډول سره اړیکه نیسي.
 
-The system supports both **business-to-business (B2B)** and **business-to-customer (B2C)** operations, allowing users to manage important activities such as purchases, sales, inventory, expenses, employees and salaries, and payments — all in one place.
+سیسټم هم **سوداګري-په-سوداګري (B2B)** او هم **سوداګري-په-پیرودونکی (B2C)** عملیات ملاتړ کوي؛ کاروونکي کولای شي مهم فعالیتونه لکه تېروتونه، پلورنې، زخره، لګښتونه، کارکوونکي او معاشات، او تادیې — ټول په ځای سره مدیریت کړي.
 
-## Key Features
+## اصلي ځانګړتیاوې
 
-- **Customer & Vendor Management** — Maintain and organize relationships with customers and suppliers
-- **Inventory Management** — Track stock levels, products, and supplies in real time
-- **Online Payment** — Secure handling of digital transactions
-- **Shopping Cart** — Streamlined purchasing experience for customers
-- **Notifications** — Timely updates on orders, transactions, and account activity
-- **Transaction Confirmation** — Verified confirmation process between users
-- **Tax Calculation** — Automated calculation of applicable taxes
-- **Google Authentication** — Simple and secure login using Google accounts
+- **د پیرودونکو او ورکړونکو مدیریت** — له پیرودونکو او ورکړونکو سره اړیکې ساتل او ترتیب کول
+- **د زخیرې مدیریت** — د زخیرې کچې، توکو او سامانونو د ریښتیني وخت تعقیب
+- **آنلاین تادیه** — د ډیجیټلو معاملو خوندي پروسس
+- **د پیرود ټوکر (Shopping Cart)** — د پیرودونکو لپاره د پیرود اسانه تجربه
+- **خبرتیاوې** — د غوښتنو، معاملو او د حساب فعالیتونو په اړه وختي تازه معلومات
+- **د معاملې تایید** — د کاروونکو ترمنځ تایید شوی د تصدیق بهیر
+- **د مالیې محاسبه** — د وړ مالیاتو اتومات محاسبه
+- **د ګوګل تصدیق (Authentication)** — د ګوګل حسابونو په کارولو سره ساده او خوندي ننوتل
 
-## Core Modules
+## اصلي ماډیولونه
 
-| Module | Description |
+| ماډیول | تشریح |
 |---|---|
-| Purchases | Manage procurement of goods and supplies |
-| Sales | Track and process sales transactions |
-| Inventory Management | Monitor and control stock levels |
-| Expense Tracking | Record and manage business expenses |
-| Employee & Salary Management | Handle staff records and payroll |
-| Payments | Process and track payments between parties |
+| تېروتونه | د توکو او سامانونو د تېروت مدیریت |
+| پلورنې | د پلورنو معاملو تعقیب او پروسس |
+| د زخیرې مدیریت | د زخیرې د کچو څارنه او کنترل |
+| د لګښتونو ریکارډ | د سوداګرۍ د لګښتونو ثبت او مدیریت |
+| د کارکوونکو او معاشاتو مدیریت | د کارکوونکو ریکارډونه او پی رول (payroll) |
+| تادیې | د اړخونو ترمنځ د تادیو پروسس او تعقیب |
 
-## Development Approach
+## د پراختیا طریقه
 
-- **Methodology:** Agile — the system was built incrementally with continuous improvements at each stage
-- **Testing:** Multiple types of testing were conducted to ensure the system works correctly and reliably
+- **میټودولوژي:** ایجایل (Agile) — سیسټم په پړاوین ډول جوړ شوی، د هر پړاو په ترڅ کې پرله پسې ښه والی راغلی
+- **ازمویښت:** د سیسټم د سم او باوري کار کولو ډاډ لپاره د ازموینو څو ډوله ترسره شول
 
-## Benefits
+## ګټې
 
-- Simple to use and affordable for small and medium businesses
-- Reduces manual, paper-based work
-- Saves time through automation
-- Improves communication between businesses, suppliers, and customers
-- Supports Afghan businesses in transitioning to digital systems and improving efficiency
+- د کوچنیو او منځنیو سوداګریزو کلتورو لپاره د کارولو اسانۍ او لاسرسی وړ بیه
+- د لاسي، کاغذي کار کمول
+- د اتوماسیون له لارې د وخت سپما
+- د سوداګریزو کلتورو، ورکړونکو او پیرودونکو ترمنځ د اړیکو ښه والی
+- افغان سوداګریزو کلتورو ته ډیجیټل سیسټمونو ته د لیږد او د موثریت د زیاتولو ملاتړ
 
-## Conclusion
+## پایله
 
-Layatanahi provides a practical, all-in-one solution for Afghan businesses to modernize their operations, streamline daily activities, and build stronger connections across the B2B and B2C ecosystem.
+لایاتناهی د افغان سوداګریزو کلتورو لپاره یو عملي، ټول-په-یو حل برابروي ترڅو خپل عملیات نوي کړي، ورځني فعالیتونه منظم کړي او د B2B او B2C ایکوسیستم کې قوي اړیکې جوړې کړي.

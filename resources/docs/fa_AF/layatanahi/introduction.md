@@ -1,40 +1,39 @@
-# Introduction
-This project contains a system which mainly focuses on connecting businesses and developing a powerful network platform for Afghan E-commerce and Business and on operations that every business needs as an operating object,including connecting all the Afghan businesses,it suppliers, localstores, super stores, and customer [**both B2B and B2C**] nationwide with global scalability.
+# مقدمه
+این پروژه شامل سیستمی است که عمدتاً بر اتصال کسب‌وکارها و ایجاد یک پلتفرم شبکوی قدرتمند برای تجارت الکترونیک و بازرگانی افغانستان تمرکز دارد، و بر عملیاتی که هر کسب‌وکار به‌عنوان یک واحد عملیاتی به آن‌ها نیاز دارد؛ از جمله اتصال تمام کسب‌وکارهای افغان، تأمین‌کنندگان، مغازه‌های محلی، سوپرمارکت‌ها و مشتریان [**هم B2B و هم B2C**] در سراسر کشور با قابلیت گسترش جهانی.
 
-The collaboration feature of this system helps simplify communication amongst businesses while monitoring provides interface for system admins to help maintain the application and to keep track of what users of the system perform.
+ویژگی همکاری در این سیستم به ساده‌سازی ارتباط میان کسب‌وکارها کمک می‌کند، در حالی که نظارت، رابطی برای مدیران سیستم فراهم می‌سازد تا در نگهداری اپلیکیشن کمک کنند و پی بگیرند که کاربران سیستم چه اعمالی انجام می‌دهند.
 
-This system can generate various reports related to the function of the system The system uses traditional form system to perform **CRUD** operations due to its simplicity of use and familiarity of people
-## Project overview
-This system is to advance traditional existing accounting and comunication system with busineses that are paper based or traditional spreadsheets base systems or there is no communications at all between busineses,and also replace the heavy and expensive international accounting systems that a small store can't afford of its price and its complexity which people would go for when they are trying to manage their business or when busineses want to communicate with each other the information related to each of them **e.g.** invoice provided by supplier those this invoice is reached to its customers and dose the customer pays that invoice and is this payment made by customer recived in busineses the traditional system is to print the docomentation as a transaction made between two busineses and send it to the customer via post,or Email,or phone this system is simplifies this and when there is a need for exchanging data and information by automating this process inside the system for each of them both the suppliers and customers or between two busineses.
+این سیستم می‌تواند گزارش‌های متنوعی مربوط به عملکردهای سیستم تولید کند. سیستم برای انجام عملیات **CRUD** از قالب فرم‌های سنتی استفاده می‌کند، زیرا استفاده از آن ساده و برای مردم آشنا است.
+## مروری بر پروژه
+این سیستم برای پیشبرد سیستم‌های سنتی موجود محاسبه و ارتباط با کسب‌وکارهایی طراحی شده که کاغذ-محور هستند، بر مبنای صفحه‌گسترده‌های سنتی کار می‌کنند، یا هیچ‌گونه ارتباطی میان کسب‌وکارها وجود ندارد؛ همچنین جایگزین سیستم‌های محاسبه بین‌المللی سنگین و گران‌قیمتی است که یک مغازه کوچک از عهده قیمت و پیچیدگی آن برنمی‌آید و مردم هنگام مدیریت کسب‌وکارشان به آن روی می‌آورند. هنگامی که کسب‌وکارها می‌خواهند اطلاعات مربوط به یکدیگر را با هم شریک کنند — **مثلاً** بل (invoice) ارائه‌شده از سوی تأمین‌کننده: آیا این بل به دست مشتری رسیده است؟ آیا مشتری آن بل را پرداخت کرده؟ آیا پرداخت مشتری در کسب‌وکار دریافت شده؟ — روش سنتی این است که سند معامله میان دو کسب‌وکار چاپ شود و از طریق خدمت پُست (post)، ایمیل یا تلفون به مشتری فرستاده شود. این سیستم این فرآیند را ساده می‌سازد و هنگامی که نیاز به مبادله داده و اطلاعات باشد، این پروسه را درون سیستم خودکار می‌کند — هم برای تأمین‌کنندگان و مشتریان و هم میان دو کسب‌وکار.
 
-## This platform contains
+## این پلتفرم شامل موارد زیر است
 
-**Purchases:** contain all the incoming transactions ,purchase of raw materials,supplies,inventory,by every purchase the business recives a purchase invoice from a seller and contains purchases repors .
+**خریدها (Purchases):** تمام معاملات ورودی، خرید مواد خام، تأمینات و زخیره را در بر می‌گیرد. با هر خرید، کسب‌وکار بل خرید را از فروشنده دریافت می‌کند و گزارش‌های خرید نیز شامل آن می‌شود.
 
-**Sales:** all sales informations, what products sell at which price and which quantity and report for sales by product, sales by business,sales by customer,etc...
+**فروش‌ها (Sales):** تمام اطلاعات فروش — کدام محصولات با کدام قیمت و چه مقدار فروخته شده، و گزارش فروش بر اساس محصول، فروش بر اساس کسب‌وکار، فروش بر اساس مشتری و غیره.
 
-**Expenses:** cover all the expenses a business can do from purchasing material, supplies, paying salaries and expenses.
+**مصارف (Expenses):** تمام مصارفی که یک کسب‌وکار انجام می‌دهد را پوشش می‌دهد؛ از خرید مواد و تأمینات گرفته تا پرداخت معاشات و سایر مصارف.
 
-**Employees and payroll mangment system:** the system has all information about employees and we can assign salaries to them.
+**سیستم مدیریت کارمندان و معاشات:** سیستم تمام معلومات مربوط به کارمندان را دارد و می‌توانیم برای آن‌ها معاش تعیین کنیم.
 
-**Inventory managment system:** every branch of a business has its own inventories also by every purchase the inventory adds those items and with every sale the inventory removes that item sold.
+**سیستم مدیریت زخیره (Inventory):** هر شعبه از کسب‌وکار زخیره مستقل خودش را دارد؛ همچنین با هر خرید زخیره آن اقلام را اضافه می‌کند و با هر فروش قلم فروخته‌شده را از آن کم می‌کند.
 
-**Activities:** record the log for every change made in system as an Audit log.
+**فعالیت‌ها (Activities):** لاگ هر تغییر ایجادشده در سیستم را به‌عنوان لاگ رسیدگی (Audit log) ثبت می‌کند.
 
-# features of system
-**Core E-commerce:** this system applies the core e-commers activities as its main functionality and by them its task and jobs were done.
+# ویژگی‌های سیستم
+**هسته تجارت الکترونیک:** این سیستم فعالیت‌های بنیادین تجارت الکترونیک را به‌عنوان کارکرد اصلی خود به کار می‌گیرد و وظایف و کارهایش توسط آن‌ها انجام می‌شود.
    
       
-- Multi business managment,with dashboard. 
-- Products catalog with categories, variants SKUs,and barcodes.
-- Inventory managment system (**Stock alert,low stock,batch tracking**)
+- مدیریت چند کسب‌وکار، همراه با داشبورد.
+- کاتالوگ محصولات با دسته‌بندی‌ها، انواع (variants)، SKUها و بارکودها.
+- سیستم مدیریت زخیره (**هشدار موجودی، کمبود موجودی، ردیابی بچ**)
 
-# User and business mangment 
- Managment of users is a significantly import portion of every computer system, especially in financial related projects as of authorization for management of this task this system has its own relation [**table**] for users and also applies Google Auto Sign in function using Google's API.
+# مدیریت کاربران و کسب‌وکارها
+مدیریت کاربران بخش به‌سزایی مهم از هر سیستم کمپیوتری است، به‌ویژه در پروژه‌های مربوط به امور مالی مانند صدور اجاز برای انجام این کار. این سیستم برای کاربران جدول رابطه‌ای مخصوص خودش را دارد و همچنین قابلیت ورود خودکار گوگل (Google Auto Sign in) را با استفاده از API گوگل به کار می‌گیرد.
 
-### There main types of users in this system are:
+### انواع اصلی کاربران در این سیستم عبارتند از:
 
-1. Business (Vendor/Store Owner)
-2. Customer (B2B and B2C)
-3. Supplier (can be an external entity )
-
+1. کسب‌وکار (فروشنده / صاحب مغازه)
+2. مشتری (B2B و B2C)
+3. تأمین‌کننده (می‌تواند یک نهاد بیرونی باشد)

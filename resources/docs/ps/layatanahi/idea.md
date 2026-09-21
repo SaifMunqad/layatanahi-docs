@@ -1,93 +1,93 @@
-# Idea
+# نظر
 
-## Our Idea
+## زموږ نظر
 
-From Business Data to Business Intelligence
+د سوداګرۍ له معلوماتو څخه تر سوداګریز عقل (Business Intelligence) پورې
 
-Layatanahi started with a simple idea: make business information easier to manage, organize, and use.
+لایاتناهی په یو ساده نظر پیل شو: د سوداګرۍ معلومات مدیریت، ترتیب او کارول اسانه کول.
 
-We first created a web-based system for managing business data. As we understood the needs of businesses, we realized that storing information was only the beginning. Businesses also need to manage sales, purchases, products, customers, suppliers, inventory, reporting, and daily operations — all in one connected place.
+موږ لومړی د سوداګریزو معلوماتو د مدیریت لپاره یو ویب پر بنسټ سیسټم جوړ کړ. کله چې د سوداګریزو کلتورو اړتیاوې مو وپېژندلې، درک مو کړ چې د معلوماتو ذخیره کول یوازې پیل و. سوداګریزو کلتورو ته په پلورنو، تېروتونو، توکو، پیرودونکو، ورکړونکو، زخرې، راپورونه ورکولو او ورځنیو عملیاتو — ټول په یو نښلوځي ځای کې اړتیا هم ده.
 
-So, the idea grew.
+نو زموږ نظر پراخ شو.
 
-### One System. Every Part of Your Business.
+### یو سیسټم. د ستاسو د سوداګرۍ هره برخه.
 
-We expanded Layatanahi into a complete business platform where information entered once can become useful across the entire business.
+موږ لایاتناهی یو بشپړ سوداګریز پلیټ فارم ته پراخ کړ، چیرې چې معلومات یو ځل داخلیږي او په ټوله سوداګرۍ کې ګټور کېدای شي.
 
-Sales can connect with inventory.
-Purchases can connect with suppliers.
-Products can have rich information and 3D experiences.
-Business activity can become reports.
-Reports can become insights.
-And business data can become intelligent decisions.
+پلورنې له زخرې سره نښلېږي.
+تېروتونه له ورکړونکو سره نښلېږي.
+توکي بډای معلومات او درې اړخیزې (3D) تجربې درلودلی شي.
+د سوداګرۍ فعالیت راپورونو ته اړېږي.
+راپورونه بصیرتونه کېږي.
+او د سوداګرۍ معلومات هوښیارو پرېکړو ته بدېږي.
 
-## Our AI Vision
+## زموږ د AI لید
 
-We then asked:
+بیا مو وپوښتل:
 
-What if businesses could talk to their own system?
+څه شي چې سوداګرۍ خپل سیسټم سره خبرې وکړي?
 
-That led us to AI.
+دا موږ AI ته ورسېدل.
 
-Layatanahi is designed to provide intelligent AI agents that understand the business and help people interact with their data and operations.
+لایاتناهی داسې ډیزاین شوی چې د هوښیارو AI agentونه برابړي چې سوداګري پوهېږي او خلکو ته د خپلو معلوماتو او عملیاتو سره د interaction مرسته کوي.
 
-### AI Customer Agent
+### د پیرودونکو AI Agent
 
-A customer can ask questions, discover products, receive recommendations, get order information, and receive support through an intelligent AI experience.
+پیرودونکی کولای شي پوښتنې وکړي، توکي ومومي، وړاندیزونه ترلاسه کړي، د غوښتنې (order) معلومات واخلي او د هوښیار AI تجربې له لارې ملاتړ ترلاسه کړي.
 
-### AI Business Agent
+### د سوداګرۍ AI Agent
 
-Business owners and employees can ask questions about their business in natural language.
+د سوداګریزو کلتورو خاوان او کارکوونکي کولای شي د خپلې سوداګرۍ په اړه په طبیعي ژبه پوښتنې وکړي.
 
-For example:
+لکه:
 
-- "What were our best-selling products this month?"
-- "Which products need to be reordered?"
-- "Show me our sales performance."
-- "Which customers have outstanding payments?"
+- "دې میاشتې زموږ تر ټولو ډېر پلورل شوي توکي کوم وو?"
+- "کوم توکي بیا تېروتو (reorder) ته اړتیا لري?"
+- "زموږ د پلور راکړه (performance) رامونځه."
+- "کوم پیرودونکي پاتې تادیې لري?"
 
-The goal is not only to provide answers, but eventually to help businesses take action — with the appropriate permissions and approvals.
+هدف یوازې ځواب ورکول نه دي، بلکې په وروستی کې سوداګریزو کلتورو ته د عمل د ترسره کولو مرسته کول ده — د مناسبو اجازو او تصدیقونو سره.
 
-## From Data to Reports
+## له معلوماتو څخه راپورونو ته
 
-Business activity creates valuable information every day.
+د سوداګرۍ فعالیت هره ورځ د ارزښت لرونکو معلوماتو منځ ته راوړي.
 
-Layatanahi organizes this information and turns it into useful reports, including business activity and tax-related data where applicable.
+لایاتناهی دا معلومات ترتیبوي او ګټورو راپورونو ته یې اړوي، چېرې چې وي د سوداګرۍ فعالیت او د مالیې اړوند معلومات هم پکې شامل دي.
 
-Reports can be exported to formats such as Excel, making it easier for businesses, managers, and accountants to work with their information.
+راپورونه Excel ډول فارمېټونو ته export کیدای شي، ترڅو سوداګریزو کلتورو، مدیرانو او محاسبینو ته د خپلو معلوماتو سره کار اسانه شي.
 
-## Business Monitoring
+## د سوداګرۍ څارنه
 
-A modern business needs to know what is happening.
+نوی سوداګریز کلتور باید پوه شي چې څه پېښېږي.
 
-Layatanahi brings important information together through monitoring, alerts, activity tracking, and system insights.
+لایاتناهی مهم معلومات د څارنې (monitoring)، خبرتیاوو، د فعالیت تعقیب او د سیسټم د بصیروتونو له لارې یو ځای راوړي.
 
-Instead of searching through different systems, businesses can have one place to understand what needs attention.
+سوداګرۍ د بېلابېلو سیسټمونو په لټون کې نه، بلکې په یوه ځای کې پوهېږي چې کې ته پام ته اړتیا ده.
 
-## Connected Support
+## نښلوځی ملاتړ (Connected Support)
 
-We also wanted support to be part of the system itself.
+موږ غوښتل چې ملاتړ هم د سیسټم خپله برخه وي.
 
-Layatanahi brings together customer support, business support, issue tracking, AI assistance, and human support so problems can be identified and handled more efficiently.
+لایاتناهی د پیرودونکو ملاتړ، د سوداګرۍ ملاتړ، د ستونزو تعقیب، AI مرسته او انساني ملاتړ یو ځای راوړي ترڅو ستونزې ژر وپېژندنل شي او موثر حل شي.
 
-## Where We Are Going
+## موږ کته ځو
 
-Layatanahi is not just a database.
+لایاتناهی یوازې ډیټابیس نه دی.
 
-It is not only a sales system.
+یوازې د پلورنو سیسټم نه دی.
 
-It is not only an AI assistant.
+یوازې AI مرستیال نه دی.
 
-It is not only a reporting platform.
+یوازې د راپورونو پلیټ فارم نه دی.
 
-Our vision is to connect all of these into one intelligent business operating system.
+زموږ لید دا دی چې ټولغه یو هوښیار سوداګریز عملیاتي سیسټم په توګه سره ونښلوو.
 
-Data → Operations → Intelligence → Action → Growth
+معلومات → عملیات → عقل → عمل → وده
 
-We believe businesses should spend less time moving information between systems and more time using that information to make better decisions.
+موږ باور لرو چې سوداګریزو کلتورو باید د سیسټمونو ترمنځ د معلوماتو د لېږدولو لپاره لږ وخت مصرف کړي او هغه معلومات د ښیو پرېکړو لپاره ډیر وخت وکاروي.
 
-Layatanahi brings the business together — one system, one connected data foundation, and intelligent AI working alongside people.
+لایاتناهی سوداګري یو ځای راوړي — یو سیسټم، یو نښلوځی د معلوماتو بنسټ، او هوښیار AI چې له خلکو سره ګډ کار کوي.
 
-### Layatanahi
+### لایاتناهی
 
-One intelligent system for your business.
+ستاسو د سوداګرۍ لپاره یو هوښیار سیسټم.

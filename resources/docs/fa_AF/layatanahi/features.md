@@ -1,66 +1,66 @@
-# Features
+# ویژگی‌ها
 
-##  Features of the system
+##  ویژگی‌های سیستم
 
-This system possesses characteristics that set it apart from other systems.
+این سیستم دارای خصوصیات است که آن را از سایر سیستم‌ها متمایز می‌سازد.
 
-###  Coordination between businesses
+###  هماهنگی میان کسب‌وکارها
 
-This system is fundamentally designed to enhance coordination and collaboration between businesses. Its primary objective is to create a structured environment where organizations can clearly identify both the resources available from other businesses and the needs that exist across the network. By facilitating this exchange of information, each business gains better visibility into potential opportunities for partnership, supply, and service provision. In turn, this promotes efficiency, reduces duplication of effort, and encourages mutually beneficial relationships. Ultimately, the system aims to build a more interconnected business ecosystem where companies can support one another, respond effectively to demand, and optimize their overall performance through shared knowledge and cooperation.
+این سیستم در بنیاد برای افزایش هماهنگی و همکاری میان کسب‌وکارها طراحی شده است. هدف اصلی آن ایجاد محیطی منظم است که سازمان‌ها بتوانند به‌روشنی هم منابع موجود از سایر کسب‌وکارها را بشناسند و هم نیازهای موجود در شبکه را. با تسهیل این مبادله اطلاعات، هر کسب‌وکار دید بهتری نسبت به فرصت‌های احتمالی برای مشارکت، تأمین و ارائه خدمت پیدا می‌کند. این امر کارایی را افزایش می‌دهد، تکرار تلاش را کاهش می‌دهد و روابط دوجانبه سودمند را تقویت می‌کند. در نهایت، سیستم هدفش ساختن اکوسیستم کسب‌وکاری درهم‌پیوسته‌تر است که شرکت‌ها بتوانند از یکدیگر حمایت کنند، به تقاضا به‌موقع پاسخ دهند و عملکرد کلی خود را از طریق دانش و همکاری مشترک بهینه سازند.
 
-###  Cart Feature
+###  ویژگی سبد خرید (Cart)
 
-The system includes a shopping cart feature that allows users to select and manage items before making a purchase. Users can browse available products and add their desired items to the cart, where they can review details such as quantity, price, and total cost. The cart provides flexibility by enabling users to update item quantities or remove products as needed. Once satisfied, users can proceed to the checkout process, where the system calculates the final amount and confirms the purchase. This functionality improves user experience by allowing convenient and organized purchasing, while also ensuring accurate order processing within the system.
+این سیستم شامل ویژگی سبد خرید است که به کاربران اجازه می‌دهد پیش از خرید، اقلام را انتخاب و مدیریت کنند. کاربران می‌توانند محصولات موجود را مرور کنند و اقلام مورد نظر خود را به سبد بیفزایند، جایی که می‌توانند جزئیاتی مانند مقدار، قیمت و مجموع هزینه را بررسی نمایند. سبد خرید انعطاف ارائه می‌دهد؛ کاربران می‌توانند مقدار اقلام را به‌روزرسانی کنند یا در صورت نیاز محصول را حذف نمایند. پس از اطمینان، کاربر می‌تواند به فرآیند پرداخت (checkout) برود، جایی که سیستم مبلغ نهایی را محاسبه کرده و خرید را تأیید می‌کند. این کارکرد تجربه کاربر را بهبود می‌بخشد زیرا خرید راحت و منظم امکان‌پذیر می‌شود و در عین حال پردازش دقیق سفارش در سیستم را تضمین می‌کند.
 
-###  Notification Feature
+###  ویژگی اعلان‌ها
 
-The system also has a notification feature to keep users updated about important information. Whenever a user receives a notification, it appears in their account and stays there until they check it. If the user opens and reads the notification, the system will automatically delete it after 7 days. This helps keep the notification section clean and not overcrowded. However, if a notification is not read, it will not be deleted, so the user can still see it later. This way, the system makes sure that users do not miss any important messages while also managing space efficiently.
+سیستم همچنان یک ویژگی اعلان دارد تا کاربران را از معلومات مهم باخبر نگه دارد. هرگاه کاربری اعلان دریافت کند، آن در حساب او نمایش داده می‌شود و تا زمان مشاهده همان‌جا باقی می‌ماند. اگر کاربر اعلان را باز و بخواند، سیستم آن را به‌صورت خودکار پس از ۷ روز حذف می‌کند. این به پاک نگه‌داشتن بخش اعلان‌ها و جلوگیری از شلوغی آن کمک می‌کند. با این حال، اگر خوانده نشود، حذف نمی‌گردد تا کاربر بتواند بعداً نیز آن را ببیند. بدین ترتیب سیستم مطمئن می‌شود که کاربران هیچ پیام مهمی را از دست نمی‌دهند و در عین حال فضا به‌شکل کارآمد مدیریت می‌شود.
 
-###  Request and Transaction Confirmation System
+###  سیستم تأیید درخواست‌ها و معاملات
 
-The system includes a request-based feature that manages transactions between users in a structured way. When a user sells a product or service to another user, an invoice is generated and sent as a request to the buyer. The buyer then reviews the request and, after receiving the item, can accept it and proceed with the payment.
-Once the payment is made, a confirmation request is sent back to the seller. The seller then verifies whether the payment has been received. If the payment is confirmed, the seller accepts the request and selects the appropriate account where the amount will be deposited. This two-step confirmation process ensures that both the delivery of goods and the payment are verified, reducing errors and increasing trust between users within the system.
+سیستم شامل ویژگی مبتنی بر درخواست است که معاملات میان کاربران را به‌شکل منظم مدیریت می‌کند. هنگامی که کاربری محصول یا خدمتی را به کاربر دیگر می‌فروشد، بل (invoice) تولید شده به‌صورت درخواست برای خریدار ارسال می‌شود. خریدار سپس درخواست را بررسی می‌کند و پس از دریافت قلم، می‌تواند آن را بپذیرد و پرداخت را انجام دهد.
+پس از پرداخت، درخواست تأیید به فروشنده بازگردانده می‌شود. فروشنده سپس راستی‌آزمایی می‌کند که پرداخت دریافت شده یا خیر. اگر پرداخت تأیید شود، فروشنده درخواست را می‌پذیرد و حساب مناسب را برای واریز مبلغ انتخاب می‌کند. این فرآیند تأیید دومرحله‌ای تضمین می‌کند که هم رساندن کالا و هم پرداخت راستی‌آزمایی شده‌اند، که خطاها را کاهش داده و اعتماد میان کاربران سیستم را افزایش می‌دهد.
 
-###  Online Payment and Verification System (Hesab Pay)
+###  سیستم پرداخت و راستی‌آزمایی آنلاین (Hesab Pay)
 
-The system supports online payments with multiple layers of verification to ensure security and accuracy. When a user chooses to pay using Hesab Pay, the payment process is initiated using a specific invoice number. The system sends the invoice details, including the invoice number, price, and product information, to Hesab Pay for processing.
-After verification, Hesab Pay returns a payment URL, which is provided to the user so they can complete the payment. Once the payment is made, there is no immediate direct response confirming the transaction. Instead, Hesab Pay sends a callback response to the system containing the invoice number and item details in JSON format, along with a signature and payment status.
-The system then verifies the authenticity of the response by validating the signature using the provided URL. After successful verification, the JSON data is stored within the system. This allows the system to accurately track who made the payment, to whom the payment was made, and which invoice the transaction is associated with. This process ensures secure, reliable, and traceable online payments.
+سیستم پرداخت‌های آنلاین را با لایه‌های چندگانه راستی‌آزمایی برای تضمین امنیت و دقت پشتیبانی می‌کند. هنگامی که کاربر انتخاب می‌کند با Hesab Pay پرداخت کند، فرآیند پرداخت با استفاده از شماره بل مشخص آغاز می‌شود. سیستم جزئیات بل شامل شماره بل، قیمت و معلومات محصول را برای پردازش به Hesab Pay می‌فرستد.
+پس از راستی‌آزمایی، Hesab Pay یک URL پرداخت بازمی‌گرداند که در اختیار کاربر قرار می‌گیرد تا پرداخت خود را تکمیل کند. پس از انجام پرداخت، پاسخ مستقیم فوری که معامله را تأیید کند وجود ندارد. درعوض، Hesab Pay پاسخ callback شامل شماره بل و جزئیات قلم را در فارمیت JSON همراه با امضا (signature) و وضعیت پرداخت برای سیستم می‌فرستد.
+سیستم سپس با اعتبارسنجی امضا با استفاده از URL ارائه‌شده، اصالت پاسخ را راستی‌آزمایی می‌کند. پس از راستی‌آزمایی موفق، داده JSON درون سیستم ذخیره می‌شود. این به سیستم اجازه می‌دهد دقیقاً ردیابی کند که چه کسی پرداخت کرده، پرداخت به چه کسی شده و معامله مربوط به کدام بل است. این فرآیند پرداخت‌های آنلاین امن، قابل اعتماد و قابل ردیابی را تضمین می‌کند.
 
-###  Tax Calculation
+###  محاسبه مالیات
 
-The system is designed to calculate three main types of taxes, and all tax payments are recorded as expenses. These taxes are calculated based on simple rules to help businesses understand their financial obligations.
-First, Corporate Income Tax (CIT) is calculated using the taxable profit. The taxable profit is determined by subtracting the purchase cost from the selling price. For example, if the selling price is 1,500 AFN and the purchase cost is 1,000 AFN, the profit is 500 AFN. A tax rate of 20% is then applied, resulting in a tax of 100 AFN.
-Second, Business Receipt Tax (BRT) is applied to small businesses as an alternative to CIT. This tax is calculated as a percentage of total sales, usually between 1% and 4%. For example, applying a 2% rate on total sales of 1,500 AFN results in a tax of 30 AFN.
-Third, Value Added Tax (VAT) is calculated based on the difference between output tax and input tax. Output tax is the VAT collected from sales, while input tax is the VAT paid on purchases. For instance, if the output tax is 150 AFN and the input tax is 100 AFN (10% of 1,000 AFN), the net VAT payable is 50 AFN.
+سیستم برای محاسبه سه نوع اصلی مالیات طراحی شده و تمام پرداخت‌های مالیات به‌عنوان مصارف ثبت می‌شوند. این مالیات‌ها بر اساس قواعد ساده محاسبه می‌شوند تا کسب‌وکارها تعهدات مالی خود را درک کنند.
+نخست، مالیات عاید شرکت‌ها (CIT) با استفاده از مفاد مشمول مالیات (taxable profit) محاسبه می‌شود. مفاد مشمول مالیات از کسر هزینه خرید از قیمت فروش به دست می‌آید. برای مثال، اگر قیمت فروش ۱,۵۰۰ افغانی و هزینه خرید ۱,۰۰۰ افغانی باشد، مفاد ۵۰۰ افغانی است. سپس نرخ ۲۰٪ اعمال شده و مالیات ۱۰۰ افغانی می‌شود.
+دوم، مالیات receipt کسب‌وکار (BRT) بر کسب‌وکارهای کوچک به‌جای CIT اعمال می‌شود. این مالیات به‌صورت درصدی از مجموع فروش محاسبه می‌گردد، معمولاً میان ۱٪ تا ۴٪. برای مثال، اعمال نرخ ۲٪ بر مجموع فروش ۱,۵۰۰ افغانی، مالیات ۳۰ افغانی تولید می‌کند.
+سوم، مالیات بر ارزش افزوده (VAT) بر اساس تفاوت میان مالیات خروجی و مالیات ورودی محاسبه می‌شود. مالیات خروجی همان VAT است که از فروش‌ها دریافت می‌شود، و مالیات ورودی VAT است که بر خریدها پرداخت شده. برای نمونه، اگر مالیات خروجی ۱۵۰ افغانی و مالیات ورودی ۱۰۰ افغانی (۱۰٪ از ۱,۰۰۰ افغانی) باشد، خالص VAT قابل پرداخت ۵۰ افغانی است.
 
-###  Employee and Payroll Management
+###  مدیریت کارمندان و پی رول (Payroll)
 
-The system includes an employee and payroll management feature. A business administrator can send employment requests to users within the system. Once a user accepts the request, they become an employee of that business. The system is designed so that an employee can only be associated with one business at a time and cannot work for multiple businesses simultaneously.
-In addition to employee management, the system also has its own payroll system to handle salary-related processes. This helps businesses manage employee payments in an organized and consistent way, ensuring that payroll operations are properly tracked and recorded within the system.
+سیستم شامل ویژگی مدیریت کارمندان و پی رول است. مدیر کسب‌وکار می‌تواند در سیستم برای کاربران درخواست استخدام بفرستد. هنگامی که کاربر درخواست را بپذیرد، کارمند همان کسب‌وکار می‌شود. سیستم به‌گونه‌ای طراحی شده که کارمند تنها می‌تواند در هر زمان با یک کسب‌وکار مرتبط باشد و نمی‌تواند هم‌زمان برای چند کسب‌وکار کار کند.
+علاوه بر مدیریت کارمندان، سیستم پی رول مخصوص خودش را نیز برای رسیدگی به پروسه‌های مربوط به معاش دارد. این به کسب‌وکارها کمک می‌کند پرداخت‌های کارمندان را به‌شکل منظم و یکدست مدیریت کنند و تضمین می‌کند که عملیات پی رول در سیستم به‌درستی ردیابی و ثبت می‌شود.
 
-###  Exchange Rate
+###  نرخ تبادله (Exchange Rate)
 
-The system has an uses an API for Exchange rate feature that is linked to the global market. This API converts different currencies into Afghan Afghani (AFN) and store the results in the system database with unique Ids. The exchange rates are automatically updated every hour using a scheduled queue, ensuring that all financial calculations in the system that helps system remain accurate and up to date.
+سیستم برای ویژگی نرخ تبادله از API استفاده می‌کند که به بازار جهانی وصل است. این API ارزهای مختلف را به افغانی (AFN) تبدیل می‌کند و نتایج را با شناسه‌های یکتا در پایگاه داده سیستم ذخیره می‌سازد. نرخ‌های تبادله هر ساعت از طریق queue زمان‌بندی‌شده به‌صورت خودکار به‌روزرسانی می‌شوند و تضمین می‌کنند که تمام محاسبات مالی در سیستم دقیق و به‌روز باقی بماند.
 
-###  Google Authentication
+###  احراز هویت گوگل
 
-The system uses Google Authentication for user login. This allows users to sign in easily using their Google accounts instead of creating a separate username and password. It makes the login process faster and more convenient for users.
-When a user logs in, Google verifies their identity and then allows access to the system. This also adds an extra layer of security since the authentication is handled by Google’s secure login system. Overall, it helps improve both security and user experience by simplifying the sign-in process.
+سیستم برای ورود کاربران از احراز هویت گوگل استفاده می‌کند. این به کاربران اجازه می‌دهد به‌جای ساختن نام کاربری و جواز جداگانه، به‌سادگی با حساب‌های گوگل خود وارد شوند. این فرآیند ورود را برای کاربران سریع‌تر و راحت‌تر می‌سازد.
+هنگامی که کاربر وارد می‌شود، گوگل هویت او را تأیید کرده و سپس اجازه دسترسی به سیستم را می‌دهد. این یک لایه امنیتی اضافی نیز فراهم می‌کند، زیرا احراز هویت توسط سیستم ورود امن گوگل مدیریت می‌شود. در مجموع، با ساده‌سازی فرآیند ورود، هم امنیت و هم تجربه کاربر را بهبود می‌بخشد.
 
-###  Facebook Authentication
+###  احراز هویت فیسبوک
 
-The system also supports Facebook Authentication so users can sign in through their Facebook accounts. This provides an additional login option that is quick, familiar, and user-friendly. By allowing users to authenticate with Facebook, the system improves accessibility and convenience while maintaining a secure and trusted sign-in flow.
+سیستم همچنان احراز هویت فیسبوک را پشتیبانی می‌کند تا کاربران بتوانند از طریق حساب‌های فیسبوک خود وارد شوند. این یک گزینه ورود اضافی ارائه می‌دهد که سریع، آشنا و کاربرپسند است. با اجازه دادن به کاربران برای احراز هویت با فیسبوک، سیستم دسترس‌پذیری و سهولت را بهبود می‌بخشد و در عین حال جریان ورود امن و قابل اعتماد را حفظ می‌کند.
 
-###  Customer- Vendor Management
+###  مدیریت مشتریان و فروشندگان (Customer-Vendor)
 
-The system provides a management feature that allows users to handle both customers and vendors in an organized way. Each user can maintain their own list of customers and vendors, including those who are registered in the application as well as those who are not. This flexibility ensures that all business relationships can be recorded within the system.
-Users can view a complete list of customers and vendors at any time, making it easy to track and manage their information. The system allows users to add new records, update existing details, and delete entries that are no longer needed. By combining both customer and vendor management in one place, the system helps users efficiently organize their business contacts and maintain accurate records for daily operations.
+سیستم ویژگی مدیریتی ارائه می‌کند که به کاربران اجازه می‌دهد هم مشتریان و هم فروشندگان را به‌شکل منظم مدیریت کنند. هر کاربر می‌تواند فهرست مشتریان و فروشندگان خود را نگهداری کند، شامل کسانی که در اپلیکیشن ثبت نام کرده‌اند و کسانی که نکرده‌اند. این انعطاف تضمین می‌کند که تمام روابط کسب‌وکاری در سیستم قابل ثبت باشد.
+کاربران می‌توانند در هر زمان فهرست کامل مشتریان و فروشندگان را ببینند که ردیابی و مدیریت معلومات آن‌ها را آسان می‌سازد. سیستم اجازه می‌دهد رکوردهای جدید افزوده، جزئیات موجود به‌روزرسانی و موارد غیرضروری حذف شوند. با کنار آوردن مدیریت مشتری و فروشنده در یک مکان، سیستم به کاربران کمک می‌کند مخاطبین کسب‌وکاری خود را کارآمد سازماندهی کنند و برای عملیات روزانه سوابق دقیق نگهداری نمایند.
 
-###  Expenses
+###  مصارف (Expenses)
 
-In the system, expenses are organized into different categories such as meals, rent, office costs, supplies, and repairs. This categorization helps keep financial records clear and well-structured. Whenever an expense occurs, it is recorded under its relevant category based on its type. For example, a meal expense is added under the meal category, while office-related costs are recorded under office expenses. This approach makes it easier to track, analyze, and manage all business expenses in an organized way.
+در سیستم، مصارف به دسته‌بندی‌های مختلفی مانند غذا، کرایه، مصارف دفتر، تأمینات و ترمیمات سازماندهی شده‌اند. این دسته‌بندی به روشن و منظم ماندن سوابق مالی کمک می‌کند. هرگاه مصرفی رخ دهد، بر اساس نوع آن ذیل دسته مربوطه ثبت می‌شود. برای مثال، مصرف غذا ذیل دسته غذا افزوده می‌شود، در حالی که مصارف مربوط به دفتر ذیل مصارف دفتری ثبت می‌گردند. این رویکرد ردیابی، تحلیل و مدیریت منظم تمام مصارف کسب‌وکار را آسان‌تر می‌سازد.
 
-###  Income
+###  عاید (Income)
 
-The system includes an income management feature that helps businesses record, monitor, and analyze all incoming revenue generated from sales, services, and other business activities. Income entries can be categorized by source, date, and amount so users can clearly understand where their money is coming from. This feature supports financial reporting, helps track cash flow, and allows businesses to compare income against expenses for better decision-making and planning.
+سیستم شامل ویژگی مدیریت عاید است که به کسب‌وکارها کمک می‌کند تمام عایدات ورودی تولیدشده از فروش‌ها، خدمات و سایر فعالیت‌های کسب‌وکاری را ثبت، نظارت و تحلیل کنند. داخله‌های عاید را می‌توان بر اساس منبع، تاریخ و مقدار دسته‌بندی کرد تا کاربران به‌روشنی بفهمند پولشان از کجا می‌آید. این ویژگی گزارش‌دهی مالی را پشتیبانی می‌کند، به ردیابی جریان نقدینگی کمک می‌کند و به کسب‌وکارها اجازه می‌دهد عاید را در برابر مصارف مقایسه کنند برای تصمیم‌گیری و برنامه‌ریزی بهتر.

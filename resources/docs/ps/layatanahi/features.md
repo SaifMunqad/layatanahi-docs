@@ -1,66 +1,66 @@
-# Features
+# ځانګړتیاوې
 
-##  Features of the system
+##  د سیسټم ځانګړتیاوې
 
-This system possesses characteristics that set it apart from other systems.
+دا سیسټم هغه ځانګړنې لري چې دا له نورو سیسټمونو بېلوي.
 
-###  Coordination between businesses
+###  د سوداګریزو کلتورو ترمنځ همغږي
 
-This system is fundamentally designed to enhance coordination and collaboration between businesses. Its primary objective is to create a structured environment where organizations can clearly identify both the resources available from other businesses and the needs that exist across the network. By facilitating this exchange of information, each business gains better visibility into potential opportunities for partnership, supply, and service provision. In turn, this promotes efficiency, reduces duplication of effort, and encourages mutually beneficial relationships. Ultimately, the system aims to build a more interconnected business ecosystem where companies can support one another, respond effectively to demand, and optimize their overall performance through shared knowledge and cooperation.
+دا سیسټم په بنسټیز ډول د سوداګریزو کلتورو ترمنځ د همغږۍ او همکارۍ د ښه والي لپاره ډیزاین شوی. اصلي موخه یې د منظم چاپېریال جوړول دي چې سازمانونه پکې په روښنا ډول وپېژني چې له نورو سوداګریزو کلتورو څخه کوم شته سرچینې دي او په شبکه کې کومې اړتیاوې شته. د معلوماتو د دې تبادله په اسانولو سره، هره سوداګري د ملګرتیا، رسولو (supply) او خدمتونو د وړاندې کولو لپاره د ممکنو فرصتونو ښه لید ترلاسه کوي. په بېلا بېل ډول دا کار موثریت زیاتوي، د هڅو تکرار کموي، او متقابل ګټورې اړیکې هڅوي. په پای کې سیسټم غواړي یو نښلول شوی سوداګریز ایکوسیستم جوړ کړي چې شرکتونه پکې یو بل ملاتړ کوي، تقاضا ته ښه ځواب ورکوي، او د شریکو پوهې او همکارۍ له لارې خپله عمومي راکړه ښه کوي.
 
-###  Cart Feature
+###  د ټوکر (Cart) ځانګړتیا
 
-The system includes a shopping cart feature that allows users to select and manage items before making a purchase. Users can browse available products and add their desired items to the cart, where they can review details such as quantity, price, and total cost. The cart provides flexibility by enabling users to update item quantities or remove products as needed. Once satisfied, users can proceed to the checkout process, where the system calculates the final amount and confirms the purchase. This functionality improves user experience by allowing convenient and organized purchasing, while also ensuring accurate order processing within the system.
+سیسټم د پیرود ټوکر ځانګړتیا لري چې کاروونکو ته اجازه ورکوي مخکې له پیرود توکي وټاکي او مدیریت کړي. کاروونکي شته توکي لیدلی شي او خپل غوښتل شوي توکي ټوکر زیاتولای شي، چیرې چې مقدار، بیه ټوله لګښت بیا یې جزئیات وګوري. ټوکر انعطاف ورکوي: کاروونکي کولای شي د توکو مقدار بدل کړي یا توکي لیرې کړي. کله چې قانع شي، checkout بهیر ته لاړ شي، چیرې چې سیسټم وروستۍ پیسې محاسبه کوي او پیرود تاییدوي. دا وظیفه د کاروونکي تجربه ښه کوي ځکه پیرود ورته او منظم کېږي، او په سیسټم کې د غوښتنو سم پروسس هم تضمینوي.
 
-###  Notification Feature
+###  د خبرتیاوو ځانګړتیا
 
-The system also has a notification feature to keep users updated about important information. Whenever a user receives a notification, it appears in their account and stays there until they check it. If the user opens and reads the notification, the system will automatically delete it after 7 days. This helps keep the notification section clean and not overcrowded. However, if a notification is not read, it will not be deleted, so the user can still see it later. This way, the system makes sure that users do not miss any important messages while also managing space efficiently.
+سیسټم د خبرتیاوو ځانګړتیا هم لري ترڅو کاروونکي له مهمو معلوماتو خبر ساتي. کله چې کاروونکي ته خبرتیا ورسي، هغه د هغه په account کې ښکاره کېږي او هلته پاتې کېږي ترڅو یې وګوري. که کاروونکي خبرتیا پرانیسته او ولوسته، سیسټم یې په اتومات ډول له ۷ ورځو وروسته ړندي کوي. دا د خبرتیاوو برخه پاکه ساتي او ډکه له ګڼوالي نه پاتې کېږي. که خبرتیا نه وي لوستل شوې، نه ړندي کېږي، ترڅو کاروونکي وروسته هم ورته لاسرسی ولري. په دې توګه سیسټم ډاډ ورکوي چې کاروونکي هیڅ مهم پیغام له لاسه نه ورکوي او ځای هم په موثر ډول مدیریت کېږي.
 
-###  Request and Transaction Confirmation System
+###  د غوښتنو او معاملو د تایید سیسټم
 
-The system includes a request-based feature that manages transactions between users in a structured way. When a user sells a product or service to another user, an invoice is generated and sent as a request to the buyer. The buyer then reviews the request and, after receiving the item, can accept it and proceed with the payment.
-Once the payment is made, a confirmation request is sent back to the seller. The seller then verifies whether the payment has been received. If the payment is confirmed, the seller accepts the request and selects the appropriate account where the amount will be deposited. This two-step confirmation process ensures that both the delivery of goods and the payment are verified, reducing errors and increasing trust between users within the system.
+سیسټم د غوښتنو (request) پر بنسټ ځانګړتیا لري چې د کاروونکو ترمنځ معاملې په منظم ډول مدیریت کوي. کله چې کاروونکي بل کاروونکي ته توکی یا خدمت ورکړي، بل (invoice) جوړېږي او د غوښتنې په بڼه اخیستونکي ته استول کېږي. اخیستونکی غوښتنه ګوري او کله چې توکی ترلاسه کړي، منلای یې شي او تادیه پیل کولای شي.
+کله چې تادیه وشي، د تایید غوښتنه بېرته پلورونکي ته ځي. پلورونکی ګوري چې تادیه ترلاسه شوې که نه. که تادیه تاییديږي، پلورونکی غوښتنه مني او مناسب account ټاکي چې پیسې پکې ورځي. د دې دوو پړاوه د تایید بهیر ډاډ ورکوي چې هم د توکو رسول او هم تادیه تصدیق شوې، چې تېروتنې کموي او د کاروونکو ترمنځ باور زیاتوي.
 
-###  Online Payment and Verification System (Hesab Pay)
+###  آنلاین تادیه او تصدیق سیسټم (Hesab Pay)
 
-The system supports online payments with multiple layers of verification to ensure security and accuracy. When a user chooses to pay using Hesab Pay, the payment process is initiated using a specific invoice number. The system sends the invoice details, including the invoice number, price, and product information, to Hesab Pay for processing.
-After verification, Hesab Pay returns a payment URL, which is provided to the user so they can complete the payment. Once the payment is made, there is no immediate direct response confirming the transaction. Instead, Hesab Pay sends a callback response to the system containing the invoice number and item details in JSON format, along with a signature and payment status.
-The system then verifies the authenticity of the response by validating the signature using the provided URL. After successful verification, the JSON data is stored within the system. This allows the system to accurately track who made the payment, to whom the payment was made, and which invoice the transaction is associated with. This process ensures secure, reliable, and traceable online payments.
+سیسټم آنلاین تادیې د امنیت او دقت لپاره د تصدیق څو پوړونه لري ملاتړ کوي. کله چې کاروونکی غواړي د Hesab Pay له لارې تادیه وکړي، د تادیې بهیر د ځانګړي بل نمبر په کارولو سره پیلېږي. سیسټم د بل جزئیات — د بل نمبر، بیه او د توکی معلومات — د پروسس لپاره Hesab Pay ته استوي.
+د تصدیق وروسته Hesab Pay د تادیې URL بېرته راولي چې کاروونکي ته ورکول کېږي ترڅو خپله تادیه بشپړه کړي. کله چې تادیه وشي، سمدستي مستقیم ځواب چې معامله تاییدوي شته نه دی. پر ځای یې Hesab Pay د callback ځواب سیسټم ته استوي چې د بل نمبر او د توکي جزئیات پکې JSON فارمېټ کې وي، تر څنګ یې signature او د تادیې حالت.
+سیسټم بیا د ورکړل شوي URL په کارولو سره signature تصدیقوي او د ځواب اصالت څاري. له بریالي تصدیق وروسته JSON ډاټا په سیسټم کې ذخیره کېږي. دا سیسټم ته اجازه ورکوي چې په دقت سره وپیژني چا تادیه کړې، چا ته کړې، او معامله د کوم بل سره تړلې ده. دا بهیر خونده، باوري او تعقیب وړ آنلاین تادیې تضمینوي.
 
-###  Tax Calculation
+###  د مالیې محاسبه
 
-The system is designed to calculate three main types of taxes, and all tax payments are recorded as expenses. These taxes are calculated based on simple rules to help businesses understand their financial obligations.
-First, Corporate Income Tax (CIT) is calculated using the taxable profit. The taxable profit is determined by subtracting the purchase cost from the selling price. For example, if the selling price is 1,500 AFN and the purchase cost is 1,000 AFN, the profit is 500 AFN. A tax rate of 20% is then applied, resulting in a tax of 100 AFN.
-Second, Business Receipt Tax (BRT) is applied to small businesses as an alternative to CIT. This tax is calculated as a percentage of total sales, usually between 1% and 4%. For example, applying a 2% rate on total sales of 1,500 AFN results in a tax of 30 AFN.
-Third, Value Added Tax (VAT) is calculated based on the difference between output tax and input tax. Output tax is the VAT collected from sales, while input tax is the VAT paid on purchases. For instance, if the output tax is 150 AFN and the input tax is 100 AFN (10% of 1,000 AFN), the net VAT payable is 50 AFN.
+سیسټم د درېیو اصلي ډوله مالیاتو محاسبې لپاره ډیزاین شوی، او ټولې د مالیې تادیې د لګښتونو په توګه ریکارډېږي. دا مالیات د ساده قواعدو پر بنسټ محاسبېږي ترڅو سوداګرۍ خپل مالي مسؤنیتونه وپوهېږي.
+لومړی، د شرکتونو د عاید مالیات (CIT) د وړ مالیې پلوره ګټې (taxable profit) څخه محاسبېږي. وړ ګټه د پلورل بیې څخه د تېروت د بیې په کمو سره لاسته راځي. لکه که د پلور بیه ۱,۵۰۰ افغانۍ وي او د تېروت بیه ۱,۰۰۰ افغانۍ، ګټه ۵۰۰ افغانۍ ده. بیا د ۲۰٪ مالیې کچه پلي کېږي چې ۱۰۰ افغانۍ مالیې کېږي.
+دوهم، د سوداګرۍ د اخیستلو مالیات (BRT) کوچنیو سوداګریزو کلتورو ته د CIT په بدیل پلي کېږي. دا مالیات د ټول پلور په سلنه محاسبېږي، معمولاً د ۱٪ او ۴٪ ترمنځ. لکه که د ۱,۵۰۰ افغانيو پر ټول پلور ۲٪ کچه پلي شي، ۳۰ افغانۍ مالیې کېږي.
+دریم، د ارزښت زیاتوالي مالیات (VAT) د وتلو او ننوتلو مالیاتو ترمنځ له توپیر محاسبېږي. د وتلو مالیات هغه VAT ده چې له پلورنو راټوله کېږي، او د ننوتلو مالیات هغه VAT ده چې په تېروتونو ورکړل شوې. لکه که د وتلو مالیات ۱۵۰ افغانۍ وي او د ننوتلو ۱۰۰ افغانۍ (د ۱,۰۰۰ افغانيو ۱۰٪)، خالصه د ورکړو VAT ۵۰ افغانۍ ده.
 
-###  Employee and Payroll Management
+###  د کارکوونکو او پی رول (Payroll) مدیریت
 
-The system includes an employee and payroll management feature. A business administrator can send employment requests to users within the system. Once a user accepts the request, they become an employee of that business. The system is designed so that an employee can only be associated with one business at a time and cannot work for multiple businesses simultaneously.
-In addition to employee management, the system also has its own payroll system to handle salary-related processes. This helps businesses manage employee payments in an organized and consistent way, ensuring that payroll operations are properly tracked and recorded within the system.
+سیسټم د کارکوونکو او پی رول مدیریت ځانګړتیا لري. د سوداګرۍ مدیر کولای شي په سیسټم کې کاروونکو ته د دندې غوښتنې واستوي. کله چې کاروونکی غوښتنه ومنې، د هغې سوداګرۍ کارکوونکی کېږي. سیسټم داسې ډیزاین شوی چې کاروونکی یوازې په یوه وخت کې له یوې سوداګرۍ سره تړلېږي او په یو وخت کې نشي کولای د څو سوداګریزو کلتورو لپاره کار وکړي.
+د کارکوونکو له مدیریت سربېره، سیسټم خپل پی رول سیسټم هم لري چې د معاش اړوند بهیرونه پروسس کړي. دا سوداګریزو کلتورو ته مرسته کوي چې د کارکوونکو تادیې منظمې او یو ډول مدیریت کړي، او ډاډ ورکوي چې د پی رول عملیات په سیسټم کې په سمه توګه تعقیب او ریکارډېږي.
 
-###  Exchange Rate
+###  د تبادې نرخ (Exchange Rate)
 
-The system has an uses an API for Exchange rate feature that is linked to the global market. This API converts different currencies into Afghan Afghani (AFN) and store the results in the system database with unique Ids. The exchange rates are automatically updated every hour using a scheduled queue, ensuring that all financial calculations in the system that helps system remain accurate and up to date.
+سیسټم د تبادې د نرخونو لپاره API کاروي چې له نړیوال بازار سره تړلی دی. دا API بېلابېلې پیسې افغانیو (AFN) ته اړوي او پایلې یې په ځانګړو ID سره د سیسټم ډیټابیس کې ذخیره کوي. د تبادې نرخونه په اتومات ډول هره ساعت د مهال ویش شوي queue له لارې تازه کېږي، چې ډاډ ورکوي په سیسټم کې ټولې محاسبې سمې او نوې پاتې کېږي.
 
-###  Google Authentication
+###  د ګوګل تصدیق (Authentication)
 
-The system uses Google Authentication for user login. This allows users to sign in easily using their Google accounts instead of creating a separate username and password. It makes the login process faster and more convenient for users.
-When a user logs in, Google verifies their identity and then allows access to the system. This also adds an extra layer of security since the authentication is handled by Google’s secure login system. Overall, it helps improve both security and user experience by simplifying the sign-in process.
+سیسټم د کاروونکو د ننوتلو لپاره د ګوګل تصدیق کاروي. کاروونکي کولای شي د جلا کارن نمبر او پټنوم (username/password) د جوړولو پر ځای خپلو ګوګل حسابونو په کارولو سره اسانه ننوځي. دا د ننوتلو بهیر چټک او د کاروونکو لپاره اسانه کوي.
+کله چې کاروونکی ننوځي، ګوګل د هغه هویت تصدیقوي او بیا سیسټم ته لاسرسی ورکوي. دا یو بل د امنیت پوړ هم زیاتوي ځکه تصدیق د ګوګل د خوندي ننوتلو سیسټم لاسرسي کې دی. په ټولیز ډول، د ننوتلو بهیر په ساده کولو سره هم د امنیت او هم د کاروونکي تجربه ښه کوي.
 
-###  Facebook Authentication
+###  د فېسبوک تصدیق
 
-The system also supports Facebook Authentication so users can sign in through their Facebook accounts. This provides an additional login option that is quick, familiar, and user-friendly. By allowing users to authenticate with Facebook, the system improves accessibility and convenience while maintaining a secure and trusted sign-in flow.
+سیسټم د فېسبوک تصدیق هم ملاتړ کوي ترڅو کاروونکي خپلو فېسبوک حسابونو له لارې ننوځي. دا یوه بله د ننوتلو لاره برابروي چې چټکه، بله او اسانه ده. د فېسبوک له لارې د تصدیق په اجازه ورکولو سره، سیسټم لاسرسی او اسانتیا زیاتوي او په ورته وخت کې خوندي باوري د ننوتلو بهیر ساتي.
 
-###  Customer- Vendor Management
+###  د پیرودونکو او ورکړونکو مدیریت
 
-The system provides a management feature that allows users to handle both customers and vendors in an organized way. Each user can maintain their own list of customers and vendors, including those who are registered in the application as well as those who are not. This flexibility ensures that all business relationships can be recorded within the system.
-Users can view a complete list of customers and vendors at any time, making it easy to track and manage their information. The system allows users to add new records, update existing details, and delete entries that are no longer needed. By combining both customer and vendor management in one place, the system helps users efficiently organize their business contacts and maintain accurate records for daily operations.
+سیسټم د مدیریت ځانګړتیا برابروي چې کاروونکو ته اجازه ورکوي پیرودونکي او ورکړونکي (vendors) په منظم ډول مدیریت کړي. هر کاروونکی کولای شي خپل د پیرودونکو او ورکړونکو لیست وساتي — هغه څوک چې په اپلیکیشن کې ثبت شوي او هغه چې نه. دا انعطاف ډاډ ورکوي چې ټولې سوداګریزې اړیکې په سیسټم کې ریکارډ کیدای شي.
+کاروونکي کولای شي هر وخت د پیرودونکو او ورکړونکو بشپړ لیست وګوري، چې د معلوماتو تعقیب او مدیریت اسانه کوي. سیسټم نوی ریکارډونه زیاتول، شته جزئیات تازه کول او د نه اړتیا وړ داخلې لیرې کول اجازه ورکوي. د پیرودونکو او ورکړونکو مدیریت په یوه ځای راوړلو سره، سیسټم کاروونکو ته مرسته کوي خپل سوداګریز اړیکې ښه تنظيم کړي او د ورځنیو عملیاتو لپاره سم ریکارډونه وساتي.
 
-###  Expenses
+###  لګښتونه (Expenses)
 
-In the system, expenses are organized into different categories such as meals, rent, office costs, supplies, and repairs. This categorization helps keep financial records clear and well-structured. Whenever an expense occurs, it is recorded under its relevant category based on its type. For example, a meal expense is added under the meal category, while office-related costs are recorded under office expenses. This approach makes it easier to track, analyze, and manage all business expenses in an organized way.
+په سیسټم کې لګښتونه په بېلابېلو وېشنو وېشل شوي، لکه خواړه, کرایه، د دفتر لګښتونه، سامانونه او ترمیمات. دا وېش مالي ریکارډونه روښنا او منظم ساتي. کله چې لګښت راووځي، د خپل ډول پر بنسټ تر اړوندې وېش لاندې ریکارډېږي. لکه د خواړو لګښت د خواړو وېش کې زیاتېږي، او د دفتر اړوند لګښتونه د دفتر د لګښتونو لاندې ریکارډېږي. دا طریقه د ټولو سوداګریزو لګښتونو تعقیب، تحلیل او منظم مدیریت اسانه کوي.
 
-###  Income
+###  عاید (Income)
 
-The system includes an income management feature that helps businesses record, monitor, and analyze all incoming revenue generated from sales, services, and other business activities. Income entries can be categorized by source, date, and amount so users can clearly understand where their money is coming from. This feature supports financial reporting, helps track cash flow, and allows businesses to compare income against expenses for better decision-making and planning.
+سیسټم د عاید مدیریت ځانګړتیا لري چې سوداګریزو کلتورو ته مرسته کوي له پلورنو، خدمتونو او نورو سوداګریزو فعالیتونو څخه لاسته راغلي ټول راتلونکي عاید ریکارډ، څارنه او تحلیل کړي. د عاید داخلي په سرچینه، نېټه او مقدار وېشلای شي ترڅو کاروونکي په روښنا ډول وپوهېږي چې پیسې یې له کومه راځي. دا ځانګړتیا مالي راپورونه ملاتړي، د نقدینو بهیر (cash flow) تعقیب کوي، او سوداګریزو کلتورو ته اجازه ورکوي عاید له لګښتونو سره پرتله کړي ترڅو ښې پرېکړې او طرحې جوړې کړي.

@@ -1,36 +1,36 @@
-# Credits
+# مننه او قدرداني
 
-## Project Overview
+## د پروژې لنډه کتنه
 
-This document records credits and acknowledgements for the Layatanahi final year project at Salam University. The project involved design, implementation, testing, and documentation as part of the degree requirements.
+دا سند د سلام پوهنتون کې د لایاتناهی د وروستي کال پروژه مننې او قدرداني ثبتوي. پروژه د ډګري (degree) د اړتیاوو په توګه ډیزاین، تطبیق، ازموینه او اسناد شاملول.
 
-## Acknowledgements
+## مننې
 
-Thanks to Salam University, faculty, staff, and especially Professor Naseer Ahmad Shinwari for mentorship and guidance. Also grateful to peers, TAs, family, external testers, and the open-source community.
+سلام پوهنتون، استادانو، کارکوونکو، او په ځانګړي ډول ښاغلي نصیر احمد شینواري ته د لارښوونې او رهبرۍ لپاره مننه. همدرانګه ملګرو، مرستیالو ښوونکو (TAs)، کورنیو، بهرنیو ازموونکو او خلاص سرچینې (open-source) ټولنې ته مننه څرګندوم.
 
-## Contributors and Roles
+## ونډه وال او دندې
 
-A final-year student team handled coordination, frontend, backend, testing, and documentation. Individual names are listed in the formal report.
+د وروستي کال د زده کوونکو ډلې همغږي، frontend، backend، ازموینه او اسناد په غاړه درلودل. د افرادو نومونه رسمي رپورټ کې لیست شوي دي.
 
-## Technical Acknowledgements
+## تخنیکي مننې
 
-The project used open-source frameworks, tooling, CI, and testing tools; licenses and attributions are documented in the repository.
+پروژه د خلاص سرچینې چوکونه (frameworks)، توکي، CI او د ازموینې ابزارات وکارول؛ جوازونه (licenses) او تعلق اسناد په repositories کې ثبت شوي دي.
 
-## Educational Impact
+## زده کړیز اغیز
 
-The project bridged theory and practice, improving research, design, and technical skills and contributing to professional readiness.
+پروژه نظريه او عمل یو له بل سره نښلولو، څېړنه، ډیزاین او تخنیکي مهارتونه یې ښه کړل او مسلکي چمتووالی ته یې ونډه واچوله.
 
-## Ethics and Academic Integrity
+## اخلاق او اکاډمیکي ایمانداري
 
-Work follows Salam University policies; sources and data were cited and used ethically.
+کار د سلام پوهنتون تګلارو تعقیبوي؛ سرچینې او ډاټا په اخلاقي ډول ذکر او کارول شوي دي.
 
-## Lessons Learned and Reflections
+## ترلاسه شوي درسونه او نظرونه
 
-Key lessons: plan early, test iteratively, and document thoroughly. Recommendations for future work are noted in project logs.
+مهم درسونه: له پخوا طرحه جوړول، په تکراري ډول ازموینه، او پام وړ اسناد. د راتلونکي کار لپاره وړاندیزونه د پروژې لوګونو کې یاد شوي.
 
-## Final Remarks
+## وروستۍ خبرې
 
-This project reflects the team's academic effort. See the repository and README for details and contact information.
+دا پروژه د ډلې اکاډمیک هڅه منعکسوي. د تفصیلاتو او د اړیکو د معلوماتو لپاره repository او ولولئ.
 
 ---
 
@@ -161,8 +161,8 @@ This project reflects the team's academic effort. See the repository and README 
 
 
 
-
-
-
-
-
+\
+\
+\
+\
+\

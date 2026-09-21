@@ -1,63 +1,38 @@
-# Credits
+# تقدیرنامه و سپاسگزاری
 
-## Project Overview
+## مروری بر پروژه
 
-This document records credits and acknowledgements for the Layatanahi final year project at Salam University. The project involved design, implementation, testing, and documentation as part of the degree requirements.
+این سند تقدیرنامه‌ها و سپاسگزاری‌های پروژه سال اخیر لایاتناهی در پوهنتون سلام را ثبت می‌کند. این پروژه شامل طراحی، تطبیق، آزمایش و مستندسازی به‌عنوان بخشی از الزامات درجه تحصیلی بود.
 
-## Acknowledgements
+## سپاسگزاری
 
-Thanks to Salam University, faculty, staff, and especially Professor Naseer Ahmad Shinwari for mentorship and guidance. Also grateful to peers, TAs, family, external testers, and the open-source community.
+از پوهنتون سلام، پوهنځی، کارمندان و به‌ویژه پروفیسر نصیر احمد شینواری برای راهنمایی و رهنمود سپاسگزاریم. همچنان از هم‌صنفان، دستیاران تدریس، کانون، آزمون‌دهندگان بیرونی و اجتماع متن‌آزاد (open-source) سپاسگزاریم.
 
-## Contributors and Roles
+## مشارکت‌کنندگان و وظایف
 
-A final-year student team handled coordination, frontend, backend, testing, and documentation. Individual names are listed in the formal report.
+تیم دانشجویان سال اخیر مسئولیت همآهنگی، frontend، backend، آزمایش و مستندسازی را بر عهده داشت. نام افراد در گزارش رسمی درج شده است.
 
-## Technical Acknowledgements
+## سپاسگزاری‌های تخنیکی
 
-The project used open-source frameworks, tooling, CI, and testing tools; licenses and attributions are documented in the repository.
+پروژه از چوک‌چوب‌ها (frameworks)، ابزارات، CI و ابزارهای آزمایش متن‌آزاد استفاده کرد؛ جوازها (licenses) و انتساب‌ها در repository مستند شده‌اند.
 
-## Educational Impact
+## تأثیر آموزشی
 
-The project bridged theory and practice, improving research, design, and technical skills and contributing to professional readiness.
+پروژه نظریه و عمل را پیوند داد، مهارت‌های پژوهش، طراحی و تخنیکی را بهبود بخشید و به آمادگی مسلکی کمک کرد.
 
-## Ethics and Academic Integrity
+## اخلاق و صداقت علمی
 
-Work follows Salam University policies; sources and data were cited and used ethically.
+کار مطابق پالیسی‌های پوهنتون سلام است؛ منابع و داده‌ها به‌صورت اخلاقی ذکر و استفاده شده‌اند.
 
-## Lessons Learned and Reflections
+## درس‌آموخته‌ها و بازاندیشی‌ها
 
-Key lessons: plan early, test iteratively, and document thoroughly. Recommendations for future work are noted in project logs.
+درس‌های کلیدی: زودهنگام برنامه‌ریزی کنید، به‌صورت مکرر آزمایش کنید و مستندات کامل تهیه کنید. توصیه‌ها برای کارهای آینده در لاگ‌های پروژه یادداشت شده‌اند.
 
-## Final Remarks
+## سخنان پایانی
 
-This project reflects the team's academic effort. See the repository and README for details and contact information.
+این پروژه بازتاب تلاش علمی تیم است. برای جزئیات و معلومات تماس به repository و README مراجعه کنید.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
