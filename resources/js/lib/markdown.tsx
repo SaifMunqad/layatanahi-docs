@@ -152,7 +152,7 @@ function CodeBlock({ code, language }: { code: string; language?: string }) {
 
     return (
         <div
-            dir={isJson ? 'ltr' : undefined}
+            dir="ltr"
             className="my-6 overflow-hidden rounded-xl border border-zinc-800 bg-zinc-950 text-zinc-200 shadow-sm"
         >
             <div className="flex items-center justify-between border-b border-zinc-800 px-4 py-2 text-xs font-medium text-zinc-400">
