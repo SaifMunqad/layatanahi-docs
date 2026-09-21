@@ -34,9 +34,9 @@ function SearchBar({ onOpen }: SearchBarProps) {
 }
 
 const languages = [
-    { code: 'en', label: 'English', direction: 'ltr' },
-    { code: 'fa_AF', label: 'فارسی', direction: 'rtl' },
-    { code: 'ps', label: 'پښتو', direction: 'rtl' },
+    { code: 'en', displayCode: 'en', label: 'English', direction: 'ltr' },
+    { code: 'fa_AF', displayCode: 'dr', label: 'فارسی', direction: 'rtl' },
+    { code: 'ps', displayCode: 'ps', label: 'پښتو', direction: 'rtl' },
 ] as const;
 
 function LanguageMenu() {
@@ -72,7 +72,7 @@ function LanguageMenu() {
     return (
         <details ref={menuRef} open={open} className="relative" onToggle={(event) => setOpen(event.currentTarget.open)}>
             <summary className="flex h-8 cursor-pointer list-none items-center gap-1 rounded-0 px-2 text-sm text-cyan-800 hover:bg-zinc-100 dark:text-cyan-500 dark:hover:bg-zinc-800 [&::-webkit-details-marker]:hidden">
-                {selected.code.toUpperCase()}
+                {selected.displayCode}
                 <ChevronDown className="h-3.5 w-3.5" />
             </summary>
             <div className={`absolute top-10 z-40 min-w-32 border border-zinc-200 bg-white p-1 shadow-lg dark:border-zinc-800 dark:bg-zinc-900 ${selected.direction === 'rtl' ? 'left-0' : 'right-0'}`}>

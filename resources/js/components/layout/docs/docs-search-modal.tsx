@@ -10,11 +10,11 @@ type SearchModalProps = {
     onClose: () => void;
 };
 
-const markdownFiles = import.meta.glob('/resources/js/pages/docs/**/*.md', {
-    eager: true,
-    query: '?raw',
-    import: 'default',
-}) as Record<string, string>;
+const markdownFiles = {
+    ...import.meta.glob('../../../../docs/en/**/*.md', { eager: true, query: '?raw', import: 'default' }),
+    ...import.meta.glob('../../../../docs/fa_AF/**/*.md', { eager: true, query: '?raw', import: 'default' }),
+    ...import.meta.glob('../../../../docs/ps/**/*.md', { eager: true, query: '?raw', import: 'default' }),
+} as Record<string, string>;
 
 const normalize = (value: string) => value.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 

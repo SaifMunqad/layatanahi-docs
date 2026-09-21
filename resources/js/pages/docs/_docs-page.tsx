@@ -1,13 +1,38 @@
-import { Head } from '@inertiajs/react';
+import { Head, usePage } from '@inertiajs/react';
 import { useEffect, useRef, useState } from 'react';
 import { usePublishToc } from '@/components/layout/docs/docs-toc-context';
 import { useMarkdown } from '@/lib/markdown';
 
-const localizedMarkdown = import.meta.glob('../../../docs/{en,fa_AF,ps}/**/*.md', {
-    eager: true,
-    query: '?raw',
-    import: 'default',
-}) as Record<string, string>;
+const localizedMarkdown = {
+    ...import.meta.glob('../../../docs/en/**/*.md', {
+        eager: true,
+        query: '?raw',
+        import: 'default',
+    }),
+    ...import.meta.glob('../../../docs/fa_AF/**/*.md', {
+        eager: true,
+        query: '?raw',
+        import: 'default',
+    }),
+    ...import.meta.glob('../../../docs/ps/**/*.md', {
+        eager: true,
+        query: '?raw',
+        import: 'default',
+    }),
+} as Record<string, string>;
+
+/*
+ * Match by the locale and page suffix because glob keys are relative to this
+ * module while document routes mirror the directory structure.
+ */
+function getLocalizedMarkdown(locale: string, pagePath: string, fallback: string) {
+    const findSource = (candidateLocale: string) => Object.entries(localizedMarkdown)
+        .find(([path]) => path.endsWith(`/docs/${candidateLocale}/${pagePath}.md`))?.[1];
+
+    const source = findSource(locale) ?? findSource('en');
+
+    return source ?? fallback;
+}
 
 type DocsPageProps = {
     markdown: string;
@@ -18,10 +43,8 @@ type DocsPageProps = {
 
 export default function DocsPage({ markdown, section, description }: DocsPageProps) {
     const [locale, setLocale] = useState(() => localStorage.getItem('docs-locale') ?? 'en');
-    const pagePath = window.location.pathname.replace(/^\/docs\/?/, '').replace(/\/$/, '') || 'overview';
-    const localizedSource = localizedMarkdown[`../../../docs/${locale}/${pagePath}.md`]
-        ?? localizedMarkdown[`../../../docs/en/${pagePath}.md`]
-        ?? markdown;
+    const pagePath = usePage().component.replace(/^docs\//, '');
+    const localizedSource = getLocalizedMarkdown(locale, pagePath, markdown);
     const { headings, content } = useMarkdown(localizedSource);
     const contentRef = useRef<HTMLElement>(null);
 
@@ -78,7 +101,7 @@ export default function DocsPage({ markdown, section, description }: DocsPagePro
             window.clearTimeout(timeout);
             cleanup?.();
         };
-    }, [markdown]);
+    }, [localizedSource]);
 
     return (
         <>
