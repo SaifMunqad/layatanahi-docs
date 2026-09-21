@@ -356,7 +356,7 @@ export function parseMarkdown(rawSource: string): ParsedMarkdown {
             i++;
         }
         blocks.push(
-            <p key={key++} className="my-4 leading-7 text-zinc-700 dark:text-zinc-300">
+            <p key={key++} className="my-4 text-justify leading-7 text-zinc-700 dark:text-zinc-300">
                 {renderInline(paragraph.join(' '))}
             </p>,
         );

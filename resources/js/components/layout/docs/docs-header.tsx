@@ -66,12 +66,13 @@ function LanguageMenu() {
     const changeLanguage = (code: (typeof languages)[number]['code']) => {
         const language = languages.find((item) => item.code === code) ?? languages[0];
         setCurrent(applyDocsLocale(language.code));
+        setOpen(false);
         window.dispatchEvent(new Event('docs-locale-change'));
     };
 
     return (
         <details ref={menuRef} open={open} className="relative" onToggle={(event) => setOpen(event.currentTarget.open)}>
-            <summary className="flex h-8 cursor-pointer list-none items-center gap-1 rounded-0 px-2 text-sm text-cyan-800 hover:bg-zinc-100 dark:text-cyan-500 dark:hover:bg-zinc-800 [&::-webkit-details-marker]:hidden">
+            <summary className="flex h-8 cursor-pointer list-none items-center gap-1 rounded-0 px-2 text-base text-cyan-800 hover:bg-zinc-100 dark:text-cyan-500 dark:hover:bg-zinc-800 [&::-webkit-details-marker]:hidden">
                 {selected.displayCode}
                 <ChevronDown className="h-3.5 w-3.5" />
             </summary>
@@ -81,7 +82,7 @@ function LanguageMenu() {
                         key={language.code}
                         type="button"
                         onClick={() => changeLanguage(language.code)}
-                        className={`block w-full px-3 py-2 text-sm hover:bg-zinc-100 dark:hover:bg-zinc-800 ${selected.direction === 'rtl' ? 'text-right' : 'text-left'}`}
+                        className={`block w-full px-3 py-2 text-base hover:bg-zinc-100 dark:hover:bg-zinc-800 ${selected.direction === 'rtl' ? 'text-right' : 'text-left'}`}
                     >
                         {t(`languages.${language.code}`)}
                     </button>
