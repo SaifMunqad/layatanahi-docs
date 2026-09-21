@@ -1,234 +1,234 @@
-# Privacy Policy
+# سیاست حریم خصوصی
 
-*Learn how we collect, use, and protect your personal information when you use our e-commerce platform and related services.*
+*بفهمید که چگونه، هنگام استفاده از پلت‌فرم تجارت الکترونیکی و خدمات مرتبط ما، اطلاعات شخصی شما را جمع‌آوری، استفاده و محافظت می‌کنیم.*
 
-**Last Updated:** September / 13 /2026  
+**آخرین به‌روزرسانی:** September / 13 /2026  
 
-**Company:** Layatanahi Store
-
----
-
-## Introduction
-### Privacy Policy Overview
-
-Welcome to our comprehensive Privacy Policy. At our company, your privacy is of paramount importance to us. This Privacy Policy document outlines the types of information that is collected and recorded by our e-commerce platform and how we use it to enhance your shopping experience while protecting your personal data.
-
-This policy applies to all visitors, users, and customers of our website, mobile applications, and related services (collectively, the "Services"). By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure, and other uses of your information as described in this Privacy Policy.
-
-We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at **Info@layatanahi.store**
-
-Our Privacy Policy was last updated on January 1, 2025 and may be updated periodically to reflect changes in our practices, technologies, legal requirements, and other factors. We encourage you to review this policy regularly to stay informed about how we are protecting your information.
-
-This Privacy Policy is incorporated into, and is subject to, our Terms of Service. Any capitalized terms not defined in this Privacy Policy have the meaning given to them in our Terms of Service.
+**شرکت:** Layatanahi Store
 
 ---
 
-## Data Collection
-### Information We Collect
+## مقدمه
+### مروری بر سیاست حریم خصوصی
 
-We collect information about you through various means when you use our Services. The information we collect depends on how you interact with us, the Services you use, and the choices you make. We collect information in three main ways: (1) information you provide to us directly; (2) information we collect automatically; and (3) information we collect from other sources.
+به سیاست حریم خصوصی جامع ما خوش آمدید. در شرکت ما، حریم خصوصی شما برای ما از اهمیت فوق‌العاده‌ای برخوردار است. این سند سیاست حریم خصوصی، انواع اطلاعاتی را که توسط پلت‌فرم تجارت الکترونیکی ما جمع‌آوری و ثبت می‌شود و نحوه استفاده ما از آن برای بهبود تجربه خرید شما، ضمن محافظت از داده‌های شخصی‌تان، شرح می‌دهد.
 
-#### Information You Provide Directly:
-- **Account Information**: When you create an account, we collect your name, email address, password, phone number, and other registration details necessary to set up and maintain your account.
-- **Profile Information**: You may choose to provide additional information for your profile, such as a profile photo, gender, date of birth, preferences, and interests.
-- **Purchase Information**: When you make a purchase, we collect information necessary to process your payment and fulfill your order, including billing address, shipping address, credit/debit card information, and transaction history.
-- **Communications**: When you contact us directly, such as through customer support channels, feedback forms, or social media, we collect the contents of your messages and any other information you choose to provide.
-- **Survey and Research Participation**: If you participate in our surveys, focus groups, or research studies, we collect the information you provide during these activities.
-- **Content You Create**: We collect content you create and share through our Services, including product reviews, comments, photos, videos, and other user-generated content.
+این سیاست بر تمام بازدیدکنندگان، کاربران و مشتریان وب‌سایت، اپلیکیشن‌های موبایل و خدمات مرتبط ما (به‌طور جمعی، «خدمات») قابل اعمال است. با دسترسی یا استفاده از خدمات ما، شما جمع‌آوری، انتقال، دست‌کاری، ذخیره، افشا و سایر استفاده‌های اطلاعات خود را، همان‌گونه که در این سیاست حریم خصوصی آمده، می‌پذیرید.
 
-#### Information Collected Automatically:
-- **Usage Data**: We automatically collect information about how you interact with our Services, including the pages you visit, the time and duration of your visits, the links you click, search queries, and other actions you take.
-- **Device Information**: We collect information about the device you use to access our Services, including hardware model, operating system, unique device identifiers, mobile network information, and performance data.
-- **Log Information**: Like most websites and online services, we collect log information when you use our Services, including your IP address, browser type and settings, the date and time of your request, and how you interacted with our Services.
-- **Location Information**: We may collect information about your approximate location based on your IP address or more precise location information if you permit us through your device settings.
-- **Cookies and Similar Technologies**: We use cookies, web beacons, pixels, and similar technologies to collect information about your browsing activities and to remember your preferences.
+ما متعهد به محافظت از اطلاعات شخصی شما و حق شما برای حریم خصوصی هستیم. اگر هرگونه پرسش یا نگرانی درباره سیاست ما یا رویه‌هایمان در قبال اطلاعات شخصی‌تان دارید، لطفاً با ما در **Info@layatanahi.store** تماس بگیرید.
 
-#### Information From Other Sources:
-- **Third-Party Services**: We may receive information about you from third-party services that you connect to our Services, such as when you log in using social media accounts or payment processors.
-- **Partners and Service Providers**: We may receive information about you from our business partners, advertising networks, analytics providers, and other third parties that help us provide our Services.
-- **Publicly Available Information**: We may collect information about you from publicly available sources, such as public social media profiles, to enhance our understanding of your interests and preferences.
+سیاست حریم خصوصی ما آخرین بار در January 1, 2025 به‌روزرسانی شده و ممکن است دوره‌ای برای منعکس‌کردن تغییرات در رویه‌ها، فناوری‌ها، الزامات قانونی و سایر عوامل به‌روزرسانی شود. شما را تشویق می‌کنیم که این سیاست را به‌طور منظم مرور کنید تا درباره نحوه محافظت ما از اطلاعاتتان آگاه بمانید.
+
+این سیاست حریم خصوصی در شرایط خدمات ما ادغام شده و تابع آن است. هر اصطلاح بزرگ‌نویسی‌شده‌ای که در این سیاست حریم خصوصی تعریف نشده باشد، معنای داده‌شده در شرایط خدمات ما را دارد.
 
 ---
 
-## Data Usage
-### How We Use Your Information
+## جمع‌آوری داده
+### اطلاعاتی که ما جمع‌آوری می‌کنیم
 
-We use the information we collect for various business purposes described below. We process your information for these purposes based on our legitimate business interests, to fulfill our contractual obligations to you, with your consent, and/or for compliance with our legal obligations.
+ما هنگام استفاده شما از خدمات‌مان، از طریق وسایل گوناگون درباره شما اطلاعات جمع‌آوری می‌کنیم. اطلاعاتی که جمع‌آوری می‌کنیم بستگی به این دارد که شما چگونه با ما تعامل می‌کنید، از کدام خدمات استفاده می‌کنید و چه انتخاب‌هایی انجام می‌دهید. ما اطلاعات را به سه شیوه اصلی جمع‌آوری می‌کنیم: (۱) اطلاعاتی که مستقیماً در اختیار ما می‌گذارید؛ (۲) اطلاعاتی که خودکار جمع‌آوری می‌کنیم؛ و (۳) اطلاعاتی که از منابع دیگر جمع‌آوری می‌کنیم.
 
-#### Providing and Improving Our Services:
-- To operate, maintain, and improve our Services, including developing new features and functionality.
-- To create and manage your account, process your transactions, and fulfill your orders.
-- To provide customer support and respond to your inquiries, comments, and feedback.
-- To personalize your experience by showing you content, products, and services that are most relevant to your interests and preferences.
-- To monitor and analyze trends, usage, and activities in connection with our Services to understand how users interact with our platform.
-- To conduct research and development to improve our products, services, and user experience.
-- To detect, prevent, and address technical issues, security incidents, and fraudulent or illegal activities.
+#### اطلاعاتی که مستقیماً ارائه می‌دهید:
+- **اطلاعات حساب**: هنگامی که حسابی ایجاد می‌کنید، نام، نشانی ایمیل، رمز عبور، شماره تلفن و سایر جزئیات ثبت‌نام لازم برای راه‌اندازی و نگهداری حساب شما را جمع‌آوری می‌کنیم.
+- **اطلاعات پروفایل**: ممکن است اختیاری باشید که اطلاعات اضافی برای پروفایل خود ارائه دهید، مانند عکس پروفایل، جنسیت، تاریخ تولد، ترجیحات و علایق.
+- **اطلاعات خرید**: هنگامی که خریدی انجام می‌دهید، اطلاعات لازم برای پردازش پرداخت و انجام سفارش شما را جمع‌آوری می‌کنیم، از جمله نشانی صورتحساب، نشانی تحویل، اطلاعات کارت اعتباری/نقدی و تاریخچه تراکنش‌ها.
+- **ارتباطات**: هنگامی که مستقیماً با ما تماس می‌گیرید، مانند از طریق کانال‌های پشتیبانی مشتریان، فرم‌های بازخورد یا رسانه‌های اجتماعی، محتوای پیام‌های شما و هر اطلاعات دیگری که بخواهید ارائه دهید را جمع‌آوری می‌کنیم.
+- **مشارکت در نظرسنجی و تحقیق**: اگر در نظرسنجی‌ها، گروه‌های کانونی یا مطالعات تحقیقاتی ما شرکت کنید، اطلاعاتی را که در جریان این فعالیت‌ها ارائه می‌دهید جمع‌آوری می‌کنیم.
+- **محتوایی که شما ایجاد می‌کنید**: محتوایی را که از طریق خدمات ما ایجاد و به اشتراک می‌گذارید، از جمله نظرات درباره محصولات، توضیحات، عکس‌ها، ویدیوها و سایر محتوای ایجادشده توسط کاربر، جمع‌آوری می‌کنیم.
 
-#### Communication and Marketing:
-- To communicate with you about our Services, including order confirmations, shipping notifications, product updates, and administrative messages.
-- To send you marketing communications about products, services, offers, promotions, and events that we believe may be of interest to you, in accordance with your communication preferences.
-- To notify you about changes to our Services, terms, conditions, and policies.
-- To administer contests, sweepstakes, and other promotions that you choose to participate in.
-- To solicit feedback and conduct surveys to better understand your needs and improve our Services.
+#### اطلاعات جمع‌آوری‌شده خودکار:
+- **داده‌های استفاده**: ما خودکار اطلاعاتی درباره اینکه چگونه با خدمات‌مان تعامل می‌کنید جمع‌آوری می‌کنیم، از جمله صفحاتی که بازدید می‌کنید، زمان و مدت بازدیدهایتان، پیوندهایی که کلیک می‌کنید، پرس‌وجوهای جست‌وجو و سایر اقداماتی که انجام می‌دهید.
+- **اطلاعات دستگاه**: درباره دستگاهی که برای دسترسی به خدمات ما استفاده می‌کنید اطلاعات جمع‌آوری می‌کنیم، از جمله مدل سخت‌افزار، سیستم‌عامل، شناسه‌های یکتای دستگاه، اطلاعات شبکه موبایل و داده‌های عملکرد.
+- **اطلاعات گزارش (Log)**: مانند بیشتر وب‌سایت‌ها و خدمات آنلاین، هنگام استفاده شما از خدمات‌مان اطلاعات گزارش جمع‌آوری می‌کنیم، از جمله نشانی IP شما، نوع و تنظیمات مرورگر، تاریخ و زمان درخواست شما، و اینکه چگونه با خدمات‌مان تعامل کردید.
+- **اطلاعات موقعیت**: ممکن است درباره موقعیت تقریبی شما بر اساس نشانی IP شما، یا اطلاعات دقیق‌تر موقعیت اگر از طریق تنظیمات دستگاه‌تان به ما اجازه دهید، جمع‌آوری کنیم.
+- **کوکی‌ها و فناوری‌های مشابه**: ما از کوکی‌ها، وب‌بیکن‌ها، پیکسل‌ها و فناوری‌های مشابه برای جمع‌آوری اطلاعات درباره فعالیت‌های مرور شما و برای به‌یادسپردن ترجیحات‌تان استفاده می‌کنیم.
 
-#### Legal and Security Purposes:
-- To comply with applicable laws, regulations, legal processes, or governmental requests.
-- To protect the rights, property, and safety of our company, our users, and the public.
-- To enforce our terms, conditions, and policies.
-- To investigate and prevent potentially prohibited or illegal activities.
-- To establish, exercise, or defend legal claims.
-
-#### Business Operations:
-- To conduct business analysis, such as analytics, projections, and identifying areas for operational improvement.
-- To facilitate corporate transactions, such as mergers, acquisitions, or sales of all or a portion of our assets.
-- To fulfill any other purpose for which you provide the information.
+#### اطلاعات از منابع دیگر:
+- **خدمات اشخاص ثالث**: ممکن است درباره شما اطلاعاتی از خدمات اشخاص ثالثی که شما به خدمات ما متصل می‌کنید دریافت کنیم، مانند هنگامی که با استفاده از حساب‌های رسانه‌های اجتماعی یا پردازشگران پرداخت وارد می‌شوید.
+- **شرکا و ارائه‌دهندگان خدمات**: ممکن است درباره شما اطلاعاتی از شرکای تجاری، شبکه‌های تبلیغاتی، ارائه‌دهندگان تحلیلات و سایر اشخاص ثالثی که به ما در ارائه خدمات‌مان کمک می‌کنند دریافت کنیم.
+- **اطلاعات در دسترس عمومی**: ممکن است درباره شما اطلاعاتی از منابع عمومی، مانند پروفایل‌های عمومی رسانه‌های اجتماعی، جمع‌آوری کنیم تا درکمان را از علایق و ترجیحات شما غنی‌تر سازیم.
 
 ---
 
-## Data Sharing
-### How We Share Your Information
+## استفاده از داده
+### چگونه از اطلاعات شما استفاده می‌کنیم
 
-By default, no third party can see your personal data, and your profile is hidden across the system.
+ما از اطلاعاتی که جمع‌آوری می‌کنیم برای اهداف تجاری گوناگونی که در ادامه شرح داده شده استفاده می‌کنیم. ما اطلاعات شما را بر اساس منافع تجاری مشروع خود، برای ایفای تعهدات قراردادی‌مان به شما، با رضایت شما و/یا برای انطباق با تعهدات قانونی‌مان پردازش می‌کنیم.
 
-#### Business Employee Access:
-- **Employee status**: You become an employee of a business branch only when the business requests it and you accept the request. This gives you an employee section controlled by that business.
-- **Separate control**: The business controls your employee data, while your normal account and personal data remain under your control.
-- **Profile visibility**: The business may see your profile picture, email, username, phone number, and other profile data, but cannot edit them because your personal profile belongs to you.
-- **After employment ends**: If the business fires you, it can no longer view your profile. Your name may remain visible on older records you created.
+#### ارائه و بهبود خدمات‌مان:
+- برای راه‌اندازی، نگهداری و بهبود خدمات ما، از جمله توسعه ویژگی‌ها و کارکردهای جدید.
+- برای ایجاد و مدیریت حساب شما، پردازش تراکنش‌هایتان و انجام سفارش‌هایتان.
+- برای ارائه پشتیبانی مشتریان و پاسخ‌دادن به پرسش‌ها، نظرات و بازخوردهای شما.
+- برای شخصی‌سازی تجربه شما با نمایش محتوا، محصولات و خدماتی که بیش‌تر با علایق و ترجیحات شما مرتبط است.
+- برای پایش و تحلیل روندها، استفاده و فعالیت‌ها در ارتباط با خدمات ما تا بفهمیم کاربران چگونه با پلت‌فرم ما تعامل می‌کنند.
+- برای انجام تحقیق و توسعه به‌منظور بهبود محصولات، خدمات و تجربه کاربری ما.
+- برای شناسایی، پیشگیری و رسیدگی به مسائل فنی، حوادث امنیتی و فعالیت‌های تقلبی یا غیرقانونی.
 
-#### Orders and Reviews:
-- **Orders**: When you create an order, your general profile data is shared with the business from which you ordered items.
-- **Reviews**: When you review a stock item, the review is analyzed by AI and only its summary is displayed. Individual reviews remain hidden from the public.
+#### ارتباطات و بازاریابی:
+- برای ارتباط با شما درباره خدمات ما، از جمله تأییدهای سفارش، اعلان‌های حمل‌ونقل، به‌روزرسانی‌های محصول و پیام‌های اداری.
+- برای ارسال ارتباطات بازاریابی درباره محصولات، خدمات، پیشنهادات، ترفیع‌ها و رویدادهایی که به گمان ما ممکن است برایتان جالب‌توجه باشد، مطابق ترجیحات ارتباطی شما.
+- برای آگاه‌سازی شما درباره تغییرات در خدمات، شرایط، ضوابط و سیاست‌های ما.
+- برای اداره مسابقات، قرعه‌کشی‌ها و سایر ترفیع‌هایی که انتخاب می‌کنید در آن‌ها شرکت کنید.
+- برای درخواست بازخورد و انجام نظرسنجی به‌منظور درک بهتر نیازهایتان و بهبود خدمات ما.
 
-#### Government Requests:
-Business, business branch, user, and support team data may be shared directly with the government when there is a valid legal request.
+#### اهداف قانونی و امنیتی:
+- برای انطباق با قوانین، مقررات، فرآیندهای قانونی یا درخواست‌های دولتی قابل اعمال.
+- برای حفاظت از حقوق، اموال و ایمنی شرکت ما، کاربران ما و عموم مردم.
+- برای اجرای شرایط، ضوابط و سیاست‌های ما.
+- برای تحقیق و پیشگیری از فعالیت‌های احتمالاً ممنوعه یا غیرقانونی.
+- برای ایجاد، اعمال یا دفاع از دعاوی حقوقی.
 
----
-
-## Cookies
-### Cookies and Tracking Technologies
-
-We are currently working on them.
-
-In brief, we use cookies and similar tracking technologies to help our website function efficiently, remember your preferences, and analyze site usage.
-
-Most web browsers accept cookies by default, but you can choose to remove or reject them in your browser settings. Please note that rejecting cookies may affect the availability and functionality of our Services.
-#### Other Tracking Technologies:
-In addition to cookies, we may use web beacons, pixel tags, and other similar technologies. These are tiny graphics with a unique identifier that may be included on our Services or in our emails to track user activity, measure the success of marketing campaigns, and compile statistics about usage.
-
----
-
-## Security
-### Data Security and Protection
-
-We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage.
-
-#### Our Security Measures:
-- **Encryption**: We use industry-standard encryption technologies when transferring and receiving sensitive information, such as financial data.
-- **Access Controls**: We implement access controls and authentication procedures to ensure that only authorized personnel have access to your personal information.
-- **Network Security**: We maintain technical safeguards, including firewalls and intrusion detection systems, to protect our network and systems.
-- **Physical Security**: We restrict physical access to our facilities and servers to authorized personnel only.
-- **Regular Security Assessments**: We conduct regular vulnerability assessments and penetration testing to identify and address potential security vulnerabilities.
-- **Employee Training**: We provide regular security and privacy training to our employees who handle personal information.
-- **Incident Response Plan**: We have implemented an incident response plan to address potential data breaches.
-
-#### Data Retention:
-We retain your personal information for as long as necessary to fulfill the purposes for which we collected it, including to satisfy any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure, the purposes for which we process your personal information, and whether we can achieve those purposes through other means.
-
-#### Your Role in Security:
-The security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
-
-#### International Data Transfers and Safeguards:
-Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different from the laws of your country. We have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy, including implementing the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers.
-
-#### Data Breach Notification:
-In the event of a personal data breach, we will notify you and the relevant supervisory authorities as required by applicable law. We will make reasonable efforts to notify you if there is a threat to your rights or interests. We will do this by email or by posting a notice on our website.
+#### عملیات تجاری:
+- برای انجام تحلیل تجاری، مانند تحلیلات، پیش‌بینی‌ها و شناسایی حوزه‌هایی برای بهبود عملیاتی.
+- برای تسهیل معاملات شرکتی، مانند ادغام، اکتساب یا فروش تمام یا بخشی از دارایی‌های ما.
+- برای ایفای هر هدف دیگری که اطلاعات را برای آن ارائه می‌دهید.
 
 ---
 
-## Your Rights
-### Your Privacy Rights and Choices
+## به اشتراک‌گذاری داده
+### چگونه اطلاعات شما را به اشتراک می‌گذاریم
 
-Depending on your location and applicable law, you may have certain rights regarding your personal information. This section describes the rights you may have and how you can exercise them.
+به‌صورت پیش‌فرض، هیچ شخص ثالثی نمی‌تواند داده‌های شخصی شما را ببیند و پروفایل شما در سراسر سیستم پنهان است.
 
-#### Access and Portability:
-- You have the right to request access to the personal information we hold about you.
-- You can request a copy of your personal information in a structured, machine-readable format.
-- You can access and update certain personal information through your account settings.
+#### دسترسی کارمند کسب‌وکار:
+- **وضعیت کارمندی**: شما تنها زمانی کارمند یک شعبه کسب‌وکار می‌شوید که کسب‌وکار آن را درخواست کند و شما درخواست را بپذیرید. این به شما بخش کارمندی‌ای می‌دهد که توسط همان کسب‌وکار کنترل می‌شود.
+- **کنترل جداگانه**: کسب‌وکار داده‌های کارمندی شما را کنترل می‌کند، در حالی که حساب عادی و اطلاعات شخصی شما همچنان تحت کنترل شما باقی می‌ماند.
+- **دید پروفایل**: کسب‌وکار ممکن است عکس پروفایل، ایمیل، نام کاربری، شماره تلفن و سایر داده‌های پروفایل شما را ببیند، اما نمی‌تواند آن‌ها را ویرایش کند زیرا پروفایل شخصی شما متعلق به خودتان است.
+- **پس از پایان کارمندی**: اگر کسب‌وکار شما را اخراج کند، دیگر نمی‌تواند پروفایل شما را ببیند. نام شما ممکن است بر روی رکوردهای قدیمی‌تری که ایجاد کرده‌اید قابل مشاهده باقی بماند.
 
-#### Correction and Deletion:
-- You can request that we correct inaccurate or incomplete personal information.
-- You can request deletion of your personal information, subject to certain exceptions.
-- You can delete your account through your account settings or by contacting us.
+#### سفارش‌ها و نظرات:
+- **سفارش‌ها**: هنگامی که سفارشی ایجاد می‌کنید، داده‌های کلی پروفایل شما با کسب‌وکاری که از آن اقلام سفارش داده‌اید به اشتراک گذاشته می‌شود.
+- **نظرات**: هنگامی که یک کالای موجودی را نقد می‌کنید، نظر توسط هوش مصنوعی (AI) تحلیل می‌شود و تنها خلاصه آن نمایش داده می‌شود. نظرات فردی از دید عموم پنهان می‌مانند.
 
-#### Restriction and Objection:
-- You can request that we restrict the processing of your personal information in certain circumstances.
-- You can object to our processing of your personal information for direct marketing purposes.
-- You can object to our reliance on legitimate interests as the legal basis for processing your personal information.
-
-#### Marketing Communications:
-You can opt out of receiving marketing communications from us by using the unsubscribe link in our emails or by adjusting your communication preferences in your account settings. Even if you opt out of marketing communications, we may still send you transactional messages related to your account and purchases.
-
-#### How to Exercise Your Rights:
-To exercise any of these rights, please contact us using the contact information provided at the end of this Privacy Policy. We may need to verify your identity before processing your request. We will respond to your request within the timeframes required by applicable law.
-
-#### Appeals and Complaints:
-If you are not satisfied with our response to your privacy request, you may have the right to appeal our decision or lodge a complaint with the data protection authority in your jurisdiction.
+#### درخواست‌های دولتی:
+داده‌های کسب‌وکار، شعبه کسب‌وکار، کاربر و تیم پشتیبانی ممکن است در صورت وجود درخواست قانونی معتبر، مستقیماً با دولت به اشتراک گذاشته شود.
 
 ---
 
-## Children's Privacy
-### Children's Privacy
+## کوکی‌ها
+### کوکی‌ها و فناوری‌های ردیابی
 
-Our Services are not directed to children under the age of 12, and we do not knowingly collect personal information from children under 12. If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us, and we will take steps to delete such information from our systems.
+ما در حال حاضر روی آن‌ها کار می‌کنیم.
 
-#### Age Restrictions:
-You must be at least 12 years old to use our Services. If you are under 12, you may not use our Services or provide any personal information to us. Users between 12 and 18 years of age should review this Privacy Policy with their parent or guardian to ensure they understand it.
+به‌طور خلاصه، ما از کوکی‌ها و فناوری‌های ردیابی مشابه برای کمک به کارکرد کارآمد وب‌سایت، به‌یادسپردن ترجیحات شما و تحلیل استفاده از سایت استفاده می‌کنیم.
 
-#### Parental Controls:
-We encourage parents and guardians to monitor their children's online activities and to help enforce our Privacy Policy by instructing their children never to provide personal information through our Services without their permission. We recommend using parental control tools available from various software and device manufacturers to help provide a safe online environment for children.
-
-#### Verifiable Parental Consent:
-If we learn that we have collected personal information from a child under 12 without verification of parental consent, we will delete that information as quickly as possible. If you believe we might have any information from or about a child under 12, please contact us immediately at **Info@Layatanahi.store**
+بیشتر مرورگرهای وب کوکی‌ها را به‌صورت پیش‌فرض می‌پذیرند، اما می‌توانید انتخاب کنید که آن‌ها را در تنظیمات مرورگر خود حذف یا رد کنید. لطفاً توجه داشته باشید که رد کردن کوکی‌ها ممکن است بر دسترس‌پذیری و کارکرد خدمات ما اثر بگذارد.
+#### سایر فناوری‌های ردیابی:
+علاوه بر کوکی‌ها، ممکن است از وب‌بیکن‌ها، تگ‌های پیکسل و سایر فناوری‌های مشابه استفاده کنیم. این‌ها گرافیک‌های ریز با شناسه‌ای یکتا هستند که ممکن است روی خدمات ما یا در ایمیل‌های ما گنجانده شوند تا فعالیت کاربر را ردیابی کنند، موفقیت کمپین‌های بازاریابی را بسنجند و آمارهایی درباره استفاده تهیه کنند.
 
 ---
 
-## Policy Changes
-### Changes to This Privacy Policy
+## امنیت
+### امنیت و حفاظت داده
 
-We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, and other factors. We encourage you to periodically review this page for the latest information on our privacy practices.
+ما امنیت اطلاعات شخصی شما را جدی می‌گیریم و از تدابیر فنی و سازمانی مناسب برای محافظت از اطلاعات شخصی شما در برابر پردازش غیرمجاز یا غیرقانونی، گم‌شدن، تخریب یا آسیب تصادفی استفاده می‌کنیم.
 
-#### How We Notify You of Changes:
-- We will post the updated Privacy Policy on this page and update the "Last Updated" date at the top of this Privacy Policy.
-- For material changes, we will provide more prominent notice, such as email notification or a banner on our website.
-- We may notify you through other communication channels if we have your contact information and the changes are significant.
+#### تدابیر امنیتی ما:
+- **رمزنگاری**: هنگام انتقال و دریافت اطلاعات حساس، مانند داده‌های مالی، از فناوری‌های رمزنگاری استاندارد صنعت استفاده می‌کنیم.
+- **کنترل‌های دسترسی**: ما کنترل‌های دسترسی و رویه‌های احراز هویت را به‌کار می‌بندیم تا اطمینان حاصل کنیم تنها پرسنل مجاز به اطلاعات شخصی شما دسترسی دارند.
+- **امنیت شبکه**: ما حفاظت‌های فنی، از جمله فایروال‌ها و سیستم‌های تشخیص نفوذ، را برای محافظت از شبکه و سیستم‌های خود نگهداری می‌کنیم.
+- **امنیت فیزیکی**: دسترسی فیزیکی به تسهیلات و سرورهای خود را تنها به پرسنل مجاز محدود می‌کنیم.
+- **ارزیابی‌های منظم امنیتی**: ما ارزیابی‌های منظم آسیب‌پذیری و آزمون نفوذ را برای شناسایی و رسیدگی به آسیب‌پذیری‌های امنیتی احتمالی انجام می‌دهیم.
+- **آموزش کارکنان**: ما آموزش منظم امنیتی و حریم خصوصی را به کارمندانی که اطلاعات شخصی را مدیریت می‌کنند ارائه می‌دهیم.
+- **طرح پاسخ به حادثه**: ما یک طرح پاسخ به حادثه برای رسیدگی به نقض‌های احتمالی داده پیاده‌سازی کرده‌ایم.
 
-#### Your Continued Use:
-Your continued use of our Services after the effective date of the updated Privacy Policy constitutes your acceptance of the updated Policy. If you do not agree to the updated Policy, you must stop using our Services.
+#### نگهداری داده:
+ما اطلاعات شخصی شما را تا زمانی که برای ایفای اهدافی که آن‌ها را برای آن جمع‌آوری کرده‌ایم لازم است، از جمله برای برآورده‌کردن هرگونه الزام قانونی، حسابداری یا گزارش‌دهی، نگهداری می‌کنیم. برای تعیین دوره نگهداری مناسب اطلاعات شخصی، ما مقدار، ماهیت و حساسیت اطلاعات شخصی، خطر احتمالی آسیب از استفاده یا افشای غیرمجاز، اهدافی که برای آن‌ها اطلاعات شخصی شما را پردازش می‌کنیم، و اینکه آیا می‌توانیم آن اهداف را از طریق سایر وسایل محقق کنیم، در نظر می‌گیریم.
 
-#### Archive of Previous Versions:
-We will maintain an archive of previous versions of this Privacy Policy for your review. If you would like to review previous versions, please contact us at **Info@Layatanahi.store**
+#### نقش شما در امنیت:
+امنیت اطلاعات شما به خود شما نیز بستگی دارد. هرگاه ما برای دسترسی به بخش‌هایی از خدمات‌مان رمزی به شما داده باشیم (یا خود انتخاب کرده باشید)، شما مسئول رازداری آن رمز هستید. از شما می‌خواهیم رمز خود را با هیچ‌کس به اشتراک نگذارید.
 
-#### Material Changes:
-We consider changes to be material if they: (a) significantly expand our rights to use or share the personal information we collect; (b) reduce your rights or the level of security we provide for your personal information; or (c) introduce new purposes for processing your personal information that are incompatible with the original purposes.
+#### انتقال‌های بین‌المللی داده و حفاظت‌ها:
+اطلاعات شخصی شما ممکن است به کشورهایی غیر از کشوری که در آن مقیم هستید منتقل و در آن‌ها پردازش شود. این کشورها ممکن است قوانین حفاظت داده‌ای متفاوت با قوانین کشور شما داشته باشند. ما حفاظت‌های مناسب را به‌کار بسته‌ایم تا الزام کنیم اطلاعات شخصی شما مطابق این سیاست حریم خصوصی محافظت‌شده باقی بماند، از جمله پیاده‌سازی بندهای قراردادی استاندارد (Standard Contractual Clauses) کمیسیون اروپا برای انتقال اطلاعات شخصی میان شرکت‌های گروه ما و میان ما و ارائه‌دهندگان شخص ثالث خود.
+
+#### اطلاع‌رسانی نقض داده:
+در صورت وقوع نقض داده شخصی، ما مطابق الزام قانون قابل اعمال به شما و نهادهای نظارتی مربوطه اطلاع خواهیم داد. اگر تهدیدی علیه حقوق یا منافع شما وجود داشته باشد، تلاش معقولی برای اطلاع‌رسانی به شما خواهیم کرد. ما این کار را از طریق ایمیل یا با درج اطلاعیه‌ای روی وب‌سایت‌مان انجام خواهیم داد.
 
 ---
 
-## Contact Us
-### Contact Us
+## حقوق شما
+### حقوق و انتخاب‌های حریم خصوصی شما
 
-If you have any questions, concerns, or complaints about this Privacy Policy or our data practices, please contact us using the following information:
+بسته به موقعیت شما و قانون قابل اعمال، ممکن است حقوقی درباره اطلاعات شخصی خود داشته باشید. این بخش حقوقی را که ممکن است داشته باشید و نحوه اعمال آن‌ها را شرح می‌دهد.
 
-#### Our Contact Information:
+#### دسترسی و قابل‌انتقال‌بودن:
+- شما حق دارید درخواست دسترسی به اطلاعات شخصی‌ای که درباره شما نگهداری می‌کنیم را داشته باشید.
+- می‌توانید نسخه‌ای از اطلاعات شخصی خود را در قالبی ساختارمند و قابل‌خواندن توسط ماشین درخواست کنید.
+- می‌توانید به برخی اطلاعات شخصی از طریق تنظیمات حساب خود دسترسی یافته و آن‌ها را به‌روزرسانی کنید.
+
+#### اصلاح و حذف:
+- می‌توانید درخواست کنید که اطلاعات شخصی نادرست یا ناقص را اصلاح کنیم.
+- می‌توانید حذف اطلاعات شخصی خود را، مشروط بر برخی استثناها، درخواست کنید.
+- می‌توانید حساب خود را از طریق تنظیمات حساب یا با تماس با ما حذف کنید.
+
+#### محدودیت و اعتراض:
+- می‌توانید در شرایط معین درخواست کنیم که پردازش اطلاعات شخصی شما را محدود کنیم.
+- می‌توانید با پردازش اطلاعات شخصی ما برای اهداف بازاریابی مستقیم اعتراض کنید.
+- می‌توانید با تکیه ما بر منافع مشروع به‌عنوان مبنای قانونی برای پردازش اطلاعات شخصی شما اعتراض کنید.
+
+#### ارتباطات بازاریابی:
+می‌توانید با استفاده از لینک لغو عضویت (unsubscribe) در ایمیل‌های ما یا با تنظیم ترجیحات ارتباطی در تنظیمات حساب خود، از دریافت ارتباطات بازاریابی از ما انصراف دهید. حتی اگر از ارتباطات بازاریابی انصراف دهید، ممکن است همچنان پیام‌های تراکنشی مرتبط با حساب و خریدهای شما را برایتان بفرستیم.
+
+#### چگونه حقوق خود را اعمال کنید:
+برای اعمال هر یک از این حقوق، لطفاً با استفاده از اطلاعات تماس ارائه‌شده در انتهای این سیاست حریم خصوصی با ما تماس بگیرید. ممکن است قبل از پردازش درخواست شما لازم باشد هویت‌تان را تأیید کنیم. ما در چارچوب زمان‌بندی‌های خواسته‌شده توسط قانون قابل اعمال به درخواست شما پاسخ خواهیم داد.
+
+#### تجدیدنظرها و شکایت‌ها:
+اگر از پاسخ ما به درخواست حریم خصوصی‌تان راضی نیستید، ممکن است حق داشته باشید نسبت به تصمیم ما تجدیدنظرطلبی کنید یا شکایتی به نهاد حفاظت داده در حوزه قضایی خود ارائه دهید.
+
+---
+
+## حریم خصوصی کودکان
+### حریم خصوصی کودکان
+
+خدمات ما متوجه کودکان زیر ۱۲ سال نیست، و ما آگاهانه از کودکان زیر ۱۲ سال اطلاعات شخصی جمع‌آوری نمی‌کنیم. اگر شما ولی یا سرپرست هستید و باور دارید فرزندتان بدون رضایت شما به ما اطلاعات شخصی ارائه داده، لطفاً با ما تماس بگیرید و ما گام‌هایی برای حذف چنین اطلاعاتی از سیستم‌های خود برخواهیم داشت.
+
+#### محدودیت‌های سنی:
+برای استفاده از خدمات ما باید حداقل ۱۲ سال داشته باشید. اگر زیر ۱۲ سال هستید، ممکن است از خدمات ما استفاده نکنید یا هیچ اطلاعات شخصی به ما ارائه ندهید. کاربران بین ۱۲ و ۱۸ سال باید این سیاست حریم خصوصی را با ولی یا سرپرست خود مرور کنند تا اطمینان حاصل شود آن را می‌فهمند.
+
+#### کنترل‌های والدینی:
+ما والدین و سرپرستان را تشویق می‌کنیم که فعالیت‌های آنلاین فرزندان خود را پایش کنند و به اجرای سیاست حریم خصوصی ما کمک نمایند، با راهنمایی فرزندان خود که هرگز بدون اجازه آن‌ها اطلاعات شخصی از طریق خدمات ما ارائه ندهند. توصیه می‌کنیم از ابزارهای کنترل والدینی موجود از سوی ساخت‌کنندگان گوناگون نرم‌افزار و دستگاه استفاده کنید تا به فراهم‌کردن محیط آنلاین ایمن برای کودکان کمک شود.
+
+#### رضایت قابل‌تأیید والدین:
+اگر آگاه شویم که از کودکی زیر ۱۲ سال بدون تأیید رضایت والدین اطلاعات شخصی جمع‌آوری کرده‌ایم، آن اطلاعات را هرچه سریع‌تر حذف خواهیم کرد. اگر باور دارید ممکن است اطلاعاتی از کودکی زیر ۱۲ سال یا درباره او داشته باشیم، لطفاً فوراً در **Info@Layatanahi.store** با ما تماس بگیرید.
+
+---
+
+## تغییرات سیاست
+### تغییرات در این سیاست حریم خصوصی
+
+ما ممکن است این سیاست حریم خصوصی را گاه‌به‌گاه به‌روزرسانی کنیم تا تغییرات در رویه‌ها، فناوری، الزامات قانونی و سایر عوامل را منعکس کند. شما را تشویق می‌کنیم که این صفحه را دوره‌ای برای تازه‌ترین اطلاعات درباره رویه‌های حریم خصوصی‌مان مرور کنید.
+
+#### چگونه شما را از تغییرات آگاه می‌کنیم:
+- سیاست حریم خصوصی به‌روزشده را روی این صفحه درج خواهیم کرد و تاریخ «آخرین به‌روزرسانی» در بالای این سیاست حریم خصوصی را به‌روز خواهیم کرد.
+- برای تغییرات عمده، اطلاع‌رسانی برجسته‌تری مانند اعلان ایمیلی یا بنر روی وب‌سایت‌مان ارائه خواهیم کرد.
+- ممکن است از طریق سایر کانال‌های ارتباطی به شما اطلاع دهیم اگر اطلاعات تماس شما را داشته باشیم و تغییرات قابل‌توجه باشند.
+
+#### ادامه استفاده شما:
+ادامه استفاده شما از خدمات ما پس از تاریخ نافذ سیاست حریم خصوصی به‌روزشده، به‌منزله پذیرش سیاست به‌روزشده است. اگر با سیاست به‌روزشده موافق نیستید، باید استفاده از خدمات ما را متوقف کنید.
+
+#### بایگانی نسخه‌های قبلی:
+ما بایگانی‌ای از نسخه‌های قبلی این سیاست حریم خصوصی برای مرور شما نگهداری خواهیم کرد. اگر مایلید نسخه‌های قبلی را مرور کنید، لطفاً در **Info@Layatanahi.store** با ما تماس بگیرید.
+
+#### تغییرات عمده:
+ما تغییرات را زمانی عمده می‌دانیم که: (الف) حق ما برای استفاده یا به‌اشتراک‌گذاری اطلاعات شخصی جمع‌آوری‌شده را به‌طور قابل‌توجهی گسترش دهند؛ (ب) حقوق شما یا سطح امنیتی که برای اطلاعات شخصی‌تان فراهم می‌کنیم را کاهش دهند؛ یا (ج) اهداف جدیدی برای پردازش اطلاعات شخصی شما معرفی کنند که با اهداف اصلی سازگار نیست.
+
+---
+
+## با ما تماس بگیرید
+### با ما تماس بگیرید
+
+اگر هرگونه پرسش، نگرانی یا شکایت درباره این سیاست حریم خصوصی یا رویه‌های داده ما دارید، لطفاً با استفاده از اطلاعات زیر با ما تماس بگیرید:
+
+#### اطلاعات تماس ما:
 - **Email**: info@layatanahi.store
 - **Phone**: +93 70 902 8214
 - **Address**: Ahmad-yar Tower, Macrorayan square, Kabul, Afghanistan 
 
-#### Data Protection Officer:
-We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions about this Privacy Policy. If you have any questions about this Privacy Policy or our data practices, you may contact our DPO at **Info@Layatanahi.store**
+#### مسئول حفاظت داده (Data Protection Officer):
+ما یک مسئول حفاظت داده (DPO) منصوب کرده‌ایم که مسئول نظارت بر پرسش‌ها درباره این سیاست حریم خصوصی است. اگر هرگونه پرسش درباره این سیاست حریم خصوصی یا رویه‌های داده ما دارید، می‌توانید با DPO ما در **Info@Layatanahi.store** تماس بگیرید.
 
-#### Response Time:
-We strive to respond to all legitimate requests within 30 days. Occasionally, it may take us longer if your request is particularly complex or you have made several requests. In this case, we will notify you and keep you updated.
+#### زمان پاسخ:
+ما تلاش می‌کنیم به همه درخواست‌های مشروع ظرف ۳۰ روز پاسخ دهیم. گاه ممکن است اگر درخواست شما به‌طور ویژه پیچیده باشد یا چندین درخواست داده باشید، بیشتر طول بکشد. در این صورت، به شما اطلاع خواهیم داد و شما را به‌روز نگه می‌داریم.
 
-#### Supervisory Authority:
-If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work, or place of the alleged infringement if you consider that the processing of personal information relating to you infringes applicable data protection laws.
+#### نهاد نظارتی:
+اگر در منطقه اقتصادی اروپا (European Economic Area) قرار دارید، حق دارید شکایتی به یک نهاد نظارتی، به‌ویژه در کشور عضوی که اقامتگاه معمول، محل کار یا محل نقض ادعایی شماست، ارائه دهید اگر بپندارید که پردازش اطلاعات شخصی مرتبط با شما قوانین حفاظت داده قابل اعمال را نقض می‌کند.

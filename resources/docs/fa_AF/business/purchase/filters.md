@@ -3,4 +3,4 @@ title: Purchase Filters
 section: business.purchase
 ---
 
-Explains available filters for purchase lists (date ranges, supplier, status, branch, item SKU, etc.).
+فیلترهای موجود برای فهرست‌های خرید (بازه‌های تاریخ، تأمین‌کننده، وضعیت، شعبه، SKU آیتم و غیره) را توضیح می‌دهد.

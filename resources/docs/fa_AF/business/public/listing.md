@@ -1,3 +1,3 @@
-# Public Listing
+# فهرست عمومی
 
-Browse and manage public listings presented to customers.
+فهرست‌های عمومی که به مشتریان ارائه می‌شود را مرور و مدیریت کنید.

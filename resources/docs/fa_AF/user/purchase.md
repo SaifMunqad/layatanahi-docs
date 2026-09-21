@@ -1,29 +1,29 @@
-# Purchase
+# خرید
 
-## Overview
+## مروری
 
-Users can purchase products in two ways: by buying directly from the product page or by adding the item to the cart and completing the checkout later. This flexibility helps users make quick purchases when needed while also allowing them to review and compare items before they confirm the order.
+کاربران می‌توانند محصولات را به دو روش خریداری کنند: خرید مستقیم از صفحه محصول، یا افزودن قلم به سبد و تکمیل پرداخت (checkout) بعداً. این انعطاف به کاربران کمک می‌کند در صورت نیاز خرید سریع انجام دهند و در عین حال بتوانند پیش از تأیید سفارش اقلام را بررسی و مقایسه کنند.
 
-## Direct Purchase
+## خرید مستقیم
 
-When a customer chooses a product and wants to purchase immediately, the system opens a streamlined purchase flow. The user can review the selected product, confirm the quantity, and check the total price before completing the order. This direct path is designed for fast transactions and minimal friction.
+هنگامی که مشتری محصولی را انتخاب می‌کند و می‌خواهد فوراً بخرد، سیستم یک جریان خرید ساده‌شده را باز می‌کند. کاربر می‌تواند محصول انتخاب‌شده را بررسی کند، مقدار را تأیید نماید و پیش از تکمیل سفارش مجموع قیمت را کنترل کند. این مسیر مستقیم برای معاملات سریع و با کمترین اصطکاک طراحی شده است.
 
-## Add to Cart
+## افزودن به سبد
 
-Users may also add products to the cart for later review. The cart allows them to manage multiple items, adjust quantities, remove products, or continue shopping before finalizing the purchase. This is useful when customers want to compare products or complete several purchases in one checkout session.
+کاربران همچنان می‌توانند محصولات را برای بررسی بعدی به سبد بیفزایند. سبد به آن‌ها اجازه می‌دهد چند قلم را مدیریت کنند، مقادیر را تنظیم نمایند، محصول حذف کنند یا پیش از نهایی ساختن خرید به خرید ادامه دهند. این زمانی مفید است که مشتریان بخواهند محصولات را مقایسه کنند یا چند خرید را در یک نشست checkout تکمیل نمایند.
 
-## Product Review Before Purchase
+## بررسی محصول پیش از خرید
 
-Before accepting the purchase, users can view product details, including pricing, quantity, specifications, and availability. This ensures the customer has the information needed to confirm the product choice and complete the transaction with confidence.
+پیش از پذیرش خرید، کاربران می‌توانند جزئیات محصول را ببینند، شامل قیمت‌گذاری، مقدار، مشخصات و موجودی. این تضمین می‌کند که مشتری معلومات لازم برای تأیید انتخاب محصول و تکمیل معامله با اطمینان را دارد.
 
-## Checkout and Confirmation
+## پرداخت و تأیید
 
-Once the customer accepts the purchase, the system proceeds to the checkout process and prepares the order for fulfillment. The platform validates the selected items, calculates the final amount, and securely records the transaction. After confirmation, the system creates the order and prepares the related documents.
+هنگامی که مشتری خرید را پذیرفت، سیستم به فرآیند checkout رفته و سفارش را برای تکمیل آماده می‌سازد. پلتفرم اقلام انتخاب‌شده را اعتبارسنجی می‌کند، مبلغ نهایی را محاسبه می‌نماید و معامله را به‌شکل امن ثبت می‌کند. پس از تأیید، سیستم سفارش را ایجاد کرده و اسناد مرتبط را آماده می‌کند.
 
-## Invoice Generation
+## تولید بل (Invoice)
 
-After the purchase is accepted, the system automatically sends an invoice to the customer. The invoice includes important details such as the product name, quantity, unit price, taxes, delivery details, total amount, and order reference. This document serves as a formal receipt and can be used for payment confirmation and record keeping.
+پس از پذیرش خرید، سیستم به‌صورت خودکار برای مشتری بل می‌فرستد. بل شامل جزئیات مهمی مانند نام محصول، مقدار، قیمت واحد، مالیات‌ها، جزئیات تحویل، مجموع مبلغ و مرجع سفارش است. این سند به‌عنوان رسید رسمی عمل کرده و می‌تواند برای تأیید پرداخت و نگهداری سوابق به کار رود.
 
-## Order Tracking and Support
+## ردیابی سفارش و پشتیبانی
 
-After the purchase is completed, users can view the status of their order in their account. They can monitor the progress from confirmation to shipment and delivery. The invoice and order information help support customer service and ensure transparency throughout the purchase process.
+پس از تکمیل خرید، کاربران می‌توانند وضعیت سفارش خود را در حسابشان ببینند. آن‌ها می‌توانند پیشرفت را از تأیید تا ارسال و تحویل نظارت کنند. بل و معلومات سفارش به خدمت پشتیبانی مشتری کمک می‌کند و شفافیت را در تمام فرآیند خرید تضمین می‌نماید.

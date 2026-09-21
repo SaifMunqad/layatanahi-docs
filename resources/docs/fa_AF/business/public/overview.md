@@ -1,3 +1,3 @@
-# Public Overview
+# نمای کلی عمومی
 
-Manage the public-facing business experience and discoverable information.
+تجربه‌ای که کسب‌وکار به صورت عمومی نمایش می‌دهد و اطلاعات قابل کشف را مدیریت کنید.

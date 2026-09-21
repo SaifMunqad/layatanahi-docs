@@ -1,196 +1,196 @@
-# Terms of Service
+# شرایط خدمات
 
-*Please read these terms carefully before using our services. These terms contain important information about your legal rights and obligations.*
+*لطفاً پیش از استفاده از خدمات ما، این شرایط را با دقت بخوانید. این شرایط حاوی اطلاعات مهمی درباره حقوق و تعهدات قانونی شما است.*
 
-**Last Updated:** September / 13 / 2026
-
----
-
-## Agreement
-### Terms of Service Agreement
-
-Welcome to Layatanahi's comprehensive Terms of Service. These legally binding terms and conditions govern your access to and use of our website, mobile applications, products, services, and any related content (collectively, the "Services"). By accessing, browsing, or using our Services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy.
-
-These Terms constitute a legally binding agreement between you ("User," "Customer," or "you") and Layatanahi ("Company," "we," "us," or "our"). If you are using our Services on behalf of a company, organization, or other entity, you represent and warrant that you have the authority to bind that entity to these Terms, and "you" will refer to both you individually and that entity.
-
-We reserve the right to modify, update, or replace these Terms at any time in our sole discretion. We will provide notice of material changes by posting the updated Terms on our website and updating the "Last Updated" date. Your continued use of our Services after such changes constitutes your acceptance of the new Terms. It is your responsibility to review these Terms periodically for changes.
-
-If you do not agree to these Terms or any future Terms of Service, you may not access or use our Services. Any new features or tools that are added to the current Services shall also be subject to these Terms of Service.
-
-> **Important Notice**  
-> By using our Services, you agree to resolve disputes through binding arbitration (with limited exceptions), and you waive certain rights to participate in class actions. Please review the Dispute Resolution section carefully.
+**آخرین به‌روزرسانی:** September / 13 / 2026
 
 ---
 
-## Accounts
-### Account Registration and Management
+## توافق‌نامه
+### توافق‌نامه شرایط خدمات
 
-To access certain features of Layatanahi's Services, including making purchases, saving preferences, and accessing order history, you must create a user account. Account registration requires you to provide accurate, current, and complete information as prompted during the registration process.
+به شرایط خدمات جامب لایاتناهی خوش آمدید. این شرایط و ضوابط الزام‌آور قانونی، دسترسی و استفاده شما از وب‌سایت، اپلیکیشن‌های موبایل، محصولات، خدمات و هر محتوای مرتبط (به‌طور جمعی، «خدمات») را حاکم می‌کند. با دسترسی، مرور یا استفاده از خدمات ما، شما اقرار می‌کنید که این شرایط خدمات و سیاست حریم خصوصی ما را خوانده، فهمیده و با ملزوم‌شدن به آن‌ها موافقت کرده‌اید.
 
-#### Eligibility Requirements:
-- **Age Requirement**: You must be at least 18 years old to create an account. If you are under 18, you may only use our Services with the involvement and consent of a parent or legal guardian.
-- **Legal Capacity**: You must have the legal capacity to enter into binding contracts in your jurisdiction.
-- **Accuracy**: You agree to maintain accurate, current, and complete account information, including your name, email address, shipping address, and payment methods.
-- **Single Account**: Each user may maintain only one account. Creating multiple accounts may result in termination of all associated accounts.
+این شرایط یک توافق‌نامه الزام‌آور قانونی میان شما («کاربر»، «مشتری» یا «شما») و لایاتناهی («شرکت»، «ما»، «اذمون») تشکیل می‌دهد. اگر از خدمات ما از طرف یک شرکت، سازمان یا نهاد دیگر استفاده می‌کنید، شما اقرار و تضمین می‌کنید که صلاحیت ملزوم‌کردن آن نهاد به این شرایط را دارید، و «شما» هم به‌شخص خود و هم آن نهاد را شامل می‌شود.
 
-#### Account Security Responsibilities:
-- **Password Protection**: You are solely responsible for maintaining the confidentiality of your account credentials, including your password. You agree not to share your account credentials with any third party.
-- **Unauthorized Access**: You must immediately notify us of any unauthorized use of your account or any other breach of security by contacting customer support at support@layatanahi.com.
-- **Account Activity**: You are responsible for all activities that occur under your account, whether authorized by you or not. We are not liable for any loss or damage arising from your failure to comply with these security obligations.
-- **Suspicious Activity**: We reserve the right to suspend or terminate your account if we suspect any unauthorized or fraudulent activity.
+ما حق خود را محفوظ می‌داریم که این شرایط را در هر زمان و با صلاحدید خود تغییر، به‌روزرسانی یا جایگزین کنیم. ما تغییرات عمده را با درج شرایط به‌روزشده در وب‌سایت و به‌روزرسانی تاریخ «آخرین به‌روزرسانی» اطلاع می‌دهیم. ادامه استفاده شما از خدمات ما پس از چنین تغییراتی، به‌معنای پذیرش شرایط جدید است. بررسی دوره‌ای این شرایط برای تغییرات بر عهده شما است.
 
-#### Account Termination and Suspension:
-- **Voluntary Termination**: You may delete your account at any time through your account settings or by contacting customer support.
-- **Company Termination**: We reserve the right to suspend or terminate your account at our sole discretion, without prior notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties.
-- **Effect of Termination**: Upon termination, your right to use the Services will immediately cease. All provisions of these Terms that by their nature should survive termination shall survive, including ownership provisions, warranty disclaimers, and limitations of liability.
+اگر با این شرایط یا هر شرایط خدمات آینده موافق نیستید، مجاز به دسترسی یا استفاده از خدمات ما نخواهید بود. هر ویژگی یا ابزار جدیدی که به خدمات فعلی افزوده شود نیز تابع این شرایط خدمات خواهد بود.
 
-#### Communication Preferences:
-By creating an account, you consent to receive electronic communications from us, including transactional messages, administrative notices, and marketing communications. You may opt out of marketing communications at any time through your account settings or by using the unsubscribe link in our emails.
+> **توجه مهم**  
+> با استفاده از خدمات ما، شما موافقت می‌کنید که اختلافات را از طریق داوری الزام‌آور (با استثناهای محدود) حل کنید، و از برخی حقوق خود برای شرکت در دعاوی جمعی (class actions) صرف‌نظر می‌کنید. لطفاً بخش حل‌وفصل اختلافات را با دقت مرور کنید.
 
 ---
 
-## Purchases
-### Purchases, Orders, and Payment Terms
+## حساب‌ها
+### ثبت‌نام و مدیریت حساب
 
-All purchases through Layatanahi are subject to product availability, our acceptance of your order, and these Terms of Service. By placing an order, you make an offer to purchase the products in your cart subject to these Terms.
+برای دسترسی به برخی ویژگی‌های خدمات لایاتناهی، از جمله انجام خرید، ذخیره ترجیحات و دسترسی به تاریخچه سفارش‌ها، باید یک حساب کاربری ایجاد کنید. ثبت‌نام حساب مستلزم آن است که اطلاعات دقیق، جاری و کامل را مطابق خواست‌شده در فرایند ثبت‌نام ارائه دهید.
 
-#### Order Process and Acceptance:
-- **Order Submission**: When you place an order, you will receive an automatic order confirmation email. This email confirms that we have received your order but does not constitute acceptance of your order.
-- **Order Acceptance**: We reserve the right to accept or decline your order for any reason at any time prior to shipping. Order acceptance occurs when we ship the products to you, at which point a contract is formed.
-- **Order Verification**: For certain orders, we may require additional verification information, such as proof of identity or address, to prevent fraud and ensure security.
-- **Order Cancellation**: We reserve the right to cancel any order for reasons including, but not limited to, product unavailability, pricing errors, suspected fraud, or inability to fulfill the order.
+#### شرایط صلاحیت:
+- **شرط سنی**: برای ایجاد حساب باید حداقل ۱۸ سال داشته باشید. اگر کمتر از ۱۸ سال دارید، تنها با مشارکت و رضایت ولی یا سرپرست قانونی می‌توانید از خدمات ما استفاده کنید.
+- **اهلیت قانونی**: باید اهلیت قانونی برای انعقاد قراردادهای الزام‌آور در حوزه قضایی خود را داشته باشید.
+- **دقت**: موافقت می‌کنید که اطلاعات حساب خود را دقیق، جاری و کامل نگه دارید، از جمله نام، ایمیل، آدرس تحویل و روش‌های پرداخت.
+- **حساب منفرد**: هر کاربر تنها مجاز به داشتن یک حساب است. ایجاد چند حساب ممکن است به لغو همه حساب‌های مرتبط منجر شود.
 
-#### Pricing and Payment Terms:
-- **Price Changes**: All prices are subject to change without notice. The price displayed at the time of order confirmation is the price you will pay.
-- **Taxes**: Prices do not include sales tax, value-added tax, or other applicable taxes. These will be calculated and added to your total during checkout based on your shipping address.
-- **Payment Methods**: We accept various payment methods, including credit cards, debit cards, and digital payment services. By providing payment information, you represent that you are authorized to use the payment method.
-- **Payment Authorization**: When you provide payment information, you authorize us to charge the full amount to your selected payment method, including applicable taxes and shipping fees.
-- **Currency**: All transactions are processed in US Dollars (USD) unless otherwise specified. International customers may see converted prices, but the actual charge will be in USD.
+#### مسئولیت‌های امنیت حساب:
+- **محافظت از رمز عبور**: شما به‌تنهایی مسئول حفظ رازداری اعتبارنامه‌های حساب خود، از جمله رمز عبور هستید. موافقت می‌کنید که اعتبارنامه‌های حساب خود را با هیچ شخص ثالثی به اشتراک نگذارید.
+- **دسترسی غیرمجاز**: باید هرگونه استفاده غیرمجاز از حساب یا هر نقض امنیت دیگر را فوراً از طریق تماس با پشتیبانی مشتریان در support@layatanahi.com به ما اطلاع دهید.
+- **فعالیت حساب**: شما مسئول تمام فعالیت‌هایی هستید که زیرمجموعه حساب شما رخ می‌دهد، خواه توسط شما مجاز بوده باشد یا نه. ما مسئول هیچگونه خسارت یا زیانی که ناشی از عدم رعایت شما از این تعهدات امنیتی باشد، نیستیم.
+- **فعالیت مشکوک**: ما حق خود را محفوظ می‌داریم که در صورت مشکوک‌شدن به هرگونه فعالیت غیرمجاز یا تقلبی، حساب شما را معلق یا لغو کنیم.
 
-#### Shipping and Delivery:
-- **Shipping Methods**: We offer various shipping options with different delivery timeframes and costs. Shipping times are estimates and not guaranteed.
-- **International Shipping**: International orders may be subject to customs duties, taxes, and fees that are the responsibility of the recipient.
-- **Delivery Issues**: You are responsible for providing accurate shipping information. We are not responsible for packages lost or delayed due to incorrect addresses or recipient unavailability.
-- **Risk of Loss**: Title and risk of loss for products pass to you upon our delivery to the carrier. We are not responsible for damage or loss during transit.
+#### لغو و تعلیق حساب:
+- **لغو اختیاری**: می‌توانید حساب خود را در هر زمان از طریق تنظیمات حساب یا با تماس با پشتیبانی مشتریان حذف کنید.
+- **لغو توسط شرکت**: ما حق خود را محفوظ می‌داریم که حساب شما را با صلاحدید خود، بدون اطلاع قبلی، به دلیل رفتاری که به اعتقاد ما این شرایط را نقض می‌کند یا برای سایر کاربران، ما یا اشخاص ثالث مضر است، معلق یا لغو کنیم.
+- **اثر لغو**: پس از لغو، حق شما برای استفاده از خدمات فوراً خاتمه می‌یابد. تمام احکام این شرایط که به‌موجب ماهیت خود باید پس از لغو باقی بمانند، باقی می‌مانند، از جمله احکام مالکیت، سلب ضمانت‌ها و محدودیت‌های مسئولیت.
 
-#### Product Information and Availability:
-- **Product Descriptions**: We strive to provide accurate product descriptions and images, but we do not warrant that product descriptions or other content are accurate, complete, reliable, current, or error-free.
-- **Limited Quantities**: All products are subject to availability. We may limit quantities available for purchase and reserve the right to discontinue products at any time.
-- **Color Variations**: Product colors displayed on our website may vary slightly from actual products due to monitor settings and lighting conditions.
+#### ترجیحات ارتباطی:
+با ایجاد یک حساب، شما موافقت می‌کنید که مکالمات الکترونیکی را از ما دریافت کنید، از جمله پیام‌های تراکنشی، اعلانات اداری و ارتباطات بازاریابی. می‌توانید در هر زمان از طریق تنظیمات حساب یا با استفاده از لینک لغو عضویت (unsubscribe) در ایمیل‌های ما، از ارتباطات بازاریابی انصراف دهید.
 
 ---
 
-## Returns
-### Returns, Refunds, and Exchanges
+## خریدها
+### شرایط خرید، سفارش‌ها و پرداخت
 
-Layatanahi is committed to customer satisfaction. Our comprehensive return policy is designed to ensure a positive shopping experience while maintaining fair business practices. Please read this section carefully to understand your rights and responsibilities regarding returns and refunds.
+تمام خریدها از طریق لایاتناهی مشمول موجودی محصول، پذیرش سفارش توسط ما و این شرایط خدمات است. با ثبت یک سفارش، شما یک پیشنهاد برای خرید محصولات موجود در سبد خود، مشمول این شرایط، ارائه می‌دهید.
 
-#### Return Eligibility and Timeframe:
-- **Return Window**: Most items may be returned within 30 days of the delivery date. Some products may have extended return periods as specified on the product page.
-- **Condition Requirements**: Items must be returned in their original condition: unused, unwashed, with all tags attached, and in original packaging with all included accessories and documentation.
-- **Proof of Purchase**: A valid proof of purchase (order number, receipt, or packing slip) is required for all returns and exchanges.
-- **Final Sale Items**: Certain items are marked as "final sale" and are not eligible for return, including clearance items, personalized products, and intimate apparel.
+#### فرایند و پذیرش سفارش:
+- **ارسال سفارش**: هنگامی که سفارشی ثبت می‌کنید، یک ایمیل تأیید خودکار سفارش دریافت خواهید کرد. این ایمیل تأیید می‌کند که سفارش شما را دریافت کرده‌ایم اما به‌معنای پذیرش سفارش شما نیست.
+- **پذیرش سفارش**: ما حق خود را محفوظ می‌داریم که سفارش شما را برای هر دلیل، در هر زمان پیش از ارسال، بپذیریم یا رد کنیم. پذیرش سفارش هنگامی رخ می‌دهد که محصولات را برای شما ارسال کنیم، و در آن نقطه یک قرارداد تشکیل می‌شود.
+- **بررسی سفارش**: برای برخی سفارش‌ها، ممکن است برای جلوگیری از تقلب و تضمین امنیت، اطلاعات بررسی اضافی مانند اثبات هویت یا آدرس را لازم بدانیم.
+- **لغو سفارش**: ما حق خود را محفوظ می‌داریم که هر سفارش را به دلایلی از جمله، اما نه محدود به، نبود موجودی، خطای قیمت‌گذاری، تقلب مشکوک یا ناتوانی در انجام سفارش لغو کنیم.
 
-#### Return Process and Instructions:
-- **Return Authorization**: To initiate a return, please contact our customer service team or use our online returns portal. Unauthorized returns may be refused.
-- **Shipping Costs**: Return shipping costs are the customer's responsibility unless the return is due to our error or defective merchandise.
-- **Packaging**: Please package returns securely to prevent damage during transit. We recommend using a trackable shipping method and retaining your shipping receipt.
-- **International Returns**: International customers are responsible for any customs duties, taxes, or fees associated with returns.
+#### شرایط قیمت و پرداخت:
+- **تغییرات قیمت**: تمام قیمت‌ها مشمول تغییر بدون اطلاع هستند. قیمتی که در زمان تأیید سفارش نمایش داده می‌شود، همان قیمتی است که پرداخت خواهید کرد.
+- **مالیات‌ها**: قیمت‌ها شامل مالیات بر فروش، مالیات بر ارزش افزوده یا سایر مالیات‌های قابل اعمال نیستند. این موارد در زمان تسویه‌حساب (checkout) بر اساس آدرس تحویل شما محاسبه و به مبلغ کل افزوده می‌شوند.
+- **روش‌های پرداخت**: ما روش‌های مختلفی از پرداخت را می‌پذیریم، از جمله کارت‌های اعتباری، کارت‌های نقدی و خدمات پرداخت دیجیتال. با ارائه اطلاعات پرداخت، شما اقرار می‌کنید که مجاز به استفاده از آن روش پرداخت هستید.
+- **مجاز کردن پرداخت**: هنگامی که اطلاعات پرداخت را ارائه می‌دهید، به ما اجازه می‌دهید تا کل مبلغ را به روش پرداخت انتخابی شما، شامل مالیات‌ها و هزینه‌های حمل‌ونقل قابل اعمال، شارژ کنیم.
+- **واحد پول**: تمام تراکنش‌ها به دالر امریکایی (USD) پردازش می‌شوند مگر آنکه غیر از این مشخص شده باشد. مشتریان بین‌المللی ممکن است قیمت‌های تبدیل‌شده ببینند، اما شارژ واقعی به USD خواهد بود.
 
-#### Refund Processing:
-- **Refund Timeline**: Refunds are typically processed within 7-10 business days after we receive and inspect the returned items.
-- **Refund Method**: Refunds will be issued to the original payment method used for purchase. Processing times may vary depending on your financial institution.
-- **Partial Refunds**: We reserve the right to issue partial refunds for items returned in less than original condition or missing components.
-- **Non-Refundable Items**: Shipping charges, gift wrapping fees, and any additional services are generally non-refundable.
+#### حمل‌ونقل و تحویل:
+- **روش‌های حمل‌ونقل**: ما گزینه‌های مختلفی از حمل‌ونقل با بازه‌های زمانی و هزینه‌های متفاوت ارائه می‌دهیم. زمان‌های حمل‌ونقل تخمینی هستند و تضمین‌شده نیستند.
+- **حمل‌ونقل بین‌المللی**: سفارش‌های بین‌المللی ممکن است مشمول عوارض گمرکی، مالیات‌ها و هزینه‌هایی باشند که بر عهده گیرنده است.
+- **مسائل تحویل**: شما مسئول ارائه اطلاعات دقیق حمل‌ونقل هستید. ما مسئول بسته‌هایی که به دلیل آدرس نادرست یا نبود گیرنده گم یا به تأخیر می‌افتند، نیستیم.
+- **انتقال خطر**: عنوان و خطر انتقال زیان محصولات به‌محض تحویل ما به متصدی حمل به شما منتقل می‌شود. ما مسئول خسارت یا زیان در جریان حمل نیستیم.
 
-#### Exchanges and Store Credit:
-- **Product Exchanges**: We gladly exchange items for a different size or color, subject to availability. Exchanges follow the same condition requirements as returns.
-- **Store Credit**: In some cases, we may offer store credit instead of a monetary refund. Store credit does not expire and can be used for future purchases.
-- **Price Differences**: If the exchange item has a different price, the difference will be charged or refunded accordingly.
-
-#### Defective or Damaged Items:
-If you receive a defective or damaged item, please contact us within 7 days of delivery. We will arrange for a return shipping label and process a full refund or replacement at our discretion. Please include photographs of the damage or defect when contacting customer service.
+#### اطلاعات و موجودی محصولات:
+- **توضیحات محصولات**: ما تلاش می‌کنیم توضیحات و تصاویر دقیق محصولات ارائه دهیم، اما تضمین نمی‌کنیم که توضیحات محصولات یا سایر مطالب دقیق، کامل، قابل‌اتکاء، جاری یا بدون خطا باشند.
+- **تعداد محدود**: تمام محصولات مشمول موجودی هستند. ممکن است تعداد موجود برای خرید را محدود کنیم و حق خود را محفوظ دارim که محصولات را در هر زمان متوقف کنیم.
+- **تغییرات رنگ**: رنگ‌های محصولات نمایش‌داده‌شده در وب‌سایت ما ممکن است به دلیل تنظیمات نمایشگر و شرایط نور، تفاوت جزئی با محصولات واقعی داشته باشند.
 
 ---
 
-## Intellectual Property
-### Intellectual Property Rights
+## مرجوعی‌ها
+### مرجوعی‌ها، استردادها و مبادلات
 
-All content, features, and functionality available through Layatanahi's Services, including but not limited to text, graphics, logos, images, photographs, audio clips, video clips, digital downloads, data compilations, software, and the selection and arrangement thereof, are the exclusive property of Layatanahi and its licensors and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+لایاتناهی به رضایت مشتری متعهد است. سیاست جامع مرجوعی ما به‌گونه‌ای طراحی شده که تجربه خرید مثبت را تضمین کند و در عین حال اصول منصفانه کسب‌وکار را حفظ نماید. لطفاً این بخش را با دقت بخوانید تا حقوق و مسئولیت‌های خود را درباره مرجوعی‌ها و استردادها درک کنید.
 
-#### Trademarks and Service Marks:
-- **Registered Marks**: The Layatanahi name, logos, product names, service names, and all related names, logos, product and service names, designs, and slogans are trademarks of Layatanahi or its affiliates or licensors.
-- **Usage Restrictions**: You may not use such marks without the prior written permission of Layatanahi. All other names, logos, product and service names, designs, and slogans on the Services are the trademarks of their respective owners.
-- **Brand Protection**: We actively protect our trademarks against infringement and unauthorized use. Any unauthorized use terminates the permission or license granted by Layatanahi.
+#### صلاحیت و بازه مرجوعی:
+- **بازه مرجوعی**: بیشتر اقلام را می‌توان ظرف ۳۰ روز پس از تاریخ تحویل مرجوع کرد. برخی محصولات ممکن است با بازه مرجوعی طولانی‌تری، مطابق مشخص‌شده در صفحه محصول، برخوردار باشند.
+- **شرایط وضعیت**: اقلام باید در وضعیت اصلی خود بازگردانده شوند: استفاده‌نشده، شسته‌نشده، با تمام برچسب‌ها، و در بسته‌بندی اصلی با تمام ملزومات و مدارک موجود.
+- **اثبات خرید**: یک اثبات معتبر خرید (شماره سفارش، رسید یا برگه بسته‌بندی) برای تمام مرجوعی‌ها و مبادلات لازم است.
+- **اقلام فروش قطعی**: برخی اقلام با برچسب «فروش قطعی» (final sale) مشخص شده و قابل مرجوع نیستند، از جمله اقلام حراج، محصولات شخصی‌سازی‌شده و پوشاک زیر.
 
-#### Copyright Protection:
-- **Website Content**: All content on our website, including text, graphics, user interfaces, visual interfaces, photographs, trademarks, logos, sounds, music, artwork, and computer code, is owned, controlled, or licensed by or to Layatanahi and is protected by copyright and various other intellectual property rights.
-- **Product Designs**: Original product designs, patterns, and creative elements are protected by copyright and design rights. Reproduction or imitation of our designs is strictly prohibited.
-- **Digital Content**: Any digital content, including downloadable materials, software, and mobile applications, is licensed, not sold, to you for use only under these Terms.
+#### فرایند و دستورالعمل مرجوعی:
+- **مجوز مرجوعی**: برای آغاز یک مرجوعی، لطفاً با تیم خدمات مشتریان ما تماس بگیرید یا از پورتال مرجوعی آنلاین ما استفاده کنید. مرجوعی‌های غیرمجاز ممکن است رد شوند.
+- **هزینه حمل مرجوعی**: هزینه حمل مرجوعی بر عهده مشتری است، مگر آنکه مرجوعی به دلیل خطای ما یا کالای معیوب باشد.
+- **بسته‌بندی**: لطفاً مرجوعی‌ها را به‌خوبی بسته‌بندی کنید تا در جریان حمل آسی نبینند. توصیه می‌کنیم از یک روش حمل قابل‌ردیابی استفاده کنید و رسید حمل خود را نگه دارید.
+- **مرجوعی‌های بین‌المللی**: مشتریان بین‌المللی مسئول هرگونه عوارض گمرکی، مالیات یا هزینه مرتبط با مرجوعی‌ها هستند.
 
-#### License Grant and Restrictions:
-- **Limited License**: Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal, non-commercial use of our Services.
-- **Prohibited Uses**: You may not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on our Services, except as expressly permitted by these Terms.
-- **Commercial Use**: You may not use any part of our Services for commercial purposes without obtaining a license to do so from us.
-- **Scraping and Data Mining**: You may not use any robots, spiders, or other automatic devices, processes, or means to access our Services for any purpose, including monitoring or copying any of the material on our Services.
+#### پردازش استرداد:
+- **زمان‌بندی استرداد**: استردادها معمولاً ظرف ۷ تا ۱۰ روز کاری پس از دریافت و بازرسی اقلام بازگشتی پردازش می‌شوند.
+- **روش استرداد**: استردادها به روش پرداخت اصلی که خرید با آن انجام شده صادر می‌شوند. زمان پردازش ممکن است بسته به مؤسسه مالی شما متفاوت باشد.
+- **استرداد جزئی**: ما حق خود را محفوظ می‌داریم که برای اقلامی که با وضعیتی کمتر از اصلی بازگردانده شده یا قطعاتی از آن‌ها کم است، استرداد جزئی صادر کنیم.
+- **اقلام غیرقابل استرداد**: هزینه‌های حمل، هزینه‌های بسته‌بندی هدیه و هر خدمات اضافی به‌طور کلی غیرقابل استرداد هستند.
 
-#### User-Generated Content:
-- **Content License**: By submitting content (including reviews, comments, photos, and videos) to our Services, you grant Layatanahi a worldwide, perpetual, irrevocable, royalty-free, non-exclusive, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such content.
-- **Content Warranties**: You represent and warrant that you own or control all rights to the content you submit and that the content is accurate, does not violate these Terms, and will not cause injury to any person or entity.
-- **Content Moderation**: We reserve the right to remove or edit user-generated content for any reason, including content that we determine in our sole discretion is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene, or otherwise objectionable.
+#### مبادلات و اعتبار فروشگاه:
+- **مبادله محصولات**: ما با کمال میل اقلام را با سایز یا رنگ دیگر، مشمول موجودی، مبادله می‌کنیم. مبادلات از همان شرایط وضعیت مانند مرجوعی‌ها پیروی می‌کنند.
+- **اعتبار فروشگاه**: در برخی موارد، ممکن است به‌جای استرداد نقدی، اعتبار فروشگاه ارائه دهیم. اعتبار فروشگاه منقضی نمی‌شود و قابل استفاده برای خریدهای آینده است.
+- **اختلاف قیمت**: اگر قلم مبادله‌ای قیمت متفاوتی داشته باشد، مابه‌التفاوت به‌طور مناسب شارژ یا استرداد خواهد شد.
 
----
-
-## Liability
-### Limitation of Liability and Disclaimers
-
-This section outlines the limitations of our liability and important disclaimers regarding your use of Layatanahi's Services. Please read this section carefully as it affects your legal rights and remedies.
-
-#### Disclaimer of Warranties:
-- **"As Is" Basis**: Our Services and all products are provided on an "as is" and "as available" basis, without any warranties of any kind, either express or implied.
-- **No Guarantees**: We do not warrant that our Services will be uninterrupted, secure, or error-free, that defects will be corrected, or that our Services or the servers that make them available are free of viruses or other harmful components.
-- **Product Warranties**: We do not make any warranties or representations regarding the quality, accuracy, or reliability of any products, services, information, or other material purchased or obtained through our Services.
-- **Third-Party Content**: We are not responsible for any third-party content, services, or websites accessed through our Services. Any dealings with third parties are solely between you and the third party.
-
-#### Limitation of Liability:
-- **Direct Damages**: To the fullest extent permitted by applicable law, in no event shall Layatanahi, its directors, employees, partners, agents, suppliers, or affiliates be liable for any indirect, incidental, special, consequential, or punitive damages.
-- **Maximum Liability**: Our total cumulative liability to you for all claims arising from or relating to these Terms or your use of our Services shall not exceed the greater of (a) the amount you paid to us for products in the six months preceding the event giving rise to the claim, or (b) one hundred dollars ($100).
-- **Excluded Damages**: This limitation applies to all claims, whether based on warranty, contract, tort, or any other legal theory, and whether or not we have been informed of the possibility of such damage.
-- **Essential Purpose**: You acknowledge and agree that the limitations of liability set forth in this section are fundamental elements of the basis of the bargain between you and Layatanahi.
-
-#### Indemnification:
-You agree to defend, indemnify, and hold harmless Layatanahi and its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms or your use of our Services.
-
-#### Jurisdictional Limitations:
-Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the above limitations may not apply to you. To the extent we may not, as a matter of applicable law, disclaim any warranty or limit our liability, the scope and duration of such warranty and the extent of our liability will be the minimum permitted under such applicable law.
+#### اقلام معیوب یا آسیب‌دیده:
+اگر یک قلم معیوب یا آسیب‌دیده دریافت کردید، لطفاً ظرف ۷ روز پس از تحویل با ما تماس بگیرید. ما یک برچسب حمل مرجوعی ترتیب خواهیم داد و با صلاحدید خود یک استرداد کامل یا جایگزینی را پردازش می‌کنیم. لطفاً هنگام تماس با خدمات مشتریان، عکس‌هایی از آسیب یا عیب ضمیمه کنید.
 
 ---
 
-## Changes
-### Changes to Terms and General Provisions
+## مالکیت فکری
+### حقوق مالکیت فکری
 
-Layatanahi reserves the right to update, modify, or replace any part of these Terms of Service at any time without prior notice. It is your responsibility to check our Terms periodically for changes. Your continued use of or access to our Services following the posting of any changes to these Terms constitutes acceptance of those changes.
+تمام محتوا، ویژگی‌ها و کارکردهای موجود از طریق خدمات لایاتناهی، از جمله اما نه محدود به، متن، گرافیک، نشان‌ها، تصاویر، عکس‌ها، قطعات صوتی، قطعات ویدیویی، دانلودهای دیجیتال، مجموعه‌های داده، نرم‌افزار، و انتخاب و چیدمان آن‌ها، مالکیت انحصاری لایاتناهی و مجوزدهندگان آن است و توسط قوانین بین‌المللی حق‌نشر، علامت تجاری، ثبت اختراع، راز تجاری و سایر حقوق مالکیت فکری یا انحصاری حفاظت می‌شود.
 
-#### Modification Process:
-- **Notification**: We will notify users of material changes to these Terms by posting the updated Terms on our website and updating the "Last Updated" date. We may also provide additional notice through email or other communication channels for significant changes.
-- **Effective Date**: Changes to these Terms are effective when they are posted on this page. The "Last Updated" date at the bottom of these Terms indicates when the most recent changes were made.
-- **Material Changes**: Material changes that affect your rights will not be applied retroactively. If you disagree with any changes, you must stop using our Services.
-- **Archive**: We maintain an archive of previous versions of these Terms. Previous versions are available upon request by contacting customer service.
+#### علائم تجاری و علائم خدمات:
+- **علائم ثبت‌شده**: نام لایاتناهی، نشان‌ها، نام محصولات، نام خدمات و تمام نام‌ها، نشان‌ها، نام محصولات و خدمات، طرح‌ها و شعارهای مرتبط، علامت تجاری لایاتناهی یا وابستگان یا مجوزدهندگان آن هستند.
+- **محدودیت‌های استفاده**: شما مجاز به استفاده از چنین علائمی بدون اجازه کتبی قبلی لایاتناهی نیستید. سایر نام‌ها، نشان‌ها، نام محصولات و خدمات، طرح‌ها و شعارها روی خدمات، علامت تجاری صاحبان مربوطه خود هستند.
+- **محافظت از برند**: ما به‌طور فعال از علائم تجاری خود در برابر نقض و استفاده غیرمجاز حفاظت می‌کنیم. هر استفاده غیرمجاز، اجازه یا مجوز اعطاشده توسط لایاتناهی را خاتمه می‌بخشد.
 
-#### Governing Law and Jurisdiction:
-- **Governing Law**: These Terms and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law principles.
-- **Jurisdiction**: You agree that any legal action or proceeding between you and Layatanahi for any purpose concerning these Terms or the parties' obligations hereunder shall be brought exclusively in a federal or state court of competent jurisdiction sitting in San Francisco County, California.
-- **Waiver of Jury Trial**: Both parties hereby waive any right to a jury trial in any legal proceeding arising out of or relating to these Terms.
+#### حفاظت حق‌نشر:
+- **محتوای وب‌سایت**: تمام محتوای وب‌سایت ما، از جمله متن، گرافیک، رابط‌های کاربری، رابط‌های بصری، عکس‌ها، علائم تجاری، نشان‌ها، صداها، موسیقی، آثار هنری و کد کامپیوتری، متعلق، تحت کنترل یا دارای مجوز لایاتناهی است و توسط حق‌نشر و سایر حقوق مالکیت فکری حفاظت می‌شود.
+- **طرح‌های محصولات**: طرح‌های اصیل محصولات، الگوها و عناصر خلاقانه توسط حق‌نشر و حقوق طرح حفاظت می‌شوند. بازتولید یا تقلید از طرح‌های ما اکیداً ممنوع است.
+- **محتوای دیجیتال**: هر محتوای دیجیتال، از جمله مواد قابل‌دانلود، نرم‌افزار و اپلیکیشن‌های موبایل، به شما فروخته نمی‌شود بلکه مجوز داده می‌شود، تنها برای استفاده مشمول این شرایط.
 
-#### Severability and Waiver:
-- **Severability**: If any provision of these Terms is held to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions will continue in full force and effect.
-- **Waiver**: No waiver by Layatanahi of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Layatanahi to assert a right or provision under these Terms shall not constitute a waiver of such right or provision.
+#### اعطای مجوز و محدودیت‌ها:
+- **مجوز محدود**: مشمول رعایت شما از این شرایط، ما یک مجوز محدود، غیرانحصاری، غیرقابل‌انتقال و غیرقابل‌فرعی‌مجوز به شما می‌دهیم تا به خدمات ما دسترسی یابید و استفاده شخصی و غیرتجاری از آن ببرید.
+- **کاربردهای ممنوع**: شما مجاز به بازتولید، توزیع، تغییر، ایجاد آثار مشتق، نمایش عمومی، اجرای عمومی، بازنشر، دانلود، ذخیره یا ارسال هر یک از مطالب روی خدمات خود نیستید، مگر آنکه صراحتاً توسط این شرایط مجاز شده باشد.
+- **استفاده تجاری**: شما مجاز به استفاده از هیچ بخشی از خدمات ما برای مقاصد تجاری نیستید، بدون کسب یک مجوز برای انجام آن از ما.
+- **خزش و داده‌کاوی**: شما مجاز به استفاده از هیچ ربات، عنکبوت یا سایر دستگاه‌ها، فرایندها یا وسایل خودکار برای دسترسی به خدمات ما برای هیچ منظوری، از جمله پایش یا کپی هر یک از مطالب روی خدمات ما، نیستید.
 
-#### Entire Agreement:
-These Terms of Service, together with our Privacy Policy and any other legal notices published by us on the Services, shall constitute the entire agreement between you and Layatanahi concerning the Services. These Terms supersede all prior agreements and understandings, whether written or oral, relating to the Services.
+#### محتوای ایجادشده توسط کاربر:
+- **مجوز محتوا**: با ارسال محتوا (از جمله نظرات، توضیحات، عکس‌ها و ویدیوها) به خدمات ما، شما به لایاتناهی یک حق جهانی، دائمی، بازگشت‌ناپذیر، بدون رویه، غیرانحصاری و کاملاً قابل‌فرعی‌مجوز می‌دهید تا چنین محتوایی را استفاده، بازتولید، تغییر، تطبیق، نشر، ترجمه، ایجاد آثار مشتق از آن، توزیع، اجرا و نمایش دهد.
+- **تضمین‌های محتوا**: شما اقرار و تضمین می‌کنید که تمام حقوق محتوایی که ارسال می‌کنید را در مالکیت یا کنترل دارید و که محتوا دقیق است، این شرایط را نقض نمی‌کند و به هیچ شخص یا نهادی آسیب نخواهد رساند.
+- **نظارت بر محتوا**: ما حق خود را محفوظ می‌داریم که محتوای ایجادشده توسط کاربر را برای هر دلیلی حذف یا ویرایش کنیم، از جمله محتوایی که با صلاحدید خود تشخیص دهیم غیرقانونی، توهین‌آمیز، تهدیدآمیز، افتراآمیز، مستهجن یا به‌سایر صورت ناپسند است.
 
-#### Contact Information:
-**If you have any questions about these Terms of Service, please contact us at:**
+---
+
+## مسئولیت
+### محدودیت مسئولیت و سلب‌های ضمانت
+
+این بخش محدودیت‌های مسئولیت ما و سلب‌های ضمانت مهم را درباره استفاده شما از خدمات لایاتناهی بیان می‌کند. لطفاً این بخش را با دقت بخوانید زیرا بر حقوق و جبران‌های قانونی شما اثر می‌گذارد.
+
+#### سلب ضمانت‌ها:
+- **بر مبنای «همان‌طور که هست»**: خدمات ما و تمام محصولات بر مبنای «همان‌طور که هست» (as is) و «همان‌طور که در دسترس است» (as available) ارائه می‌شوند، بدون هیچگونه ضمانتی از هر نوع، چه صریح چه ضمنی.
+- **بدون تضمین**: ما تضمین نمی‌کنیم که خدمات ما بدون وقفه، امن یا بدون خطا خواهد بود، که عیب‌ها اصلاح خواهند شد، یا اینکه خدمات ما یا سرورهایی که آن‌ها را در دسترس قرار می‌دهند از ویروس‌ها یا سایر اجزای مضر پاک هستند.
+- **ضمانت‌های محصولات**: ما هیچ ضمانت یا ابرازی درباره کیفیت، دقت یا قابلیت‌اتکاء هیچ محصول، خدمت، اطلاعات یا سایر مطالب خریداری‌شده یا به‌دست‌آمده از طریق خدمات ما نمی‌کنیم.
+- **محتوای اشخاص ثالث**: ما مسئول هیچ محتوای خدمت یا وب‌سایت شخص ثالثی که از طریق خدمات ما دسترسی پیدا می‌شود، نیستیم. هرگونه معاشرت با اشخاص ثالث صرفاً میان شما و آن شخص ثالث است.
+
+#### محدودیت مسئولیت:
+- **خسارات مستقیم**: تا حداکثر میزان مجاز توسط قانون قابل اعمال، در هیچ حالت لایاتناهی، مدیران، کارکنان، شرکا، نمایندگان، تأمین‌کنندگان یا وابستگان آن مسئول هیچ خسارت غیرمستقیم، تبعی، ویژه، پیامدی یا تنبیهی نخواهد بود.
+- **حداکثر مسئولیت**: کل مسئولیت تجمعی ما به شما برای تمام دعاوی ناشی از یا مرتبط با این شرایط یا استفاده شما از خدمات ما، از بزرگ‌ترِ (الف) مبلغی که در شش ماه پیش از رویداد منجر به دعوای برای محصولات به ما پرداخته‌اید، یا (ب) یکصد دالر ($100) تجاوز نخواهد کرد.
+- **خسارات مستثنا**: این محدودیت بر تمام دعاوی اعمال می‌شود، خواه مبتنی بر ضمانت، قرارداد، تقصیر یا هر نظریه حقوقی دیگر باشد، و خواه ما از احتمال چنین خسارتي آگاه شده باشیم یا نه.
+- **هدف اساسی**: شما اقرار و موافقت می‌کنید که محدودیت‌های مسئولیت مندرج در این بخش، عناصر بنیادین اساس معامله میان شما و لایاتناهی هستند.
+
+#### جبران خسارت (Indemnification):
+شما موافقت می‌کنید که لایاتناهی و وابستگان، مجوزدهندگان و ارائه‌دهندگان خدمات آن، و افسران، مدیران، کارکنان، پیمانکاران، نمایندگان، مجوزدهندگان، تأمین‌کنندگان، جانشینان و قائم‌مقامان هر یک از آن‌ها را در قبال هر دعوایی، مسئولیت، خسارت، احکام، جوایز، زیان‌ها، هزینه‌ها، مصارف یا رویه‌ها (از جمله هزینه‌های معقول وکلای دادگستری) ناشی از یا مرتبط با نقض شما از این شرایط یا استفاده شما از خدمات ما، دفاع، جبران و در امان دارید.
+
+#### محدودیت‌های حوزه قضایی:
+برخی حوزه‌ها حذف برخی ضمانت‌ها یا محدودیت یا حذف مسئولیت برای خسارات تبعی یا پیامدی را اجازه نمی‌دهند. براین‌اساس، برخی از محدودیت‌های بالا ممکن است بر شما اعمال نشوند. تا جایی که ما، به‌موجب قانون قابل اعمال، قادر به سلب هیچ ضمانت یا محدود کردن مسئولیت خود نباشیم، دامنه و مدت چنین ضمانتی و میزان مسئولیت ما، حداقل مجاز تحت آن قانون قابل اعمال خواهد بود.
+
+---
+
+## تغییرات
+### تغییرات شرایط و احکام عمومی
+
+لایاتناهی حق خود را محفوظ می‌دارد که هر بخشی از این شرایط خدمات را در هر زمان و بدون اطلاع قبلی به‌روزرسانی، تغییر یا جایگزین کند. بررسی دوره‌ای شرایط ما برای تغییرات بر عهده شما است. ادامه استفاده از یا دسترسی به خدمات ما پس از درج هر تغییری در این شرایط، به‌معنای پذیرش آن تغییرات است.
+
+#### فرایند اصلاحیه:
+- **اطلاع‌رسانی**: ما کاربران را از تغییرات عمده این شرایط با درج شرایط به‌روزشده روی وب‌سایت و به‌روزرسانی تاریخ «آخرین به‌روزرسانی» آگاه خواهیم کرد. ممکن است برای تغییرات قابل‌توجه اطلاع اضافی نیز از طریق ایمیل یا سایر کانال‌های ارتباطی ارائه دهیم.
+- **تاریخ اثربخشی**: تغییرات این شرایط هنگامی که روی این صفحه درج می‌شوند، نافذ هستند. تاریخ «آخرین به‌روزرسانی» در انتهای این شرایط نشان می‌دهد که تازه‌ترین تغییرات کلاً انجام شده‌اند.
+- **تغییرات عمده**: تغییرات عمده‌ای که بر حقوق شما اثر می‌گذارند به‌صورت عقب‌گرد اعمال نخواهند شد. اگر با هر تغییری مخالف هستید، باید استفاده از خدمات ما را متوقف کنید.
+- **بایگانی**: ما یک بایگانی از نسخه‌های قبلی این شرایط نگه می‌داریم. نسخه‌های قبلی با درخواست از طریق تماس با خدمات مشتریان قابل دسترس هستند.
+
+#### قانون حاکم و صلاحیت:
+- **قانون حاکم**: این شرایط و هر توافق‌نامه جداگانه‌ای که به‌موجب آن خدمات را در اختیار شما قرار می‌دهیم، حاکم بر و تفسیرشده مطابق قوانین ایالت کالیفرنیا خواهد بود، بدون توجه به اصول تعارض قوانین آن.
+- **صلاحیت**: شما موافقت می‌کنید که هر اقدام یا دادرسی حقوقی میان شما و لایاتناهی برای هر منظوری درباره این شرایط یا تعهدات طرفین ذیل آن، منحصراً در یک دادگاه فدرال یا ایالتی صالح و مستقر در شهرستان سن‌فرانسیسکو، کالیفرنیا طرح خواهد شد.
+- **صرف‌نظر از دادگاه هیئت منصفه**: هر دو طرف بدین‌وسیله هر حقی را برای دادگاه هیئت منصفه (jury) در هر دادرسی حقوقی ناشی از یا مرتبط با این شرایط، از آن صرف‌نظر می‌کنند.
+
+#### قابل‌تجزیه‌بودن و صرف‌نظر:
+- **قابل‌تجزیه‌بودن (Severability)**: اگر هر حکم از این شرایط به هر دلیلی نامعتبر، غیرقانونی یا غیرقابل‌اجرا دانسته شود، چنین حکمی حذف یا تا حداقل میزان محدود خواهد شد به‌گونه‌ای که احکام باقی‌مانده به‌طور کامل به قوت و اثر خود ادامه دهند.
+- **صرف‌نظر (Waiver)**: هیچ صرف‌نظری توسط لایاتناهی از هر شرط یا حکم مندرج در این شرایط، به‌منزله صرف‌نظر بیشتر یا مستمر از چنین شرط یا حکمی یا صرف‌نظر از هر شرط یا حکم دیگر تلقی نخواهد شد، و هرگونه قصور لایاتناهی در اظهار حق یا حکمی ذیل این شرایط به‌منزله صرف‌نظر از چنین حق یا حکمی نخواهد بود.
+
+#### توافق کامل:
+این شرایط خدمات، به‌همراه سیاست حریم خصوصی ما و هر اعلان قانونی دیگری که توسط ما روی خدمات درج می‌شود، توافق کامل میان شما و لایاتناهی درباره خدمات را تشکیل می‌دهد. این شرایط تمام توافق‌نامه‌ها و تفاهم‌های قبلی، خواه کتبی خواه شفاهی، مرتبط با خدمات را جایگزین می‌کند.
+
+#### اطلاعات تماس:
+**اگر هرگونه پرسش درباره این شرایط خدمات دارید، لطفاً با ما تماس بگیرید:**
 - **Email**: Info@layatanahi.store
 - **Address**:Ahmad-yar Tower, Macrorayan square, Kabul, Afghanistan
 - **Phone**: +93 70 902 8214

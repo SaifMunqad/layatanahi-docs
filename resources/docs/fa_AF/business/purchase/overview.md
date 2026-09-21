@@ -7,12 +7,12 @@ link: "/finance/accounts"
 path: ["Sidebar","Finance","Accounts"]
 ---
 
-# Accounts (Debit & Credit)
+# حساب‌ها (بدهکار و بستانکار)
 
-The Accounts system allows you to manage your business's liquidity across multiple 'buckets.' You can create accounts for physical cash drawers at different branches, corporate bank accounts, and even digital payment gateways. Each account tracks its own 'Debit' (inflow) and 'Credit' (outflow) history, giving you a granular view of where your money is sitting.
+سیستم حساب‌ها به شما اجازه می‌دهد نقدینگی کسب‌وکار خود را در چندین «سطل» مدیریت کنید. می‌توانید برای کشوهای نقدی فیزیکی در شعب مختلف، حساب‌های بانکی شرکتی، و حتی درگاه‌های پرداخت دیجیتال حساب ایجاد کنید. هر حساب تاریخچه «بدهکار» (ورودی) و «بستانکار» (خروجی) مستقل خود را ردیابی می‌کند و دید دقیقی از محل قرارگیری پول شما ارائه می‌دهد.
 
-Credit accounts typically represent your liabilities or your equity, while Debit-heavy accounts represent your assets like Cash-on-Hand or Inventory Value. The system's 'Account Dashboard' provides a visual summary of these balances, allowing you to see your total liquidity at a glance without having to dig through complex spreadsheets.
+حساب‌های بستانکار معمولاً بدهی‌ها یا حقوق صاحبان سهام (equity) شما را نشان می‌دهند، در حالی که حساب‌های دارای بدهکار بیشتر، دارایی‌های شما مانند «نقد موجود» یا «ارزش موجودی» را نشان می‌دهند. «داشبورد حساب» سیستم خلاصه‌ای بصری از این مانده‌ها ارائه می‌دهد تا شما نقدینگی کل خود را در یک نگاه ببینید، بدون آنکه مجبور به کاوش در صفحات گسترده (spreadsheet) پیچیده شوید.
 
-You can perform 'Account Reconciliation' by comparing the balance shown in Layatanahi with your actual bank statement or physical cash count. If there's a minor discrepancy, the system allows for 'Adjustment Entries' (with mandatory reasoning) to keep your books accurate and honest.
+می‌توانید «مطابقت حساب (Reconciliation)» را با مقایسه مانده نمایش‌داده‌شده در لایاتناهی با صورت‌حساب واقعی بانکی یا شمارش نقدی فیزیکی انجام دهید. اگر اختلاف جزئی وجود داشته باشد، سیستم «سند اصلاحی» (با دلیل اجباری) را اجازه می‌دهد تا دفاتر شما دقیق و درست بماند.
 
-To manage your accounts, go to the 'Accounts' section. From here, you can see the 'Live Balance' of every fund. Click on an account to view its specific ledger, where every debit and credit is itemized with a link to the original transaction (like a sale or an expense) that caused the movement.
+برای مدیریت حساب‌های خود، به بخش «حساب‌ها» بروید. از اینجا می‌توانید «مانده زنده (Live Balance)» هر صندوق را ببینید. روی یک حساب کلیک کنید تا کتاب (ledger) خاص آن را مشاهده کنید، جایی که هر بدهکار و بستانکار به‌صورت موردی با پیوندی به تراکنش اصلی (مانند یک فروش یا هزینه) که موجب این حرکت شده، ثبت شده است.

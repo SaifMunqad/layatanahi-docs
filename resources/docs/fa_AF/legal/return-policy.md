@@ -1,225 +1,225 @@
-# Return Policy
+# سیاست بازگشت
 
-*Your satisfaction is our priority. Learn about our comprehensive return, refund, and exchange policies.*
+*رضایت شما اولویت ماست. درباره سیاست‌های جامع بازگشت، استرداد وجه و مبادله کالا آشنا شوید.*
 
-**Last Updated:** September / 13 /2026
-
----
-
-## Introduction
-### Return Policy Overview
-
-Welcome to Layatanahi's comprehensive Return Policy. We are committed to ensuring your complete satisfaction with every purchase. This policy outlines your rights and responsibilities regarding returns, exchanges, and refunds for products purchased through our online store, physical locations, and authorized retailers.
-
-Our return policy is designed to be fair, transparent, and customer-friendly while maintaining the integrity of our products and business operations. By making a purchase from Layatanahi, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions outlined in this Return Policy.
-
-This policy applies to all purchases made directly from Layatanahi through our official channels. For products purchased through third-party retailers, please refer to the return policy of the specific retailer where the purchase was made.
-
-> **Customer Satisfaction Guarantee**  
-> We stand behind the quality of our products. If you're not completely satisfied with your purchase, we'll work with you to make it right. Your happiness is our priority.
+**آخرین به‌روزرسانی:** September / 13 /2026
 
 ---
 
-## Return Window
-### Return Timeframes and Deadlines
+## مقدمه
+### مرور کلی سیاست بازگشت
 
-Understanding our return timeframes is crucial for ensuring your return is processed successfully. The return window begins from the date your order is delivered, as confirmed by the carrier's tracking information.
+به سیاست جامع بازگشت Layatanahi خوش آمدید. ما متعهد به تضمین رضایت کامل شما در هر خرید هستیم. این سیاست، حقوق و مسئولیت‌های شما را در خصوص بازگشت، مبادله و استرداد وجه محصولاتی که از فروشگاه آنلاین، شعب فیزیکی و فروشندگان مجاز ما خریداری شده‌اند، توضیح می‌دهد.
 
-#### Standard Return Periods:
-- **Most Products**: 30 days from the delivery date for standard merchandise in new, unused condition with original packaging and tags.
-- **Electronics and Tech Products**: 14 days from delivery due to rapid technological obsolescence and hygiene considerations.
-- **Premium and Luxury Items**: 45 days from delivery for items priced above $500, providing extended consideration time.
-- **Seasonal and Holiday Items**: Specific return deadlines apply to seasonal merchandise, typically 30 days from delivery or until January 31st for holiday purchases.
+سیاست بازگشت ما به‌گونه‌ای طراحی شده که منصفانه، شفاف و مشتری‌مدار باشد و در عین حال یکپارچگی محصولات و عملیات تجاری ما را حفظ کند. با انجام خرید از Layatanahi، شما اقرار می‌کنید که این سیاست بازگشت را خوانده، فهمیده و با شرایط و ضوابط مندرج در آن موافقت کرده‌اید.
 
-#### Extended and Special Circumstances:
-- **Defective Items**: Items with manufacturing defects may be returned within 90 days of delivery, provided the defect is reported within 7 days of discovery.
-- **Wrong Items Shipped**: If you receive an incorrect item, you have 60 days from delivery to notify us and arrange for return or exchange.
-- **Loyalty Program Members**: Premium members enjoy extended 45-day return windows on all standard merchandise.
-- **Gift Recipients**: Gift recipients have 60 days from receipt to initiate returns, with proof of gifting.
+این سیاست بر تمام خریدهای مستقیم از Layatanahi از طریق کانال‌های رسمی ما اعمال می‌شود. برای محصولاتی که از فروشندگان شخص ثالث خریداری شده‌اند، لطفاً به سیاست بازگشت همان فروشنده مراجعه کنید.
 
-#### Important Deadlines:
-- **Return Initiation**: You must initiate the return process within the specified return window by contacting customer service or using our online portal.
-- **Physical Return**: The item must be physically received by us within 14 days of return authorization.
-- **Holiday Extension**: Purchases made between November 1st and December 31st qualify for extended returns until January 31st of the following year.
-
-> **Pro Tip**  
-> Initiate your return as soon as you decide to return an item. The return process begins when you contact us, not when you ship the item back.
+> **تضمین رضایت مشتری**  
+> ما پشت کیفیت محصولات خود می‌ایستیم. اگر از خرید خود کاملاً راضی نیستید، با شما همکاری می‌کنیم تا مسئله را حل کنیم. خوشحالی شما اولویت ماست.
 
 ---
 
-## Eligibility
-### Return Eligibility and Condition Requirements
+## مهلت بازگشت
+### بازه‌های زمانی و مواعد بازگشت
 
-To ensure a smooth return process and protect all customers, we have established clear eligibility criteria and condition requirements. These standards help maintain product quality and fairness for all shoppers.
+درک بازه‌های زمانی بازگشت ما برای اطمینان از پردازش موفق درخواست بازگشت شما حیاتی است. مهلت بازگشت از تاریخ تحویل سفارش شما آغاز می‌شود، آن‌گونه که با اطلاعات ردیابی متصدی حمل‌ونقل تأیید می‌گردد.
 
-#### Mandatory Condition Requirements:
-- **Original Packaging**: Items must be returned in their original manufacturer's packaging, including boxes, cases, and protective materials.
-- **Tags and Labels**: All original tags, labels, price tags, and security tags must be attached and undamaged.
-- **Unused Condition**: Products must be in new, unused condition with no signs of wear, installation, or alteration.
-- **Complete Set**: All components, accessories, manuals, certificates, and included items must be returned together.
-- **Hygiene Considerations**: For health and safety reasons, certain items must remain in sealed, unopened packaging to be eligible for return.
+#### دوره‌های استاندارد بازگشت:
+- **بیشتر محصولات**: ۳۰ روز از تاریخ تحویل برای کالاهای استاندارد در شرایط نو و استفاده‌نشده با بسته‌بندی و برچسب‌های اصلی.
+- **محصولات الکترونیکی و فناوری**: ۱۴ روز از تاریخ تحویل، به‌دلیل فرسودگی سریع فناوری و ملاحظات بهداشتی.
+- **کالاهای لوکس و ممتاز**: ۴۵ روز از تاریخ تحویل برای اقلامی با قیمت بالاتر از $500، که زمان بیشتری برای تصمیم‌گیری فراهم می‌کند.
+- **کالاهای فصلی و تعطیلات**: برای کالاهای فصلی مواعد بازگشت مشخصی اعمال می‌شود، معمولاً ۳۰ روز از تاریخ تحویل یا تا January 31st برای خریدهای دوران تعطیلات.
 
-#### Documentation and Proof Requirements:
-- **Proof of Purchase**: Valid proof of purchase is required, including order number, receipt, or packing slip.
-- **Return Authorization**: All returns must be pre-authorized through our customer service team or online return portal.
-- **Identification**: For returns without original payment method, valid government-issued photo ID may be required.
-- **Reason for Return**: Clear explanation of the return reason helps us improve our products and services.
+#### شرایط تمدید و ویژه:
+- **کالاهای معیوب**: اقلام دارای نقص تولیدی ممکن است تا ۹۰ روز پس از تحویل بازگردانده شوند، مشروط بر اینکه نقص ظرف ۷ روز پس از کشف گزارش شود.
+- **کالای اشتباه ارسال‌شده**: اگر کالای نادرستی دریافت کردید، ۶۰ روز از تاریخ تحویل فرصت دارید تا به ما اطلاع دهید و بازگشت یا مبادله را ترتیب دهید.
+- **اعضای برنامه وفاداری**: اعضای ممتاز از مهلت بازگشت تمدیدشده ۴۵ روزه برای تمام کالاهای استاندارد برخوردارند.
+- **دریافت‌کنندگان هدیه**: دریافت‌کنندگان هدیه ۶۰ روز از تاریخ دریافت فرصت دارند تا با ارائه اثبات هدیه‌بودن، بازگشت را آغاز کنند.
 
-#### Condition-Based Refund Tiers:
-- **Full Refund**: Items in perfect, like-new condition with all original packaging and documentation.
-- **Partial Refund (up to 80%)**: Minor packaging damage or missing non-essential accessories.
-- **Store Credit Only**: Items showing signs of use or missing important components.
-- **Return Refused**: Items that don't meet minimum return standards or are in unsanitary condition.
+#### مواعد مهم:
+- **آغاز فرآیند بازگشت**: باید فرآیند بازگشت را درون مهلت تعیین‌شده با تماس با خدمات مشتری یا استفاده از درگاه آنلاین ما آغاز کنید.
+- **بازگشت فیزیکی**: کالا باید ظرف ۱۴ روز پس از صدور مجوز بازگشت، به‌صورت فیزیکی به دست ما برسد.
+- **تمدید تعطیلات**: خریدهای انجام‌شده میان November 1st و December 31st مشمول بازگشت تمدیدشده تا January 31st سال بعد می‌شوند.
 
-#### Common Ineligibility Scenarios:
-- Items purchased from unauthorized retailers or third-party sellers
-- Products with removed or damaged serial numbers
-- Items that have been installed, assembled, or used
-- Products with custom modifications or alterations
-- Merchandise missing security tags or anti-theft devices
+> **نکته کاربردی**  
+> به‌محض اینکه تصمیم به بازگشت کالایی گرفتید، بازگشت را آغاز کنید. فرآیند بازگشت زمانی شروع می‌شود که با ما تماس می‌گیرید، نه زمانی که کالا را ارسال می‌کنید.
 
 ---
 
-## Return Process
-### Return Process Step by Step
+## واجد شرایط بودن
+### شرایط احراز و الزامات وضعیت بازگشت
 
-Our streamlined return process is designed to be simple and efficient. Follow these detailed steps to ensure your return is processed quickly and correctly.
+برای اطمینان از فرآیند روان بازگشت و حفاظت از تمام مشتریان، معیارهای احراز شرایط و الزامات وضعیت روشنی تدوین کرده‌ایم. این استانداردها به حفظ کیفیت محصول و انصاف برای همه خریداران کمک می‌کند.
 
-#### Step 1: Initiate Return Request
-- **Online Portal**: Log into your account and navigate to "Order History" to initiate returns for eligible items.
-- **Customer Service**: Contact our returns department at returns@layatanahi.com or call 1-800-RETURNS.
-- **Required Information**: Have your order number, product details, and reason for return ready.
-- **Return Authorization**: You will receive a Return Authorization Number (RAN) and detailed instructions.
+#### الزامات وضعی اجباری:
+- **بسته‌بندی اصلی**: اقلام باید در بسته‌بندی اصلی تولیدکننده، شامل جعبه‌ها، قاب‌ها و مواد محافظ، بازگردانده شوند.
+- **برچسب‌ها و لیبل‌ها**: تمام برچسب‌ها، لیبل‌ها، برچسب‌های قیمت و برچسب‌های امنیتی اصلی باید متصل و سالم باشند.
+- **شرایط استفاده‌نشده**: محصولات باید در شرایط نو و استفاده‌نشده باشند و هیچ نشانه‌ای از فرسودگی، نصب یا تغییر نداشته باشند.
+- **مجموعه کامل**: تمام قطعات، ملحق‌ها، راهنماها، گواهی‌ها و اقلام گنجانده‌شده باید یکجا و با هم بازگردانده شوند.
+- **ملاحظات بهداشتی**: به دلایل بهداشتی و ایمنی، برخی اقلام باید در بسته‌بندی پلمب و بازنشده باقی بمانند تا واجد شرایط بازگشت باشند.
 
-#### Step 2: Prepare Your Return
-- **Packaging**: Use the original packaging whenever possible. Include all boxes, padding, and protective materials.
-- **Documentation**: Print and include the return authorization form in your package.
-- **Accessories**: Ensure all original accessories, manuals, warranty cards, and free gifts are included.
-- **Security**: Seal the package securely using strong packing tape. Consider double-boxing fragile items.
+#### الزامات اسناد و اثبات:
+- **اثبات خرید**: اثبات معتبر خرید شامل شماره سفارش، رسید یا برگه بسته‌بندی الزامی است.
+- **مجوز بازگشت**: تمام بازگشت‌ها باید پیشاپیش از طریق تیم خدمات مشتری ما یا درگاه آنلاین بازگشت مجوز گرفته باشند.
+- **شناسایی**: برای بازگشت‌هایی که به روش پرداخت اصلی بازمی‌گردند، ممکن است کارت شناسایی معتبر دولتی با عکس لازم باشد.
+- **دلیل بازگشت**: توضیح روشن درباره دلیل بازگشت به ما کمک می‌کند محصولات و خدمات خود را بهبود بخشیم.
 
-#### Step 3: Shipping and Tracking
-- **Shipping Label**: Use the provided prepaid label for defective items or purchases over $100.
-- **Carrier Selection**: For self-shipped returns, use trackable services like UPS, FedEx, or USPS with insurance.
-- **Tracking Number**: Always obtain and save your tracking number. Returns without tracking cannot be located.
-- **Shipping Time**: Ship within 7 days of return authorization to ensure timely processing.
+#### سطوح استرداد بر اساس وضعیت:
+- **استرداد کامل**: اقلام در شرایط عالی و مانند نو با تمام بسته‌بندی و مدارک اصلی.
+- **استرداد جزئی (تا 80%)**: آسیب جزئی به بسته‌بندی یا نبود ملحق‌های غیرضروری.
+- **فقط اعتبار فروشگاه**: اقلامی که نشانه‌های استفاده دارند یا قطعات مهم آن‌ها کم است.
+- **رد بازگشت**: اقلامی که حداقل استانداردهای بازگشت را ندارند یا در شرایط غیربهداشتی هستند.
 
-#### Step 4: Return Processing Timeline
-- **Receipt Confirmation**: 1-2 business days after we receive your return at our facility.
-- **Inspection Period**: 2-3 business days for quality control and condition verification.
-- **Processing Time**: 1-2 business days for refund or exchange processing.
-- **Total Timeline**: Most returns are fully processed within 5-7 business days of receipt.
-
-#### International Returns:
-- **Customs Documentation**: Mark package as "Returned Goods" to avoid customs charges.
-- **Shipping Costs**: International customers are responsible for return shipping costs.
-- **Processing Time**: Allow 2-3 weeks for international returns due to customs and shipping.
-- **Duties and Taxes**: Original duties and taxes may not be refundable depending on local laws.
+#### سناریوهای رایج عدم احراز شرایط:
+- کالاهای خریداری‌شده از فروشندگان غیرمجاز یا فروشندگان شخص ثالث
+- محصولاتی با شماره سریال حذف‌شده یا آسیب‌دیده
+- اقلامی که نصب، مونتاژ یا استفاده شده‌اند
+- محصولاتی با تغییرات یا تنظیمات سفارشی
+- کالاهایی که برچسب امنیتی یا دستگاه ضدسرقت ندارند
 
 ---
 
-## Refunds
-### Refund Policies and Processing
+## فرآیند بازگشت
+### فرآیند بازگشت گام‌به‌گام
 
-We strive to process refunds quickly and transparently. Understanding our refund policies will help you know what to expect and when to expect it.
+فرآیند بازگشت بهینه‌شده ما ساده و کارآمد طراحی شده است. این گام‌های تفصیلی را دنبال کنید تا مطمئن شوید بازگشت شما سریع و درست پردازش می‌شود.
 
-#### Refund Methods and Timing:
-- **Credit/Debit Cards**: Refunds processed within 3-5 business days after return approval. Appear on your statement within 7-10 business days depending on your bank.
-- **PayPal**: Refunds processed within 24-48 hours. Appear in your PayPal account immediately.
-- **Store Credit**: Instant issuance to your Layatanahi account upon return approval.
-- **Gift Cards**: Refunded to original gift card within 24 hours of return approval.
-- **Bank Transfers**: 5-7 business days for processing and bank clearance.
+#### گام ۱: ثبت درخواست بازگشت
+- **درگاه آنلاین**: وارد حساب خود شوید و به «تاریخچه سفارش‌ها» بروید تا بازگشت اقلام واجد شرایط را آغاز کنید.
+- **خدمات مشتری**: با بخش بازگشت ما در returns@layatanahi.com تماس بگیرید یا با شماره 1-800-RETURNS زنگ بزنید.
+- **اطلاعات موردنیاز**: شماره سفارش، جزئیات محصول و دلیل بازگشت خود را آماده داشته باشید.
+- **مجوز بازگشت**: شما یک شماره مجوز بازگشت (RAN) و دستورالعمل‌های تفصیلی دریافت خواهید کرد.
 
-#### Refund Amount Calculations:
-- **Full Refunds**: Original product price minus any non-refundable shipping charges.
-- **Partial Refunds**: Based on item condition, missing accessories, or packaging damage.
-- **Shipping Costs**: Original shipping charges are non-refundable unless return is due to our error.
-- **Restocking Fees**: Certain electronics and large items may incur a 15% restocking fee if opened.
-- **Sales Tax**: Applicable sales tax refunded based on your original purchase location.
+#### گام ۲: آماده‌سازی بازگشت خود
+- **بسته‌بندی**: تا حد امکان از بسته‌بندی اصلی استفاده کنید. تمام جعبه‌ها، پرکننده‌ها و مواد محافظ را بگنجانید.
+- **مدارک**: فرم مجوز بازگشت را چاپ کرده و در بسته خود قرار دهید.
+- **ملحق‌ها**: اطمینان حاصل کنید تمام ملحق‌های اصلی، راهنماها، کارت‌های گارانتی و هدایای رایگان گنجانده شده‌اند.
+- **امنیت**: بسته را با چسب مقاوم محکم پلمب کنید. برای اقلام شکننده، بسته‌بندی دوتایی را در نظر بگیرید.
 
-#### Special Refund Scenarios:
-- **Defective Items**: Full refund including original shipping costs both ways.
-- **Wrong Item Shipped**: Full refund with prepaid return shipping label provided.
-- **Damaged in Transit**: Full refund or replacement, with insurance claim processing.
-- **Price Adjustments**: Within 14 days of purchase if price drops, with proof required.
-- **Bundle Purchases**: Partial returns may affect bundle pricing and discount eligibility.
+#### گام ۳: ارسال و ردیابی
+- **برچسب ارسال**: برای کالاهای معیوب یا خریدهای بالای $100 از برچسب پیش‌پرداخت‌شده ارائه‌شده استفاده کنید.
+- **انتخاب متصدی**: برای بازگشت‌های ارسالی توسط خودتان، از خدمات قابل‌ردیابی مانند UPS، FedEx یا USPS با بیمه استفاده کنید.
+- **شماره ردیابی**: همیشه شماره ردیابی را دریافت و ذخیره کنید. بازگشت‌های بدون ردیابی قابل پیگیری نیستند.
+- **زمان ارسال**: ظرف ۷ روز پس از مجوز بازگشت ارسال کنید تا پردازش به‌موقع انجام شود.
 
-#### Refund Status Tracking:
-- **Online Portal**: Track refund status in real-time through your account dashboard.
-- **Email Notifications**: Receive confirmation at each stage: receipt, inspection, processing, and completion.
-- **Customer Service**: Contact returns department for specific timing questions after 10 business days.
-- **Bank Inquiries**: If refund doesn't appear after 14 business days, contact your financial institution.
+#### گام ۴: جدول زمانی پردازش بازگشت
+- **تأیید دریافت**: ۱-۲ روز کاری پس از اینکه بازگشت شما را در مرکز خود دریافت کردیم.
+- **دوره بازرسی**: ۲-۳ روز کاری برای کنترل کیفیت و تأیید وضعیت.
+- **زمان پردازش**: ۱-۲ روز کاری برای پردازش استرداد وجه یا مبادله.
+- **جدول زمانی کلی**: بیشتر بازگشتها ظرف ۵-۷ روز کاری پس از دریافت به‌طور کامل پردازش می‌شوند.
 
-> **Important Notice**  
-> Refund processing times are estimates and may vary during holiday seasons or promotional periods. Peak season returns (January) may take 10-14 business days for full processing.
-
----
-
-## Exchanges
-### Exchange Policies and Procedures
-
-Sometimes you just need a different size, color, or style. Our exchange process makes it easy to get exactly what you want while minimizing hassle and downtime.
-
-#### Exchange Eligibility and Options:
-- **Size/Color Exchanges**: Available for identical products in different sizes or colors, subject to availability.
-- **Product Exchanges**: Exchange for different products of equal or greater value, with price difference charged or refunded.
-- **Defective Exchanges**: Priority processing for defective items with expedited shipping.
-- **Store Credit Exchanges**: Convert returned items to store credit for future purchases at your convenience.
-
-#### Exchange Process Flow:
-- **Request Submission**: Specify desired exchange item during return initiation process.
-- **Availability Check**: Real-time inventory check to confirm exchange item availability.
-- **Shipping Coordination**: New item ships once return tracking shows en route to our facility.
-- **Expedited Options**: For urgent exchanges, cross-shipping available with credit card authorization.
-
-#### Exchange-Specific Policies:
-- **Shipping Costs**: Customers responsible for return shipping; we cover shipping for exchange item.
-- **Price Differences**: Higher-priced exchanges require additional payment; lower-priced exchanges receive refund for difference.
-- **Limited Availability**: If exchange item is out of stock, option for refund, store credit, or backorder.
-- **Multiple Exchanges**: Limit of two exchanges per original purchase to prevent abuse.
-
-#### Special Exchange Programs:
-- **Seasonal Exchange Program**: Holiday items can be exchanged until January 31st regardless of purchase date.
-- **Loyalty Fast Exchange**: Premium members receive expedited exchange processing and free return shipping.
-- **Defective Product Exchange**: Defective items exchanged with prepaid return labels and priority processing.
-- **In-Store Exchange**: Online purchases can be exchanged at any Layatanahi retail location with receipt.
+#### بازگشت‌های بین‌المللی:
+- **مدارک گمرکی**: بسته را به‌عنوان "Returned Goods" علامت‌گذاری کنید تا از عوارض گمرکی جلوگیری شود.
+- **هزینه‌های ارسال**: مشتریان بین‌المللی مسئول هزینه‌های ارسال بازگشت هستند.
+- **زمان پردازش**: برای بازگشت‌های بین‌المللی به دلیل گمرک و حمل‌ونقل ۲-۳ هفته زمان در نظر بگیرید.
+- **عوارض و مالیات‌ها**: عوارض و مالیات‌های اصلی ممکن است بسته به قوانین محلی قابل استرداد نباشند.
 
 ---
 
-## Exceptions
-### Non-Returnable Items and Special Cases
+## استرداد وجه
+### سیاست‌ها و پردازش استرداد
 
-Certain products and situations have specific return restrictions due to legal requirements, hygiene concerns, or product nature. Understanding these exceptions will help manage your expectations and prevent return disappointments.
+ما تلاش می‌کنیم استردادها را سریع و شفاف پردازش کنیم. شناخت سیاست‌های استرداد ما به شما کمک می‌کند بدانید چه انتظاری داشته باشید و چه زمانی.
 
-#### Absolutely Non-Returnable Items:
-- **Digital Products**: Downloadable software, e-books, digital patterns, and online courses once accessed or downloaded.
-- **Personal Care Items**: Skincare products, cosmetics, fragrances, and personal hygiene items for health and safety reasons.
-- **Customized Products**: Personalized items, monogrammed goods, and made-to-order products.
-- **Intimate Apparel**: Swimwear, underwear, and hosiery for hygiene reasons, unless tags intact and packaging unopened.
-- **Gift Cards and Store Credit**: Non-refundable and non-returnable once purchased.
+#### روش‌ها و زمان‌بندی استرداد:
+- **کارت‌های اعتباری/نقدی**: استردادها ظرف ۳-۵ روز کاری پس از تأیید بازگشت پردازش می‌شوند. بسته به بانک شما، ظرف ۷-۱۰ روز کاری در صورت‌حساب شما نمایان می‌شوند.
+- **PayPal**: استردادها ظرف ۲۴-۴۸ ساعت پردازش می‌شوند. فوراً در حساب PayPal شما نمایان می‌شوند.
+- **اعتبار فروشگاه**: صدور فوری به حساب Layatanahi شما پس از تأیید بازگشت.
+- **کارت‌های هدیه**: ظرف ۲۴ ساعت پس از تأیید بازگشت به کارت هدیه اصلی بازمی‌گردند.
+- **حواله‌های بانکی**: ۵-۷ روز کاری برای پردازش و تسویه بانکی.
 
-#### Conditionally Returnable Items:
-- **Final Sale Items**: Clearly marked clearance, as-is, or final sale merchandise.
-- **Opened Electronics**: Subject to 15% restocking fee and 14-day return window only.
-- **Furniture and Large Items**: Return shipping costs borne by customer and may include disassembly/reassembly fees.
-- **Perishable Goods**: Food items and flowers returnable only if defective or damaged upon arrival.
-- **Subscription Services**: Pro-rated refunds available for unused portions of subscription periods.
+#### محاسبات مبلغ استرداد:
+- **استرداد کامل**: قیمت اصلی محصول منهای هرگونه هزینه ارسال غیرقابل‌استرداد.
+- **استرداد جزئی**: بر اساس وضعیت کالا، ملحق‌های مفقودشده یا آسیب بسته‌بندی.
+- **هزینه‌های ارسال**: هزینه ارسال اصلی غیرقابل‌استرداد است مگر آنکه بازگشت به‌دلیل خطای ما باشد.
+- **هزینه بازگرداندن کالا (Restocking)**: برخی کالاهای الکترونیکی و بزرگ در صورت باز شدن ممکن است مشمول 15% هزینه بازگرداندن کالا شوند.
+- **مالیات بر فروش**: مالیات بر فروش قابل اعمال بر اساس مکان خرید اصلی شما مسترد می‌شود.
 
-#### Special Circumstances and Exceptions:
-- **Damaged During Return**: Items damaged due to improper packaging during return shipping are not eligible for refund.
-- **Missing Components**: Returns missing accessories, manuals, or original components receive partial refund only.
-- **Worn or Used Items**: Products showing signs of wear, installation, or use beyond reasonable inspection.
-- **Expired Return Window**: Returns initiated after the specified return period cannot be accepted.
-- **Third-Party Purchases**: Items purchased from unauthorized retailers or resellers.
+#### سناریوهای ویژه استرداد:
+- **کالاهای معیوب**: استرداد کامل شامل هزینه ارسال اصلی در هر دو جهت.
+- **کالای اشتباه ارسال‌شده**: استرداد کامل همراه با برچسب ارسال بازگشت پیش‌پرداخت‌شده.
+- **آسیب در حمل‌ونقل**: استرداد کامل یا جایگزینی، همراه با پردازش ادعای بیمه.
+- **تنظیمات قیمت**: ظرف ۱۴ روز پس از خرید در صورت افت قیمت، با الزام ارائه اثبات.
+- **خریدهای بسته‌ای (Bundle)**: بازگشت جزئی ممکن است بر قیمت‌گذاری بسته و واجد شرایط بودن تخفیف تأثیر بگذارد.
 
-#### Warranty and Manufacturer Defects:
-- **Manufacturer Warranties**: Defective items after return window may be covered by manufacturer warranties.
-- **Extended Protection Plans**: Purchased protection plans may provide coverage beyond standard return periods.
-- **Proof of Purchase**: Warranty claims require original proof of purchase and may involve manufacturer directly.
-- **Repair vs Replacement**: Manufacturer may opt for repair instead of replacement for certain defects.
+#### ردیابی وضعیت استرداد:
+- **درگاه آنلاین**: وضعیت استرداد را به‌صورت بلادرنگ از طریق داشبورد حساب خود پیگیری کنید.
+- **اطلاعیه‌های ایمیلی**: در هر مرحله تأیید دریافت کنید: دریافت، بازرسی، پردازش و تکمیل.
+- **خدمات مشتری**: پس از ۱۰ روز کاری برای پرسش‌های مربوط به زمان‌بندی خاص با بخش بازگشت تماس بگیرید.
+- **پیگیری بانکی**: اگر استرداد پس از ۱۴ روز کاری نمایان نشد، با مؤسسه مالی خود تماس بگیرید.
 
-> **Policy Enforcement**  
-> We reserve the right to refuse returns that don't meet our policy requirements. Repeated returns or suspected abuse of our return policy may result in account restrictions or termination of return privileges.
+> **تذکر مهم**  
+> زمان‌های پردازش استرداد تخمینی هستند و ممکن است در فصول تعطیلات یا دوره‌های تبلیغاتی متفاوت باشند. بازگشت‌های فصل اوج (January) ممکن است برای پردازش کامل ۱۰-۱۴ روز کاری طول بکشند.
 
 ---
 
-*For return assistance, contact us at returns@layatanahi.com or call 1-800-RETURNS*
+## مبادلات
+### سیاست‌ها و رویه‌های مبادله
+
+گاهی فقط به سایز، رنگ یا مدل متفاوتی نیاز دارید. فرآیند مبادله ما دریافت دقیق آنچه می‌خواهید را آسان می‌کند و زحمت و زمان انتظار را به حداقل می‌رساند.
+
+#### احراز شرایط و گزینه‌های مبادله:
+- **مبادله سایز/رنگ**: برای محصولات یکسان در سایزها یا رنگ‌های متفاوت، مشروط بر موجود بودن، در دسترس است.
+- **مبادله محصول**: مبادله با محصولات متفاوت هم‌ارزش یا گران‌تر، با دریافت یا استرداد مابه‌التفاوت قیمت.
+- **مبادله کالای معیوب**: پردازش اولویت‌دار برای کالاهای معیوب با ارسال سریع‌تر.
+- **مبادله به اعتبار فروشگاه**: تبدیل اقلام بازگشتی به اعتبار فروشگاه برای خریدهای بعدی در زمان دلخواه شما.
+
+#### جریان فرآیند مبادله:
+- **ثبت درخواست**: در جریان آغاز بازگشت، کالای مبادله‌ای موردنظر خود را مشخص کنید.
+- **بررسی موجودی**: بررسی بلادرنگ موجودی برای تأیید دسترس‌بودن کالای مبادله‌ای.
+- **هماهنگی ارسال**: کالای جدید پس از آنکه ردیابی بازگشت نشان دهد در مسیر مرکز ما است، ارسال می‌شود.
+- **گزینه‌های سریع**: برای مبادلات فوری، ارسال متقابل با مجوز کارت اعتباری در دسترس است.
+
+#### سیاست‌های خاص مبادله:
+- **هزینه‌های ارسال**: مشتری مسئول ارسال بازگشت است؛ ما هزینه ارسال کالای مبادله‌ای را تقبل می‌کنیم.
+- **مابه‌التفاوت قیمت**: مبادله با کالای گران‌تر نیازمند پرداخت اضافی است؛ مبادله با کالای ارزان‌تر مستلزم استرداد مابه‌التفاوت است.
+- **موجودی محدود**: اگر کالای مبادله‌ای ناموجود باشد، گزینه استرداد وجه، اعتبار فروشگاه یا سفارش در انتظار موجودی وجود دارد.
+- **مبادلات چندگانه**: برای جلوگیری از سوءاستفاده، سقف دو مبادله برای هر خرید اصلی اعمال می‌شود.
+
+#### برنامه‌های ویژه مبادله:
+- **برنامه مبادله فصلی**: کالاهای تعطیلات تا January 31st صرف‌نظر از تاریخ خرید قابل مبادله‌اند.
+- **مبادله سریع وفاداری**: اعضای ممتاز از پردازش مبادله سریع‌تر و ارسال رایگان بازگشت برخوردارند.
+- **مبادله محصول معیوب**: کالاهای معیوب با برچسب ارسال بازگشت پیش‌پرداخت‌شده و پردازش اولویت‌دار مبادله می‌شوند.
+- **مبادله حضوری**: خریدهای آنلاین می‌توانند با ارائه رسید در هر شعبه فروش Layatanahi مبادله شوند.
+
+---
+
+## استثناها
+### کالاهای غیرقابل‌بازگشت و موارد خاص
+
+برخی محصولات و موقعیت‌ها به دلایل الزامات قانونی، ملاحظات بهداشتی یا ماهیت محصول دارای محدودیت‌های بازگشت مشخصی هستند. شناخت این استثناها به مدیریت انتظارات شما و جلوگیری از ناامیدی‌های بازگشت کمک می‌کند.
+
+#### کالاهای قطعاً غیرقابل‌بازگشت:
+- **محصولات دیجیتال**: نرم‌افزارهای قابل‌دانلود، کتاب‌های الکترونیکی، الگوهای دیجیتال و دوره‌های آنلاین پس از دسترسی یا دانلود.
+- **اقلام مراقبت شخصی**: محصولات پوستی، آرایشی، عطر و اقلام بهداشتی به دلایل سلامتی و ایمنی.
+- **محصولات سفارشی**: اقلام شخصی‌سازی‌شده، کالاهای تک‌دوز و محصولات ساخت‌به‌سفارش.
+- **لباس زیر**: لباس شنا، لباس زیر و جوراب به دلایل بهداشتی، مگر آنکه برچسب‌ها سالم و بسته‌بندی بازنشده باشد.
+- **کارت‌های هدیه و اعتبار فروشگاه**: پس از خرید، غیرقابل‌استرداد و غیرقابل‌بازگشت.
+
+#### کالاهای قابل‌بازگشت مشروط:
+- **کالاهای فروش نهایی**: کالاهای حراج، «به‌همین‌صورت» یا فروش‌نهایی که به‌وضوح علامت‌گذاری شده‌اند.
+- **الکترونیک باز شده**: مشمول 15% هزینه بازگرداندن کالا و تنها مهلت بازگشت ۱۴ روزه.
+- **مبلمان و اقلام بزرگ**: هزینه ارسال بازگشت بر عهده مشتری است و ممکن است شامل هزینه‌های دمونتاژ/مونتاژ مجدد باشد.
+- **کالاهای فاسدشدنی**: مواد غذایی و گل تنها در صورت معیوب یا آسیب‌دیده بودن هنگام رسیدن قابل بازگشت‌اند.
+- **خدمات اشتراکی**: استرداد تناسبی برای بخش‌های استفاده‌نشده دوره اشتراک در دسترس است.
+
+#### شرایط و استثناهای ویژه:
+- **آسیب حین بازگشت**: اقلامی که به‌دلیل بسته‌بندی نامناسب در ارسال بازگشت آسیب دیده‌اند، واجد شرایط استرداد وجه نیستند.
+- **قطعات مفقودشده**: بازگشت‌هایی که ملحق، راهنما یا قطعات اصلی آن‌ها کم است تنها استرداد جزئی دریافت می‌کنند.
+- **کالاهای فرسوده یا استفاده‌شده**: محصولاتی که نشانه‌های فرسودگی، نصب یا استفاده فراتر از بازرسی منطقی دارند.
+- **مهلت بازگشت منقضی‌شده**: بازگشت‌هایی که پس از دوره تعیین‌شده آغاز شوند قابل پذیرش نیستند.
+- **خریدهای شخص ثالث**: اقلام خریداری‌شده از فروشندگان یا توزیع‌کنندگان غیرمجاز.
+
+#### گارانتی و نقص‌های تولیدکننده:
+- **گارانتی تولیدکننده**: کالاهای معیوب پس از مهلت بازگشت ممکن است مشمول گارانتی تولیدکننده باشند.
+- **طرح‌های حفاظت تمدیدشده**: طرح‌های حفاظت خریداری‌شده ممکن است پوششی فراتر از دوره‌های استاندارد بازگشت فراهم کنند.
+- **اثبات خرید**: ادعاهای گارانتی مستلزم اثبات اصلی خرید هستند و ممکن است تولیدکننده را مستقیماً درگیر کنند.
+- **تعمیر در برابر جایگزینی**: تولیدکننده ممکن است برای برخی نقص‌ها تعمیر را به‌جای جایگزینی انتخاب کند.
+
+> **اجرای سیاست**  
+> ما حق رد بازگشت‌هایی را که با الزامات سیاست ما منطبق نیستند محفوظ می‌داریم. بازگشت‌های مکرر یا سوءاستفاده مشکوک از سیاست بازگشت ما ممکن است منجر به محدودیت حساب یا خاتمه امتیازات بازگشت شود.
+
+---
+
+*برای کمک در زمینه بازگشت، با returns@layatanahi.com تماس بگیرید یا با شماره 1-800-RETURNS زنگ بزنید*

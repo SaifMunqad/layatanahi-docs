@@ -3,4 +3,4 @@ title: Make Purchase
 section: business.purchase
 ---
 
-This page documents how to create a purchase in the system. It demonstrates UI flows and required fields for creating a new purchase record.
+این صفحه نحوه ایجاد یک خرید در سیستم را مستند می‌سازد. جریان‌های رابط کاربری (UI) و فیلدهای موردنیاز برای ایجاد یک رکورد خرید جدید را نمایش می‌دهد.

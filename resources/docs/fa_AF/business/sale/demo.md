@@ -7,12 +7,12 @@ link: ""
 path: ["Header","Quick Sell Button"]
 ---
 
-# Quick Sell (Retail POS)
+# فروش سریع (POS خرده‌فروشی)
 
-The Quick Sell interface is optimized for speed and high-volume retail environments. It acts as a digital Point-of-Sale (POS) terminal, designed to get customers through the door as fast as possible without sacrificing data integrity. It is ideal for supermarket counters, retail shops, and any face-to-face sales scenario.
+رابط فروش سریع برای سرعت و محیط‌های خرده‌فروشی با حجم بالا بهینه شده است. این به‌مثابه یک پایانه دیجیتال نقطه فروش (POS) عمل می‌کند که برای عبور دادن مشتریان به‌سرعت ممکن، بدون قربانی کردن یکپارچگی داده‌ها، طراحی شده است. این برای پیشخوان‌های سوپرمارکت، مغازه‌های خرده‌فروشی، و هر سناریوی فروش رو در رو ایده‌آل است.
 
-This interface is designed to be used with a barcode scanner. Simply scan an item, and it is instantly added to the ticket. If you don't have a scanner, the large, touch-friendly buttons and fast search ensure you can still find products in seconds. The system defaults to 'Cash Sale' to minimize clicks, though it still supports other payment methods.
+این رابط برای استفاده با یک اسکنر بارکد طراحی شده است. کافی است یک آیتم را اسکن کنید، و او بلافاصله به فاکتور اضافه می‌شود. اگر اسکنر ندارید، دکمه‌های بزرگ و لمسی‌پسند و جستوجوی سریع اطمینان می‌دهند که همچنان می‌توانید محصولات را در چند ثانیه پیدا کنید. سیستم برای به حداقل رساندن کلیک‌ها به‌صورت پیش‌فرض «فروش نقدی (Cash Sale)» را برمی‌گزیند، هرچند همچنان از روش‌های دیگر پرداخت پشتیبانی می‌کند.
 
-Despite its speed, Quick Sell is fully integrated with your inventory and finance modules. Every item scanned is still tracked, and every cent collected is still logged in your cash accounts. It even supports 'Quick Discounts' and 'Change Calculations' to assist your cashiers during busy hours.
+علی‌رغم این سرعت، فروش سریع به‌طور کامل با ماژول‌های موجودی و مالی شما یکپارچه است. هر آیتم اسکن‌شده همچنان ردیابی می‌شود و هر افغانی دریافت‌شده همچنان در حساب‌های نقدی شما ثبت می‌گردد. حتی از «تخفیف‌های سریع (Quick Discounts)» و «محاسبات باقی‌مانده (Change Calculations)» نیز پشتیبانی می‌کند تا در ساعات شلوغ به صندوق‌داران شما کمک نماید.
 
-To use Quick Sell, click the lightning bolt icon in the top header. This opens a specialized fullscreen interface. Add products by scanning or clicking, enter the amount received, and hit 'Enter' to complete the sale and pop the cash drawer.
+برای استفاده از فروش سریع، روی نماد رعد (lightning bolt) در سربرگ بالا کلیک کنید. این یک رابط تمام‌صفحه تخصصی را باز می‌کند. محصولات را با اسکن یا کلیک اضافه کنید، مبلغ دریافت‌شده را وارد نمایید، و «Enter» را فشار دهید تا فروش تکمیل شود و کشوی پول باز گردد.

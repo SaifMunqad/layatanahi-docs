@@ -3,4 +3,4 @@ title: Sale Requests
 section: business.sale
 ---
 
-Describes sale request flows, returns, and customer refund requests.
+جریان‌های درخواست فروش، مرجوعی‌ها، و درخواست‌های استرداد وجه مشتری را توضیح می‌دهد.

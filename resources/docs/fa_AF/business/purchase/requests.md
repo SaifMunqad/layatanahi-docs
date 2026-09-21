@@ -3,4 +3,4 @@ title: Purchase Requests
 section: business.purchase
 ---
 
-Describes how purchase requests are created and managed, approvals, and links to purchase orders.
+توضیح می‌دهد که درخواست‌های خرید چگونه ایجاد و مدیریت می‌شوند، تأییدیه‌ها، و پیوندها به سفارش‌های خرید.

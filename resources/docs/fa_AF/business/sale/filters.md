@@ -3,4 +3,4 @@ title: Sale Filters
 section: business.sale
 ---
 
-Explains filtering options for sales (date, customer, product, branch, status).
+گزینه‌های فیلتر برای فروش‌ها (تاریخ، مشتری، محصول، شعبه، وضعیت) را توضیح می‌دهد.

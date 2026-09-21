@@ -1,3 +1,3 @@
-# API Overview
+# مروری API
 
-Overview of the API capabilities and service integrations available to clients.
+مروری بر قابلیت‌ها و یکپارچه‌سازی‌های خدمتی (service integrations) که برای کلاینت‌ها موجود است.

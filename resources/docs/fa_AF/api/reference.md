@@ -1,3 +1,3 @@
-# API Reference
+# مرجع API (Reference)
 
-Reference information for endpoints, payloads, and integration examples.
+معلومات مرجعی برای endpointها، payloadها و مثال‌های یکپارچه‌سازی (integration).

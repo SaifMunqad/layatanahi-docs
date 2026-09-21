@@ -7,12 +7,12 @@ link: "/store/activities"
 path: ["Sidebar","Store","Activities"]
 ---
 
-# Money Activities & Ledgers
+# فعالیت‌های پولی و کتاب‌ها (Ledgers)
 
-Money Activities are the immutable audit logs of every financial pulse within your business. Every time a cent moves—whether through a sale, a purchase, or a manual adjustment—the system records a 'Money Activity' entry. This ledger ensures that your financial history is transparent, traceable, and tamper-proof, providing a foundation for high-integrity accounting.
+فعالیت‌های پولی، لاگ‌های غیرقابل‌تغییر ممیزی هر تپش مالی درون کسب‌وکار شما هستند. هر بار که یک افغانی حرکت می‌کند—خواه از طریق یک فروش، یک خرید، یا یک تنظیم دستی—سیستم یک ورودی «فعالیت پولی» ثبت می‌کند. این کتاب اطمینان می‌دهد که تاریخ مالی شما شفاف، قابل ردیابی و غیرقابل دستکاری است و پایه‌ای برای حسابداری با یکپارچگی بالا فراهم می‌کند.
 
-The system operates on a sophisticated Double-Entry logic. When you view your 'Debit' and 'Credit' accounts, you are seeing the two sides of every transaction. A Debit increases an asset or expense account, while a Credit increases a liability or revenue account. By maintaining this balance automatically, Layatanahi ensures that your 'Trial Balance' is always healthy and your digital books always match your physical reality.
+سیستم بر اساس یک منطق دوتایی (Double-Entry) پیشرفته کار می‌کند. هنگامی که حساب‌های «بدهکار» و «بستانکار» خود را می‌بینید، در حال مشاهده دو روی هر تراکنش هستید. بدهکار یک حساب دارایی یا هزینه را افزایش می‌دهد، در حالی که بستانکار یک حساب بدهی یا عاید را افزایش می‌دهد. با حفظ خودکار این تعادل، لایاتناهی اطمینان می‌دهد که «ترازنآزمایی (Trial Balance)» شما همیشه سالم است و کتاب‌های دیجیتال شما همیشه با واقعیت فیزیکی مطابقت دارند.
 
-For managers, the Activities log is a powerful forensic tool. You can filter activities by employee, branch, or specific timeframes to understand exactly how cash is flowing through your business. This level of detail is essential for detecting discrepancies early and ensuring that every team member is accountable for the funds they handle.
+برای مدیران، لاگ فعالیت‌ها یک ابزار قدرتمند عدلی است. می‌توانید فعالیت‌ها را بر اساس کارمند، شعبه، یا بازه‌های زمانی خاص فیلتر کنید تا دقیقاً بفهمید نقد چگونه در کسب‌وکار شما جریان دارد. این سطح از جزئیات برای تشخیص زودهنگام ناهمواری‌ها و اطمینان از اینکه هر عضو تیم در قبال وجوهی که مدیریت می‌کند پاسخگو است، ضروری است.
 
-To audit your finances, visit the 'Activities' page. Use the filters to isolate 'Financial' activities. You can see the 'Source' account, the 'Destination' account, and the exact amount transferred, along with the user who authorized the movement. This provides a complete 360-degree view of your business's financial heartbeat.
+برای ممیزی مالیات خود، صفحه «فعالیت‌ها» را بازدید کنید. از فیلترها برای جدا کردن فعالیت‌های «مالی» استفاده کنید. می‌توانید حساب «مبدأ»، حساب «مقصَد»، و مبلغ دقیق انتقال‌یافته را به همراه کاربری که حرکت را تائید کرده است ببینید. این دید ۳۶۰ درجه کامل از تپش مالی کسب‌وکار شما ارائه می‌دهد.

@@ -1,3 +1,3 @@
-# Help Center
+# مرکز راهنما
 
-Support hub with guidance, troubleshooting, and onboarding for new users.
+مرکز پشتیبانی با راهنمایی، رفع اشکال و آشنایی‌سازی برای کاربران جدید.

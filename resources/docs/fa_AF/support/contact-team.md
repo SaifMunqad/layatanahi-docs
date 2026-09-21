@@ -1,20 +1,20 @@
-# Contact Team
+# تماس با تیم
 
-For direct support, customer service, and business inquiries, our team is available through the details below. We aim to respond as quickly as possible and are happy to assist with product questions, order support, partnerships, and general communication.
+برای پشتیبانی مستقیم، خدمت به مشتری و استفسارهای کسب‌وکار، تیم ما از طریق معلومات ذیل در دسترس است. ما تلاش می‌کنیم هرچه زودتر پاسخ دهیم و از کمک با سؤالات محصول، پشتیبانی سفارش، مشارکت‌ها و ارتباط عمومی خوشحال می‌شویم.
 
-## Customer support
+## پشتیبانی مشتری
 
-- **Phone**: +93 70 902 8214
-- **Email**: info@layatanahi.store
-- **Address**: Ahmad Yar Tower, Macro Rayyan Square, Kabul, Afghanistan
-- **Business hours**: Sunday to Thursday, 8:00 AM - 4:00 PM (Afghanistan Time)
+- **تلفن**: +93 70 902 8214
+- **ایمیل**: info@layatanahi.store
+- **آدرس**: Ahmad Yar Tower, Macro Rayyan Square, Kabul, Afghanistan
+- **ساعات کاری**: یکشنبه تا پنجشنبه، 8:00 صبح - 4:00 بعدازظهر (وقت افغانستان)
 
-## How to reach us
+## چگونه به ما برسید
 
-- For general questions and store support, email us at **info@layatanahi.store**.
-- For quick assistance, call **+93 70 902 8214**.
-- For in-person inquiries or business visits, visit Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan.
+- برای سؤالات عمومی و پشتیبانی فروشگاه، به نشانی **info@layatanahi.store** برای ما ایمیل کنید.
+- برای کمک سریع، با **+93 70 902 8214** تماس بگیرید.
+- برای استفسارهای حضوری یا بازدیدهای کسب‌وکاری، به Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan مراجعه کنید.
 
-## Support expectations
+## انتظارات از پشتیبانی
 
-We encourage customers and partners to contact us with clear details about their request so we can respond efficiently. Whether you are reaching out for a product inquiry, account assistance, or business collaboration, our team will do its best to help you promptly.
+ما مشتریان و شرکا را تشویق می‌کنیم که درخواست خود را با جزئیات روشن برای ما بفرستند تا بتوانیم کارآمد پاسخ دهیم. خواه برای استفسار محصول، کمک حساب یا همکاری کسب‌وکاری تماس بگیرید، تیم ما بهترین تلاش خود را برای کمک به‌موقع انجام می‌دهد.

@@ -7,12 +7,12 @@ link: "/store/assets"
 path: ["Sidebar","Store","Assets"]
 ---
 
-# Business Assets
+# دارایی‌های کسب‌وکار
 
-Business Assets are the physical properties and equipment owned by your company that are not for sale (e.g., delivery trucks, office computers, furniture). Tracking these is essential for maintaining an accurate 'Total Asset Value' on your balance sheet and ensuring that your physical property is accounted for.
+دارایی‌های کسب‌وکار املاک فیزیکی و تجهیزاتی هستند که شرکت شما مالک آن‌هاست و برای فروش نیستند (مثلاً کامیون‌های تحویل، کمپیوترهای دفتر، و لوازم اداری). ردیابی این‌ها برای حفظ «ارزش کل دارایی» دقیق در ترازنامه‌ی شما و اطمینان از اینکه ملک فیزیکی شما محاسبه شده است، ضروری است.
 
-Each asset can be cataloged with its purchase date, cost, current condition, and location. You can also assign assets to specific employees, creating a clear chain of accountability. For example, if a delivery driver is assigned a specific truck, the system records that responsibility in their profile.
+هر دارایی می‌تواند با تاریخ خرید، مبلغ تمام‌شده، وضعیت فعلی، و مکان خود فهرست شود. همچنین می‌توانید دارایی‌ها را به کارمندان خاص تخصیص دهید و زنجیره پاسخ‌گویی روشنی ایجاد کنید. مثلاً اگر به یک راننده تحویل یک کامیون خاص تخصیص داده شود، سیستم آن مسؤولیت را در پروفایل او ثبت می‌کند.
 
-The system also supports 'Depreciation Tracking' for major assets. This allows you to automatically calculate the loss in value of your equipment over time for tax and accounting purposes. Knowing the 'Book Value' of your assets helps you make informed decisions about when to repair, upgrade, or sell them.
+سیستم همچنین «ردیابی استهلاک (Depreciation Tracking)» را برای دارایی‌های عمده پشتیبانی می‌کند. این به شما اجازه می‌دهد کاهش ارزش تجهیزات خود را در طول زمان برای مقاصد مالیاتی و حسابداری به‌طور خودکار محاسبه کنید. دانستن «ارزش دفتری (Book Value)» دارایی‌های شما به شما کمک می‌کند تصمیمات آگاهانه درباره اینکه کی تعمیر، ارتقا، یا فروش آن‌ها منطقی است اتخاذ نمایید.
 
-To manage your property, visit the 'Store > Assets' page. You can add new assets as you acquire them and record disposals when they are sold or retired. Use the 'Maintenance' tab within an asset record to track repairs and service history, helping you extend the life of your expensive equipment.
+برای مدیریت املاک خود، صفحه «فروشگاه > دارایی‌ها» (Store > Assets) را بازدید کنید. می‌توانید با کسب دارایی‌های جدید آن‌ها را اضافه کنید و هنگام فروش یا از کار افتادن، تعیین تکلیف/اسقاط را ثبت نمایید. از سربرگ «نگهداری (Maintenance)» درون یک رکورد دارایی برای ردیابی تعمیرات و تاریخ سرویس استفاده کنید تا عمر تجهیزات گران‌قیمت خود را افزایش دهید.

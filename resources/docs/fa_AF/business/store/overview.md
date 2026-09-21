@@ -7,12 +7,12 @@ link: "/store/branches"
 path: ["Sidebar","Store","Branches"]
 ---
 
-# Locations & Business Details
+# مکان‌ها و جزئیات کسب‌وکار
 
-The Locations and Business Details section is where you define the geospatial and brand identity of your organization. By providing accurate addresses and GPS coordinates for your branches, you enable customers to find you easily via our 'Discover Businesses' map and search tools.
+بخش مکان‌ها و جزئیات کسب‌وکار جایی است که شما هویت جغرافیایی و برند سازمان خود را تعریف می‌کنید. با ارائه نشانی‌های دقیق و مختصات GPS برای شعب خود، به مشتریان امکان می‌دهید شما را به‌آسانی از طریق نقشه و ابزارهای جستوجوی «کشف کسب‌وکارها» ما پیدا کنند.
 
-Business Details go beyond just a name. You can provide a rich description of your company, upload your official branding, and list your social media links and contact numbers. This information is displayed on your public business profile, acting as a digital storefront that attracts new customers and builds professional credibility.
+جزئیات کسب‌وکار فراتر از صرفاً یک نام است. می‌توانید توضیح غنی از شرکت خود ارائه دهید، برند رسمی خود را بارگذاری کنید، و پیوندهای رسانه‌های اجتماعی و شماره‌های تماس خود را فهرست نمایید. این اطلاعات در پروفایل عمومی کسب‌وکار شما نمایش داده می‌شود و به‌مثابه یک سرای دیجیتال عمل می‌کند که مشتریان جدید را جذب می‌کند و اعتبار حرفه‌ای می‌سازد.
 
-Accuracy in this section is critical for the system's tax and shipping calculations. By providing correct regional and district information, you ensure that the system applies the right tax rates and accurately calculates delivery costs for orders originating from each specific location.
+دقت در این بخش برای محاسبات مالیات و حمل‌ونقل سیستم حیاتی است. با ارائه صحیح اطلاعات منطقوي و ناحیه‌ای، اطمینان حاصل می‌کنید که سیستم نرخ‌های درست مالیات را اعمال می‌کند و هزینه‌های تحویل را برای سفارش‌های صادرشده از هر مکان خاص به‌دقت محاسبه می‌نماید.
 
-To update your business profile, go to 'Store > Branches' and select the 'Manage' button on your primary branch. Here you can find the 'Business Details' tab where you can refine your public-facing information and ensure your location data is pinpoint accurate for our discovery engine.
+برای به‌روزرسانی پروفایل کسب‌وکار خود، به «فروشگاه > شعب» (Store > Branches) بروید و دکمه «مدیریت (Manage)» را روی شعبه اصلی خود انتخاب کنید. اینجا می‌توانید سربرگ «جزئیات کسب‌وکار» را بیابید که می‌توانید اطلاعات عمومی خود را در آن اصلاح کنید و اطمینان حاصل نمایید که داده‌های موقعیت شما برای موتور کشف ما دقیقاً نقطه‌ای و صحیح است.

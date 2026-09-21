@@ -7,12 +7,12 @@ link: "/finance/expenses"
 path: ["Sidebar","Finance","Expenses"]
 ---
 
-# Expense Management (Invoices)
+# مدیریت هزینه‌ها (فاکتورها)
 
-Expenses are the 'silent killers' of profit if not tracked rigorously. Our module allows you to record every non-stock outgoing cost, from office rent and electricity to small 'tea and coffee' costs. By categorizing these, you can see exactly where your overhead is growing and where you can optimize.
+هزینه‌ها اگر به‌دقت ردیابی نشوند، «قاتلان خاموش» سود هستند. ماژول ما به شما اجازه می‌دهد هر هزینه خروجی غیرموجودی را، از کرایه دفتر و برق گرفته تا هزینه‌های کوچک «چای و قهوه»، ثبت کنید. با دسته‌بندی این‌ها، دقیقاً می‌بینید که سربار شما کجا در حال رشد است و کجا می‌توانید آن را بهینه کنید.
 
-The system differentiates between 'Invoiced Expenses' and 'Quick Expenses.' An Invoiced Expense is used for formal costs where a vendor has provided a bill (e.g., a maintenance contract). You can upload a digital copy of the invoice for your records, ensuring that your tax audits are always backed by evidence.
+سیستم میان «هزینه‌های فاکتوردار» و «هزینه‌های سریع» تفاوت قائل می‌شود. هزینه فاکتوردار برای هزینه‌های رسمی استفاده می‌شود که در آن فروشنده (vendor) یک بل ارائه کرده است (مثلاً یک قرارداد نگهداری). می‌توانید یک نسخه دیجیتال از فاکتور را برای سوابق خود بارگذاری کنید تا اطمینان حاصل شود که ممیزی‌های مالیاتی شما همیشه با شواهد پشتیبانی می‌شوند.
 
-Quick Expenses are designed for small, daily out-of-pocket costs where a formal invoice might not exist (e.g., local transport or small office supplies). These can be recorded in seconds from the dashboard, ensuring that even the smallest costs are captured and deducted from your net profit calculations.
+هزینه‌های سریع برای هزینه‌های کوچک و روزمره جیبی طراحی شده‌اند که ممکن است فاکتور رسمی وجود نداشته باشد (مثلاً ترانسپورت محلی یا لوازم کوچک دفتری). این‌ها می‌توانند در چند ثانیه از داشبورد ثبت شوند تا حتی کوچک‌ترین هزینه‌ها نیز ضبط و از محاسبات سود خالص شما کسر گردند.
 
-To record an expense, go to the 'Expenses' section. Choose 'Create Expense,' select the category, enter the amount, and choose which account the money is being taken from. If you have a physical receipt, use the 'Upload' feature to attach it to the record for future reference.
+برای ثبت یک هزینه، به بخش «هزینه‌ها» بروید. «ایجاد هزینه» را انتخاب کنید، دسته را انتخاب کنید، مبلغ را وارد کنید، و انتخاب کنید که پول از کدام حساب برداشت می‌شود. اگر رسید فیزیکی دارید، از قابلیت «بارگذاری (Upload)» استفاده کنید تا آن را برای ارجاع آینده به رکورد پیوست نمایید.

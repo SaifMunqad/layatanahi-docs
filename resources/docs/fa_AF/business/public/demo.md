@@ -1,3 +1,3 @@
-# Public Demo
+# دموی عمومی
 
-See how customers discover and interact with public business listings.
+ببینید که مشتریان چگونه فهرست‌های عمومی کسب‌وکارها را کشف می‌کنند و با آن‌ها تعامل دارند.

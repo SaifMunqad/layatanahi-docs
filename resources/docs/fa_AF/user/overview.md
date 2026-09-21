@@ -1,23 +1,23 @@
-# User Overview
+# مروری کاربر
 
-User overview for managing accounts, activity, service status, and the complete shopping experience.
+مرور کاربر برای مدیریت حساب‌ها، فعالیت، وضعیت خدمت و تجربه کامل خرید.
 
-## Products
+## محصولات
 
-Customers can browse and explore products through a rich shopping experience designed to make discovery, comparison, and purchase simple. Users can view a product in a quick-view drawer for a fast preview or open it on a dedicated full-page product detail screen for a deeper review. On either view, they can inspect key information such as product description, pricing, specifications, stock availability, variants, dimensions, materials, and related items.
+مشتریان می‌توانند از طریق یک تجربه خرید غنی که کشف، مقایسه و خرید را ساده می‌سازد محصولات را مرور و بررسی کنند. کاربران می‌توانند یک محصول را در کشوی نمای سریع (quick-view drawer) برای پیش‌نمایش سریع ببینند، یا آن را در صفحه کامل جزئیات محصول برای بررسی دقیق‌تر باز نمایند. در هر دو نمای، آن‌ها می‌توانند معلومات کلیدی مانند توضیح محصول، قیمت‌گذاری، مشخصات، موجودی، انواع (variants)، ابعاد، جنس و اقلام مرتبط را معاینه کنند.
 
-Users can choose to purchase products directly from the product page or add them to the cart and complete the purchase later. This gives customers flexibility depending on whether they want an immediate transaction or a more careful comparison before checkout. Once an item is added to the cart, users can review quantities, update selections, remove products, and continue shopping before finalizing the order.
+کاربران می‌توانند انتخاب کنند که محصولات را مستقیم از صفحه محصول بخرند یا آن‌ها را به سبد خرید افزوده و خرید را بعداً تکمیل کنند. این به مشتریان انعطاف می‌دهد، بسته به اینکه معامله فوری می‌خواهند یا مقایسه دقیق‌تر پیش از پرداخت. هنگامی که قلمی به سبد افزوده شد، کاربران می‌توانند مقادیر را بررسی کنند، انتخاب‌ها را به‌روزرسانی نمایند، محصول را حذف کنند و پیش از نهایی ساختن سفارش به خرید ادامه دهند.
 
-The product experience also includes customer feedback and visual exploration. Users can read and add reviews and ratings, helping them understand product quality and real-world use before buying. They can inspect product images, download available media, or open 3D product views for more interactive inspection. Downloaded images and 3D model files are intended for personal use and evaluation, and they may not be reused for commercial purposes without explicit permission.
+تجربه محصول شامل نظرات مشتریان و کاوش بصری نیز می‌باشد. کاربران می‌توانند نظر (review) و امتیاز (rating) بخوانند و بیفزایند تا پیش از خرید کیفیت محصول و استفاده واقعی آن را درک کنند. آن‌ها می‌توانند تصاویر محصول را معاینه کنند، میډیای موجود را دانلود نمایند، یا برای معاینه تعاملی‌تر نمای سه‌بعدی محصول را باز کنند. تصاویر و فایل‌های مدل سه‌بعدی دانلودشده برای استفاده شخصی و ارزیابی است، و بدون اجازه صریح، اجازه استفاده مجدد تجاری ندارند.
 
-## AI and Search
+## هوش مصنوعی و جست‌وجو
 
-Users can take advantage of AI-powered support to search for products, refine results, and receive recommendations based on their needs. They can ask for product suggestions, compare alternatives, and explore options that match their preferences, budget, or use case without needing to manually browse every item.
+کاربران می‌توانند از پشتیبانی مبتنی بر AI بهره ببرند تا برای محصولات جست‌وجو کنند، نتایج را اصلاح نمایند و بر اساس نیازهای خود توصیه دریافت کنند. آن‌ها می‌توانند پیشنهاد محصول بخواهند، جایگزین‌ها را مقایسه کنند و گزینه‌هایی را که با ترجیحات، بودجه یا مورد استفاده آن‌ها مطابقت دارد کاوش کنند، بدون آنکه لازم باشد هر قلم را به‌صورت دستی مرور کنند.
 
-## Orders and Account Activity
+## سفارش‌ها و فعالیت حساب
 
-The user overview also includes account-level activity so customers can stay informed about their purchases, shipments, and recent actions. Users can see their order history, review current items in transit, and monitor account status from a single place.
+مرور کاربر شامل فعالیت در سطح حساب نیز می‌شود تا مشتریان از خریدها، ارسال‌ها و اعمال اخیر خود باخبر بمانند. کاربران می‌توانند تاریخچه سفارش‌های خود را ببینند، اقلام در حال انتقال فعلی را بررسی کنند و وضعیت حساب را از یک مکان نظارت نمایند.
 
-## Profile and Settings
+## پروفایل و تنظیمات
 
-Users can manage their personal account information, language preferences, security settings, and general platform settings from the profile area. They can also enable or disable AI features, switch between supported languages, and export their personal data as an Excel file when needed.
+کاربران می‌توانند معلومات شخصی حساب، ترجیحات زبانی، تنظیمات امنیتی و تنظیمات عمومی پلتفرم را از بخش پروفایل مدیریت کنند. آن‌ها همچنین می‌توانند ویژگی‌های AI را فعال یا غیرفعال کنند، میان زبان‌های پشتیبانی‌شده جابه‌جا شوند و در صورت نیاز داده‌های شخصی خود را به‌شکل فایل Excel صادر (export) نمایند.

@@ -1,3 +1,3 @@
-# Inventory Demo
+# دموی زخیره (Inventory Demo)
 
-See how inventory items and stock movements are managed in the application.
+ببینید که اقلام زخیره و حرکات موجودی در اپلیکیشن چگونه مدیریت می‌شوند.

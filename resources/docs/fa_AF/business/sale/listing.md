@@ -7,12 +7,12 @@ link: "/sale/sell/normal"
 path: ["Sidebar","Sales","Sell","Normal Sell"]
 ---
 
-# Normal Sell (Detailed Invoice)
+# فروش عادی (فاکتور تفصیلی)
 
-The Normal Sell interface is designed for professional, detailed transactions where accuracy and documentation are paramount. It is the perfect tool for wholesale orders, B2B sales, or any situation where you need to associate a sale with a specific customer profile and manage complex terms like credit and discounts.
+رابط فروش عادی برای تراکنش‌های حرفه‌ای و تفصیلی طراحی شده است که در آن‌ها دقت و مستندسازی اهمیت اولویستی دارد. این ابزار کامل برای سفارش‌های عمده‌فروشی، فروش‌های B2B، یا هر موقعیتی است که نیاز دارید یک فروش را به یک پروفایل مشتری خاص متصل کنید و شرایط پیچیده‌ای مانند اعتبار و تخفیف‌ها را مدیریت نمایید.
 
-When you initiate a Normal Sell, the system provides a powerful search tool to quickly pull items from your inventory. You can see real-time stock levels as you add items to the invoice, preventing you from over-selling. The system handles complex math automatically, including tax calculations, volume-based discounts, and multi-currency totals based on live exchange rates.
+هنگامی که یک فروش عادی را آغاز می‌کنید، سیستم ابزار جستوجوی قدرتمندی ارائه می‌دهد تا به‌سرعت آیتم‌ها را از موجودی خود بیرون بکشید. می‌توانید هم‌زمان با افزودن آیتم‌ها به فاکتور، سطوح موجودی را به‌صورت لحظه‌ای ببینید که از فروش بیش‌ازحد جلوگیری می‌کند. سیستم محاسبات پیچیده را به‌طور خودکار مدیریت می‌کند، شامل محاسبات مالیات، تخفیف‌های مبتنی بر حجم، و جمع‌های چند-اسکی بر اساس نرخ‌های زنده تبادله.
 
-Every sale made through this interface generates a professional, branded invoice that can be printed in A4 or thermal formats, or sent directly to the customer as a PDF. More importantly, the system instantly updates your financial ledgers and deducts the sold items from your stock in the specific branch where the sale occurred.
+هر فروشی که از طریق این رابط انجام شود یک فاکتور حرفه‌ای و دارای برند تولید می‌کند که قابل چاپ در قالب A4 یا حرارتی است، یا می‌تواند به‌صورت مستقیم به‌شکل PDF برای مشتری ارسال شود. مهم‌تر از همه، سیستم بلافاصله کتاب‌های مالی شما را به‌روز می‌کند و آیتم‌های فروخته‌شده را از موجودی همان شعبه‌ای که فروش در آن رخ داده کسر می‌نماید.
 
-To perform a detailed sale, select 'Normal Sell' from the Sales menu. Choose your items, select or create a customer, and set the payment status (Paid or On-Account). Once you hit 'Finalize,' the transaction is permanently recorded, and the invoice is ready for printing.
+برای انجام یک فروش تفصیلی، «فروش عادی (Normal Sell)» را از منوی فروش انتخاب کنید. آیتم‌های خود را انتخاب کنید، یک مشتری را انتخاب یا ایجاد کنید، و وضعیت پرداخت (پرداخت‌شده یا حسابی) را تنظیم نمایید. به‌محض فشار «نهایی‌سازی (Finalize)»، تراکنش به‌طور دایمی ثبت می‌شود و فاکتور برای چاپ آماده است.

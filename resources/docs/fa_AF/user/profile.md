@@ -1,35 +1,35 @@
-# User Profile
+# پروفایل کاربر
 
-Manage the personal information, preferences, security settings, and activity history associated with a user account.
+معلومات شخصی، ترجیحات، تنظیمات امنیتی و تاریخچه فعالیت مربوط به حساب کاربر را مدیریت کنید.
 
-## Profile Information
+## معلومات پروفایل
 
-Users can keep their personal details current, including their name, contact information, address, and account preferences. This helps maintain an accurate profile and ensures that communication, order updates, and personalization features remain relevant.
+کاربران می‌توانند جزئیات شخصی خود را به‌روز نگه دارند، شامل نام، معلومات تماس، آدرس و ترجیحات حساب. این به حفظ پروفایل دقیق کمک کرده و تضمین می‌کند که ارتباط، به‌روزرسانی‌های سفارش و ویژگی‌های شخصی‌سازی مرتبط باقی بمانند.
 
-## AI Agent Controls
+## کنټرول‌های ایجن AI
 
-Users can enable or disable the AI assistant from their profile. This setting gives them control over whether AI-powered suggestions, product discovery, and shopping assistance are active in their account. The AI experience can be customized according to each user's comfort level and workflow.
+کاربران می‌توانند دستیار AI را از پروفایل خود فعال یا غیرفعال کنند. این تنظیم به آن‌ها کنترل می‌دهد که آیا پیشنهادها، کشف محصول و کمک خرید مبتنی بر AI در حساب آن‌ها فعال باشد یا خیر. تجربه AI می‌تواند مطابق سطح آسودگی و جریان کاری هر کاربر شخصی‌سازی شود.
 
-## Language and Localization
+## زبان و بومی‌سازی
 
-Users can choose from multiple languages, including three supported language options, to personalize the interface and improve accessibility. This allows them to use the platform in the language they are most comfortable with while viewing product information, account details, and support content in that language.
+کاربران می‌توانند از میان چند زبان، شامل سه گزینه زبان پشتیبانی‌شده انتخاب کنند تا رابط کاربری را شخصی‌سازی کرده و دسترس‌پذیری را بهبود بخشند. این به آن‌ها اجازه می‌دهد پلتفرم را به زبانی که با آن راحت‌ترند به کار برند، در حالی که معلومات محصول، جزئیات حساب و محتوای پشتیبانی را نیز به همان زبان می‌بینند.
 
-## Orders and Shipments
+## سفارش‌ها و ارسال‌ها
 
-From the profile, users can review their order history, track active shipments, monitor delivery status, and stay informed about expected arrival dates. This section gives users a clear view of recent purchases and the current status of their deliveries.
+از پروفایل، کاربران می‌توانند تاریخچه سفارش‌های خود را بررسی کنند، ارسال‌های فعال را ردیابی نمایند، وضعیت تحویل را نظارت کنند و از تاریخ‌های رسیدن تخمینی باخبر بمانند. این بخش نمای روشنی از خریدهای اخیر و وضعیت فعلی تحویل‌ها در اختیار کاربران می‌گذارد.
 
-## Calendar and Activity
+## تقویم (Calendar) و فعالیت
 
-The profile includes a calendar view that helps users keep track of important dates, order timelines, reminders, and scheduled activities. Users can review upcoming actions related to their purchases, deliveries, and account management tasks.
+پروفایل شامل نمای تقویم (calendar) است که به کاربران در پیگیری تاریخ‌های مهم، زمان‌بندی سفارش‌ها، یادآوری‌ها و فعالیت‌های برنامه‌ریزی‌شده کمک می‌کند. کاربران می‌توانند اقدامات پیش‌رو مربوط به خریدها، تحویل‌ها و دنده‌های مدیریت حساب خود را بررسی کنند.
 
-## Security Settings
+## تنظیمات امنیتی
 
-Users can update account security settings to protect their personal information and maintain safe access to the platform. This includes managing sign-in security preferences, reviewing account protection settings, and adjusting controls that help reduce unauthorized access.
+کاربران می‌توانند تنظیمات امنیتی حساب را به‌روزرسانی کنند تا از معلومات شخصی خود محافظت کرده و دسترسی ایمن به پلتفرم را حفظ نمایند. این شامل مدیریت ترجیحات امنیتی ورود، بررسی تنظیمات محافظت حساب و تنظیم کنترل‌هایی است که به کاهش دسترسی غیرمجاز کمک می‌کند.
 
-## General Settings
+## تنظیمات عمومی
 
-Users can change general account settings such as notifications, display preferences, and service behavior. These settings allow users to tailor the platform experience to their individual needs and maintain the most convenient configuration for daily use.
+کاربران می‌توانند تنظیمات عمومی حساب مانند اعلان‌ها، ترجیحات نمایش و رفتار خدمت را تغییر دهند. این تنظیمات به کاربران اجازه می‌دهد تجربه پلتفرم را مطابق نیازهای فردی خود تنظیم کنند و مناسب‌ترین پیکربندی برای استفاده روزمره را حفظ نمایند.
 
-## Data Export
+## صادر کردن داده
 
-Users can download all of their account data in an Excel file for personal records, backup, or review. This export may include order history, profile information, account settings, and related user activity data, making it easy to retain and manage their information outside the platform.
+کاربران می‌توانند تمام داده‌های حساب خود را در یک فایل Excel برای سوابق شخصی، پشتیبان (backup) یا بررسی دانلود کنند. این export ممکن است شامل تاریخچه سفارش‌ها، معلومات پروفایل، تنظیمات حساب و داده‌های فعالیت مرتبط کاربر باشد و نگهداری و مدیریت معلومات بیرون از پلتفرم را آسان می‌سازد.

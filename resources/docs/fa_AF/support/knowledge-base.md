@@ -1,111 +1,109 @@
-# Knowledge Base
+# پایگاه دانش (Knowledge Base)
 
-Our knowledge base provides quick, practical answers to common product, order, and service questions. It is designed to help customers find solutions faster while giving support teams reusable guidance for consistent responses.
+پایگاه دانش ما پاسخ‌های سریع و عملی به سؤالات متداول محصول، سفارش و خدمت ارائه می‌کند. این پایگاه به‌گونه‌ای طراحی شده که به مشتریان در یافتن سریع‌تر راه‌حل کمک کند و در عین حال به تیم‌های پشتیبانی راهنمای قابل استفاده مجدد برای پاسخ‌های یکدست بدهد.
 
-## Overview
+## مروری
 
-This section covers high-frequency questions about:
+این بخش سؤالات پرتکرار را در بر می‌گیرد درباره:
 
-- Orders and shipping
-- Product availability and specifications
-- Returns, refunds, and exchanges
-- Account access and login issues
-- Payment and checkout problems
-- Delivery delays and tracking updates
-- Store policies and customer support expectations
+- سفارش‌ها و ارسال
+- موجودی و مشخصات محصول
+- اعاده (returns)، استرداد (refunds) و مبادله
+- دسترسی حساب و مشکلات ورود
+- مشکلات پرداخت و checkout
+- تأخیرهای تحویل و به‌روزرسانی‌های ردیابی
+- سیاست‌های فروشگاه و انتظارات از پشتیبانی مشتری
 
-## Common support topics
+## موضوعات متداول پشتیبانی
 
-### 1. Order status and tracking
+### ۱. وضعیت سفارش و ردیابی
 
-If a customer asks where their order is, respond with a clear update:
+اگر مشتری بپرسد سفارشش کجاست، با یک به‌روزرسانی روشن پاسخ دهید:
 
-- Confirm the order has been placed and paid for.
-- Share the order number, shipping method, and expected delivery window.
-- Explain that delivery times can vary based on courier schedules, location, and customs processing.
-- If tracking is unavailable or delayed, advise the customer to contact support for a manual status check.
+- تأیید کنید که سفارش ثبت و پرداخت شده است.
+- شماره سفارش، روش ارسال و بازه زمانی تحویل تخمینی را شریک سازید.
+- توضیح دهید که زمان‌های تحویل بر اساس زمان‌بندی شرکت حمل، موقعیت و پروسه گمرک می‌تواند متفاوت باشد.
+- اگر ردیابی موجود نیست یا متأخر است، به مشتری توصیه کنید برای بررسی دستی وضعیت با پشتیبانی تماس بگیرد.
 
-### 2. Delayed delivery
+### ۲. تحویل متأخر
 
-For shipping delays, provide a helpful and reassuring answer:
+برای تأخیرهای ارسال، پاسخ مفید و اطمینان‌بخش ارائه دهید:
 
-- Acknowledge the delay and confirm the order is still in transit or being processed.
-- Encourage the customer to check the courier tracking link.
-- Provide the most recent shipment status and expected next update.
-- Offer to investigate if the package exceeds the normal delivery window.
+- تأخیر را بپذیرید و تأیید کنید که سفارش همچنان در حال انتقال یا پروسه است.
+- مشتری را تشویق کنید لینک ردیابی شرکت حمل را بررسی کند.
+- آخرین وضعیت ارسال و به‌روزرسانی بعدی تخمینی را ارائه دهید.
+- اگر بسته از بازه زمانی عادي تحویل فراتر رفت، برای بررسی پیشنهاد دهید.
 
-### 3. Returns and exchanges
+### ۳. اعاده و مبادله
 
-For return-related questions, the standard reply should include:
+برای سؤالات مربوط به اعاده، پاسخ معیاری باید شامل این‌ها باشد:
 
-- The return eligibility period.
-- Whether items must be unused, sealed, or in original condition.
-- The process for requesting a refund or replacement.
-- The expected time for processing a return after the item is received.
+- دوره صلاحیت اعاده.
+- اینکه آیا اقلام باید استفاده‌نشده، پلمب یا در حالت اصلی باشند.
+- فرآیند درخواست استرداد یا جایگزین.
+- زمان تخمینی پردازش اعاده پس از دریافت قلم.
 
-### 4. Product questions
+### ۴. سؤالات محصول
 
-For product information requests, answer with:
+برای درخواست‌های معلومات محصول، پاسخ دهید با:
 
-- Product name, price, and key features
-- Materials, size, quantity, and availability
-- Compatibility, usage instructions, and included items
-- A direct link to the product page or support contact when needed
+- نام محصول، قیمت و ویژگی‌های کلیدی
+- جنس، اندازه، مقدار و موجودی
+- سازگاری، دستورالعمل استفاده و اقلام شامل‌شده
+- در صورت نیاز پیوند مستقیم به صفحه محصول یا تماس پشتیبانی
 
-### 5. Login and account troubleshooting
+### ۵. رفع اشکال ورود و حساب
 
-Common account issues include password resets, account lockouts, and login errors. Standard guidance:
+مشکلات متداول حساب شامل بازنشانی جواز، قفل شدن حساب و خطاهای ورود است. راهنمای معیاری:
 
-- Ask the customer to confirm the email address used for registration.
-- Encourage a password reset if the login code is not accepted.
-- Check whether the account is inactive, blocked, or requires verification.
-- Confirm the customer has the latest version of the app or website if the problem persists.
+- از مشتری بخواهید نشانی ایمیل استفاده‌شده برای ثبت‌نام را تأیید کند.
+- اگر کود ورود پذیرفته نشد، بازنشانی جواز را تشویق کنید.
+- بررسی کنید که آیا حساب غیرفعال، مسدود یا نیازمند تأیید هویت است.
+- اگر مشکل ادامه داشت، تأیید کنید که مشتری آخرین نسخه اپ یا ویب‌سایت را دارد.
 
-### 6. Payment and checkout problems
+### ۶. مشکلات پرداخت و checkout
 
-For payment failures, a helpful answer should include:
+برای ناکامی‌های پرداخت، پاسخ مفید باید شامل این‌ها باشد:
 
-- Confirmation that the payment method is accepted.
-- Instructions to retry the payment or use a different method.
-- A review of card details, billing information, or bank restrictions.
-- A note that duplicate transactions should be reported immediately to support.
+- تأیید اینکه روش پرداخت پذیرفته شده است.
+- دستورالعمل برای تلاش دوباره پرداخت یا استفاده از روش دیگر.
+- بررسی جزئیات کارت، معلومات صورتحساب یا محدودیت‌های bank.
+- یادآوری که معاملات تکراری باید فوراً به پشتیبانی گزارش شوند.
 
-## Reusable support responses
+## پاسخ‌های قابل استفاده مجدد پشتیبانی
 
-### Example: order confirmation
+### مثال: تأیید سفارش
 
-"Thank you for your order. Your purchase has been received and is being processed. You will receive a confirmation email with tracking details once the package is dispatched. If you need help before then, please share your order number and we will check the status for you."
+«از سفارش شما سپاسگزاریم. خرید شما دریافت شد و در حال پردازش است. هنگامی که بسته ارسال شود، یک ایمیل تأیید همراه با جزئیات ردیابی دریافت خواهید کرد. اگر پیش از آن به کمک نیاز دارید، لطفاً شماره سفارش خود را شریک سازید تا ما وضعیت را برایتان بررسی کنیم.»
 
-### Example: delayed shipment
+### مثال: ارسال متأخر
 
-"We understand your concern about the delay. We are checking the current shipping status for your order and will update you as soon as we receive the latest information from the courier. In the meantime, please keep an eye on your tracking link and contact us if there is no movement after the expected timeframe."
+«نگرانی شما درباره تأخیر را درک می‌کنیم. در حال بررسی وضعیت فعلی ارسال سفارش شما هستیم و به‌محض دریافت آخرین معلومات از شرکت حمل، شما را به‌روز می‌سازیم. در همین حال، لطفاً لینک ردیابی خود را زیر نظر داشته باشید و اگر پس از بازه زمانی تخمینی حرکتی نبود، با ما تماس بگیرید.»
 
-### Example: refund request
+### مثال: درخواست استرداد
 
-"We are sorry to hear that. Please send us your order number and a brief description of the issue. Once the return is reviewed, we will advise whether a refund or exchange is available under our policy."
+«از شنیدن این مطلب متأسفیم. لطفاً شماره سفارش و شرح کوتاهی از مشکل برای ما بفرستید. هنگامی که اعاده بررسی شد، به شما اطلاع می‌دهیم که آیا طبق سیاست ما استرداد یا مبادله ممکن است.»
 
-### Example: product availability
+### مثال: موجودی محصول
 
-"Thank you for your interest in this item. The product is currently available in limited stock, and our team can help confirm the exact quantity, delivery ETA, or the closest alternative option if needed."
+«از علاقه‌مندی شما به این قلم سپاسگزاریم. محصول در حال حاضر با موجودی محدود موجود است و تیم ما می‌تواند در صورت نیاز مقدار دقیق، زمان تخمینی تحویل (ETA) یا نزدیک‌ترین گزینه جایگزین را تأیید کند.»
 
-## Support escalation guidance
+## راهنمای ارتقای (escalation) پشتیبانی
 
-Escalate to a human support agent when:
+هنگامی که به یک ایجن پشتیبانی انسانی ارتقا دهید که:
 
-- A customer reports a lost, damaged, or wrong package
-- The order has not moved for an unusually long time
-- There is a payment dispute or duplicate charge
-- The customer requests a manual refund or compensation review
-- A serious product issue or safety concern is reported
+- مشتری بسته گم‌شده، آسیب‌دیده یا اشتباه را گزارش کند
+- سفارش برای مدت غیرعادی طولانی حرکت نکرده باشد
+- اختلاف پرداخت یا charge تکراری وجود داشته باشد
+- مشتری درخواست استرداد دستی یا بررسی جبران نماید
+- مشکل جدی محصول یا نگرانی ایمنی گزارش شود
 
-## Contact information
+## معلومات تماس
 
-For direct support, customers can contact the team through:
+برای پشتیبانی مستقیم، مشتریان می‌توانند از طریق این راه‌ها با تیم تماس بگیرند:
 
-- **Phone**: +93 70 902 8214
-- **Email**: info@layatanahi.store
-- **Address**: Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan
+- **تلفن**: +93 70 902 8214
+- **ایمیل**: info@layatanahi.store
+- **آدرس**: Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan
 
-This knowledge base should be updated regularly as new product issues, policies, and support workflows are identified.
- 
-
+این پایگاه دانش باید به‌طور منظم همان‌گونه که مشکلات، سیاست‌ها و جریان‌های کاری جدید پشتیبانی شناسایی می‌شوند، به‌روزرسانی گردد.

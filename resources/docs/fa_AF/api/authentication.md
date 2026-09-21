@@ -1,3 +1,3 @@
-# Authentication
+# احراز هویت (Authentication)
 
-Authentication patterns and secure token handling for API access.
+الگوهای احراز هویت و رسیدگی امن به token برای دسترسی به API.

@@ -7,8 +7,8 @@ link: "/business/sale/customers/add"
 path: ["Sidebar","Sales","Customers"]
 ---
 
-# Customer Management
+# مدیریت مشتری
 
-To create a customer, open the Customers page from the Sales section and choose Add Customer. Enter the customer's first name (required), then optionally provide their last name, phone number, email, and organization before saving.
+برای ایجاد یک مشتری، صفحه مشتریان را از بخش فروش باز کنید و «افزودن مشتری» (Add Customer) را انتخاب کنید. نام کوچک مشتری (الزامی) را وارد کنید، سپس به‌صورت اختیاری نام خانوادگی، شماره تلفن، ایمیل، و سازمان را پیش از ذخیره‌سازی ارائه نمایید.
 
-I can add a new customer for you. Send the first name (required) and, if available, the last name, phone number, email, and organization, and I will collect the details before creating the record.
+من می‌توانم یک مشتری جدید برای شما اضافه کنم. نام کوچک (الزامی) و، در صورت موجودیت، نام خانوادگی، شماره تلفن، ایمیل، و سازمان را بفرستید، و من پیش از ایجاد رکورد جزئیات را جمع‌آوری خواهم کرد.

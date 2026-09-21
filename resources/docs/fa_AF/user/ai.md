@@ -1,22 +1,21 @@
-# AI
+# هوش مصنوعی (AI)
 
-## Overview
+## مروری
 
-Users can access the AI assistant without limits to help them explore products, compare options, and discover items that match their needs. The AI experience is designed to make shopping more efficient by providing guided recommendations and instant answers about products, features, and availability.
+کاربران می‌توانند بدون محدودیت به دستیار AI دسترسی داشته باشند تا در کاوش محصولات، مقایسه گزینه‌ها و کشف اقلام متناسب با نیازهایشان به آن‌ها کمک کند. تجربه AI به‌گونه‌ای طراحی شده که با ارائه توصیه‌های راهنمایی‌شده و پاسخ‌های فوری درباره محصولات، ویژگی‌ها و موجودی، خرید را کارآمدتر می‌سازد.
 
-## Product Search and Discovery
+## جست‌وجو و کشف محصول
 
-Users can search for products using natural language or keyword-based queries. The AI can suggest relevant items, refine results based on preferences, and help users find the best product for their goals. This includes searching by category, material, price range, use case, or product attributes.
+کاربران می‌توانند با زبان طبیعی یا پرس‌وجوهای مبتنی بر کلیدواژه برای محصولات جست‌وجو کنند. AI می‌تواند اقلام مرتبط را پیشنهاد کند، نتایج را بر اساس ترجیحات اصلاح نماید و به کاربران در یافتن بهترین محصول برای اهدافشان کمک کند. این شامل جست‌وجو بر اساس دسته‌بندی، جنس، محدوده قیمت، مورد استفاده یا ویژگی‌های محصول نیز می‌شود.
 
-## Shopping Assistance
+## کمک خرید
 
-The AI can support users during the purchase journey by helping them choose between products, highlighting important specifications, and recommending options that fit their budget or requirements. Users can use AI to plan purchases, learn about product details, and decide whether to buy immediately or add items to the cart.
+AI می‌تواند در مسیر خرید از کاربران پشتیبانی کند، در انتخاب میان محصولات به آن‌ها کمک نماید، مشخصات مهم را برجسته سازد و گزینه‌هایی را که با بودجه یا الزامات آن‌ها متناسب است توصیه کند. کاربران می‌توانند از AI برای برنامه‌ریزی خریدها، آگاهی از جزئیات محصول و این تصمیم که فوراً بخرند یا اقلام را به سبد بیفزایند استفاده کنند.
 
-## Purchase Support
+## پشتیبانی خرید
 
-Users can use AI assistance alongside direct purchasing or cart-based checkout. The AI helps them understand product differences, confirm compatibility, and decide on the most suitable option before completing a purchase. This creates a smoother and more informed buying experience.
+کاربران می‌توانند در کنار خرید مستقیم یا پرداخت (checkout) مبتنی بر سبد، از کمک AI نیز بهره ببرند. AI به آن‌ها کمک می‌کند تفاوت‌های محصول را درک کنند، سازگاری را تأیید نمایند و پیش از تکمیل مناسب‌ترین گزینه را انتخاب کنند. این تجربه خرید هموارتر و آگاهانه‌تر ایجاد می‌کند.
 
-## Limitations and Usage
+## محدودیت‌ها و استفاده
 
-AI access is available without purchase limits, allowing users to interact freely while researching and selecting products. The assistant is intended to support product discovery and decision-making, while final transactions remain subject to standard sales, checkout, and account policies.
-
+دسترسی AI بدون محدودیت خرید موجود است و به کاربران اجازه می‌دهد هنگام پژوهش و انتخاب محصولات آزادانه تعامل کنند. دستیار برای پشتیبانی از کشف محصول و تصمیم‌گیری هدف‌گذاری شده، در حالی که معاملات نهایی همچنان تابع سیاست‌های (policies) معیاری فروش، پرداخت و حساب است.

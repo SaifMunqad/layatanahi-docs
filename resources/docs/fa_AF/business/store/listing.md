@@ -7,12 +7,12 @@ link: "/store/analytics"
 path: ["Sidebar","Store","Analytics"]
 ---
 
-# Business Analytics & Insights
+# تحلیلات و بینش‌های کسب‌وکار
 
-Analytics goes beyond simple reporting by providing predictive insights and visual trends. While a report tells you what happened, Analytics tells you 'why' it happened and 'what' might happen next. Using advanced data visualization, the system turns numbers into easy-to-read charts and graphs that highlight your business's trajectory.
+تحلیلات با ارائه بینش‌های پیش‌بینانه و روندهای بصری فراتر از گزارش‌دهی ساده می‌رود. در حالی که یک گزارش به شما می‌گوید چه اتفاقی افتاد، تحلیلات به شما می‌گوید «چرا» اتفاق افتاد و «چه چیزی» ممکن است بعداً رخ دهد. با استفاده از تصویرسازی پیشرفته داده، سیستم اعداد را به نمودارها و گراف‌های آسان‌خوان تبدیل می‌کند که مسیر کسب‌وکار شما را روشن می‌سازند.
 
-Our analytics engine tracks your 'Sales Velocity,' 'Customer Retention,' and 'Profit Trends' over time. By seeing these as visual patterns, you can quickly identify seasonal peaks, identify slow-moving stock before it becomes a liability, and predict future revenue with a high degree of accuracy.
+موتور تحلیلات ما «سرعت فروش»، «حفظ مشتری»، و «روندهای سود» شما را در طول زمان ردیابی می‌کند. با دیدن این‌ها به‌صورت الگوهای بصری، می‌توانید به‌سرعت قله‌های فصلی را شناسایی کنید، موجودی کم‌گردش را پیش از آنکه به بدهی تبدیل شود شناسایی نمایید، و عاید آینده را با دقت بالا پیش‌بینی کنید.
 
-The system also includes 'Comparative Analytics,' allowing you to see how your branches are performing relative to each other or how your current growth compares to the previous year. This competitive insight is invaluable for deciding where to allocate your resources and where to focus your marketing efforts.
+سیستم همچنان «تحلیلات تطبیقی (Comparative Analytics)» را شامل می‌شود و به شما اجازه می‌دهد ببینید شعب شما نسبت به یکدیگر چگونه عملکرد دارند یا رشد فعلی شما چگونه با سال قبل مقایسه می‌شود. این بینش رقابتی برای تصمیم‌گیری درباره اینکه کجا منابع خود را تخصیص دهید و کجا تلاش‌های بازاریابی خود را متمرکز کنید، بی‌بدیل است.
 
-To explore your insights, go to 'Store > Analytics'. The interactive dashboard allows you to toggle between different views and timeframes. We suggest using these insights to plan your procurement and staffing needs for the upcoming months based on historical performance trends.
+برای کاوش در بینش‌های خود، به «فروشگاه > تحلیلات» (Store > Analytics) بروید. داشبورد تعاملی به شما اجازه می‌دهد میان نماها و بازه‌های زمانی مختلف جابه‌جا شوید. پیشنهاد می‌کنیم از این بینش‌ها برای برنامه‌ریزی نیازهای تدارکات و کارکنان خود برای ماه‌های پیش‌رو بر اساس روندهای عملکرد تاریخی استفاده نمایید.

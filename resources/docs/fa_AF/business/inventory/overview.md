@@ -7,12 +7,12 @@ link: "/inventory/products"
 path: ["Sidebar","Inventory","Products"]
 ---
 
-# Stock Products
+# محصولات زخیره (Stock Products)
 
-The Stock Products module is the central nervous system of your business. It allows you to catalog every item you sell with extreme detail. You can define products by brand, category, and multiple custom attributes such as size, color, or material. This structured data makes it easy for both you and your customers to find exactly what they are looking for.
+ماژول محصولات زخیره، سیستم عصبی مرکزی کسب‌وکار شماست. این ماژول به شما اجازه می‌دهد هر قلمی را که می‌فروشید به‌شکل فوق‌العاده دقیق طبقه‌بندی کنید. می‌توانید محصولات را بر اساس برند، دسته‌بندی و چندین ویژگی سفارشی مانند اندازه، رنگ یا جنس تعریف نمایید. این داده‌های ساختاریافته یافتن دقیق آنچه شما و مشتریان‌تان دنبالش هستید را آسان می‌سازد.
 
-Beyond just descriptions, this module tracks 'In-Stock' status across your entire organization. You can see at a glance how many units of a specific variant are available in each branch or warehouse. The system also supports barcode management, allowing you to scan items for faster inventory counts and sales processing.
+فراتر از تنها توضیحات، این ماژول وضعیت 'In-Stock' را در سراسر سازمان شما رهگیری می‌کند. در یک نگاه می‌توانید ببینید چند واحد از یک نوع (variant) خاص در هر شعبه یا گدام موجود است. سیستم همچنان مدیریت بارکد را پشتیبانی می‌کند تا برای شمارش سریع‌تر موجودی و پردازش فروش، اقلام را اسکن کنید.
 
-Advanced features include 'Safety Stock' levels, which trigger alerts when your inventory for a critical item is running low. This prevents the loss of sales due to unexpected stockouts. You can also manage product imagery, set dynamic pricing based on currency fluctuations, and view a complete history of stock movements for any item.
+ویژگی‌های پیشرفته شامل سطوح 'Safety Stock' است که هنگام کم شدن زخیره یک قلم حساس، هشدارها را فعال می‌سازند. این از دست رفتن فروش به دلیل اتمام غیرمنتظره موجودی را جلوگیری می‌کند. شما می‌توانید تصاویر محصول را نیز مدیریت کنید، قیمت‌گذاری پویا بر اساس نوسانات ارز تنظیم نمایید و تاریخچه کامل حرکات موجودی هر قلم را ببینید.
 
-To manage your products, use the 'Products' page in the sidebar. From here, you can add new items, edit existing ones, or view a detailed breakdown of stock levels. You can also export your entire product catalog to Excel for external auditing or physical inventory counts.
+برای مدیریت محصولات خود، از صفحه 'محصولات' (Products) در نوار کناری استفاده کنید. از اینجا می‌توانید اقلام جدید بیفزایید، موارد موجود را ویرایش کنید یا تفکیک دقیق سطوح موجودی را ببینید. همچنین می‌توانید کل کاتالوگ محصولات خود را برای رسیدگی بیرونی (auditing) یا شمارش فزیکی موجودی به Excel صادر کنید.

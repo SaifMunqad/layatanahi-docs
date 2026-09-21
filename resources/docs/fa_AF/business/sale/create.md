@@ -3,4 +3,4 @@ title: Make Sale
 section: business.sale
 ---
 
-This page documents how to create a sale in the system. It covers creating invoices, selecting customers, and setting prices.
+این صفحه نحوه ایجاد یک فروش در سیستم را مستند می‌سازد. شامل ایجاد فاکتورها، انتخاب مشتریان، و تعیین قیمت‌ها می‌شود.
