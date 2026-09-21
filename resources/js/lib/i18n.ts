@@ -92,6 +92,7 @@ const resources = {
                     'api-rate-limits': 'Rate Limits',
                     'api-webhooks': 'Webhooks',
                     'api-changelog': 'Changelog',
+                    'api-docs-search': 'Docs Search API',
                 },
             },
         },
@@ -184,7 +185,8 @@ const resources = {
                     'api-pagination': 'صفحه‌بندی',
                     'api-rate-limits': 'محدودیت نرخ',
                     'api-webhooks': 'وب‌هوک‌ها',
-                    'api-changelog': 'گزارش تغییرات'
+                    'api-changelog': 'گزارش تغییرات',
+                    'api-docs-search': 'API جستجوی مستندات'
                 },
             },
         },
@@ -277,7 +279,8 @@ const resources = {
                     'api-pagination': 'پاڼه بندي',
                     'api-rate-limits': 'د نرخ محدودیتونه',
                     'api-webhooks': 'وېب‌هوکونه',
-                    'api-changelog': 'د بدلونونو یادښت'
+                    'api-changelog': 'د بدلونونو یادښت',
+                    'api-docs-search': 'د اسنادو د لټون API'
                 },
             },
         },

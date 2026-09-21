@@ -115,6 +115,7 @@ Route::prefix('api')->name('api.')->group(function () {
     Route::get('/rate-limits', [ApiController::class, 'rateLimits'])->name('rate-limits');
     Route::get('/webhooks', [ApiController::class, 'webhooks'])->name('webhooks');
     Route::get('/changelog', [ApiController::class, 'changelog'])->name('changelog');
+    Route::get('/docs-search', [ApiController::class, 'docsSearch'])->name('docs-search');
 });
 
 Route::middleware([])->group(function () {

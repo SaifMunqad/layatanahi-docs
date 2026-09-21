@@ -157,6 +157,7 @@ export const NAV_SECTIONS: NavSectionData[] = [
             { label: 'Rate Limits', slug: 'api-rate-limits', path: api.rateLimits },
             { label: 'Webhooks', slug: 'api-webhooks', path: api.webhooks },
             { label: 'Changelog', slug: 'api-changelog', path: api.changelog },
+            { label: 'Docs Search API', slug: 'api-docs-search', path: (() => ({ url: '/api/docs-search', method: 'get' } as any)) },
         ],
     },
 ];

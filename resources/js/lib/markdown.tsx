@@ -104,8 +104,44 @@ function renderInline(value: string): ReactNode[] {
         });
 }
 
+function highlightCode(code: string, language?: string): ReactNode[] {
+    const normalizedLanguage = language?.toLowerCase() ?? '';
+    const isShell = ['bash', 'sh', 'shell', 'zsh'].includes(normalizedLanguage);
+    const isHttp = ['http', 'https'].includes(normalizedLanguage);
+    const tokenPattern = /(\/\/.*|\/\*.*?\*\/|#.*|"(?:\\.|[^"\\])*"|'(?:\\.|[^'\\])*'|`(?:\\.|[^`\\])*`|\b\d+(?:\.\d+)?\b|\b[A-Za-z_$][\w$-]*\b|--?[A-Za-z][\w-]*)/g;
+    const keywords = new Set([
+        'const', 'let', 'var', 'function', 'return', 'if', 'else', 'for', 'while', 'class', 'new',
+        'import', 'from', 'export', 'async', 'await', 'public', 'private', 'protected', 'echo',
+        'true', 'false', 'null', 'undefined', 'GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'HTTP/1.1',
+    ]);
+
+    return code.split(tokenPattern).map((token, index) => {
+        if (!token) return null;
+        let className = 'text-zinc-200';
+        if (/^(\/\/|\/\*|#)/.test(token)) className = 'text-zinc-500';
+        else if (/^["'`]/.test(token)) className = 'text-amber-300';
+        else if (/^\d/.test(token)) className = 'text-purple-300';
+        else if (keywords.has(token)) className = 'text-cyan-300';
+        else if (isShell && /^-/.test(token)) className = 'text-green-300';
+        else if (isHttp && /^(GET|POST|PUT|PATCH|DELETE)$/.test(token)) className = 'text-green-300';
+        else if (/^[A-Za-z_$][\w$-]*$/.test(token) && /\(/.test(code.slice(code.indexOf(token) + token.length, code.indexOf(token) + token.length + 1))) className = 'text-blue-300';
+
+        return <span key={index} className={className}>{token}</span>;
+    });
+}
+
+function formatJsonForDisplay(code: string): string {
+    try {
+        return JSON.stringify(JSON.parse(code), null, 2);
+    } catch {
+        return code;
+    }
+}
+
 function CodeBlock({ code, language }: { code: string; language?: string }) {
     const [copied, setCopied] = useState(false);
+    const isJson = language?.toLowerCase() === 'json';
+    const displayCode = isJson ? formatJsonForDisplay(code) : code;
 
     const copy = async () => {
         if (!navigator.clipboard) return;
@@ -115,7 +151,10 @@ function CodeBlock({ code, language }: { code: string; language?: string }) {
     };
 
     return (
-        <div className="my-6 overflow-hidden rounded-xl border border-zinc-800 bg-zinc-950 text-zinc-200 shadow-sm">
+        <div
+            dir={isJson ? 'ltr' : undefined}
+            className="my-6 overflow-hidden rounded-xl border border-zinc-800 bg-zinc-950 text-zinc-200 shadow-sm"
+        >
             <div className="flex items-center justify-between border-b border-zinc-800 px-4 py-2 text-xs font-medium text-zinc-400">
                 <span className="uppercase tracking-wide">{language || 'code'}</span>
                 <button
@@ -127,8 +166,8 @@ function CodeBlock({ code, language }: { code: string; language?: string }) {
                     {copied ? 'Copied' : 'Copy'}
                 </button>
             </div>
-            <pre className="overflow-x-auto p-4 text-sm leading-6">
-                <code className="font-mono">{code}</code>
+            <pre className="overflow-x-auto p-4 text-left text-sm leading-6">
+                <code className="font-mono">{highlightCode(displayCode, language)}</code>
             </pre>
         </div>
     );

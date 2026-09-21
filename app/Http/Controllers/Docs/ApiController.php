@@ -90,4 +90,9 @@ class ApiController extends Controller
     {
         return Inertia::render('docs/api/changelog', ['section' => 'API', 'page' => 'Changelog']);
     }
+
+    public function docsSearch()
+    {
+        return Inertia::render('docs/api/docs-search', ['section' => 'API', 'page' => 'Docs Search API']);
+    }
 }
