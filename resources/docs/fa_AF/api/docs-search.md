@@ -118,6 +118,70 @@ curl -X POST https://example.test/api/docs/query \
   -d '{"action":"pages","section_id":1}'
 ```
 
+## نمونه‌های کلاینت
+
+نمونه‌های زیر همان نقطهٔ پایانی را با Python، Node.js و PHP فراخوانی می‌کنند. مقدار `YOUR_TOKEN` را با توکن معتبر جایگزین کنید و در صورت نیاز `action` و شناسه‌ها را تغییر دهید.
+
+### Python
+
+```python
+import requests
+
+response = requests.post(
+    'https://example.test/api/docs/query',
+    headers={
+        'Accept': 'application/json',
+        'Authorization': 'Bearer YOUR_TOKEN',
+    },
+    json={'action': 'pages', 'section_id': 1},
+)
+response.raise_for_status()
+print(response.json())
+```
+
+### Node.js
+
+```javascript
+const response = await fetch('https://example.test/api/docs/query', {
+  method: 'POST',
+  headers: {
+    Accept: 'application/json',
+    Authorization: 'Bearer YOUR_TOKEN',
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({ action: 'pages', section_id: 1 }),
+});
+
+if (!response.ok) throw new Error(`Request failed: ${response.status}`);
+console.log(await response.json());
+```
+
+### PHP
+
+```php
+<?php
+
+$ch = curl_init('https://example.test/api/docs/query');
+curl_setopt_array($ch, [
+    CURLOPT_POST => true,
+    CURLOPT_HTTPHEADER => [
+        'Accept: application/json',
+        'Authorization: Bearer YOUR_TOKEN',
+        'Content-Type: application/json',
+    ],
+    CURLOPT_POSTFIELDS => json_encode(['action' => 'pages', 'section_id' => 1]),
+    CURLOPT_RETURNTRANSFER => true,
+]);
+
+$response = curl_exec($ch);
+if ($response === false) {
+    throw new RuntimeException(curl_error($ch));
+}
+curl_close($ch);
+
+print_r(json_decode($response, true));
+```
+
 ## نقشهٔ پیاده‌سازی
 
 | مسئولیت | مسیر |
