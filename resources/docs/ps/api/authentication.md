@@ -1,3 +1,3 @@
-# Authentication
+# تصدیق هویت (Authentication)
 
-Authentication patterns and secure token handling for API access.
+د API ته د لاسرسي لپاره د تصدیق الګوګانې او د خوندي token مدیریت.

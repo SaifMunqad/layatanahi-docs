@@ -1,3 +1,3 @@
-# Public Demo
+# عمومي ډیمو (Public Demo)
 
-See how customers discover and interact with public business listings.
+وګورئ چې پیرودونکي څنګه عمومي سوداګریزه لیستونه کشف کوي او ورسره تعامل کوي.

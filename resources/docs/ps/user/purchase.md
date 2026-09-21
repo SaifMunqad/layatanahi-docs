@@ -1,29 +1,29 @@
-# Purchase
+# پیرود
 
-## Overview
+## لنډه کتنه
 
-Users can purchase products in two ways: by buying directly from the product page or by adding the item to the cart and completing the checkout later. This flexibility helps users make quick purchases when needed while also allowing them to review and compare items before they confirm the order.
+کاروونکي کولای شي توکي په دوو لارو وپيري: مستقیم د توکي له پاڼې پیرود، یا توکی ټوکر زیاتول او checkout وروسته بشپړول. دا انعطاف کاروونکو ته مرسته کوي چې کله اړتیا وي چټک پیرود وکړي او همدارنګه مخکې له غوښتنې تصدی کولو توکي بیا وګوري او پرتله کړي.
 
-## Direct Purchase
+## مستقیم پیرود
 
-When a customer chooses a product and wants to purchase immediately, the system opens a streamlined purchase flow. The user can review the selected product, confirm the quantity, and check the total price before completing the order. This direct path is designed for fast transactions and minimal friction.
+کله چې پیرودونکی توکی وټاکي او سمدستي یې پیرود وغواړي، سیسټم یو چټک د پیرود بهیر پرانیستي. کاروونکی کولای شي ټاکل شوی توکی وګوري، مقدار تصدی کړي، او مخکې له غوښتنې بشپړولو ټوله بیه وڅاري. دا مستقیمه لاره د چټکو معاملو او لږ تر لږه ستونزو لپاره ډیزاین شوې.
 
-## Add to Cart
+## ټوکر زیاتول
 
-Users may also add products to the cart for later review. The cart allows them to manage multiple items, adjust quantities, remove products, or continue shopping before finalizing the purchase. This is useful when customers want to compare products or complete several purchases in one checkout session.
+کاروونکي کولای شي توکي د وروستۍ کتنې لپاره ټوکر هم زیات کړي. ټوکر ورته اجازه ورکوي څو توکي مدیریت کړي، مقدارونه تنظیم کړي، توکي لیرې کړي، یا مخکې له پیرود وروستي کولو پیرود ته دوام ورکړي. دا کله ګټوره ده چې پیرودونکي وغواړي توکي پرتله کړي یا څو پیرودونه په یوه checkout ناسته بشپړ کړي.
 
-## Product Review Before Purchase
+## د پیرود مخکې د توکي کتنه
 
-Before accepting the purchase, users can view product details, including pricing, quantity, specifications, and availability. This ensures the customer has the information needed to confirm the product choice and complete the transaction with confidence.
+مخکې له پیرود منلو، کاروونکي کولای شي د توکي جزئیات وګوري، لکه بیه، مقدار، مشخصات او شتون. دا ډاډ ورکوي چې پیرودونکی د توکي د ټاکنې تصدی او د معاملې د ډاډمن بشپړولو لپاره اړین معلومات لري.
 
-## Checkout and Confirmation
+## Checkout او تصدیق
 
-Once the customer accepts the purchase, the system proceeds to the checkout process and prepares the order for fulfillment. The platform validates the selected items, calculates the final amount, and securely records the transaction. After confirmation, the system creates the order and prepares the related documents.
+کله چې پیرودونکی پیرود ومنې، سیسټم checkout بهیر ته ځي او غوښتنه د بشپړولو لپاره چمتو کوي. پلیټ فارم ټاکل شوي توکي تصدیقوي، وروستۍ پیسې محاسبه کوي او معامله په خوندي ډول ریکارډوي. له تصدیق وروسته سیسټم غوښتنه جوړوي او اړوند اسناد چمتو کوي.
 
-## Invoice Generation
+## د بل (Invoice) جوړول
 
-After the purchase is accepted, the system automatically sends an invoice to the customer. The invoice includes important details such as the product name, quantity, unit price, taxes, delivery details, total amount, and order reference. This document serves as a formal receipt and can be used for payment confirmation and record keeping.
+له پیرود منلو وروسته سیسټم په اتومات ډول پیرودونکي ته بل استوي. بل کې مهم جزئیات لکه د توکي نوم، مقدار، واحدې بیه، مالیات، د رسولو جزئیات، ټوله پیسې او د غوښتنې مرجع شامل وي. دا سند رسمي رسېد (receipt) دی او د تادیې تصدیق او ریکارډ ساتلو لپاره کارېږي.
 
-## Order Tracking and Support
+## د غوښتنې تعقیب او ملاتړ
 
-After the purchase is completed, users can view the status of their order in their account. They can monitor the progress from confirmation to shipment and delivery. The invoice and order information help support customer service and ensure transparency throughout the purchase process.
+له پیرود بشپړېدو وروسته کاروونکي کولای شي د خپلې غوښتنې حالت په خپل حساب کې وګوري. دوی کولای شي پرمختګ له تصدیق څخه تر لېږد او رسولو پورې وڅاري. د بل او غوښتنې معلومات د پیرودونکو خدمت ملاتړ کوي او د پیرود په ټول بهیر کې روښوالی تضمینوي.

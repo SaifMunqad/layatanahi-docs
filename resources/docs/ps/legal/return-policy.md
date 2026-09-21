@@ -1,225 +1,225 @@
-# Return Policy
+# د ستنېدو پالیسي
 
-*Your satisfaction is our priority. Learn about our comprehensive return, refund, and exchange policies.*
+*ستاسو رضایت زموږ لومړیتوب دی. زموږ د بشپړو ستنېدو، بیرته‌ورکړې، او بدلولو پالیسیو په اړه زده کړئ.*
 
-**Last Updated:** September / 13 /2026
-
----
-
-## Introduction
-### Return Policy Overview
-
-Welcome to Layatanahi's comprehensive Return Policy. We are committed to ensuring your complete satisfaction with every purchase. This policy outlines your rights and responsibilities regarding returns, exchanges, and refunds for products purchased through our online store, physical locations, and authorized retailers.
-
-Our return policy is designed to be fair, transparent, and customer-friendly while maintaining the integrity of our products and business operations. By making a purchase from Layatanahi, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions outlined in this Return Policy.
-
-This policy applies to all purchases made directly from Layatanahi through our official channels. For products purchased through third-party retailers, please refer to the return policy of the specific retailer where the purchase was made.
-
-> **Customer Satisfaction Guarantee**  
-> We stand behind the quality of our products. If you're not completely satisfied with your purchase, we'll work with you to make it right. Your happiness is our priority.
+**وروستی تازه‌کول:** September / 13 /2026
 
 ---
 
-## Return Window
-### Return Timeframes and Deadlines
+## پېژندنه
+### د ستنېدو د پالیسۍ کتنه
 
-Understanding our return timeframes is crucial for ensuring your return is processed successfully. The return window begins from the date your order is delivered, as confirmed by the carrier's tracking information.
+لایاتناهی له خپلې بشپړې د ستنېدو پالیسۍ ته ښه راغلاست. موږ د هره پیرودنې ستاسو بشپړ رضایت ډاډمن کولو ته ژمن یو. دا پالیسي ستاسو حقونه او مسؤولیتونه، د ستنېدنو، بدلولو، او بیرته‌ورکړو په اړه، د هغو توکو لپاره چې زموږ له آنلاین پلورنځي، فزیکي ځایونو، او مجاز پلورونکو څخه پیرودل شوي، تشریح کوي.
 
-#### Standard Return Periods:
-- **Most Products**: 30 days from the delivery date for standard merchandise in new, unused condition with original packaging and tags.
-- **Electronics and Tech Products**: 14 days from delivery due to rapid technological obsolescence and hygiene considerations.
-- **Premium and Luxury Items**: 45 days from delivery for items priced above $500, providing extended consideration time.
-- **Seasonal and Holiday Items**: Specific return deadlines apply to seasonal merchandise, typically 30 days from delivery or until January 31st for holiday purchases.
+زموږ د ستنېدو پالیسي د دې لپاره ډیزاین شوې چې منصفانه، روڼ، او پیرودونکی-دوستانه وي، په داسې حال کې چې زموږ د توکو او سوداګریزو عملیاتو رڼتیا وساتي. د لایاتناهی څخه په پیرودنه کولو سره، تاسو اعلان کوئ چې دا پالیسي مو لوستې، درک کړې، او له دې ستنېدو پالیسۍ څخه په کې ښودل شویو شرایطو او ضابطو سره تړل منلي دي.
 
-#### Extended and Special Circumstances:
-- **Defective Items**: Items with manufacturing defects may be returned within 90 days of delivery, provided the defect is reported within 7 days of discovery.
-- **Wrong Items Shipped**: If you receive an incorrect item, you have 60 days from delivery to notify us and arrange for return or exchange.
-- **Loyalty Program Members**: Premium members enjoy extended 45-day return windows on all standard merchandise.
-- **Gift Recipients**: Gift recipients have 60 days from receipt to initiate returns, with proof of gifting.
+دا پالیسي ټولو هغو پیرودنو پلي کېږي چې په مستقیم ډول د زموږ له رسمي لارو څخه له لایاتناهی څخه کیږي. د هغو توکو لپاره چې د دریم ګوند پلورونکو څخه پیرودل شوي، مهرباني وکړئ د هغه ځانګړي پلورونکي د ستنېدو پالیسۍ ته مراجعه وکړئ چې پیرودنه پکې شوې ده.
 
-#### Important Deadlines:
-- **Return Initiation**: You must initiate the return process within the specified return window by contacting customer service or using our online portal.
-- **Physical Return**: The item must be physically received by us within 14 days of return authorization.
-- **Holiday Extension**: Purchases made between November 1st and December 31st qualify for extended returns until January 31st of the following year.
-
-> **Pro Tip**  
-> Initiate your return as soon as you decide to return an item. The return process begins when you contact us, not when you ship the item back.
+> **د پیرودونکو د رضایت تضمین**  
+> موږ د خپلو توکو د کیفیت شاته درېږو. که تاسو له خپلې پیرودنې څخه په بشپړ ډول خوشحه نه یاست، نو موږ به ستاسو سره کار وکړو ترڅو هغه سمه کړو. ستاسو خوښي زموږ لومړیتوب دی.
 
 ---
 
-## Eligibility
-### Return Eligibility and Condition Requirements
+## د ستنېدو کړکۍ
+### د ستنېدو وختونه او وروستۍ نېټې
 
-To ensure a smooth return process and protect all customers, we have established clear eligibility criteria and condition requirements. These standards help maintain product quality and fairness for all shoppers.
+د زموږ د ستنېدو د وختونو پوهېدل د دې لپاره خورا مهم دي چې ستنېدنه مو په بریالیتوب سره پروسس شي. د ستنېدو کړکۍ هغه وخت پیلېږي چې ستاسو ارډر ورکړل شوی وي، لکه څنګه چې د وړونکي/کیریئر د تعقیب ډاټا تاییدوي.
 
-#### Mandatory Condition Requirements:
-- **Original Packaging**: Items must be returned in their original manufacturer's packaging, including boxes, cases, and protective materials.
-- **Tags and Labels**: All original tags, labels, price tags, and security tags must be attached and undamaged.
-- **Unused Condition**: Products must be in new, unused condition with no signs of wear, installation, or alteration.
-- **Complete Set**: All components, accessories, manuals, certificates, and included items must be returned together.
-- **Hygiene Considerations**: For health and safety reasons, certain items must remain in sealed, unopened packaging to be eligible for return.
+#### معیاري د ستنېدو مودې:
+- **ډېری توکي**: د نو، نه‌کارول شوي حالت او له اصلي بسته بندۍ او ټګونو سره د معیاري توکو لپاره د رسولو له نېټې څخه ۳۰ ورځې.
+- **الکترونیکي او تخنیکي توکي**: د چټک تخنیکي زړېدو او د روغتیا پامونو له امله له رسولو څخه ۱۴ ورځې.
+- **لوړ ارزښت او لوکس توکي**: هغو توکو لپاره چې بیه یې له $500 څخه پورته وي د رسولو له نېټې څخه ۴۵ ورځې، چې د پام کولو لپاره اوږد وخت برابروي.
+- **فصلی او رخصتي توکي**: فصلی توکو ته ځانګړې د ستنېدو وروستۍ نېټې پلي کېږي، معمولاً د رسولو له نېټې څخه ۳۰ ورځې، یا د رخصتي پیرودنو لپاره د جنورۍ تر ۳۱مې پورې.
 
-#### Documentation and Proof Requirements:
-- **Proof of Purchase**: Valid proof of purchase is required, including order number, receipt, or packing slip.
-- **Return Authorization**: All returns must be pre-authorized through our customer service team or online return portal.
-- **Identification**: For returns without original payment method, valid government-issued photo ID may be required.
-- **Reason for Return**: Clear explanation of the return reason helps us improve our products and services.
+#### اوږدې او ځانګړې شرایط:
+- **نیمګړي توکي**: هغه توکي چې د جوړښت نیمګړتیا ولري کېدای د رسولو له نېټې څخه د ۹۰ ورځو دننه، که چیرې نیمګړتیا د کشف له موندلو څخه د ۷ ورځو دننه راپور شوې وي، ستنه شي.
+- **ناسم توکي لېږل شوي**: که تاسو ناسم توکی ترلاسه کړئ، نو تاسو د رسولو له نېټې څخه ۶۰ ورځې وخت لرئ چې موږ ته خبر ورکړئ او د ستنېدو یا بدلولو ترتیب جوړ کړئ.
+- **د وفادارۍ پروګرام غړي**: پریمیم غړي د ټولو معیاري توکو باندې د ۴۵ ورځو اوږدې ستنېدو کړکۍ برخمن دي.
+- **د ډالیو اخیستونکي**: د ډالیو اخیستونکي د ډالۍ د ثبوت سره، د ترلاسه‌کولو څخه ۶۰ ورځې وخت لري چې ستنېدنه پیل کړي.
 
-#### Condition-Based Refund Tiers:
-- **Full Refund**: Items in perfect, like-new condition with all original packaging and documentation.
-- **Partial Refund (up to 80%)**: Minor packaging damage or missing non-essential accessories.
-- **Store Credit Only**: Items showing signs of use or missing important components.
-- **Return Refused**: Items that don't meet minimum return standards or are in unsanitary condition.
+#### مهمې وروستۍ نېټې:
+- **د ستنېدو پیل**: تاسو باید د ټاکلې ستنېدو کړکۍ دننه، د پیرودونکو خدمتونو سره د اړیکې یا د زموږ آنلاین پورټل په کارولو سره، د ستنېدو بهیر پیل کړئ.
+- **فزیکي ستنېدنه**: توکی باید د ستنېدو له اجازې څخه په ۱۴ ورځو کې زموږ له لوري په فزیکي ډول ترلاسه شي.
+- **د رخصتي اوږدوالی**: هغه پیرودنې چې د نوامبر له لومړۍ تر د ډسمبر تر ۳۱مې پورې ترسره شي، د راتلونکي کال د جنورۍ تر ۳۱مې پورې اوږدو ستنېدنو ته وړ دي.
 
-#### Common Ineligibility Scenarios:
-- Items purchased from unauthorized retailers or third-party sellers
-- Products with removed or damaged serial numbers
-- Items that have been installed, assembled, or used
-- Products with custom modifications or alterations
-- Merchandise missing security tags or anti-theft devices
+> **مهم ټک**  
+> خپله ستنېدنه همدار سمدستي چې توکی د ستنولو پرېکړه وکړئ پیل کړئ. د ستنېدو بهیر هغه وخت پیلېږي چې تاسو موږ سره اړیکه نیسئ، نه هغه وخت چې توکی بېرته لېږئ.
 
 ---
 
-## Return Process
-### Return Process Step by Step
+## وړتیا
+### د ستنېدو وړتیا او د حالت اړین شرطونه
 
-Our streamlined return process is designed to be simple and efficient. Follow these detailed steps to ensure your return is processed quickly and correctly.
+د هموار د ستنېدو بهیر ډاډمنولو او د ټولو پیرودونکو د ساتنې لپاره، موږ روڼ د وړتیا معیارونه او د حالت اړین شرطونه ټاکلي. دا معیارونه د ټولو پیرودونکو لپاره د توکیو کیفیت او انصاف ساتلو کې مرسته کوي.
 
-#### Step 1: Initiate Return Request
-- **Online Portal**: Log into your account and navigate to "Order History" to initiate returns for eligible items.
-- **Customer Service**: Contact our returns department at returns@layatanahi.com or call 1-800-RETURNS.
-- **Required Information**: Have your order number, product details, and reason for return ready.
-- **Return Authorization**: You will receive a Return Authorization Number (RAN) and detailed instructions.
+#### اړین د حالت شرطونه:
+- **اصلي بسته بندي**: توکي باید د خپلې اصلي جوړونکې/تولیدونکې بسته بندۍ کې ستنه شي، چې پکې بکسونه، قیفونه، او حفاظتي مواد شامل دي.
+- **ټګونه او لیبلونه**: ټول اصلي ټګونه، لیبلونه، د بیو ټګونه، او امنیتي ټګونه باید وړول شوي او نه‌زیانمن وي.
+- **نه‌کارول شوی حالت**: توکي باید په نو، نه‌کارول شوي حالت کې وي، له هیڅ نښې تېر/کارونې، نصب، یا بدلون پرته.
+- **بشپړه ټولګه**: ټول کمپوننټونه، ضمیمې، لارښودونه، سندونه، او شامل شوي توکي باید یوځای ستنه شي.
+- **د روغتیا پامونه**: د روغتیا او خوندیتوب له امله، ځینو توکو ته باید په تړلې، نه‌پرانیستلې بسته بندي کې وي چې د ستنېدو وړ وي.
 
-#### Step 2: Prepare Your Return
-- **Packaging**: Use the original packaging whenever possible. Include all boxes, padding, and protective materials.
-- **Documentation**: Print and include the return authorization form in your package.
-- **Accessories**: Ensure all original accessories, manuals, warranty cards, and free gifts are included.
-- **Security**: Seal the package securely using strong packing tape. Consider double-boxing fragile items.
+#### د اسنادو او ثبوت اړین شرطونه:
+- **د پیرودنې ثبوت**: د پیرودنې معتبر ثبوت اړین دی، چې پکې د ارډر شمېره، رسېډ، یا د بسته بندۍ پاڼه شامله ده.
+- **د ستنېدو اجازه**: ټولې ستنېدنې باید مخکې زموږ د پیرودونکو د خدمتونو ټیم یا آنلاین د ستنېدو پورټل له لارې اجازه‌لرملي وي.
+- **پېژندنه**: هغو ستنېدنو لپاره چې اصلي د تادیې لاره پکې نشته، د حکومت لخوا صادر شوی عکس لرونکی معتبر پېژندپاڼه کېدای اړین وي.
+- **د ستنېدو دلیل**: د ستنېدو دلیل روڼ تشریح زموږ توکي او خدمتونه ښه‌کولو کې موږ سره مرسته کوي.
 
-#### Step 3: Shipping and Tracking
-- **Shipping Label**: Use the provided prepaid label for defective items or purchases over $100.
-- **Carrier Selection**: For self-shipped returns, use trackable services like UPS, FedEx, or USPS with insurance.
-- **Tracking Number**: Always obtain and save your tracking number. Returns without tracking cannot be located.
-- **Shipping Time**: Ship within 7 days of return authorization to ensure timely processing.
+#### د حالت پر بنسټ د بیرته‌ورکړو طبقې:
+- **بشپړه بیرته‌ورکړه**: هغه توکي چې په کامل، لکه‌نو حالت کې د ټولې اصلي بسته بندۍ او اسنادو سره وي.
+- **قسمي بیرته‌ورکړه (تر ۸۰٪ پورې)**: د بستې کوچنی زیان یا د غیرضروري ضمیمو ورکېدل.
+- **یوازې د پلورنځي کریډیټ**: هغه توکي چې د کارونې نښې ښیي یا مهم کمپوننټونه یې ورک وي.
+- **ستنېدنه ردېږي**: هغه توکي چې لږ تر لږه د ستنېدو معیارونه نه پوره کوي یا په غیرصحې حالت کې وي.
 
-#### Step 4: Return Processing Timeline
-- **Receipt Confirmation**: 1-2 business days after we receive your return at our facility.
-- **Inspection Period**: 2-3 business days for quality control and condition verification.
-- **Processing Time**: 1-2 business days for refund or exchange processing.
-- **Total Timeline**: Most returns are fully processed within 5-7 business days of receipt.
-
-#### International Returns:
-- **Customs Documentation**: Mark package as "Returned Goods" to avoid customs charges.
-- **Shipping Costs**: International customers are responsible for return shipping costs.
-- **Processing Time**: Allow 2-3 weeks for international returns due to customs and shipping.
-- **Duties and Taxes**: Original duties and taxes may not be refundable depending on local laws.
+#### د نه‌وړتیا عمومي حالتونه:
+- له غیرمجاز پلورونکو یا درېیم ګوند پلورونکو څخه پیرودل شوي توکي
+- توکي چې سیریل نمبرونه یې لرې یا زیانمن شوي وي
+- توکي چې نصب، جوړ، یا کارول شوي وي
+- توکي چې خاص بدلونونه یا تنظیمات لري
+- هغه توکي چې امنیتي ټګونه یا د غلا ضد وسایل ورک وي
 
 ---
 
-## Refunds
-### Refund Policies and Processing
+## د ستنېدو بهیر
+### د ستنېدو بهیر ګام‌په‌ګام
 
-We strive to process refunds quickly and transparently. Understanding our refund policies will help you know what to expect and when to expect it.
+زموږ هموار شوی د ستنېدو بهیر د ساده او موثر کیدو لپاره ډیزاین شوی. خپله ستنېدنه په چټک او سم ډول د پروسس کولو لپاره دا تفصیلي ګامونه تعقیب کړئ.
 
-#### Refund Methods and Timing:
-- **Credit/Debit Cards**: Refunds processed within 3-5 business days after return approval. Appear on your statement within 7-10 business days depending on your bank.
-- **PayPal**: Refunds processed within 24-48 hours. Appear in your PayPal account immediately.
-- **Store Credit**: Instant issuance to your Layatanahi account upon return approval.
-- **Gift Cards**: Refunded to original gift card within 24 hours of return approval.
-- **Bank Transfers**: 5-7 business days for processing and bank clearance.
+#### ګام ۱: د ستنېدو غوښتنه پیل کړئ
+- **آنلاین پورټل**: خپل حساب کې داخل شئ او "د ارډرونو تاریخ" (Order History) ته ولاړ شئ چې د وړ توکو ستنېدنې پیل کړئ.
+- **د پیرودونکو خدمتونه**: زموږ د ستنېدنو څانګې سره په returns@layatanahi.com اړیکه ونیسئ یا 1-800-RETURNS ته زنګ ووهئ.
+- **اړین معلومات**: خپله د ارډر شمېره، د توکو جزئیات، او د ستنېدو دلیل چمتو ولرئ.
+- **د ستنېدو اجازه**: تاسو ته به د ستنېدو د اجازې شمېره (RAN) او تفصیلي لارښوونې درلېږل شي.
 
-#### Refund Amount Calculations:
-- **Full Refunds**: Original product price minus any non-refundable shipping charges.
-- **Partial Refunds**: Based on item condition, missing accessories, or packaging damage.
-- **Shipping Costs**: Original shipping charges are non-refundable unless return is due to our error.
-- **Restocking Fees**: Certain electronics and large items may incur a 15% restocking fee if opened.
-- **Sales Tax**: Applicable sales tax refunded based on your original purchase location.
+#### ګام ۲: خپله ستنېدنه چمتو کړئ
+- **بسته بندي**: هرکله چې ممکنه وي اصلي بسته بندي وکاروئ. ټول بکسونه، پښونکي مواد، او حفاظتي مواد شامل کړئ.
+- **اسناد**: د ستنېدو د اجازې فورم چاپ کړئ او خپل بنډل کې شامل کړئ.
+- **ضمیمې**: ډاډمن کړئ چې ټولې اصلي ضمیمې، لارښودونه، د تضمین کارتونه، او وړیا ډالۍ شاملې دي.
+- **خوندیتوب**: بنډل په کلکه د قوي بسته بندۍ ټېپ سره وتړئ. د ماتېدونکو توکو لپاره دوه‌ګونی بکس پام کې ونیسئ.
 
-#### Special Refund Scenarios:
-- **Defective Items**: Full refund including original shipping costs both ways.
-- **Wrong Item Shipped**: Full refund with prepaid return shipping label provided.
-- **Damaged in Transit**: Full refund or replacement, with insurance claim processing.
-- **Price Adjustments**: Within 14 days of purchase if price drops, with proof required.
-- **Bundle Purchases**: Partial returns may affect bundle pricing and discount eligibility.
+#### ګام ۳: لېږد او تعقیب
+- **د لېږد لیبل**: د نیمګړو توکو یا له $100 څخه زیاتو پیرودنو لپاره د ورکړل شوي پیش‌پرداز شوي لیبل څخه کار واخلئ.
+- **د وړونکي ټاکل**: د ځان‌لېږدول شوو ستنېدنو لپاره، د بیمې سره د UPS، FedEx، یا USPS په څېر د تعقیب وړ خدمتونه وکاروئ.
+- **د تعقیب شمېره**: تل خپله د تعقیب شمېره ترلاسه کړئ وساتئ. ستنېدنې چې تعقیب نلري موندل کیدای نشي.
+- **د لېږد وخت**: د بهالي پروسس ډاډمنولو لپاره د ستنېدو له اجازې څخه په ۷ ورځو کې ولېږئ.
 
-#### Refund Status Tracking:
-- **Online Portal**: Track refund status in real-time through your account dashboard.
-- **Email Notifications**: Receive confirmation at each stage: receipt, inspection, processing, and completion.
-- **Customer Service**: Contact returns department for specific timing questions after 10 business days.
-- **Bank Inquiries**: If refund doesn't appear after 14 business days, contact your financial institution.
+#### ګام ۴: د ستنېدو د پروسس وخت‌بندۍ
+- **د ترلاسه‌کولو تایید**: ۱-۲ کاري ورځې وروسته له دې چې زموږ په تاسیس کې ستاسو ستنېدنه ترلاسه کړو.
+- **د معاینې موده**: د کیفیت د کنټرول او د حالت د تصدیق لپاره ۲-۳ کاري ورځې.
+- **د پروسس وخت**: د بیرته‌ورکړې یا بدلولو د پروسس لپاره ۱-۲ کاري ورځې.
+- **ټوله وخت‌بندۍ**: ډېری ستنېدنې د ترلاسه‌کولو څخه په ۵-۷ کاري ورځو کې په بشپړ ډول پروسسېږي.
 
-> **Important Notice**  
-> Refund processing times are estimates and may vary during holiday seasons or promotional periods. Peak season returns (January) may take 10-14 business days for full processing.
-
----
-
-## Exchanges
-### Exchange Policies and Procedures
-
-Sometimes you just need a different size, color, or style. Our exchange process makes it easy to get exactly what you want while minimizing hassle and downtime.
-
-#### Exchange Eligibility and Options:
-- **Size/Color Exchanges**: Available for identical products in different sizes or colors, subject to availability.
-- **Product Exchanges**: Exchange for different products of equal or greater value, with price difference charged or refunded.
-- **Defective Exchanges**: Priority processing for defective items with expedited shipping.
-- **Store Credit Exchanges**: Convert returned items to store credit for future purchases at your convenience.
-
-#### Exchange Process Flow:
-- **Request Submission**: Specify desired exchange item during return initiation process.
-- **Availability Check**: Real-time inventory check to confirm exchange item availability.
-- **Shipping Coordination**: New item ships once return tracking shows en route to our facility.
-- **Expedited Options**: For urgent exchanges, cross-shipping available with credit card authorization.
-
-#### Exchange-Specific Policies:
-- **Shipping Costs**: Customers responsible for return shipping; we cover shipping for exchange item.
-- **Price Differences**: Higher-priced exchanges require additional payment; lower-priced exchanges receive refund for difference.
-- **Limited Availability**: If exchange item is out of stock, option for refund, store credit, or backorder.
-- **Multiple Exchanges**: Limit of two exchanges per original purchase to prevent abuse.
-
-#### Special Exchange Programs:
-- **Seasonal Exchange Program**: Holiday items can be exchanged until January 31st regardless of purchase date.
-- **Loyalty Fast Exchange**: Premium members receive expedited exchange processing and free return shipping.
-- **Defective Product Exchange**: Defective items exchanged with prepaid return labels and priority processing.
-- **In-Store Exchange**: Online purchases can be exchanged at any Layatanahi retail location with receipt.
+#### نړیوالې ستنېدنې:
+- **د ګمرک اسناد**: بنډل "بېرته ستنه شوي توکي" (Returned Goods) په توګه نښه کړئ ترڅو د ګمرک فیسونه و نه ورکړئ.
+- **د لېږد لګښتونه**: بهرنیو پیرودونکو ته د ستنېدو د لېږد لګښتونه د دوی مسؤولیت دی.
+- **د پروسس وخت**: د ګمرک او لېږد له امله د نړیوالو ستنېدنو لپاره ۲-۳ اوونۍ وخت په پام کې ونیسئ.
+- **تعرفة او مالیاتې**: اصلي تعرفې او مالیاتې کېدای، د محلي قوانینو پورې اړه لري، نه‌بیرته‌ورکېدونکي وي.
 
 ---
 
-## Exceptions
-### Non-Returnable Items and Special Cases
+## بیرته‌ورکړې
+### د بیرته‌ورکړو پالیسیوۍ او پروسس
 
-Certain products and situations have specific return restrictions due to legal requirements, hygiene concerns, or product nature. Understanding these exceptions will help manage your expectations and prevent return disappointments.
+موږ هڅه کوو چې بیرته‌ورکړې په چټک او روڼ ډول پروسس کړو. د زموږ د بیرته‌ورکړو پالیسیو پوهېدل تاسو ته مرسته کوي چې پوه شئ څه تمه کړئ او کله یې تمه کړئ.
 
-#### Absolutely Non-Returnable Items:
-- **Digital Products**: Downloadable software, e-books, digital patterns, and online courses once accessed or downloaded.
-- **Personal Care Items**: Skincare products, cosmetics, fragrances, and personal hygiene items for health and safety reasons.
-- **Customized Products**: Personalized items, monogrammed goods, and made-to-order products.
-- **Intimate Apparel**: Swimwear, underwear, and hosiery for hygiene reasons, unless tags intact and packaging unopened.
-- **Gift Cards and Store Credit**: Non-refundable and non-returnable once purchased.
+#### د بیرته‌ورکړو لارې او وختونه:
+- **کریډیټ/ډیبیټ کارتونه**: د ستنېدو له تائید څخه وروسته په ۳-۵ کاري ورځو کې پروسسېږي. ستاسو په بیان باندې، ستاسو له بانک پورې اړه لري، په ۷-۱۰ کاري ورځو کې ښکارېږي.
+- **PayPal**: په ۲۴-۴۸ ساعتونو کې پروسسېږي. ستاسو په PayPal حساب کې سمدستي ښکارېږي.
+- **د پلورنځي کریډیټ**: د ستنېدو له تائید سره سمدستي ستاسو لایاتناهی حساب ته صادرېږي.
+- **د ډالۍ کارتونه**: د ستنېدو له تائید څخه په ۲۴ ساعتونو کې اصلي ډالۍ کارت ته بیرته ورکول کېږي.
+- **بانکي لیږدونه**: د پروسس او بانکي تصفیې لپاره ۵-۷ کاري ورځې.
 
-#### Conditionally Returnable Items:
-- **Final Sale Items**: Clearly marked clearance, as-is, or final sale merchandise.
-- **Opened Electronics**: Subject to 15% restocking fee and 14-day return window only.
-- **Furniture and Large Items**: Return shipping costs borne by customer and may include disassembly/reassembly fees.
-- **Perishable Goods**: Food items and flowers returnable only if defective or damaged upon arrival.
-- **Subscription Services**: Pro-rated refunds available for unused portions of subscription periods.
+#### د بیرته‌ورکړې د اندازې محاسبې:
+- **بشپړې بیرته‌ورکړې**: اصلي د توکي بیه، منفي هر نه‌بیرته‌ورکېدونکي د لېږد فیسونه.
+- **قسمي بیرته‌ورکړې**: د توکي په حالت، ورکو ضمیمو، یا د بستې زیات پر بنسټ.
+- **د لېږد لګښتونه**: اصلي د لېږد فیسونه نه‌بیرته‌ورکېدونکي دي، که چیرې ستنېدنه زموږ د تېروتنې له امله نه وي.
+- **د بېرته‌ایښودلو فیسونه**: ځینو الکترونیکي او لویو توکو ته، که پرانیستل شوي وي، کېدای ۱۵٪ د بېرته‌ایښودلو فیس ولګېږي.
+- **د پلورنې مالیه**: وړ د پلورنې مالیه، ستاسو د اصلي پیرودنې د ځای پر بنسټ بیرته ورکول کېږي.
 
-#### Special Circumstances and Exceptions:
-- **Damaged During Return**: Items damaged due to improper packaging during return shipping are not eligible for refund.
-- **Missing Components**: Returns missing accessories, manuals, or original components receive partial refund only.
-- **Worn or Used Items**: Products showing signs of wear, installation, or use beyond reasonable inspection.
-- **Expired Return Window**: Returns initiated after the specified return period cannot be accepted.
-- **Third-Party Purchases**: Items purchased from unauthorized retailers or resellers.
+#### ځانګړي د بیرته‌ورکړو حالتونه:
+- **نیمګړي توکي**: بشپړه بیرته‌ورکړه، چې پکې اصلي د لېږد لګښتونه دواړه لورې شامل دي.
+- **ناسم توکی لېږل شوی**: بشپړه بیرته‌ورکړه، له ورکړل شوي پیش‌پرداز شوي د ستنېدو لیبل سره.
+- **په لاره کې زیانمن**: بشپړه بیرته‌ورکړه یا بدلون، د بیمې د غوښتنلیک پروسس سره.
+- **د بیو تنظیمول**: د پیرودنې له ۱۴ ورځو دننه، که بیه ټیټه شي، له ثبوت سره.
+- **بنډل پیرودنې**: قسمي ستنېدنې کېدای د بنډل بیو او د رعایت وړتیا اغېزمن کړي.
 
-#### Warranty and Manufacturer Defects:
-- **Manufacturer Warranties**: Defective items after return window may be covered by manufacturer warranties.
-- **Extended Protection Plans**: Purchased protection plans may provide coverage beyond standard return periods.
-- **Proof of Purchase**: Warranty claims require original proof of purchase and may involve manufacturer directly.
-- **Repair vs Replacement**: Manufacturer may opt for repair instead of replacement for certain defects.
+#### د بیرته‌ورکړې د حالت تعقیب:
+- **آنلاین پورټل**: د خپل ډشبورڍ له لارې د بیرته‌ورکړې حالت په ریښتیني وخت کې تعقیب کړئ.
+- **د ایمېل خبرتیاوې**: په هر پړاو کې تایید ترلاسه کړئ: ترلاسه‌کول، معاینه، پروسس، او بشپړېدل.
+- **د پیرودونکو خدمتونه**: د ۱۰ کاري ورځو وروسته د ځانګړو وختونو پوښتنو لپاره د ستنېدنو څانګې سره اړیکه ونیسئ.
+- **بانکي پوښتنې**: که بیرته‌ورکړه له ۱۴ کاري ورځو وروسته ونه ښکارېږي، خپلې مالي ادارې سره اړیکه ونیسئ.
 
-> **Policy Enforcement**  
-> We reserve the right to refuse returns that don't meet our policy requirements. Repeated returns or suspected abuse of our return policy may result in account restrictions or termination of return privileges.
+> **مهمه خبرتیا**  
+> د بیرته‌ورکړو د پروسس وختونه اټکلونه دي او کېدای د رخصتیو په فصلونو یا پروموشنییزو مودو کې توپیر وکړي. د لوړ فصل (جنورۍ) ستنېدنې کېدای بشپړ پروسس ته ۱۰-۱۴ کاري ورځې ونیسي.
 
 ---
 
-*For return assistance, contact us at returns@layatanahi.com or call 1-800-RETURNS*
+## بدلول
+### د بدلولو پالیسیوۍ او بهیرونه
+
+ځینې وختونه تاسو یوازې بل سایز، رنګ، یا ډول ته اړتیا لرئ. زموږ د بدلولو بهیر اسانه کوي چې هماغه څه چې غواړئ ترلاسه کړئ، په داسې حال کې چې ستونزې او وخت ضایع کیدل کمول کېږي.
+
+#### د بدلولو وړتیا او انتخابونه:
+- **د سایز/رنګ بدلول**: د ورته توکو لپاره، په بېلابېلو سایزونو یا رنګونو کې، د شتون تابع، شتون لري.
+- **د توکو بدلول**: د مساوي یا لوړ ارزښت لرونکو نورو توکو سره بدلول، د بیو توپیر په وارزونه یا بیرته‌ورکړې سره.
+- **د نیمګړو توکو بدلول**: د نیمګړو توکو لپاره د چټک لېږد سره لومړیتوب پروسس.
+- **د پلورنځي کریډیټ بدلول**: ستنه شوي توکي، ستاسو په اسانتیا سره، د راتلونکو پیرودنو لپاره د پلورنځي کریډیټ ته واړوئ.
+
+#### د بدلولو د بهیر جریان:
+- **د غوښتنې سپارل**: د ستنېدو د پیل په بهیر کې خپل مطلوب د بدلولو توکی ښکاره کړئ.
+- **د شتون ګورنه**: د بدلولو د توکي د شتون د تایید لپاره د ریښتیني وخت زخره ګورنه.
+- **د لېږد همغږي**: نوی توکی هغه وخت لېږل کېږي چې د ستنېدو تعقیب ښیي زموږ تاسیس ته روان دی.
+- **د چټکو انتخابونو**: د عاجلو بدلولو لپاره، د کریډیټ کارت د اجازې سره متقابل لېږد (cross-shipping) شتون لري.
+
+#### د بدلولو ځانګړې پالیسیوۍ:
+- **د لېږد لګښتونه**: پیرودونکي د ستنېدو لېږد ته مسؤول دي؛ موږ د بدلولو د توکي لېږد پر غاړه اخلو.
+- **د بیو توپیرونه**: لوړه بیه لرونکي بدلول اضافي تادیه غواړي؛ ټیټه بیه لرونکو بدلولو ته د توپیر بیرته‌ورکړې ترلاسه کېږي.
+- **محدود شتون**: که د بدلولو توکی زخره کې نشته وي، د بیرته‌ورکړې، پلورنځي کریډیټ، یا وروسته‌ارډر انتخاب شتون لري.
+- **څو بدلول**: د هرې اصلي پیرودنې لپاره د بدلولو حد دوو ته محدود دی ترڅو د سوءاستفادې مخه ونیول شي.
+
+#### ځانګړي د بدلولو پروګرامونه:
+- **فصلی د بدلولو پروګرام**: رخصتي توکي، د پیرودنې له نېټې پرته، د جنورۍ تر ۳۱مې پورې بدلول کیدای شي.
+- **د وفادارۍ چټک بدلول**: پریمیم غړي د چټکو بدلولو پروسس او وړیا د ستنېدو لېږد ترلاسه کوي.
+- **د نیمګړي توکي بدلول**: نیمګړي توکي، له پیش‌پرداز شویو د ستنېدو لیبلونو او لومړیتوب پروسس سره بدلول کېږي.
+- **په پلورنځي کې بدلول**: آنلاین پیرودنې، کوم لایاتناھی پلورنځي ته، له رسېډ سره، بدلول کېدای شي.
+
+---
+
+## استثنیات
+### نه‌ستنېدونکي توکي او ځانګړي حالتونه
+
+ځینو توکو او حالتونو ته د قانوني اړتیاوو، د روغتیا اندېښنو، یا د توکي طبیعت له امله ځانګړي د ستنېدو محدودیتونه لري. د دې استثنیو پوهېدل تاسو ته د تمې په مدیریت او د ستنېدو د نا‌امېدۍ مخنیوي کې مرسته کوي.
+
+#### په مطلق ډول نه‌ستنېدونکي توکي:
+- **ډیجیټل توکي**: د ښکته‌کولو سافټ‌ویر، ای‌کتابونه، ډیجیټل نمونې، او آنلاین کورسونه، یو ځل چې لاسرسی ورته وشي یا ښکته شي.
+- **د شخصي پاللو توکي**: د پوستکي توکي، آرایشي توکي، خوشبوې، او د شخصي صحیت توکي، د روغتیا او خوندیتوب له امله.
+- **د شخصی‌سازۍ شوي توکي**: شخصی‌سازي شوي توکي، مونوګرام لرونکي توکي، او د غوښتنې پر بنسټ جوړ شوي توکي.
+- **نږدې اغوستل کېدونکې جامې**: د لامبو جامې، دننه جامې، او جواراب، د روغتیا له امله، تر‌څو ټګونه ساتل شوي او بسته نه‌پرانیستلې وي.
+- **د ډالۍ کارتونه او پلورنځي کریډیټ**: یو ځل چې پیرودل شي، نه‌بیرته‌ورکېدونکي او نه‌ستنېدونکي دي.
+
+#### په شرایطي ډول ستنېدونکي توکي:
+- **د وروستۍ پلورنې توکي**: په روڼ ډول نښه شوي د تصفیې، "په همدې بڼه"، یا وروستۍ پلورنې توکي.
+- **پرانیستل شوي الکترونیکي توکي**: ۱۵٪ د بېرته‌ایښودلو فیس او یوازې ۱۴ ورځني د ستنېدو کړکۍ تابع.
+- **فرنیچر او لوی توکي**: د ستنېدو لېږد لګښتونه د پیرودونکي پر غاړه دي او کېدای د جلاکولو/بیا‌جوړولو فیسونه پکې شامل وي.
+- **زېږېدونکي/ختمېدونکي توکي**: د خوړو توکي او ګل یوازې که نیمګړي وي یا په راتلو کې زیانمن وي ستنېدای شي.
+- **د ګډون خدمتونه**: د اشتراک د مودې د نه‌کارول‌شوې برخې لپاره تناسبې (pro-rated) بیرته‌ورکړې شتون لري.
+
+#### ځانګړي شرایط او استثنیات:
+- **په ستنېدو کې زیانمن**: هغه توکي چې د ستنېدو په لېږد کې، د ناسمې بستې بندۍ له امله زیانمن شي، بیرته‌ورکړې ته وړ نه دي.
+- **ورک کمپوننټونه**: هغه ستنېدنې چې ضمیمې، لارښودونه، یا اصلي کمپوننټونه ورک وي یوازې قسمي بیرته‌ورکړې ترلاسه کوي.
+- **کارول شوي یا تېر شوي توکي**: توکي چې له معاینې څخه په هاړه، د تېر، نصب، یا کارونې نښې ښیي.
+- **تېر شوې د ستنېدو کړکۍ**: ستنېدنې چې له ټاکلې ستنېدو مودې وروسته پیل شي منل کیدای نشي.
+- **د دریم ګوند پیرودنې**: له غیرمجازو پلورونکو یا بیاپلورونکو څخه پیرودل شوي توکي.
+
+#### تضمین او د جوړونکي نیمګړتیاوې:
+- **د جوړونکي تضمینونه**: له ستنېدو کړکۍ وروسته نیمګړي توکي کېدای د جوړونکي تضمین لخوا پوښل شوي وي.
+- **د اوږدې ساتنې پروګرامونه**: اخیستل شوي د ساتنې پلانونه کېدای له معیاري ستنېدو مودو هاخوا پوښښ ورکړي.
+- **د پیرودنې ثبوت**: د تضمین غوښتنې اصلي د پیرودنې ثبوت غواړي او کېدای جوړونکی په مستقیم ډول پکې ښکیل وي.
+- **تعمیر پر بدلون**: جوړونکی کېدای د ځینو نیمګړتیاوو لپاره، د بدلون پر ځای، تعمیر غوره کړي.
+
+> **د پالیسۍ تطبیق**  
+> موږ دا حق ساتو چې هغه ستنېدنې رد کړو چې زموږ د پالیسۍ اړین شرطونه نه پوره کوي. تکراري ستنېدنې یا زموږ د ستنېدو پالیسۍ د سوءاستفادې شک کېدای د حساب محدودیتونو یا د ستنېدو د امتیازاتو د بندېدو لامل شي.
+
+---
+
+*د ستنېدو د مرستې لپاره، زموږ سره په returns@layatanahi.com اړیکه ونیسئ یا 1-800-RETURNS ته زنګ ووهئ*

@@ -7,8 +7,8 @@ link: "/business/sale/customers/add"
 path: ["Sidebar","Sales","Customers"]
 ---
 
-# Customer Management
+# د پیرودونکو مدیریت
 
-To create a customer, open the Customers page from the Sales section and choose Add Customer. Enter the customer's first name (required), then optionally provide their last name, phone number, email, and organization before saving.
+د یوه پیرودونکي د جوړولو لپاره، د پلورنو (Sales) له برخې څخه د پیرودونکو پاڼه پرانیستئ او 'نوی پیرودونکی' (Add Customer) وټاکئ. د پیرودونکي لومړی نوم (اړین) ولیکئ، بیا اختیاري توګه د هغه وروستی نوم، ټیلیفون شمېره، ایمېل، او اداره/مؤسسه دننه کړئ مخکې له خوندی کولو (save).
 
-I can add a new customer for you. Send the first name (required) and, if available, the last name, phone number, email, and organization, and I will collect the details before creating the record.
+زه ستاسو لپاره نوی پیرودونکی اضافه کولای شم. لومړی نوم (اړین) او، که شتون ولري، وروستی نوم، ټیلیفون شمېره، ایمېل، او اداره راولېږئ، او زه به د ریکارډ له جوړولو مخکې جزئیات راټول کړم.

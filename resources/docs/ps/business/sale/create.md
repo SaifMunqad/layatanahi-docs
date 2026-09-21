@@ -3,4 +3,4 @@ title: Make Sale
 section: business.sale
 ---
 
-This page documents how to create a sale in the system. It covers creating invoices, selecting customers, and setting prices.
+دا پاڼه تشریح کوي چې څنګه په سیسټم کې یوه پلورنه جوړه کړئ. دا د بلونو جوړول، د پیرودونکو ټاکل، او د بیو ټاکل پوښي.

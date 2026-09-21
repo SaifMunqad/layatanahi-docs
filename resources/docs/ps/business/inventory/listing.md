@@ -7,12 +7,12 @@ link: "/inventory/branches"
 path: ["Sidebar","Inventory","Branches"]
 ---
 
-# Warehouses & Branches
+# زखرونې او څانګې
 
-Modern businesses often operate from multiple locations. The Warehouses and Branches module allows you to mirror your physical infrastructure inside the digital system. Each location is treated as an independent inventory hub, allowing for precise tracking of where your assets are physically located at any given moment.
+عصري سوداګرۍ اکثرا له څو ځایونو څخه فعالیت کوي. د زخرونو او څانګو ماډیول تاسو ته اجازه ورکوي چې خپل فزیکي زیربنا په ډیجیټل سیسټم کې منعکس کړئ. هر ځای د خپلواکې زخیرې مرکزي ځای (hub) په توګه پاملرنه کېږي، ترڅو په هر وخت کې په دقت سره وپوهېږئ ستاسو شتونه په کوم فزیکي ځای کې دي.
 
-You can easily initiate 'Stock Transfers' between locations. For example, if one branch is running low on a popular item while another branch has an overstock, the system allows you to record the movement of that stock between the two. This ensures your inventory is always where it is needed most, optimizing your sales potential across the entire city or country.
+تاسو کولای په اسانۍ د ځایونو ترمنځ 'Stock Transfers' پیل کړئ. لکه که یوه څانګه د یو مشهور توکي په کمي وي او بله څانګه زیاتې زخره ولري، سیسټم اجازه ورکوي چې د دې دوو ترمنځ د زخیرې حرکت ثبت کړئ. دا ډاډ ورکوي چې زخره مو تل هلته ده چې ډیر ورته اړتیا ده، او د ټولې ښار یا هېواد په کچه ستاسو د پلور وړتیا optimize کوي.
 
-Each warehouse can be configured with specific access permissions. You can define which employees can view or manage stock in which location, providing an extra layer of security and accountability. The system also generates branch-specific reports, allowing you to compare the performance of different locations side-by-side.
+هر زखرون کولای شي له ځانګړو د لاسرسي اجازو سره config شي. تاسو کولای ټاکئ چې کوم کارکوونکي کولای شي په کوم ځای کې زخره وګوري یا مدیریت کړي، چې یو بل پوړ امنیت او ځواب ویستنه برابروي. سیسټم همدارنګه د څانګې ځانګړي راپورونه جوړوي، ترڅو د بېلابېلو ځایونو راکړه سره پرتله کړئ.
 
-To use this module, go to the 'Branches' section. Here you can add new locations, edit contact details for existing ones, and view a live map of your inventory distribution. Clicking on a specific branch will show you a dedicated dashboard for that location's performance and current stock.
+د دې ماډیال د کارونې لپاره 'Branches' برخې ته لاړ شئ. دلته تاسو کولای نوې ځایونه زیات کړئ، د شته ځایونو د اړیکو جزئیات سمولای، او د خپلې زخیرې د ویش ژوندی نقشه وګورئ. په ځانګړې څانګه کلیک کول د هغه ځای د راکړې او اوسنۍ زخیرې لپاره ځانګړی dashboard ښیي.

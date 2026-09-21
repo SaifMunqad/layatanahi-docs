@@ -3,4 +3,4 @@ title: View Purchase
 section: business.purchase
 ---
 
-Documentation for viewing a purchase record. Includes details about the purchase invoice, items, quantities, and related actions.
+د یوې پیرودنې د ریکارډ د لیدلو لارښود. د پیرودنې د بل، توکو، مقدارونو او اړوندو چارو په اړه جزئیات پکې شامل دي.

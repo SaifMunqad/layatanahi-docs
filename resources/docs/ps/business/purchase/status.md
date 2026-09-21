@@ -3,4 +3,4 @@ title: Purchase Status
 section: business.purchase
 ---
 
-Explains the lifecycle and status codes used for purchases (pending, approved, received, cancelled, etc.).
+د پیرودنو لپاره کارول شوې د ژوند دوره (lifecycle) او د حالت کوډونه تشریح کوي (منتظر، تائید شوی، ترلاسه شوی، لغوه شوی، او داسې نور).

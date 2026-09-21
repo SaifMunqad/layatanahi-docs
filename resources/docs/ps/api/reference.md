@@ -1,3 +1,3 @@
-# API Reference
+# د API مرجع (Reference)
 
-Reference information for endpoints, payloads, and integration examples.
+د endpoints، payloads او د integration بېلګو لپاره د مرجع معلومات.

@@ -3,4 +3,4 @@ title: View Sale
 section: business.sale
 ---
 
-Documentation for viewing a sale record: invoice, customer details, items sold and returns.
+د یوې پلورنې د ریکارډ د لیدلو لارښود: بل، د پیرودونکي جزئیات، پلورل شوي توکي او ستنېدنې.

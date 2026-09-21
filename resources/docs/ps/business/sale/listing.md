@@ -7,12 +7,12 @@ link: "/sale/sell/normal"
 path: ["Sidebar","Sales","Sell","Normal Sell"]
 ---
 
-# Normal Sell (Detailed Invoice)
+# عادي پلور (تفصیلي بل)
 
-The Normal Sell interface is designed for professional, detailed transactions where accuracy and documentation are paramount. It is the perfect tool for wholesale orders, B2B sales, or any situation where you need to associate a sale with a specific customer profile and manage complex terms like credit and discounts.
+د عادي پلور انټرفېس د مسلکي، تفصیلي معاملو لپاره ډیزاین شوی چېرې چې دقت او اسناد لومړیتوب لري. دا د ټولکي (wholesale) ارډرونو، B2B پلورنو، یا هر هغه حالت لپاره غوره وسیله ده چې تاسو پکې یوه پلورنه له یوه ځانګړي پیرودونکي پروفایل سره وتړئ او پیچلي شرطونه لکه اعتبار (credit) او رعایتونه مدیریت کړئ.
 
-When you initiate a Normal Sell, the system provides a powerful search tool to quickly pull items from your inventory. You can see real-time stock levels as you add items to the invoice, preventing you from over-selling. The system handles complex math automatically, including tax calculations, volume-based discounts, and multi-currency totals based on live exchange rates.
+کله چې تاسو عادي پلور پیل کړئ، سیسټم یوه پیاوړې پلټنې وسیله برابروي چې ژر توکي له خپلې زخرې څخه راوباسئ. تاسو کولی شئ کله چې توکي بل ته ورزیاتوئ د ریښتیني وخت (real-time) د زخرې کچې وګورئ، چې له زیات پلور څخه مخه نیسي. سیسټم پیچلې ریاضيات په اتوماتیک ډول پروسس کوي، چې د مالیې محاسبې، د مقدار پر بنسټ رعایتونه، او د ژوندیو د تبادلو د بیو پر بنسټ څو-اسکي ټولګې هم پکې شاملې دي.
 
-Every sale made through this interface generates a professional, branded invoice that can be printed in A4 or thermal formats, or sent directly to the customer as a PDF. More importantly, the system instantly updates your financial ledgers and deducts the sold items from your stock in the specific branch where the sale occurred.
+هره پلورنه چې د دې انټرفېس له لارې ترسره کېږي یو مسلکي، برانډ لرونکی بل جوړوي چې کیدای په A4 یا حرارتي (thermal) بڼه چاپ شي، یا په مستقیم ډول د PDF په توګه پیرودونکي ته ولېږل شي. نور مهم دا چې، سیسټم سمدستي ستاسو مالي کتابونه تازه کوي او پلورل شوي توکي له هغې ځانګړې څانګې څخه چې پلورنه پکې ترسره شوې ستاسو له زخرې څخه کموي.
 
-To perform a detailed sale, select 'Normal Sell' from the Sales menu. Choose your items, select or create a customer, and set the payment status (Paid or On-Account). Once you hit 'Finalize,' the transaction is permanently recorded, and the invoice is ready for printing.
+د تفصیلي پلور د ترسره کولو لپاره، د پلورنو له مینو څخه 'عادي پلور (Normal Sell)' وټاکئ. خپل توکي وټاکئ، یو پیرودونکی وټاکئ یا جوړ کړئ، او د تادیې حالت (تادیه شوی یا پور/On-Account) وټاکئ. کله چې 'نهایي کول (Finalize)' وتړئ، معامله دایمي ثبتېږي، او بل د چاپ لپاره چمتو وي.

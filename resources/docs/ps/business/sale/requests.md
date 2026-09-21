@@ -3,4 +3,4 @@ title: Sale Requests
 section: business.sale
 ---
 
-Describes sale request flows, returns, and customer refund requests.
+د پلورنې د غوښتنو بهیرونه، ستنېدنې (returns)، او د پیرودونکو د بیرته ورکړو (refund) غوښتنې تشریح کوي.

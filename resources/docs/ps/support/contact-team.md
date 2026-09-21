@@ -1,20 +1,20 @@
-# Contact Team
+# له ډلې سره اړیکه
 
-For direct support, customer service, and business inquiries, our team is available through the details below. We aim to respond as quickly as possible and are happy to assist with product questions, order support, partnerships, and general communication.
+د مستقیم ملاتړ، پیرودونکو خدمت او سوداګریزو پوښتنو لپاره، زموږ ډله لاندې معلوماتو له لارې شته ده. موږ هڅه کوو تر ټولو چټک ځواب ورکړو او له موږ سره د توکي پوښتنو، د غوښتنو ملاتړ، ملګرتیاوو او عمومي اړیکو کې مرسته خوښوو.
 
-## Customer support
+## د پیرودونکو ملاتړ
 
-- **Phone**: +93 70 902 8214
-- **Email**: info@layatanahi.store
-- **Address**: Ahmad Yar Tower, Macro Rayyan Square, Kabul, Afghanistan
-- **Business hours**: Sunday to Thursday, 8:00 AM - 4:00 PM (Afghanistan Time)
+- **ټیلیفون**: +93 70 902 8214
+- **ایمیل**: info@layatanahi.store
+- **پته**: Ahmad Yar Tower, Macro Rayyan Square, Kabul, Afghanistan
+- **د کار وختونه**: له یکشنبې تر پنجشنبې، 8:00 سهار - 4:00 مازدیګر (د افغانستان وخت)
 
-## How to reach us
+## څنګه موږ ته ورسېږئ
 
-- For general questions and store support, email us at **info@layatanahi.store**.
-- For quick assistance, call **+93 70 902 8214**.
-- For in-person inquiries or business visits, visit Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan.
+- د عمومي پوښتنو او د پلورنځي ملاتړ لپاره موږ ته ایمیل وکړئ **info@layatanahi.store**.
+- د چټکې مرستې لپاره **+93 70 902 8214** ته زنګ ووهئ.
+- د حضوري پوښتنو یا سوداګریزو لیدنو لپاره، Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan ته ورشئ.
 
-## Support expectations
+## د ملاتړ تمه
 
-We encourage customers and partners to contact us with clear details about their request so we can respond efficiently. Whether you are reaching out for a product inquiry, account assistance, or business collaboration, our team will do its best to help you promptly.
+موږ پیرودونکي او ملګري هڅوو چې خپله غوښتنه د روښنو جزئیاتو سره موږ ته ورسوي ترڅو موږ موثر ځواب ورکړو. که د توکي پوښتنې، د حساب مرستې، یا سوداګریزې همکارۍ لپاره اړیکه نیئ، زموږ ډله به هڅه کوي په چټکۍ سره درته مرسته وکړي.

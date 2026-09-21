@@ -7,12 +7,12 @@ link: "/store/assets"
 path: ["Sidebar","Store","Assets"]
 ---
 
-# Business Assets
+# د سوداګرۍ وسایل
 
-Business Assets are the physical properties and equipment owned by your company that are not for sale (e.g., delivery trucks, office computers, furniture). Tracking these is essential for maintaining an accurate 'Total Asset Value' on your balance sheet and ensuring that your physical property is accounted for.
+د سوداګرۍ وسایل (Assets) هغه فزیکي ملکیتونه او تجهیزات دي چې ستاسو شرکت یې لري او د پلور لپاره نه دي (لکه د رسولو ټرکونه، د دفتر کمپیوټرونه، فرنیچر). د دې څارل د خپل بیلانس شیټ باندې د 'د ټولې شتمنۍ دقیق ارزښت' ساتلو او دا ډاډمن کولو لپاره اړین دي چې ستاسو فزیکي ملکیت حساب شوی وي.
 
-Each asset can be cataloged with its purchase date, cost, current condition, and location. You can also assign assets to specific employees, creating a clear chain of accountability. For example, if a delivery driver is assigned a specific truck, the system records that responsibility in their profile.
+هر وسیله کولی د خپلې پیرودنې د نېټې، لګښت، اوسني حالت، او ځای سره کتالوګ شي. تاسو کولی شئ وسایل ځانګړو کارکوونکو ته ووېشل شي، چې د مسؤولیت یو واضح زنځیر رامنځته کوي. لکه که یوه د رسولو ډرایور ته ځانګړی ټرک ورکړل شوی وي، سیسټم هغه مسؤولیت د هغه په پروفایل کې ثبتوي.
 
-The system also supports 'Depreciation Tracking' for major assets. This allows you to automatically calculate the loss in value of your equipment over time for tax and accounting purposes. Knowing the 'Book Value' of your assets helps you make informed decisions about when to repair, upgrade, or sell them.
+سیسټم د لویو وسیلو لپاره 'د استهلاک تعقیب (Depreciation Tracking)' هم ملاتړ کوي. دا تاسو ته اجازه درکوي چې د وخت په تېرېدو سره د خپلو تجهیزاتو د ارزښت کموالی په اتوماتیک ډول د مالیې او حسابدارۍ مقاصدو لپاره محاسبه کړئ. د خپلو وسیلو د 'کتابي ارزښت (Book Value)' پوهېدل تاسو ته مرسته کوي چې په روښانه توګه پرېکړې وکړئ کله یې رغول، اپګریډ، یا پلورل باید وشي.
 
-To manage your property, visit the 'Store > Assets' page. You can add new assets as you acquire them and record disposals when they are sold or retired. Use the 'Maintenance' tab within an asset record to track repairs and service history, helping you extend the life of your expensive equipment.
+خپل ملکیت د مدیریت کولو لپاره، 'پلورنځی > وسایل' (Store > Assets) پاڼې ته ولاړ شئ. تاسو کولی شئ نوي وسایل د لاسته راوړلو سره اضافه کړئ او کله چې پلورل یا تقاعد شي، د له‌منځه وړلو (disposals) ریکارډ کړئ. د یوه وسیلې په ریکارډ کې د 'ساتنې (Maintenance)' ټب وکاروئ ترڅو رغونه او د خدمت تاریخ څارئ، چې ستاسو د ګرانو تجهیزاتو عمر د زیاتولو کې مرسته کوي.

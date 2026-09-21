@@ -7,12 +7,12 @@ link: "/finance/expenses"
 path: ["Sidebar","Finance","Expenses"]
 ---
 
-# Expense Management (Invoices)
+# د لګښتونو مدیریت (بلونه)
 
-Expenses are the 'silent killers' of profit if not tracked rigorously. Our module allows you to record every non-stock outgoing cost, from office rent and electricity to small 'tea and coffee' costs. By categorizing these, you can see exactly where your overhead is growing and where you can optimize.
+لګښتونه که په کلکه و نه څارل شي، د ګټې 'چوپ وژونکي' دي. زموږ ماډیول تاسو ته اجازه درکوي چې هر بهرنی لګښت چې زخره نه ده، ثبت کړئ — له دفتر کرایې او برېښنا څخه تر کوچنیو 'چای او قهوې' لګښتونو پورې. د دې ګروپ بندي (categorizing) سره تاسو دقیقاً وینئ چې ستاسو عمومي پورته لګښت چیرې زیاتیږي او چیرې یې ښه والی راوستلی شئ.
 
-The system differentiates between 'Invoiced Expenses' and 'Quick Expenses.' An Invoiced Expense is used for formal costs where a vendor has provided a bill (e.g., a maintenance contract). You can upload a digital copy of the invoice for your records, ensuring that your tax audits are always backed by evidence.
+سیسټم د 'بللرونکو لګښتونو (Invoiced Expenses)' او 'ژبو لګښتونو (Quick Expenses)' ترمنځ توپیر کوي. بللرونکی لګښت د رسمي لګښتونو لپاره کارول کېږي چیرې چې وړونکي (vendor) بل ورکړی وي (لکه د ساتنې تړون). تاسو کولی شئ د بل ډیجیټل کاپي د خپلو ریکارډونو لپاره پورته (upload) کړئ، ترڅو ډاډمن اوسئ چې ستاسو د مالیې تدقیقونه تل له شواهدو ملاتړ لري.
 
-Quick Expenses are designed for small, daily out-of-pocket costs where a formal invoice might not exist (e.g., local transport or small office supplies). These can be recorded in seconds from the dashboard, ensuring that even the smallest costs are captured and deducted from your net profit calculations.
+ژب لګښتونه د کوچنیو، ورځنیو له-جیبو لګښتونو لپاره ډیزاین شوي چې رسمي بل پکې شتون نه لري (لکه ښاري ترانسپورت یا کوچني دفتري توکي). دا په څو ثانیو کې له ډشبورډ څخه ثبتېدای شي، ترڅو حتی کوچني لګښتونه هم نیول شي او له ستاسو د خالصې ګټې محاسبې څخه کمول شي.
 
-To record an expense, go to the 'Expenses' section. Choose 'Create Expense,' select the category, enter the amount, and choose which account the money is being taken from. If you have a physical receipt, use the 'Upload' feature to attach it to the record for future reference.
+د یوه لګښت د ثبتولو لپاره، 'لګښتونه' برخې ته لاړ شئ. 'نوی لګښت جوړول' وټاکئ، ګروپ (category) وټاکئ، اندازه ولیکئ، او وټاکئ چې پیسې له کوم حساب څخه اخستل کېږي. که فزیکي رسېډ (receipt) لرئ، د 'پورته کولو (Upload)' ځانګړتیا وکاروئ ترڅو هغه د ریکارډ سره د راتلونکي حوالې لپاره ونښلوئ.

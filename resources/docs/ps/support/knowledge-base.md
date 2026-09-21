@@ -1,111 +1,109 @@
-# Knowledge Base
+# پوهلو بنسټ (Knowledge Base)
 
-Our knowledge base provides quick, practical answers to common product, order, and service questions. It is designed to help customers find solutions faster while giving support teams reusable guidance for consistent responses.
+زموږ د پوهلو بنسټ د عامو توکي، غوښتنې او خدمت پوښتنو ته چټک، عملي ځوابونه برابروي. دا داسې ډیزاین شوی چې پیرودونکو ته ژر د حل موندلو کې مرسته وکړي او ملاتړ ډلو ته د یو شان ځوابونو لپاره بیا کارېدونکی لارښود ورکړي.
 
-## Overview
+## لنډه کتنه
 
-This section covers high-frequency questions about:
+دا برخه د لوړې تکرار پوښتنو ځواب ورکوي:
 
-- Orders and shipping
-- Product availability and specifications
-- Returns, refunds, and exchanges
-- Account access and login issues
-- Payment and checkout problems
-- Delivery delays and tracking updates
-- Store policies and customer support expectations
+- غوښتنې او لېږد
+- د توکي شتون او مشخصات
+- بېرته ورکول، بېرته پیسې (refunds) او تبادله
+- د حساب لاسرسی او د ننوتلو ستونزې
+- د تادیې او checkout ستونزې
+- د رسولو ځنډ او د تعقیب تازه معلومات
+- د پلورنځي تګلارې او د پیرودونکو د ملاتړ تمې
 
-## Common support topics
+## عام د ملاتړ موضوعات
 
-### 1. Order status and tracking
+### ۱. د غوښتنې حالت او تعقیب
 
-If a customer asks where their order is, respond with a clear update:
+که پیرودونکی پوښتي چې غوښتنه یې چیرې ده، روښ تازه معلومات ورکړئ:
 
-- Confirm the order has been placed and paid for.
-- Share the order number, shipping method, and expected delivery window.
-- Explain that delivery times can vary based on courier schedules, location, and customs processing.
-- If tracking is unavailable or delayed, advise the customer to contact support for a manual status check.
+- تصدیق کړئ چې غوښتنه ثبتېدلې او پیسې یې ورکړل شوې دي.
+- د غوښتنې نمبر، د لېږد طریقه او د تمه‌شوې رسېدو وخت شریک کړئ.
+- تشریح کړئ چې د رسولو وختونه د کورییر مهال ویش، ځای او د کسټم پروسې پر بنسټ توپیر کولای شي.
+- که تعقیب شتون ونه لري یا ځنډ وي، پیرودونکي ته مشوره ورکړئ چې د لاسي حالت کتنې لپاره له ملاتړ سره اړیکه ونیسي.
 
-### 2. Delayed delivery
+### ۲. ځنډېدلي لېږد
 
-For shipping delays, provide a helpful and reassuring answer:
+د لېږد ځنډ لپاره ګټور او زړه قوي کوونکی ځواب ورکړئ:
 
-- Acknowledge the delay and confirm the order is still in transit or being processed.
-- Encourage the customer to check the courier tracking link.
-- Provide the most recent shipment status and expected next update.
-- Offer to investigate if the package exceeds the normal delivery window.
+- ځنډ ومنئ او تصدیق کړئ چې غوښتنه لا په لاره کې یا پروسس کې ده.
+- پیرودونکی هڅوئ چې د کورییر تعقیب لینک وګوري.
+- وروستی د لېږد حالت او تمه‌شوی راتلونکی تازه معلومات ورکړئ.
+- که بسته د عادي رسولو له وخت ډیره وي، د څېړنې وړاندیز وکړئ.
 
-### 3. Returns and exchanges
+### ۳. بېرته ورکول او تبادله
 
-For return-related questions, the standard reply should include:
+د بېرته ورکولو اړوندو پوښتنو لپاره معیاري ځواب باید ولري:
 
-- The return eligibility period.
-- Whether items must be unused, sealed, or in original condition.
-- The process for requesting a refund or replacement.
-- The expected time for processing a return after the item is received.
+- د بېرته ورکولو وړتیا موده.
+- ایا توکي باید نه کارول شوي، شنبه (sealed) یا اصلي حالت کې وي.
+- د refund یا بدیل د غوښتنې بهیر.
+- له توکي ترلاسه کولو وروسته د بېرته ورکولو د پروسس تمه‌شوی وخت.
 
-### 4. Product questions
+### ۴. د توکي پوښتنې
 
-For product information requests, answer with:
+د توکي د معلوماتو غوښتنو لپاره ځواب ورکړئ:
 
-- Product name, price, and key features
-- Materials, size, quantity, and availability
-- Compatibility, usage instructions, and included items
-- A direct link to the product page or support contact when needed
+- د توکي نوم، بیه او اصلي ځانګړتیاوې
+- مواد، اندازه، مقدار او شتون
+- سمون، د کارونې لارښوونې او شامل توکي
+- کله چې اړتیا وي د توکي پاڼې یا د ملاتړ اړیکې ته مستقیم لینک
 
-### 5. Login and account troubleshooting
+### ۵. د ننوتلو او حساب ستونزو حل
 
-Common account issues include password resets, account lockouts, and login errors. Standard guidance:
+عمومي د حساب ستونزې د پټنوم بیا تنظیمول، د حساب بندېدل او د ننوتلو تېروتنې شاملوي. معیاري لارښود:
 
-- Ask the customer to confirm the email address used for registration.
-- Encourage a password reset if the login code is not accepted.
-- Check whether the account is inactive, blocked, or requires verification.
-- Confirm the customer has the latest version of the app or website if the problem persists.
+- له پیرودونکي وغواړئ چې د نوم لیکنې لپاره کارول شوی ایمیل تصدی کړي.
+- که د ننوتلو کوډ ونه منل شي، د پټنوم بیا تنظیمول هڅوئ.
+- وګورئ چې حساب غیرفعال، بند، یا تصدیق غوښتونکی دی که نه.
+- که ستونزه دوام وکړي، تصدیق کړئ چې کاروونکي اپ یا ویب پاڼې وروستی نسخه لري.
 
-### 6. Payment and checkout problems
+### ۶. د تادیې او checkout ستونزې
 
-For payment failures, a helpful answer should include:
+د تادیې ناکامیو لپاره ګټور ځواب باید ولري:
 
-- Confirmation that the payment method is accepted.
-- Instructions to retry the payment or use a different method.
-- A review of card details, billing information, or bank restrictions.
-- A note that duplicate transactions should be reported immediately to support.
+- تصدیق چې د تادیې طریقه منل شوې ده.
+- لارښوونه چې تادیه بیا هڅه کړي یا بله طریقه وکاروي.
+- د کارت جزئیات، د بل معلومات یا د بانک محدودیتونه وګوري.
+- یادونه چې تکراري معاملې باید سمدستي له ملاتړ سره شریکې شي.
 
-## Reusable support responses
+## بیا کارېدونکي د ملاتړ ځوابونه
 
-### Example: order confirmation
+### بېلګه: د غوښتنې تصدیق
 
-"Thank you for your order. Your purchase has been received and is being processed. You will receive a confirmation email with tracking details once the package is dispatched. If you need help before then, please share your order number and we will check the status for you."
+"ستاسو له غوښتنې مننه. ستاسو پیرود ترلاسه شو او پروسس کېږي. کله چې بسته ولېږل شي، د تعقیب جزئیاتو سره تاسو ته د تصدیق ایمیل درته راځي. که تر هغه مخکې مرستې ته اړتیا لرئ، مهرباني وکړئ خپل د غوښتنې نمبر شریک کړئ او موږ به ستاسو حالت وګورو."
 
-### Example: delayed shipment
+### بېلګه: ځنډېدلی لېږد
 
-"We understand your concern about the delay. We are checking the current shipping status for your order and will update you as soon as we receive the latest information from the courier. In the meantime, please keep an eye on your tracking link and contact us if there is no movement after the expected timeframe."
+"ستاسو له اندیښنې خبر یو. موږ ستاسو د غوښتنې اوسنی د لېږد حالت ګورو او به ډېر ژر، کله چې له کورییر څخه وروستي معلومات ترلاسه کړو، تاسو ته تازه معلومات ورکړو. تر هغه مهرباني وکړئ خپل تعقیب لینک وڅارئ او که تمه‌شوي وخت کې حرکت ونه وي، موږ سره اړیکه ونیسئ."
 
-### Example: refund request
+### بېلګه: د refund غوښتنه
 
-"We are sorry to hear that. Please send us your order number and a brief description of the issue. Once the return is reviewed, we will advise whether a refund or exchange is available under our policy."
+"له دې څخه خواشیني یو. مهرباني وکړئ خپل د غوښتنې نمبر او د ستونزې لنډ تفصیل موږ ته واستوئ. کله چې بېرته ورکول وکتل شي، موږ به وایو چې زموږ تګلارې لاندې refund یا تبادله شته که نه."
 
-### Example: product availability
+### بېلګه: د توکي شتون
 
-"Thank you for your interest in this item. The product is currently available in limited stock, and our team can help confirm the exact quantity, delivery ETA, or the closest alternative option if needed."
+"د دې توکي په اړه ستاسو له لوړتیا مننه. توکی اوس مهال په محدودې زخرې کې شته، او زموږ ډله کولای شي سم مقدار، د رسولو تمه‌شوی وخت (ETA) یا نږدې بدیل انتخاب تصدی کړي که اړتیا وي."
 
-## Support escalation guidance
+## د ملاتړ لوړول (Escalation)
 
-Escalate to a human support agent when:
+کله چې انساني ملاتړ agent ته پورته کړئ:
 
-- A customer reports a lost, damaged, or wrong package
-- The order has not moved for an unusually long time
-- There is a payment dispute or duplicate charge
-- The customer requests a manual refund or compensation review
-- A serious product issue or safety concern is reported
+- پیرودونکی ورکې، زیانمنې یا غلطې بستې راپور ورکړي
+- غوښتنه د نارواو ډېر وخت لپاره حرکت نه وي کړی
+- د تادیې شخړه یا تکراره ځارج وي
+- پیرودونکی لاسي refund یا جبران غوښتنه وکړي
+- جده د توکي ستونزه یا د خوندیتوب اندېښنه راپور شي
 
-## Contact information
+## د اړیکو معلومات
 
-For direct support, customers can contact the team through:
+د مستقیم ملاتړ لپاره پیرودونکي کولای شي له ډلې سره دې لارو اړیکه ونیسي:
 
-- **Phone**: +93 70 902 8214
-- **Email**: info@layatanahi.store
-- **Address**: Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan
+- **ټیلیفون**: +93 70 902 8214
+- **ایمیل**: info@layatanahi.store
+- **پته**: Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan
 
-This knowledge base should be updated regularly as new product issues, policies, and support workflows are identified.
- 
-
+دا د پوهلو بنسټ باید کله چې نوې د توکي ستونزې، تګلارې او د ملاتړ بهیرونه رامنځته کېږي، په منظم ډول تازه شي.

@@ -7,12 +7,12 @@ link: "/inventory/products"
 path: ["Sidebar","Inventory","Products"]
 ---
 
-# Stock Products
+# د زخیرې توکي (Stock Products)
 
-The Stock Products module is the central nervous system of your business. It allows you to catalog every item you sell with extreme detail. You can define products by brand, category, and multiple custom attributes such as size, color, or material. This structured data makes it easy for both you and your customers to find exactly what they are looking for.
+د زخیرې توکو ماډیول ستاسو د سوداګرۍ مرکزي اعصاب دی. دا تاسو ته اجازه ورکوي هر توکی چې پلورئ په ډېر تفصیل سره کاتالوګ کړئ. تاسو کولای توکي د برانډ، وېش او څو ځانګړو ځانګړنو لکه اندازه، رنګ یا مواد پر بنسټ تعریف کړئ. دا جوړښتلې ډاټا ستاسو او پیرودونکو دواړو ته دقیقاً هغه څه موندل اسانه کوي چې ورته ګرځي.
 
-Beyond just descriptions, this module tracks 'In-Stock' status across your entire organization. You can see at a glance how many units of a specific variant are available in each branch or warehouse. The system also supports barcode management, allowing you to scan items for faster inventory counts and sales processing.
+د تشریحاتو سربېره، دا ماډیول د 'In-Stock' حالت ستاسو په ټول سازمان کې څاري. تاسو کولای په یو کتنه وګورئ چې د ځانګړي variant څومره واحدونه په هره څانګه یا زخرون کې شته. سیسټم د بارکوډ مدیریت هم ملاتړ کوي، ترڅو توکي د چټکو شمېرنو او پلور پروسس لپاره سکین کړئ.
 
-Advanced features include 'Safety Stock' levels, which trigger alerts when your inventory for a critical item is running low. This prevents the loss of sales due to unexpected stockouts. You can also manage product imagery, set dynamic pricing based on currency fluctuations, and view a complete history of stock movements for any item.
+پرمختللې ځانګړتیاوې کې 'Safety Stock' کچې شاملې دي چې کله د یو مهم توکي زخره کمهېږي خبرتیاوې راپاروي. دا د ناڅاپي توکي په نشتوالي د پلور له لاسه ورکول مخه نیسي. تاسو کولای د توکي انځورونه هم مدیریت کړئ، د پیسو د بدلون پر بنسټ ډینامیک بیې وټاکئ، او د هر توکي د زخیرې د حرکتونو بشپړ تاریخچه وګورئ.
 
-To manage your products, use the 'Products' page in the sidebar. From here, you can add new items, edit existing ones, or view a detailed breakdown of stock levels. You can also export your entire product catalog to Excel for external auditing or physical inventory counts.
+د خپلو توکو د مدیریت لپاره، په sidebar کې 'Products' پاڼه وکاروئ. له دې ځایه کولای نوې توکي زیات کړئ، شته یې سمولای، یا د زخیرې د کچو تفصيلي وېش وګورئ. تاسو کولای خپل ټول د توکو کاتالوګ Excel ته export کړئ د بهرني audit یا فزیکي د زخیرې شمېرنو لپاره.

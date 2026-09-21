@@ -3,4 +3,4 @@ title: Purchase Requests
 section: business.purchase
 ---
 
-Describes how purchase requests are created and managed, approvals, and links to purchase orders.
+تشریح کوي چې د پیرودنو غوښتنې څنګه جوړېږي او مدیریت کېږي، تائیدونه، او د پیرودنو د ارډرونو سره اړیکې.

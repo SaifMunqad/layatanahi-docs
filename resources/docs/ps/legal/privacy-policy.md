@@ -1,234 +1,234 @@
-# Privacy Policy
+# د محرمیت پالیسي
 
-*Learn how we collect, use, and protect your personal information when you use our e-commerce platform and related services.*
+*زده شئ چې موږ، کله چې تاسو زموږ د الیکټرانیک تجارت پلیټ‌فارم او اړوندو خدمتونو کاروئ، ستاسو شخصي معلومات څنګه راټول، کاروو او ساتو.*
 
-**Last Updated:** September / 13 /2026  
+**وروستی تازه‌کول:** September / 13 /2026  
 
-**Company:** Layatanahi Store
-
----
-
-## Introduction
-### Privacy Policy Overview
-
-Welcome to our comprehensive Privacy Policy. At our company, your privacy is of paramount importance to us. This Privacy Policy document outlines the types of information that is collected and recorded by our e-commerce platform and how we use it to enhance your shopping experience while protecting your personal data.
-
-This policy applies to all visitors, users, and customers of our website, mobile applications, and related services (collectively, the "Services"). By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure, and other uses of your information as described in this Privacy Policy.
-
-We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at **Info@layatanahi.store**
-
-Our Privacy Policy was last updated on January 1, 2025 and may be updated periodically to reflect changes in our practices, technologies, legal requirements, and other factors. We encourage you to review this policy regularly to stay informed about how we are protecting your information.
-
-This Privacy Policy is incorporated into, and is subject to, our Terms of Service. Any capitalized terms not defined in this Privacy Policy have the meaning given to them in our Terms of Service.
+**شرکت:** Layatanahi Store
 
 ---
 
-## Data Collection
-### Information We Collect
+## پېژندنه
+### د محرمیت د پالیسۍ کتنه
 
-We collect information about you through various means when you use our Services. The information we collect depends on how you interact with us, the Services you use, and the choices you make. We collect information in three main ways: (1) information you provide to us directly; (2) information we collect automatically; and (3) information we collect from other sources.
+زموږ له بشپړې د محرمیت پالیسۍ ته ښه راغلاست. زموږ په شرکت کې، ستاسو محرمیت زموږ لپاره خورا اهمیت لري. دا د محرمیت پالیسي سند هغه ډول معلومات ښیي چې زموږ د الیکټرانیک تجارت پلیټ‌فارم راټولوي او ثبتوي، او څنګه موږ هغوی کاروو ترڅو ستاسو د پیرود تجربه، په داسې حال کې چې ستاسو شخصي معلومات ساتي، ښه کړو.
 
-#### Information You Provide Directly:
-- **Account Information**: When you create an account, we collect your name, email address, password, phone number, and other registration details necessary to set up and maintain your account.
-- **Profile Information**: You may choose to provide additional information for your profile, such as a profile photo, gender, date of birth, preferences, and interests.
-- **Purchase Information**: When you make a purchase, we collect information necessary to process your payment and fulfill your order, including billing address, shipping address, credit/debit card information, and transaction history.
-- **Communications**: When you contact us directly, such as through customer support channels, feedback forms, or social media, we collect the contents of your messages and any other information you choose to provide.
-- **Survey and Research Participation**: If you participate in our surveys, focus groups, or research studies, we collect the information you provide during these activities.
-- **Content You Create**: We collect content you create and share through our Services, including product reviews, comments, photos, videos, and other user-generated content.
+دا پالیسي زموږ د ویب‌پاڼې، ګرځنده اپلیکیشنونو، او اړوندو خدمتونو ټولو لیدونکو، کارونکو او پیرودونکو پلي کېږي (په ګډه سره، "خدمتونه"). زموږ خدمتونو ته په لاسرسي یا کارولو سره، تاسو د خپلو معلوماتو په راټولولو، لیږد، پروسس، خوندی کولو، ښودلو او نورو کارونو، لکه څنګه چې په دې د محرمیت پالیسۍ کې تشریح شوي، موافقه کوئ.
 
-#### Information Collected Automatically:
-- **Usage Data**: We automatically collect information about how you interact with our Services, including the pages you visit, the time and duration of your visits, the links you click, search queries, and other actions you take.
-- **Device Information**: We collect information about the device you use to access our Services, including hardware model, operating system, unique device identifiers, mobile network information, and performance data.
-- **Log Information**: Like most websites and online services, we collect log information when you use our Services, including your IP address, browser type and settings, the date and time of your request, and how you interacted with our Services.
-- **Location Information**: We may collect information about your approximate location based on your IP address or more precise location information if you permit us through your device settings.
-- **Cookies and Similar Technologies**: We use cookies, web beacons, pixels, and similar technologies to collect information about your browsing activities and to remember your preferences.
+موږ ستاسو د شخصي معلوماتو او ستاسو د محرمیت له حق څخه د ساتنې ژمنه کوو. که تاسو زموږ د پالیسۍ یا زموږ د کړنو په اړه، چې ستاسو شخصي معلوماتو ته اړوند دي، کومه پوښتنه یا اندېښنه لرئ، مهرباني وکړئ زموږ سره په **Info@layatanahi.store** اړیکه ونیسئ.
 
-#### Information From Other Sources:
-- **Third-Party Services**: We may receive information about you from third-party services that you connect to our Services, such as when you log in using social media accounts or payment processors.
-- **Partners and Service Providers**: We may receive information about you from our business partners, advertising networks, analytics providers, and other third parties that help us provide our Services.
-- **Publicly Available Information**: We may collect information about you from publicly available sources, such as public social media profiles, to enhance our understanding of your interests and preferences.
+زموږ د محرمیت پالیسي وروستی ځل د جنورۍ په لومړۍ، ۲۰۲۵ (January 1, 2025) کې تازه شوې او کېدای په دوره‌یي ډول د زموږ د کړنو، ټیکنالوژۍ، قانوني اړتیاوو، او نورو فکتورونو د بدلونونو منعکسولو لپاره تازه شي. موږ ستاسو وهڅوو چې دا پالیسي په منظم ډول وپلټئ ترڅو د زموږ له لوري د ستاسو د معلوماتو د ساتنې په اړه پوه اوسئ.
+
+دا د محرمیت پالیسي زموږ د خدمتو په شرایطو کې شامله ده او ورته تابع ده. هر اصطلاح چې په دې پالیسۍ کې تعریف شوی نه وي، هغه معنی لري چې زموږ د خدمتو په شرایطو کې ورکړل شوې ده.
 
 ---
 
-## Data Usage
-### How We Use Your Information
+## د ډاټا راټولول
+### هغه معلومات چې موږ یې راټولوو
 
-We use the information we collect for various business purposes described below. We process your information for these purposes based on our legitimate business interests, to fulfill our contractual obligations to you, with your consent, and/or for compliance with our legal obligations.
+موږ کله چې تاسو زموږ خدمتونه کاروئ، د بېلابېلو لارو له لارې ستاسو په اړه معلومات راټولوو. هغه معلومات چې موږ یې راټولوو، په دې پورې اړه لري چې تاسو زموږ سره څنګه تعامل کوئ، کوم خدمتونه کاروئ، او کومې انتخابونه کوئ. موږ معلومات په درېیو اصلي لارو راټولوو: (۱) هغه معلومات چې تاسو په مستقیم ډول راکوئ؛ (۲) هغه معلومات چې موږ اتوماتیک راټولوو؛ او (۳) هغه معلومات چې موږ له نورو سرچینو څخه راټولوو.
 
-#### Providing and Improving Our Services:
-- To operate, maintain, and improve our Services, including developing new features and functionality.
-- To create and manage your account, process your transactions, and fulfill your orders.
-- To provide customer support and respond to your inquiries, comments, and feedback.
-- To personalize your experience by showing you content, products, and services that are most relevant to your interests and preferences.
-- To monitor and analyze trends, usage, and activities in connection with our Services to understand how users interact with our platform.
-- To conduct research and development to improve our products, services, and user experience.
-- To detect, prevent, and address technical issues, security incidents, and fraudulent or illegal activities.
+#### هغه معلومات چې تاسو په مستقیم ډول ورکوئ:
+- **د حساب معلومات**: کله چې تاسو حساب جوړوئ، نو موږ ستاسو نوم، ایمېل پته، پټ‌نوم، ټیلیفون شمېره، او د ثبتونې نور جزئیات چې د حساب د جوړولو او ساتلو لپاره اړین دي، راټولوو.
+- **د پروفایل معلومات**: تاسو ممکن خپل پروفایل ته اضافي معلومات ورکړئ، لکه د پروفایل انځور، جنسیت، د زیږون نېټه، غوره‌تیاوې، او علاقې.
+- **د پیرودنې معلومات**: کله چې تاسو پیرودنه کوئ، موږ هغه معلومات چې ستاسو د تادیې د پروسس او ستاسو د ارډر د پوره‌کولو لپاره اړین دي، راټولوو، چې پکې د بل پته، د رسولو پته، د کریډیټ/ډیبیټ کارت معلومات، او د معاملو تاریخ شامل دي.
+- **اړیکې**: کله چې تاسو زموږ سره په مستقیم ډول اړیکه نیسئ، لکه د پیرودونکو د ملاتړ له لارو، د نظرونو فورمونه، یا ټولنیزې رسنۍ، نو موږ د ستاسو د پیغامونو منځپانګه او هر بل معلومات چې تاسو یې ورکول غواړئ، راټولوو.
+- **په سروې او څېړنو کې ګډون**: که تاسو زموږ سروې، کړۍ ډلې (focus groups)، یا څېړنیزو مطالعاتو کې ګډون وکړئ، نو موږ هغه معلومات چې تاسو پدې فعالیټونو کې ورکوئ، راټولوو.
+- **هغه منځپانګه چې تاسو یې جوړوئ**: موږ هغه منځپانګه چې تاسو زموږ له خدمتونو څخه جوړه او شریکه کوئ، راټولوو، چې پکې د توکو بیاکتنې، تبصرې، عکسونه، ویډیوګانې، او نور د کارونکي جوړه شوې منځپانګه شامله ده.
 
-#### Communication and Marketing:
-- To communicate with you about our Services, including order confirmations, shipping notifications, product updates, and administrative messages.
-- To send you marketing communications about products, services, offers, promotions, and events that we believe may be of interest to you, in accordance with your communication preferences.
-- To notify you about changes to our Services, terms, conditions, and policies.
-- To administer contests, sweepstakes, and other promotions that you choose to participate in.
-- To solicit feedback and conduct surveys to better understand your needs and improve our Services.
+#### اتوماتیک راټول شوي معلومات:
+- **د کارونې ډاټا**: موږ اتوماتیک هغه معلومات راټولوو چې څنګه تاسو زموږ له خدمتونو سره تعامل کوئ، چې پکې هغه پاڼې چې وکتلې شئ، د لیدلو وخت او موده، هغه لینکونه چې کلیک کوئ، د پلټنې پوښتنې، او نورې چارې چې ترسره کوئ شامل دي.
+- **د وسیلې معلومات**: موږ د هغه وسیلې/ډیوائس په اړه معلومات راټولوو چې تاسو زموږ خدمتونو ته د لاسرسي لپاره یې کاروئ، چې پکې د سخت‌افزار ماډل، آپریټنګ سیسټم، د وسیلې ځانګړي پېژندونکي، د موبایل شبکې معلومات، او د فعالیت ډاټا شامل دي.
+- **د لاګ معلومات**: لکه ډېری ویب‌پاڼې او آنلاین خدمتونه، کله چې تاسو زموږ خدمتونه کاروئ موږ د لاګ معلومات راټولوو، چې پکې ستاسو IP پته، د براوزر ډول او تنظیمات، د غوښتنې نېټه او وخت، او څنګه چې تاسو له زموږ خدمتونو سره تعامل کاوه شامل دي.
+- **د موقعیت معلومات**: موږ ممکن ستاسو د نږدې موقعیت په اړه، ستاسو د IP پتې پر بنسټ، یا که تاسو د خپلې وسیلې له تنظیماتو څخه اجازه درکړئ، ډېر دقیق د موقعیت معلومات راټولوو.
+- **کوکیز (Cookies) او ورته ټیکنالوژۍ**: موږ کوکیز، ویب بیکونز، پکسلز، او ورته ټیکنالوژۍ کاروو ترڅو ستاسو د سېل کولو د فعالیتونو په اړه معلومات راټول کړو او ستاسو غوره‌تیاوې په یاد وساتو.
 
-#### Legal and Security Purposes:
-- To comply with applicable laws, regulations, legal processes, or governmental requests.
-- To protect the rights, property, and safety of our company, our users, and the public.
-- To enforce our terms, conditions, and policies.
-- To investigate and prevent potentially prohibited or illegal activities.
-- To establish, exercise, or defend legal claims.
-
-#### Business Operations:
-- To conduct business analysis, such as analytics, projections, and identifying areas for operational improvement.
-- To facilitate corporate transactions, such as mergers, acquisitions, or sales of all or a portion of our assets.
-- To fulfill any other purpose for which you provide the information.
+#### له نورو سرچینو څخه معلومات:
+- **د دریم ګوند خدمتونه**: موږ ممکن ستاسو په اړه معلومات له هغو درېیم ګوند خدمتونو څخه ترلاسه کړو چې تاسو زموږ خدمتونو ته نښلوئ، لکه کله چې تاسو د ټولنیزو رسنیو له حسابونو یا د تادیې پروسس کوونکو څخه کار اخلئ.
+- **ملګري او خدمت برابروونکي**: موږ ممکن ستاسو په اړه معلومات له خپلو سوداګریزو ملګرو، د اعلانونو شبکو، د تحلیلاتو برابروونکو، او نورو درېیمو ګوندونو څخه ترلاسه کړو چې موږ ته زموږ په خدمتونو کې مرسته کوي.
+- **عامه شتون لرونکي معلومات**: موږ ممکن ستاسو په اړه معلومات له عامو سرچینو څخه، لکه د ټولنیزو رسنیو عام پروفایلونه، راټول کړو ترڅو زموږ درک ستاسو د علاقو او غوره‌تیاوو څخه ښه کړو.
 
 ---
 
-## Data Sharing
-### How We Share Your Information
+## د ډاټا کارونه
+### موږ ستاسو معلومات څنګه کاروو
 
-By default, no third party can see your personal data, and your profile is hidden across the system.
+موږ هغه معلومات چې راټولوو، لاندې ښودل شویو بېلابېلو سوداګریزو موخو لپاره کاروو. موږ ستاسو معلومات پدې موخو لپاره، زموږ د روغو سوداګریزو ګټو، د ستاسو په وړاندې زموږ د تړوني ژمنو د پوره‌کولو، ستاسو له اجازې سره، او/یا زموږ د قانوني ژمنو د تطبیق پر بنسټ پروسس کوو.
 
-#### Business Employee Access:
-- **Employee status**: You become an employee of a business branch only when the business requests it and you accept the request. This gives you an employee section controlled by that business.
-- **Separate control**: The business controls your employee data, while your normal account and personal data remain under your control.
-- **Profile visibility**: The business may see your profile picture, email, username, phone number, and other profile data, but cannot edit them because your personal profile belongs to you.
-- **After employment ends**: If the business fires you, it can no longer view your profile. Your name may remain visible on older records you created.
+#### د خدمتونو وړاندې کول او ښه‌کول:
+- زموږ خدمتونه د چلولو، ساتلو او ښه‌کولو لپاره، چې پکې د نویو ځانګړتیاوو او فعالیتونو پراختیا شامله ده.
+- ستاسو د حساب د جوړولو او مدیریت، ستاسو د معاملو د پروسس، او ستاسو د ارډرونو د پوره‌کولو لپاره.
+- د پیرودونکو د ملاتړ د وړاندې کولو او ستاسو د پوښتنو، نظرونو، او فیډبک ځواب‌ورکولو لپاره.
+- ستاسو تجربې ته د شخصی‌کولو لپاره، چې تر ټولو اړونده منځپانګه، توکي، او خدمتونه درته په ښودو سره چې ستاسو له علاقو او غوره‌تیاوو سره سمون لري.
+- زموږ له خدمتونو سره تړلي رجحانات، کارونه، او فعالیتونه د څارلو او تحلیل لپاره، ترڅو درک کړو چې کارونکي زموږ له پلیټ‌فارم سره څنګه تعامل کوي.
+- څېړنه او پراختیا د خپلو توکو، خدمتونو، او د کارونکي تجربې د ښه‌کولو لپاره ترسره کولو ته.
+- تخنیکي ستونزو، امنیتیې پېښو، او درغلانه یا غیرقانوني فعالیتونو د کشف، مخنیوي، او حل لپاره.
 
-#### Orders and Reviews:
-- **Orders**: When you create an order, your general profile data is shared with the business from which you ordered items.
-- **Reviews**: When you review a stock item, the review is analyzed by AI and only its summary is displayed. Individual reviews remain hidden from the public.
+#### اړیکې او بازارموندنه:
+- زموږ له خدمتونو سره تړلو چارو په اړه ستاسو سره د خبرو کولو لپاره، چې پکې د ارډر تاییدونې، د لېږد خبرتیاوې، د توکو تازه‌کول، او اداري پیغامونه شامل دي.
+- ستاسو ته د هغو توکو، خدمتونو، وړاندیزیونو، پروموشنونو، او پېښو په اړه د بازارموندنې اړیکو لېږلو لپاره چې موږ باور لرو ستاسو په وړاندې د علاقې وړ کېدای شي، ستاسو د اړیکو د غوره‌تیاوو سره سم.
+- زموږ د خدمتونو، شرایطو، ضابطو، او پالیسیو د بدلونونو په اړه تاسو ته د خبر ورکولو لپاره.
+- هغو سیالیو، قره‌ګیو (sweepstakes)، او نورو پروموشنونو د مدیریت لپاره چې تاسو پکې ګډون ته خوښوئ.
+- د نظرونو ترلاسه کولو او سروې ترسره کولو ته، ترڅو ستاسو اړتیاوې ښه وپوهېږو او زموږ خدمتونه ښه کړو.
 
-#### Government Requests:
-Business, business branch, user, and support team data may be shared directly with the government when there is a valid legal request.
+#### قانوني او امنیتیې موخې:
+- د وړ قوانینو، مقرراتو، قانوني بهیرونو، یا حکومتی غوښتنو تطبیق لپاره.
+- زموږ د شرکت، زموږ د کارونکو، او عامه خلکو د حقونو، ملکیت، او خوندیتوب د ساتنې لپاره.
+- زموږ د شرایطو، ضابطو، او پالیسیو د تطبیق لپاره.
+- د احتم منع‌شویو یا غیرقانوني فعالیتونو د څېړلو او مخنیوي لپاره.
+- د قانوني دعوو د جوړولو، کارولو، یا دفاع لپاره.
 
----
-
-## Cookies
-### Cookies and Tracking Technologies
-
-We are currently working on them.
-
-In brief, we use cookies and similar tracking technologies to help our website function efficiently, remember your preferences, and analyze site usage.
-
-Most web browsers accept cookies by default, but you can choose to remove or reject them in your browser settings. Please note that rejecting cookies may affect the availability and functionality of our Services.
-#### Other Tracking Technologies:
-In addition to cookies, we may use web beacons, pixel tags, and other similar technologies. These are tiny graphics with a unique identifier that may be included on our Services or in our emails to track user activity, measure the success of marketing campaigns, and compile statistics about usage.
-
----
-
-## Security
-### Data Security and Protection
-
-We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage.
-
-#### Our Security Measures:
-- **Encryption**: We use industry-standard encryption technologies when transferring and receiving sensitive information, such as financial data.
-- **Access Controls**: We implement access controls and authentication procedures to ensure that only authorized personnel have access to your personal information.
-- **Network Security**: We maintain technical safeguards, including firewalls and intrusion detection systems, to protect our network and systems.
-- **Physical Security**: We restrict physical access to our facilities and servers to authorized personnel only.
-- **Regular Security Assessments**: We conduct regular vulnerability assessments and penetration testing to identify and address potential security vulnerabilities.
-- **Employee Training**: We provide regular security and privacy training to our employees who handle personal information.
-- **Incident Response Plan**: We have implemented an incident response plan to address potential data breaches.
-
-#### Data Retention:
-We retain your personal information for as long as necessary to fulfill the purposes for which we collected it, including to satisfy any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure, the purposes for which we process your personal information, and whether we can achieve those purposes through other means.
-
-#### Your Role in Security:
-The security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
-
-#### International Data Transfers and Safeguards:
-Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different from the laws of your country. We have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy, including implementing the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers.
-
-#### Data Breach Notification:
-In the event of a personal data breach, we will notify you and the relevant supervisory authorities as required by applicable law. We will make reasonable efforts to notify you if there is a threat to your rights or interests. We will do this by email or by posting a notice on our website.
+#### سوداګریز عملیات:
+- د سوداګریزو تحلیلونو ترسره کولو لپاره، لکه تحلیلات، اټکلونه، او د عملیاتي ښه‌تیاوو د ساحو ټاکل.
+- د اداري معاملو د اسانتیا لپاره، لکه ادغام، اخیستل، یا د زموږ د شتمنیو ټولې یا برخې پلورل.
+- هرې بلې موخې د پوره‌کولو لپاره چې تاسو معلومات ورته ورکوئ.
 
 ---
 
-## Your Rights
-### Your Privacy Rights and Choices
+## د ډاټا شریکول
+### موږ ستاسو معلومات څنګه شریکوو
 
-Depending on your location and applicable law, you may have certain rights regarding your personal information. This section describes the rights you may have and how you can exercise them.
+په ډیفالټ ډول، هېڅ درېیم ګوند ستاسو شخصي معلومات نشي لیدلی، او ستاسو پروفایل په ټول سیسټم کې پټ دی.
 
-#### Access and Portability:
-- You have the right to request access to the personal information we hold about you.
-- You can request a copy of your personal information in a structured, machine-readable format.
-- You can access and update certain personal information through your account settings.
+#### د سوداګرۍ کارکوونکي لاسرسی:
+- **د کارکوونکي وضعیت**: تاسو یوازې هغه وخت د یوې سوداګرۍ د څانګې کارکوونکی کېږئ چې سوداګري یې وغواړي او تاسو غوښتنه ومنئ. دا درته د هغې سوداګرۍ لخوا کنټرولېدونکې د کارکوونکو برخه درکوې.
+- **جلا کنټرول**: سوداګري ستاسو د کارکوونکي ډاټا کنټرولوي، پداسې حال کې چې ستاسو عادي حساب او شخصي معلومات لاهم ستاسو تر کنټرول لاندې پاتې دي.
+- **د پروفایل ښکارېدنه**: سوداګري کولی ستاسو د پروفایل انځور، ایمېل، کارن‌نوم (username)، ټیلیفون شمېره، او نور د پروفایل معلومات وګوري، خو نشي کولی هغوی سمنه کړي ځکه چې ستاسو شخصي پروفایل ستاسو پاتې دی.
+- **له کار وروسته**: که سوداګري تاسو له دندې ګلې کړي، نو بیا ستاسو پروفایل نشي لیدلی. ستاسو نوم ممکن هغو زړو ریکارډونو باندې چې تاسو جوړ کړي وي، ښکاره پاتې شي.
 
-#### Correction and Deletion:
-- You can request that we correct inaccurate or incomplete personal information.
-- You can request deletion of your personal information, subject to certain exceptions.
-- You can delete your account through your account settings or by contacting us.
+#### ارډرونه او بیاکتنې:
+- **ارډرونه**: کله چې تاسو یو ارډر جوړوئ، ستاسو عمومي پروفایل معلومات هغې سوداګرۍ سره شریکېږي چې تاسو ورسره توکي ارډر کړي.
+- **بیاکتنې**: کله چې تاسو یو زخیره‌یي توکی بیاکتنه (review) کوئ، بیاکتنه د AI لخوا تحلیله کېږي او یوازې د هغې لنډیز ښودل کېږي. انفرادي بیاکتنې له عامه خلکو څخه پټې پاتې دي.
 
-#### Restriction and Objection:
-- You can request that we restrict the processing of your personal information in certain circumstances.
-- You can object to our processing of your personal information for direct marketing purposes.
-- You can object to our reliance on legitimate interests as the legal basis for processing your personal information.
-
-#### Marketing Communications:
-You can opt out of receiving marketing communications from us by using the unsubscribe link in our emails or by adjusting your communication preferences in your account settings. Even if you opt out of marketing communications, we may still send you transactional messages related to your account and purchases.
-
-#### How to Exercise Your Rights:
-To exercise any of these rights, please contact us using the contact information provided at the end of this Privacy Policy. We may need to verify your identity before processing your request. We will respond to your request within the timeframes required by applicable law.
-
-#### Appeals and Complaints:
-If you are not satisfied with our response to your privacy request, you may have the right to appeal our decision or lodge a complaint with the data protection authority in your jurisdiction.
+#### حکومتي غوښتنې:
+د سوداګرۍ، د سوداګرۍ د څانګې، کارونکي، او د ملاتړ ټیم ډاټا ممکن د یوې معتبرې قانوني غوښتنې په صورت کې، په مستقیم ډول حکومت سره شریکه شي.
 
 ---
 
-## Children's Privacy
-### Children's Privacy
+## کوکیز
+### کوکیز او د تعقیب ټیکنالوژۍ
 
-Our Services are not directed to children under the age of 12, and we do not knowingly collect personal information from children under 12. If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us, and we will take steps to delete such information from our systems.
+موږ اوس مهال په دې باندې کار کوو.
 
-#### Age Restrictions:
-You must be at least 12 years old to use our Services. If you are under 12, you may not use our Services or provide any personal information to us. Users between 12 and 18 years of age should review this Privacy Policy with their parent or guardian to ensure they understand it.
+په لنډ ډول، موږ کوکیز او ورته د تعقیب ټیکنالوژۍ کاروو ترڅو زموږ ویب‌پاڼه په موثره ډول کار وکړي، ستاسو غوره‌تیاوې په یاد وساتي، او د پاڼې کارونه وارزوي.
 
-#### Parental Controls:
-We encourage parents and guardians to monitor their children's online activities and to help enforce our Privacy Policy by instructing their children never to provide personal information through our Services without their permission. We recommend using parental control tools available from various software and device manufacturers to help provide a safe online environment for children.
-
-#### Verifiable Parental Consent:
-If we learn that we have collected personal information from a child under 12 without verification of parental consent, we will delete that information as quickly as possible. If you believe we might have any information from or about a child under 12, please contact us immediately at **Info@Layatanahi.store**
+ډېری ویب براوزر په ډیفالټ ډول کوکیز مني، خو تاسو کولی شئ خپلو د براوزر له تنظیماتو څخه یې لرې یا رد کړئ. مهرباني وکړئ پام ولرئ چې د کوکیز ردول کېدای زموږ د خدمتونو شتون او فعالیت اغېزمن کړي.
+#### نورې د تعقیب ټیکنالوژۍ:
+سربېره پر کوکیزو، موږ ممکن ویب بیکونز، پیکسل ټګونه، او نورې ورته ټیکنالوژۍ وکاروو. دا کوچني ګرافیکونه دي چې یو ځانګړی پېژندونکي لري او کېدای زموږ په خدمتونو یا زموږ په ایمېلونو کې شامل وي، ترڅو د کارونکي فعالیت تعقیب کړي، د بازارموندنې د کمپاینونو بریالیتوب وارزوي، او د کارونې په اړه احصایې جوړې کړي.
 
 ---
 
-## Policy Changes
-### Changes to This Privacy Policy
+## خوندیتوب
+### د ډاټا خوندیتوب او ساتنه
 
-We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, and other factors. We encourage you to periodically review this page for the latest information on our privacy practices.
+موږ ستاسو د شخصي معلوماتو خوندیتوب په جدي ډول واخلو او مناسب تخنیکي او اداري تدابیر کاروو ترڅو ستاسو شخصي معلومات له غیرمجاز یا غیرقانوني پروسس، نا‌وړنېک‌هلاکېدو، ویجاړولو، یا زیان څخه وساتو.
 
-#### How We Notify You of Changes:
-- We will post the updated Privacy Policy on this page and update the "Last Updated" date at the top of this Privacy Policy.
-- For material changes, we will provide more prominent notice, such as email notification or a banner on our website.
-- We may notify you through other communication channels if we have your contact information and the changes are significant.
+#### زموږ د خوندیتوب تدابیر:
+- **انکریپشن (Encryption)**: موږ د حساسو معلوماتو، لکه مالي ډاټا، د لیږد او ترلاسه کولو پر مهال د معیاري صنعت انکریپشن ټیکنالوژۍ کاروو.
+- **د لاسرسي کنټرولونه**: موږ د لاسرسي کنټرولونه او د تصدیق بهیرونه پلي کوو ترڅو ډاډمن کړو چې یوازې مجاز کارکوونکي ستاسو شخصي معلوماتو ته لاسرسی لري.
+- **د شبکې خوندیتوب**: موږ تخنیکي ډال/حفاظتي تدابیر، چې پکې فایروالونه او د ننوتلو د کشف سیسټمونه شامل دي، زموږ د شبکې او سیسټمونو د ساتنې لپاره ساتو.
+- **فزیکي خوندیتوب**: موږ فزیکي لاسرسی زموږ تاسیساتو او سرورونو ته یوازې مجاز کارکوونکو ته محدوده کوو.
+- **منظم د خوندیتوب ارزونې**: موږ منظمې د نیمګړتیاوو ارزونې او د نفوذ ازموینې ترسره کوو ترڅو احتمالي امنیتیې نیمګړتیاوې وپېژنو او حل کړو.
+- **د کارکوونکو روزنه**: موږ هغو کارکوونکو ته چې شخصي معلومات ترلاسه کوي، منظمه د خوندیتوب او محرمیت روزنه ورکوو.
+- **د پېښو د ځواب‌ورکولو پلان**: موږ د احتمالي ډاټا د نقض څخه د سره‌کارۍ لپاره د پېښو د ځواب‌ورکولو پلان پلي کړی دی.
 
-#### Your Continued Use:
-Your continued use of our Services after the effective date of the updated Privacy Policy constitutes your acceptance of the updated Policy. If you do not agree to the updated Policy, you must stop using our Services.
+#### د ډاټا ساتنه (Retention):
+موږ ستاسو شخصي معلومات هغه وخته پورې ساتو څو هغو موخو د پوره‌کولو لپاره چې موږ یې راټول کړي اړین وي، چې پکې د هېڅ قانوني، حسابدارۍ، یا راپور ورکولو اړتیاوو پوره‌کول شامل دي. د شخصي معلوماتو د مناسبې ساتنې مودې د ټاکلو لپاره، موږ د شخصي معلوماتو اندازه، طبیعت، او حساسیت، د غیرمجاز کارونې یا ښودلو څخه د زیان احتمالي خطر، هغه موخې چې موږ ستاسو شخصي معلومات ترې پروسس کوو، او دا چې ایا موږ کولی شو هغه موخې په نورو لارو ترلاسه کړو، په پام کې نیسو.
 
-#### Archive of Previous Versions:
-We will maintain an archive of previous versions of this Privacy Policy for your review. If you would like to review previous versions, please contact us at **Info@Layatanahi.store**
+#### تاسو په خوندیتوب کې خپل رول:
+ستاسو د معلوماتو خوندیتوب ستاسو پورې هم اړه لري. چیرې چې موږ درته (یا چیرې چې تاسو خپله ټاکلی وي) زموږ د خدمتونو د ځینو برخو ته د لاسرسي لپاره پټ‌نوم درکړی وي، تاسو د دې پټ‌نوم د پټ ساتلو مسؤول یاست. موږ له تاسو غواړو چې خپل پټ‌نوم له چا سره شریک نه کړئ.
 
-#### Material Changes:
-We consider changes to be material if they: (a) significantly expand our rights to use or share the personal information we collect; (b) reduce your rights or the level of security we provide for your personal information; or (c) introduce new purposes for processing your personal information that are incompatible with the original purposes.
+#### نړیوال د ډاټا لیږد او حفاظتي تدابیر:
+ستاسو شخصي معلومات ممکن هغه هېواد ته، چې تاسو پکې اوسېږئ، پرته په نورو هېوادونو کې لیږدول او پروسس شي. دا هېوادونه ممکن د ډاټا د ساتنې قوانین ولري چې ستاسو د هېواد له قوانینو توپیر لري. موږ مناسب حفاظتي تدابیر اخیستي دي چې غواړي ستاسو شخصي معلومات به، د دې محرمیت پالیسۍ سره سم ساتل شوي پاتې شي، چې پکې د اروپايي کمېسیون معیاري تړوني شرطونه (Standard Contractual Clauses) د زموږ د ګروپ شرکتونو ترمنځ او زموږ او زموږ د دریم ګوند برابروونکو ترمنځ د شخصي معلوماتو د لیږد لپاره پلي شوي دي.
+
+#### د ډاټا د نقض خبرتیا:
+د شخصي ډاټا د نقض په صورت کې، موږ به لکه څنګه چې د وړ قانون لخوا اړین دی، تاسو او اړوندو نظارتي چارواکو ته خبر ورکړو. که ستاسو د حقونو یا ګټو ته ګواښ شتون ولري، نو موږ به ستاسو ته د خبر ورکولو لپاره معقولې هڅې وکړو. موږ به دا کار په ایمېل یا د زموږ په ویب‌پاڼې کې د خبرتیا په ږدو سره ترسره کړو.
 
 ---
 
-## Contact Us
-### Contact Us
+## ستاسو حقونه
+### ستاسو د محرمیت حقونه او انتخابونه
 
-If you have any questions, concerns, or complaints about this Privacy Policy or our data practices, please contact us using the following information:
+ستاسو د موقعیت او د وړ قانون پورې اړه لري، تاسو ممکن خپلو شخصي معلوماتو په اړه ځینې حقونه ولرئ. دا برخه هغه حقونه چې تاسو ممکن ولرئ او څنګه یې کارولای شئ، تشریح کوي.
 
-#### Our Contact Information:
+#### لاسرسی او وړلو‌وړتیا (Portability):
+- تاسو دا حق لرئ چې هغو شخصي معلوماتو ته د لاسرسي غوښتنه وکړئ چې موږ ستاسو په اړه ساتو.
+- تاسو کولی شئ د خپلو شخصي معلوماتو کاپۍ په جوړښتي، ماشین‌لوستلو وړ بڼه وغواړئ.
+- تاسو کولی شئ ځینې شخصي معلومات د خپلو د حساب له تنظیماتو څخه وګورئ او تازه کړئ.
+
+#### سمون او ړنګول:
+- تاسو کولی شئ غوښتنه وکړئ چې موږ ناسم یا ناقط شخصي معلومات سم کړو.
+- تاسو کولی شئ د خپلو شخصي معلوماتو د ړنګولو غوښتنه وکړئ، ځینو استثنیو ته تابع.
+- تاسو کولی شئ خپل حساب د خپلو د حساب له تنظیماتو څخه یا زموږ سره د اړیکې له لارې ړنګ کړئ.
+
+#### محدودول او اعتراض:
+- تاسو کولی شئ په ځینو شرایطو کې غوښتنه وکړئ چې موږ ستاسو د شخصي معلوماتو پروسس محدود کړو.
+- تاسو کولی شئ زموږ د شخصي معلوماتو پروسس ته، د مستقیمې بازارموندنې موخو لپاره، اعتراض وکړئ.
+- تاسو کولی شئ زموږ د باور/اتکاء څخه، روغو ګټو ته، د ستاسو د شخصي معلوماتو د پروسس د قانوني بنسټ په توګه، اعتراض وکړئ.
+
+#### د بازارموندنې اړیکې:
+تاسو کولی شئ زموږ له لوري د بازارموندنې اړیکو د ترلاسه‌کولو څخه، د زموږ په ایمېلونو کې د ګډون‌لغوه‌کوونکي (unsubscribe) لینک په کارولو سره، یا په خپلو د حساب له تنظیماتو څخه خپلې د اړیکو غوره‌تیاوې بدلوو سره ووځئ. حتی که تاسو له بازارموندنې اړیکو څخه ووځئ، موږ بیا هم کولی ستاسو حساب او پیرودنو ته اړوند معاملوییز پیغامونه درلېږو.
+
+#### څنګه خپل حقونه وکاروئ:
+د هېڅ یو دې حقونو د کارولو لپاره، مهرباني وکړئ د دې محرمیت پالیسۍ په پای کې د ورکړل شویو د اړیکو معلوماتو په کارولو سره زموږ سره اړیکه ونیسئ. موږ ممکن خپله غوښتنه د پروسس مخکې ستاسو هویت تصدیق کړو. موږ به ستاسو غوښتنې ته د وړ قانون لخوا د اړتیا وړ وختونو دننه ځواب ورکړو.
+
+#### اپیلونه او شکایتونه:
+که تاسو له زموږ ځواب څخه، ستاسو د محرمیت غوښتنې ته، خوشحه نه وئ، نو تاسو ممکن دا حق ولرئ چې زموږ پرېکړې ته اپیل وکړئ یا په خپله حوضه کې د ډاټا د ساتنې ادارې ته شکایت وړاندې کړئ.
+
+---
+
+## د ماشومانو محرمیت
+### د ماشومانو محرمیت
+
+زموږ خدمتونه د ۱۲ کلنو څخه کوچنیو ماشومانو ته نه دي پېژندل شوي، او موږ په پوهېدلو سره له ۱۲ کلنو څخه کوچنیو ماشومانو شخصي معلومات نه راټولوو. که تاسو مور/پلار یا ساتونکي یاست او باور لرئ چې ستاسو ماشومان موږ ته ستاسو له اجازې پرته شخصي معلومات ورکړي دي، مهرباني وکړئ زموږ سره اړیکه ونیسئ، او موږ به د دې معلوماتو د زموږ له سیسټمونو څخه د ړنګولو ګامونه پورته کړو.
+
+#### د عمر محدودیتونه:
+زموږ د خدمتونو د کارولو لپاره باید لږ تر لږه ۱۲ کلن وئ. که له ۱۲ کلنو څخه کوچنی یاست، نشئ کولی زموږ خدمتونه وکاروئ یا موږ ته شخصي معلومات ورکړئ. د ۱۲ او ۱۸ کلنونو ترمنځ کارونکو باید مور یا ساتونکي ته دا محرمیت پالیسي وګوري ترڅو ډاډمن وي چې هغوی یې درک کړې.
+
+#### د مور/پلار کنټرول:
+موږ مورینو او ساتونکو ته سپارښتنه کوو چې د خپلو ماشومانو آنلاین فعالیتونه وڅاري، او د دې محرمیت پالیسۍ په تطبیق کې مرسته وکړي، په دې سره چې خپلو ماشومانو ته لارښوونه کړي چې هېڅ وخت د خپلې اجازې پرته زموږ خدمتونو کې شخصي معلومات مه ورکوئ. موږ سپارښتنه کوو چې د بېلابېلو سافټ‌ویرونو او وسیلو جوړونکو څخه د شتون وړ مور/پلار د کنټرول وسیلې وکاروئ، ترڅو ماشومانو ته خوندي آنلاین چاپیریال برابروو.
+
+#### د تصدیق‌وړ د مور/پلار اجازه:
+که موږ پوه شو چې موږ د ۱۲ کلنو له کوچني ماشوم څخه، د مور/پلار د اجازې د تصدیق پرته، شخصي معلومات راټول کړي دي، نو موږ به هغه معلومات په تر ټولو ژر ډول ړنګ کړو. که تاسو باور لرئ چې موږ ممکن له ۱۲ کلنو څخه د کوچني ماشوم څخه یا د هغه په اړه معلومات ولرو، مهرباني وکړئ سمدستی زموږ سره په **Info@Layatanahi.store** اړیکه ونیسئ.
+
+---
+
+## د پالیسۍ بدلونونه
+### د دې محرمیت پالیسۍ بدلونونه
+
+موږ ممکن دا محرمیت پالیسي ځینې وختونه تازه کړو ترڅو زموږ د کړنو، ټیکنالوژۍ، قانوني اړتیاوو، او نورو فکتورونو بدلونونه منعکس کړي. موږ ستاسو وهڅوو چې دا پاڼه په دوره‌یي ډول وپلټئ ترڅو زموږ د محرمیت د کړنو په اړه تازه معلومات ترلاسه کړئ.
+
+#### موږ تاسو ته د بدلونونو خبر څنګه ورکوو:
+- موږ به تازه‌شوې محرمیت پالیسي په دې پاڼې کې ږدو او په دې محرمیت پالیسۍ کې پورته "وروستی تازه‌کول" نېټه تازه کړو.
+- د مهمو بدلونونو لپاره، موږ به ډېره ښکاره خبرتیا ورکړو، لکه د ایمېل خبرتیا یا زموږ په ویب‌پاڼې کې بینر.
+- موږ ممکن نورې د اړیکو لارې وکاروو، که زموږ ته ستاسو د اړیکو معلومات ولرو او بدلونونه مهم وي.
+
+#### ستاسو دوامداره کارونه:
+ستاسو دوامداره کارونه زموږ له خدمتونو څخه، د تازه‌شوې محرمیت پالیسۍ د نافذېدو نېټې وروسته، د تازه‌شوې پالیسۍ منل ګڼل کېږي. که تاسو له تازه‌شوې پالیسۍ سره موافق نه یاست، نو باید زموږ د خدمتونو کارول ودروئ.
+
+#### د پخوانیو نسخو آرکایف:
+موږ به د دې محرمیت پالیسۍ د پخوانیو نسخو آرکایف، ستاسو د کتنې لپاره، وساتو. که تاسو غواړئ پخوانۍ نسخې وګورئ، مهرباني وکړئ زموږ سره په **Info@Layatanahi.store** اړیکه ونیسئ.
+
+#### مهم بدلونونه:
+موږ بدلونونه مهم ګڼو که چیرې هغوی: (الف) زموږ حقونه چې راټول‌شوی شخصي معلومات وکاروئ یا شریک کړو، په پام‌وړ ډول زیات کړي؛ (ب) ستاسو حقونه یا زموږ د وړل‌شوې خوندیتوب کچه د ستاسو شخصي معلوماتو لپاره کمه کړي؛ یا (ج) د ستاسو د شخصي معلوماتو د پروسس لپاره نوې موخې رامنځته کړي چې د اصلي موخو سره سازګاره نه وي.
+
+---
+
+## زموږ سره اړیکه
+### زموږ سره اړیکه
+
+که تاسو د دې محرمیت پالیسۍ یا زموږ د ډاټا د کړنو په اړه کومه پوښتنه، اندېښنه، یا شکایت لرئ، مهرباني وکړئ د لاندې معلوماتو په کارولو سره زموږ سره اړیکه ونیسئ:
+
+#### زموږ د اړیکو معلومات:
 - **Email**: info@layatanahi.store
 - **Phone**: +93 70 902 8214
 - **Address**: Ahmad-yar Tower, Macrorayan square, Kabul, Afghanistan 
 
-#### Data Protection Officer:
-We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions about this Privacy Policy. If you have any questions about this Privacy Policy or our data practices, you may contact our DPO at **Info@Layatanahi.store**
+#### د ډاټا د ساتنې افسر (Data Protection Officer):
+موږ یو د ډاټا د ساتنې افسر (DPO) ټاکلی دی چې د دې محرمیت پالیسۍ په اړه د پوښتنو څارلو مسؤولیت لري. که تاسو د دې محرمیت پالیسۍ یا زموږ د ډاټا د کړنو په اړه کومه پوښتنه لرئ، نو کولی شئ زموږ DPO سره په **Info@Layatanahi.store** اړیکه ونیسئ.
 
-#### Response Time:
-We strive to respond to all legitimate requests within 30 days. Occasionally, it may take us longer if your request is particularly complex or you have made several requests. In this case, we will notify you and keep you updated.
+#### د ځواب وخت:
+موږ هڅه کوو چې ټولو معتبرو غوښتنو ته په ۳۰ ورځو کې ځواب ورکړو. ځینې وختونه، که ستاسو غوښتنه په ځانګړي ډول پیچلې وي یا تاسو څو غوښتنې کړي وي، موږ ته ډېر وخت نیولای شي. پدې صورت کې، موږ به تاسو ته خبر درکړو او تازه به موږ ساتئ.
 
-#### Supervisory Authority:
-If you are located in the European Economic Area, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work, or place of the alleged infringement if you consider that the processing of personal information relating to you infringes applicable data protection laws.
+#### نظارتي واکمني:
+که تاسو په اروپايي اقتصادي سیمه (European Economic Area) کې موقع یاست، نو تاسو دا حق لرئ چې یوې نظارتي ادارې ته شکایت وړاندې کړئ، په ځانګړې توګه د هغه غړي هېواد (Member State) کې چې عادي استوګنځی، د کار ځای، یا د احتمالي نقض ځای یې وي، که تاسو باور لرئ چې ستاسو اړوندو شخصي معلوماتو پروسس د وړ د ډاټا د ساتنې قوانین نقض کوي.

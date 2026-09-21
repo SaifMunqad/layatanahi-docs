@@ -1,3 +1,3 @@
-# Help Center
+# مرسته مرکز
 
-Support hub with guidance, troubleshooting, and onboarding for new users.
+د نوي کاروونکو لپاره د لارښود، ستونزو حل او پیل ښوونې سره د ملاتړ مرکزي ځای.

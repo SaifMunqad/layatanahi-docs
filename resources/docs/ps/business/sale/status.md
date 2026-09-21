@@ -3,4 +3,4 @@ title: Sale Status
 section: business.sale
 ---
 
-Explains sale lifecycle and statuses (draft, invoiced, paid, returned, cancelled).
+د پلورنې د ژوند دوره او حالتونه تشریح کوي (ډرافټ، بل شوی، تادیه شوی، ستنه شوی، لغوه شوی).

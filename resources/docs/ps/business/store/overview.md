@@ -7,12 +7,12 @@ link: "/store/branches"
 path: ["Sidebar","Store","Branches"]
 ---
 
-# Locations & Business Details
+# ځایونه او د سوداګرۍ جزئیات
 
-The Locations and Business Details section is where you define the geospatial and brand identity of your organization. By providing accurate addresses and GPS coordinates for your branches, you enable customers to find you easily via our 'Discover Businesses' map and search tools.
+د 'ځایونو' او 'د سوداګرۍ د جزئیاتو' برخه هغه ځای دی چې تاسو پکې خپلې ادارې جغرافیایي او د برانډ پېژندنه تعریفوئ. د خپلو څانګو لپاره د دقیقو پته ګانو او GPS همغږو (coordinates) په ورکولو سره، تاسو پیرودونکي ته اجازه ورکوئ چې زموږ د 'سوداګریو کشف' نقشې او د پلټنې وسیلو له لارې اسانه ومومئ.
 
-Business Details go beyond just a name. You can provide a rich description of your company, upload your official branding, and list your social media links and contact numbers. This information is displayed on your public business profile, acting as a digital storefront that attracts new customers and builds professional credibility.
+د سوداګرۍ جزئیات یوازې له یوه نوم څخه هاخوا ځي. تاسو کولی شئ د خپل شرکت یوه بډایه تشریح وړاندې کړئ، خپل رسمي برانډ اپلوډ کړئ، او خپل د ټولنیزو رسنیو لینکونه او د اړیکو شمېرې لیست کړئ. دا معلومات ستاسو په عمومي سوداګریزه پروفایل کې ښودل کېږي، چې د یوه ډیجیټل پلورنځي په توګه عمل کوي نو نوي پیرودونکي راجلبوي او مسلکي باور وده ورکوي.
 
-Accuracy in this section is critical for the system's tax and shipping calculations. By providing correct regional and district information, you ensure that the system applies the right tax rates and accurately calculates delivery costs for orders originating from each specific location.
+پدې برخه کې دقت د سیسټم لپاره د مالیې او لېږد (shipping) محاسبو ته خورا مهم دی. په سمه توګه د سیمې او ولسوالۍ د معلوماتو په ورکولو سره، تاسو ډاډمن کوئ چې سیسټم سمې د مالیې کچې پلي کوي او د هر ځانګړي ځای څخه راغليو ارډرونو لپاره د رسولو لګښتونه په دقیق ډول محاسبه کوي.
 
-To update your business profile, go to 'Store > Branches' and select the 'Manage' button on your primary branch. Here you can find the 'Business Details' tab where you can refine your public-facing information and ensure your location data is pinpoint accurate for our discovery engine.
+خپل سوداګریز پروفایل د تازه کولو لپاره، 'پلورنځی > څانګې' (Store > Branches) ته لاړ شئ او د خپلې اصلي څانګې باندې 'مدیریت (Manage)' تڼۍ وټاکئ. دلته تاسو 'د سوداګرۍ جزئیات' ټب (tab) موندلی شئ چې کولی شئ پکې خپل عمومي معلومات ښه کړئ او ډاډمن کړئ چې د موقعیت معلومات د زموږ د کشف انجن لپاره په دقیق ډول سم وي.

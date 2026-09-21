@@ -3,4 +3,4 @@ title: Purchase Filters
 section: business.purchase
 ---
 
-Explains available filters for purchase lists (date ranges, supplier, status, branch, item SKU, etc.).
+د پیرودنو د لیستونو لپاره شته فلټرونه تشریح کوي (د نېټو حدونه، ورکړونکی، حالت، څانګه، د توکي SKU او داسې نور).

@@ -1,3 +1,3 @@
-# Public Overview
+# عمومي لنډه کتنه (Public Overview)
 
-Manage the public-facing business experience and discoverable information.
+هغه عمومي تجربه چې سوداګري یې پیرودونکو ته ښیي او د کشف وړ معلومات مدیریت کړئ.

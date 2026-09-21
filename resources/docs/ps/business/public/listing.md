@@ -1,3 +1,3 @@
-# Public Listing
+# عمومي لیست (Public Listing)
 
-Browse and manage public listings presented to customers.
+عمومي لیستونه چې پیرودونکو ته وړاندې کېږي وګورئ او مدیریت یې کړئ.

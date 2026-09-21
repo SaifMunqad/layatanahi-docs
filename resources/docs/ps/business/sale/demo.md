@@ -7,12 +7,12 @@ link: ""
 path: ["Header","Quick Sell Button"]
 ---
 
-# Quick Sell (Retail POS)
+# ژر پلور (د پلورنځي POS)
 
-The Quick Sell interface is optimized for speed and high-volume retail environments. It acts as a digital Point-of-Sale (POS) terminal, designed to get customers through the door as fast as possible without sacrificing data integrity. It is ideal for supermarket counters, retail shops, and any face-to-face sales scenario.
+د ژر پلور انټرفېس د چټکۍ او لوړ حجم لرونکو پلورنځیو چاپیریالونو لپاره بهینه شوی دی. دا د یوې ډیجیټل د پلور ټکي (Point-of-Sale/POS) ټرمینل په څېر کار کوي، چې د دې لپاره ډیزاین شوی ترڅو پیرودونکي په تر ټولو چټک ډول، پرته له دې چې د معلوماتو رڼتیا قربان کړي، پلورنځي ته راوړي. دا د سوپر مارکیټ کاؤنټرونو، پلورنځیو، او هرې مخامخ د پلور سناریو لپاره غوره ده.
 
-This interface is designed to be used with a barcode scanner. Simply scan an item, and it is instantly added to the ticket. If you don't have a scanner, the large, touch-friendly buttons and fast search ensure you can still find products in seconds. The system defaults to 'Cash Sale' to minimize clicks, though it still supports other payment methods.
+دا انټرفېس د بارکوډ سکینر سره د کارولو لپاره ډیزاین شوی. یوازې یو توکی سکین کړئ، او هغه سمدستي ټکټ ته ورزیاتیږي. که سکینر ونه لرئ، لویې، ټچ-دوستانه تڼۍ (buttons) او چټکه پلټنه ډاډ ورکوي چې تاسو بیا هم کولی شئ توکي په ثانیو کې ومومئ. سیسټم د کلیکونو د کمولو لپاره په ډیفالټ ډول 'نقدۍ پلورنه (Cash Sale)' ټاکي که څه هم نورو د تادیې لارو ته ملاتړ دوام ورکوي.
 
-Despite its speed, Quick Sell is fully integrated with your inventory and finance modules. Every item scanned is still tracked, and every cent collected is still logged in your cash accounts. It even supports 'Quick Discounts' and 'Change Calculations' to assist your cashiers during busy hours.
+سر له دې چټکۍ، ژر پلور ستاسو د زخرې او مالي ماډیولونو سره په بشپړ ډول نښلول شوی دی. هر سکین شوی توکی بیا هم څارل کېږي، او هره ترلاسه شوې افغانۍ ستاسو په نقدي حسابونو کې ثبتېږي. دا حتی 'ژر رعایتونه (Quick Discounts)' او 'د پاتې پیسو محاسبه (Change Calculations)' ملاتړ کوي ترڅو ستاسو کشیرونو ته په بوختو ساعتونو کې مرسته وکړي.
 
-To use Quick Sell, click the lightning bolt icon in the top header. This opens a specialized fullscreen interface. Add products by scanning or clicking, enter the amount received, and hit 'Enter' to complete the sale and pop the cash drawer.
+د ژر پلور د کارولو لپاره، په پورتنۍ هډر کې د بریښنا تېږې (lightning bolt) آیکون کلیک کړئ. دا یو ځانګړی بشپړ-اسکرین انټرفېس پرانیزي. توکي په سکین کولو یا کلیک کولو سره ورزیات کړئ، ترلاسه شوې اندازه ولیکئ، او 'Enter' کېکاځئ ترڅو پلورنه بشپړه او د نقدی کشون پرانیستل شي.

@@ -7,12 +7,12 @@ link: "/store/analytics"
 path: ["Sidebar","Store","Analytics"]
 ---
 
-# Business Analytics & Insights
+# د سوداګرۍ تحلیلات او لیدلوري
 
-Analytics goes beyond simple reporting by providing predictive insights and visual trends. While a report tells you what happened, Analytics tells you 'why' it happened and 'what' might happen next. Using advanced data visualization, the system turns numbers into easy-to-read charts and graphs that highlight your business's trajectory.
+تحلیلات د ساده راپور ورکولو څخه هاخوا ځي او د وړاندوینویزو لیدلورو او انځوریزو رجحاناتو برابروي. کله چې یو راپور تاسو ته وايي څه وشول، تحلیلات تاسو ته وايي 'ولې' وشول او 'څه' ممکن راتلونکی وپیښيږي. د پرمختللې ډاټا لید (data visualization) په کارولو سره، سیسټم شمېرې د لوستو وړ اسانه چارټونو او ګرافونو ته واړوي چې ستاسو د سوداګرۍ کورګا (trajectory) روښانه کوي.
 
-Our analytics engine tracks your 'Sales Velocity,' 'Customer Retention,' and 'Profit Trends' over time. By seeing these as visual patterns, you can quickly identify seasonal peaks, identify slow-moving stock before it becomes a liability, and predict future revenue with a high degree of accuracy.
+زموږ د تحلیلاتو انجن د وخت په اوږدو کې ستاسو 'د پلور چټکۍ (Sales Velocity)'، 'د پیرودونکو ساتنه (Customer Retention)'، او 'د ګټې رجحانات (Profit Trends)' څاري. د دې په انځوریزو نمونو کې د لیدلو سره، تاسو ژر کولی شئ فصلی لوړوالو وپېژنئ، ورو-حرکتېدونکې زخره مخکې له دې چې د پور/مسؤولیت بڼه غوره کړي وپېژنئ، او راتلونکی عاید په لوړ دقت سره وړاندوینه کړئ.
 
-The system also includes 'Comparative Analytics,' allowing you to see how your branches are performing relative to each other or how your current growth compares to the previous year. This competitive insight is invaluable for deciding where to allocate your resources and where to focus your marketing efforts.
+سیسټم 'پرتله‌کونکي تحلیلات (Comparative Analytics)' هم لري، چې تاسو ته اجازه درکوي وګورئ چې ستاسو څانګې یوې ته بلې نسبي څنګه فعالیت کوي یا ستاسو اوسمهاله وده له تېر کال سره څنګه پرتله کېږي. دا سیالانه لیدلوری خورا ارزښت لري چې پرېکړه وکړئ چیرې خپلې سرچینې ولګوئ او چیرې خپلې د بازارموندنې هڅې متمرکزې کړئ.
 
-To explore your insights, go to 'Store > Analytics'. The interactive dashboard allows you to toggle between different views and timeframes. We suggest using these insights to plan your procurement and staffing needs for the upcoming months based on historical performance trends.
+څو خپلو لیدلورو ته وکتلئ، 'پلورنځی > تحلیلات' (Store > Analytics) ته لاړ شئ. تعاملي ډشبورډ تاسو ته اجازه درکوي چې بین مختلفو لیدو او وختونو بدلون وکړئ. موږ وړاندیز کوو چې دا لیدلوري د تېرو فعالیتونو د رجحاناتو پر بنسټ د راتلونکو میاشتو لپاره د خپلو توکو د تدارک (procurement) او کارکوونکو اړتیاوو په پلانولو وکاروئ.

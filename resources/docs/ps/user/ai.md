@@ -1,22 +1,21 @@
 # AI
 
-## Overview
+## لنډه کتنه
 
-Users can access the AI assistant without limits to help them explore products, compare options, and discover items that match their needs. The AI experience is designed to make shopping more efficient by providing guided recommendations and instant answers about products, features, and availability.
+کاروونکي کولای شي له پرله پسې محدودیت پرته AI مرستیال ته لاسرسی ولري ترڅو په توکي کتنه، د انتخابونو پرتله کولو او د خپلو اړتیاوو سره سمون لرونکو توکو موندلو کې مرسته وکړي. د AI تجربه داسې ډیزاین شوې چې لارښوونل شوي وړاندیزونه او سمدستي ځوابونه د توکو، ځانګړتیاوو او شتون په اړه ورکوي او پیرود نور هم موثر کوي.
 
-## Product Search and Discovery
+## د توکو لټون او کشف
 
-Users can search for products using natural language or keyword-based queries. The AI can suggest relevant items, refine results based on preferences, and help users find the best product for their goals. This includes searching by category, material, price range, use case, or product attributes.
+کاروونکي کولای شي توکي په طبیعي ژبه یا کیلیمه‌یي (keyword) پوښتنو وپلټي. AI کولای شي اړوند توکي وړاندیز کړي، پایلې د غوره‌توبونو پر بنسټ اصلاح کړي او کاروونکو ته د خپلو موخو لپاره غوره توکی موندلو کې مرسته وکړي. دا د وېش، موادو، د بیې حد، کارونې یا د توکي ځانګړنو پر بنسټ لټون هم شاملوي.
 
-## Shopping Assistance
+## د پیرود مرسته
 
-The AI can support users during the purchase journey by helping them choose between products, highlighting important specifications, and recommending options that fit their budget or requirements. Users can use AI to plan purchases, learn about product details, and decide whether to buy immediately or add items to the cart.
+AI کولای شي د پیرود په سفر کې کاروونکي ملاتړ کړي: د توکو ترمنځ په ټاکنه مرسته، مهمو مشخصاتو ته پام اړول، او د هغو انتخابونو وړاندیز چې د بودیجې یا اړتیاوو سره سمون لري. کاروونکي کولای شي AI د پیرودونو طرحه کولو، د توکي د جزئیاتو زده کړلو او دا پرېکړې لپاره وکاروي چې سمدستي وپيري یا توکي ټوکر زیات کړي.
 
-## Purchase Support
+## د پیرود ملاتړ
 
-Users can use AI assistance alongside direct purchasing or cart-based checkout. The AI helps them understand product differences, confirm compatibility, and decide on the most suitable option before completing a purchase. This creates a smoother and more informed buying experience.
+کاروونکي کولای شي د مستقیم پیرود یا ټوکر پر بنسټ checkout تر څنګ د AI مرسته هم وکاروي. AI مرسته کوي چې د توکو توپیرونه وپوهېږي، سمون (compatibility) تصدی کړي، او مخکې له بشپړ پیرود مناسب انتخاب وټاکي. دا یوه هواره او له پوره معلوماتو ډکه د پیرود تجربه رامنځته کوي.
 
-## Limitations and Usage
+## محدودیتونه او کارونه
 
-AI access is available without purchase limits, allowing users to interact freely while researching and selecting products. The assistant is intended to support product discovery and decision-making, while final transactions remain subject to standard sales, checkout, and account policies.
-
+د AI لاسرسی د پیرود محدودیت پرته شتون لري، ترڅو کاروونکي د توکو د څېړنې او ټاکنې پر مهال ازاد تعامل وکړي. مرستیال د توکي کشف او پرېکړې ته د ملاتړ لپاره دی، پداسې حال کې چې وروستۍ معاملې معیاري د پلورنو، checkout او د حساب تګلارو تابع پاتې دي.

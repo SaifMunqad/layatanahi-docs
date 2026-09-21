@@ -1,3 +1,3 @@
-# API Overview
+# د API لنډه کتنه
 
-Overview of the API capabilities and service integrations available to clients.
+د API د وړتیاوو او د خدمت integration لنډه کتنه چې پیرودونکو (clients) ته شته ده.

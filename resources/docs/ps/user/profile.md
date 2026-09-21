@@ -1,35 +1,35 @@
-# User Profile
+# د کاروونکي پروفایل
 
-Manage the personal information, preferences, security settings, and activity history associated with a user account.
+د کاروونکي د حساب سره تړلي شخصي معلومات، غوره‌توبونه، د امنیت تنظیمات او د فعالیت تاریخچه مدیریت کړئ.
 
-## Profile Information
+## د پروفایل معلومات
 
-Users can keep their personal details current, including their name, contact information, address, and account preferences. This helps maintain an accurate profile and ensures that communication, order updates, and personalization features remain relevant.
+کاروونکي کولای شي خپل شخصي جزئیات تازه وساتي، لکه نوم، د اړیکو معلومات، پته او د حساب غوره‌توبونه. دا د دقیق پروفایل په ساتلو مرسته کوي او ډاډ ورکوي چې اړیکې، د غوښتنو تازه معلومات او د شخصي‌کولو ځانګړتیاوې اړوند پاتې شي.
 
-## AI Agent Controls
+## د AI Agent کنټرول
 
-Users can enable or disable the AI assistant from their profile. This setting gives them control over whether AI-powered suggestions, product discovery, and shopping assistance are active in their account. The AI experience can be customized according to each user's comfort level and workflow.
+کاروونکي کولای شي د AI مرستیال له خپل پروفایل څخه فعال یا غیرفعال کړي. دا تنظیم ورته واک ورکوي چې وټاکي AI پر بنسټ وړاندیزونه، د توکي کشف او د پیرود مرسته په حساب کې فعاله ده که نه. د AI تجربه د هر کاروونکي د اسانتیا او کاري بهیر (workflow) سره سم شخصي کیدای شي.
 
-## Language and Localization
+## ژبه او لوکالیزیشن
 
-Users can choose from multiple languages, including three supported language options, to personalize the interface and improve accessibility. This allows them to use the platform in the language they are most comfortable with while viewing product information, account details, and support content in that language.
+کاروونکي کولای شي د درېیو ملاتړ شوو ژبو په ګډون له څو ژبو څخه یوه وټاړي ترڅو خپل مخ (interface) شخصي کړي او لاسرسی ښه کړي. دا ورته اجازه ورکوي چې پلیټ فارم په هغه ژبه وکاروي چې پرې ډیر خپلوي، پداسې حال کې چې د توکي معلومات، د حساب جزئیات او د ملاتړ منځپانګه هم په هغه ژبه وګوري.
 
-## Orders and Shipments
+## غوښتنې او لېږدونه (Shipments)
 
-From the profile, users can review their order history, track active shipments, monitor delivery status, and stay informed about expected arrival dates. This section gives users a clear view of recent purchases and the current status of their deliveries.
+له پروفایل څخه کاروونکي کولای شي د خپلو غوښتنو تاریخچه وګوري، فعال لېږدونه تعقیب کړي، د رسولو حالت وڅاري، او د تمه‌شوې رسېدو نېټو ته پاتې شي. دا برخه کاروونکو ته وروستیو پیرودونو او د هغوی د لېږدونو اوسني حالت روښ نظر ورکوي.
 
-## Calendar and Activity
+## جنتری او فعالیت
 
-The profile includes a calendar view that helps users keep track of important dates, order timelines, reminders, and scheduled activities. Users can review upcoming actions related to their purchases, deliveries, and account management tasks.
+پروفایل د جنترۍ (calendar) لید هم لري چې کاروونکو ته د مهمو نېټو، د غوښتنو وخت‌بندي، یادښتونو او مهال ویشل شویو فعالیتونو په څارنه مرسته کوي. کاروونکي کولای شي د خپلو پیرودونو، لېږدونو او د حساب مدیریت دندو سره تړلې راتلونکې چارې وګوري.
 
-## Security Settings
+## د امنیت تنظیمات
 
-Users can update account security settings to protect their personal information and maintain safe access to the platform. This includes managing sign-in security preferences, reviewing account protection settings, and adjusting controls that help reduce unauthorized access.
+کاروونکي کولای شي د حساب د امنیت تنظیمات تازه کړي ترڅو خپل شخصي معلومات وساتي او پلیټ فارم ته خوندي لاسرسی ساتي. دا د ننوتلو د امنیت غوره‌توبونه مدیریت، د حساب د ساتنې تنظیمات کتل، او د هغو کنټرولونو ټینګول شاملوي چې د غیر مجاز لاسرسی کمولو کې مرسته کوي.
 
-## General Settings
+## عمومي تنظیمات
 
-Users can change general account settings such as notifications, display preferences, and service behavior. These settings allow users to tailor the platform experience to their individual needs and maintain the most convenient configuration for daily use.
+کاروونکي کولای شي عمومي تنظیمات لکه خبرتیاوې، د ښودلو غوره‌توبونه او د خدمت چلند بدل کړي. دا تنظیمات کاروونکو ته اجازه ورکوي چې د پلیټ فارم تجربه خپلو انفرادي اړتیاوو سره سمون کړي او د ورځني کارونې لپاره تر ټولو اسانه ترتیب وساتي.
 
-## Data Export
+## د ډاټا Export
 
-Users can download all of their account data in an Excel file for personal records, backup, or review. This export may include order history, profile information, account settings, and related user activity data, making it easy to retain and manage their information outside the platform.
+کاروونکي کولای شي د خپل حساب ټول ډاټا د Excel فایل په بڼه د شخصي ریکارډ، backup یا بیا کتنې لپاره ډاونلوډ کړي. دا export کولای شي د غوښتنو تاریخچه، د پروفایل معلومات، د حساب تنظیمات او د کاروونکي اړوند د فعالیت ډاټا ولري، چې د پلیټ فارم بهر یې د معلوماتو ساتل او مدیریت اسانه کوي.

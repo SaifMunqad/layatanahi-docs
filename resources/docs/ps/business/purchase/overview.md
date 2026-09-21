@@ -7,12 +7,12 @@ link: "/finance/accounts"
 path: ["Sidebar","Finance","Accounts"]
 ---
 
-# Accounts (Debit & Credit)
+# حسابونه (ډیبټ او کریډټ)
 
-The Accounts system allows you to manage your business's liquidity across multiple 'buckets.' You can create accounts for physical cash drawers at different branches, corporate bank accounts, and even digital payment gateways. Each account tracks its own 'Debit' (inflow) and 'Credit' (outflow) history, giving you a granular view of where your money is sitting.
+د حسابونو سیسټم تاسو ته اجازه درکوي چې د خپلې سوداګرۍ نقدي روانی (liquidity) په ګڼو 'کوټو' کې مدیریت کړئ. تاسو کولی شئ د بېلابېلو څانګو فزیکي نقدی کشانونو، اداري بانکي حسابونو، او حتی ډیجیټل د تادیې دروازو (payment gateways) لپاره حسابونه جوړ کړئ. هر حساب د خپل 'ډیبټ' (ننوتو) او 'کریډټ' (وتلو) تاریخ څاري، چې تاسو ته په دقیقه توګه ښیي ستاسو پیسې چیرې پروتې دي.
 
-Credit accounts typically represent your liabilities or your equity, while Debit-heavy accounts represent your assets like Cash-on-Hand or Inventory Value. The system's 'Account Dashboard' provides a visual summary of these balances, allowing you to see your total liquidity at a glance without having to dig through complex spreadsheets.
+کریډټ حسابونه معمولاً ستاسو پورونه (liabilities) یا سیډپتیه (equity) ښیي، پداسې حال کې چې هغه حسابونه چې ډیبټ پکې ډېر دی ستاسو شتمنۍ ښیي لکه 'لاس کې نقد' یا 'د زخیرې ارزښت'. د سیسټم 'د حساب ډشبورډ' د دې پاتې شونو یوه انځوریزه لنډه کتنه برابروي، ترڅو تاسو خپله ټوله نقدي روانی په یوه کتنه ووینئ، پرته له دې چې پیچلي سپریډشیټونه وپلټئ.
 
-You can perform 'Account Reconciliation' by comparing the balance shown in Layatanahi with your actual bank statement or physical cash count. If there's a minor discrepancy, the system allows for 'Adjustment Entries' (with mandatory reasoning) to keep your books accurate and honest.
+تاسو کولی شئ 'د حساب مطابقت (Reconciliation)' ترسره کړئ چې په Layatanahi کې ښودل شوی پاتې شونی له خپل ریښتیني بانکي بیان یا فزیکي نقدی شمېر سره پرتله کړئ. که کوچنی توپیر شتون ولري، سیسټم 'تنظیمي داخلي' (د لازم دلیل سره) اجازه ورکوي ترڅو ستاسو کتابونه دقیق او رڼ پاتې شي.
 
-To manage your accounts, go to the 'Accounts' section. From here, you can see the 'Live Balance' of every fund. Click on an account to view its specific ledger, where every debit and credit is itemized with a link to the original transaction (like a sale or an expense) that caused the movement.
+خپل حسابونه د مدیریت کولو لپاره، 'حسابونه' برخې ته لاړ شئ. له دې ځایه تاسو د هرې پیسو د کوټې 'ژوندی پاتې شونی (Live Balance)' وینئ. په یوه حساب کلیک وکړئ ترڅو هغه ځانګړی کتاب (ledger) وګورئ، چیرې چې هر ډیبټ او کریډټ د اصلې معاملې (لکه پلورنه یا لګښت) چې دې حرکت رامنځته کړی د یوې اړیکې (link) په واسطه تفصیل شوی دی.
