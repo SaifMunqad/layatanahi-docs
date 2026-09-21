@@ -3,7 +3,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { ArrowRight, Search, X } from 'lucide-react';
 import { NAV_SECTIONS, resolveHref, type NavItem } from '@/components/layout/docs/docs-data';
 import { useTranslation } from 'react-i18next';
-import '@/lib/i18n';
+import i18n from '@/lib/i18n';
 
 type SearchModalProps = {
     open: boolean;
@@ -16,7 +16,7 @@ const markdownFiles = {
     ...import.meta.glob('../../../../docs/ps/**/*.md', { eager: true, query: '?raw', import: 'default' }),
 } as Record<string, string>;
 
-const normalize = (value: string) => value.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const normalize = (value: string) => value.toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 
 const plainText = (value: string) =>
     value
@@ -56,9 +56,10 @@ function HighlightedText({ text, query }: { text: string; query: string }) {
     );
 }
 
-const contentForHref = (href: string) => {
+const contentForHref = (href: string, locale: string) => {
     const routeName = normalize(href.split('/').filter(Boolean).pop() ?? '');
     const match = Object.entries(markdownFiles).find(([file]) => {
+        if (!file.includes(`/docs/${locale}/`)) return false;
         const fileName = normalize(file.split('/').pop()?.replace(/\.md$/, '') ?? '');
         return fileName === routeName;
     });
@@ -80,11 +81,12 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
 
     const results = useMemo(() => {
         const normalizedQuery = query.trim().toLowerCase();
+        const locale = i18n.resolvedLanguage ?? i18n.language ?? 'en';
         const items: { item: NavItem; section: string; href: string; content: string; excerpt: string }[] = [];
 
         const collect = (item: NavItem, section: string) => {
             const href = resolveHref(item.path);
-            items.push({ item, section, href, content: contentForHref(href), excerpt: '' });
+            items.push({ item, section, href, content: contentForHref(href, locale), excerpt: '' });
             item.children?.forEach((child) => collect(child, `${section} / ${item.label}`));
         };
 
@@ -108,7 +110,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
             .filter((entry) => entry.score > 0)
             .sort((a, b) => b.score - a.score || a.item.label.localeCompare(b.item.label))
             .slice(0, 12);
-    }, [query]);
+    }, [query, i18n.resolvedLanguage, i18n.language]);
 
     useEffect(() => {
         if (!open) return;
