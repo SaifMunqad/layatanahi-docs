@@ -9,9 +9,37 @@ use App\Http\Controllers\Docs\SupportController;
 use App\Http\Controllers\Docs\UserController;
 use App\Http\Controllers\PurchaseController;
 use App\Http\Controllers\SaleController;
+use App\Http\Middleware\SetLocale;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Cookie;
 use Illuminate\Support\Facades\Route;
 
 Route::redirect('/', '/layatanahi/overview')->name('home');
+
+Route::match(['get', 'post'], '/set-locale/{locale}', function (Request $request, string $locale) {
+    $normalized = SetLocale::normalizeLocale($locale);
+    session(['locale' => $normalized]);
+    app()->setLocale($normalized);
+
+    $domain = SetLocale::getSharedCookieDomain();
+    Cookie::queue(cookie(
+        name: SetLocale::COOKIE_NAME,
+        value: $normalized,
+        minutes: 525600,
+        path: '/',
+        domain: $domain,
+        secure: $request->isSecure(),
+        httpOnly: false,
+        raw: false,
+        sameSite: 'lax'
+    ));
+
+    if ($request->expectsJson() || $request->is('api/*')) {
+        return response()->json(['success' => true, 'locale' => $normalized]);
+    }
+
+    return redirect()->back();
+})->name('set.locale');
 
 Route::prefix('user')->name('user.')->group(function () {
     Route::get('/overview', [UserController::class, 'overview'])->name('overview');

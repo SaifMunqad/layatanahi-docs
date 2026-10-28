@@ -2,6 +2,7 @@ import { Head, usePage } from '@inertiajs/react';
 import { useEffect, useRef, useState } from 'react';
 import { usePublishToc } from '@/components/layout/docs/docs-toc-context';
 import { useMarkdown } from '@/lib/markdown';
+import { applyDocsLocale } from '@/lib/i18n';
 
 const localizedMarkdown = {
     ...import.meta.glob('../../../docs/en/**/*.md', {
@@ -42,7 +43,7 @@ type DocsPageProps = {
 };
 
 export default function DocsPage({ markdown, section, description }: DocsPageProps) {
-    const [locale, setLocale] = useState(() => localStorage.getItem('docs-locale') ?? 'en');
+    const [locale, setLocale] = useState(() => applyDocsLocale());
     const pagePath = usePage().component.replace(/^docs\//, '');
     const localizedSource = getLocalizedMarkdown(locale, pagePath, markdown);
     const { headings, content } = useMarkdown(localizedSource);
@@ -52,7 +53,7 @@ export default function DocsPage({ markdown, section, description }: DocsPagePro
     usePublishToc(headings);
 
     useEffect(() => {
-        const updateLocale = () => setLocale(localStorage.getItem('docs-locale') ?? 'en');
+        const updateLocale = () => setLocale(applyDocsLocale());
         window.addEventListener('docs-locale-change', updateLocale);
         return () => window.removeEventListener('docs-locale-change', updateLocale);
     }, []);

@@ -290,17 +290,102 @@ const resources = {
 export const supportedLocales = ['en', 'fa_AF', 'ps'] as const;
 export type DocsLocale = (typeof supportedLocales)[number];
 
-export function applyDocsLocale(value: string | null = typeof window === 'undefined' ? 'en' : localStorage.getItem('docs-locale')): DocsLocale {
-    const locale = supportedLocales.includes(value as DocsLocale) ? (value as DocsLocale) : 'en';
-    const direction = locale === 'en' ? 'ltr' : 'rtl';
+export function normalizeDocsLocale(candidate: string | null | undefined): DocsLocale {
+    if (!candidate) return 'fa_AF';
+    const raw = String(candidate).trim().replace('-', '_').toLowerCase();
+    if (raw === 'en' || raw === 'english' || raw === '1') return 'en';
+    if (raw === 'ps' || raw === 'pashto' || raw === '3') return 'ps';
+    if (raw === 'fa' || raw === 'dr' || raw === 'dari' || raw === 'farsi' || raw === 'fa_af' || raw === '2') return 'fa_AF';
+    return supportedLocales.includes(candidate as DocsLocale) ? (candidate as DocsLocale) : 'fa_AF';
+}
 
-    if (typeof window !== 'undefined') {
-        localStorage.setItem('docs-locale', locale);
-        document.documentElement.lang = locale;
-        document.documentElement.dir = direction;
+export function getSharedCookieDomain(): string | null {
+    if (typeof window === 'undefined') return null;
+    const hostname = window.location.hostname;
+    if (hostname === 'localhost' || hostname.endsWith('.localhost')) {
+        return '.localhost';
+    }
+    const parts = hostname.split('.');
+    if (parts.length >= 2 && !/^\d+\.\d+\.\d+\.\d+$/.test(hostname)) {
+        return '.' + parts.slice(-2).join('.');
+    }
+    return null;
+}
+
+export function getSharedLocaleCookie(): string | null {
+    if (typeof document === 'undefined') return null;
+    const match = document.cookie.match(/(?:^|;\s*)layatanahi_locale=([^;]+)/);
+    return match ? decodeURIComponent(match[1]) : null;
+}
+
+export function setSharedLocaleCookie(locale: string): void {
+    if (typeof document === 'undefined') return;
+    const maxAge = 60 * 60 * 24 * 365; // 1 year
+    const domain = getSharedCookieDomain();
+    const cookieVal = encodeURIComponent(locale);
+
+    if (domain) {
+        document.cookie = `layatanahi_locale=${cookieVal}; path=/; max-age=${maxAge}; domain=${domain}; SameSite=Lax`;
+    }
+    document.cookie = `layatanahi_locale=${cookieVal}; path=/; max-age=${maxAge}; SameSite=Lax`;
+}
+
+export function applyDocsLocale(value: string | null = null): DocsLocale {
+    let resolved: DocsLocale;
+
+    if (value) {
+        resolved = normalizeDocsLocale(value);
+    } else if (typeof window !== 'undefined') {
+        // 1. URL search parameter (?lang= or ?locale=)
+        const params = new URLSearchParams(window.location.search);
+        const urlParam = params.get('lang') || params.get('locale');
+
+        // 2. Shared cross-subdomain cookie
+        const cookieVal = getSharedLocaleCookie();
+
+        // 3. LocalStorage
+        const localDoc = localStorage.getItem('docs-locale');
+        const localMain = localStorage.getItem('layatanahi_locale');
+
+        if (urlParam) {
+            resolved = normalizeDocsLocale(urlParam);
+        } else if (cookieVal) {
+            resolved = normalizeDocsLocale(cookieVal);
+        } else if (localDoc) {
+            resolved = normalizeDocsLocale(localDoc);
+        } else if (localMain) {
+            resolved = normalizeDocsLocale(localMain);
+        } else {
+            resolved = 'fa_AF';
+        }
+    } else {
+        resolved = 'fa_AF';
     }
 
-    return locale;
+    const direction = resolved === 'en' ? 'ltr' : 'rtl';
+
+    if (typeof window !== 'undefined') {
+        localStorage.setItem('docs-locale', resolved);
+        localStorage.setItem('layatanahi_locale', resolved);
+        setSharedLocaleCookie(resolved);
+        document.documentElement.lang = resolved;
+        document.documentElement.dir = direction;
+
+        // Asynchronously update docs backend session in background
+        try {
+            fetch('/set-locale/' + resolved, {
+                method: 'POST',
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest',
+                    'Content-Type': 'application/json',
+                },
+            }).catch(() => {});
+        } catch {
+            // Ignore fetch errors
+        }
+    }
+
+    return resolved;
 }
 
 const locale = applyDocsLocale();

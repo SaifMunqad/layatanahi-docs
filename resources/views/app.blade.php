@@ -1,12 +1,21 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" @class(['dark' => ($appearance ?? 'system') == 'dark'])>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" dir="{{ in_array(app()->getLocale(), ['fa_AF', 'ps'], true) ? 'rtl' : 'ltr' }}" @class(['dark' => ($appearance ?? 'system') == 'dark'])>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        {{-- Inline script to detect system dark mode preference and apply it immediately --}}
+        {{-- Inline script to detect locale direction and system dark mode preference immediately --}}
         <script>
             (function() {
+                try {
+                    const cookieMatch = document.cookie.match(/(?:^|;\s*)layatanahi_locale=([^;]+)/);
+                    const raw = cookieMatch ? decodeURIComponent(cookieMatch[1]) : (window.localStorage.getItem('docs-locale') || window.localStorage.getItem('layatanahi_locale'));
+                    if (raw) {
+                        const isRtl = raw === 'fa_AF' || raw === 'ps' || raw.toLowerCase().startsWith('fa');
+                        document.documentElement.setAttribute('dir', isRtl ? 'rtl' : 'ltr');
+                    }
+                } catch (e) {}
+
                 const appearance = '{{ $appearance ?? "system" }}';
 
                 if (appearance === 'system') {

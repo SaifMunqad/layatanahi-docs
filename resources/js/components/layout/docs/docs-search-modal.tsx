@@ -21,7 +21,7 @@ const normalize = (value: string) => value.toLocaleLowerCase().replace(/[^\p{L}\
 const plainText = (value: string) =>
     value
         .replace(/<[^>]*>/g, ' ')
-        .replace(/!?([[^]]*])\([^)]*\)/g, '$1')
+        .replace(/!?(\[[^\]]*\])\([^)]*\)/g, '$1')
         .replace(/[#*_`>-]/g, '')
         .replace(/&(?:amp|lt|gt|quot|#39|nbsp);/g, (entity) => ({
             '&amp;': '&',
@@ -200,7 +200,7 @@ export function SearchModal({ open, onClose }: SearchModalProps) {
                         <Link
                             key={result.item.slug}
                             ref={(element) => {
-                                resultRefs.current[index] = element;
+                                resultRefs.current[index] = element as HTMLAnchorElement | null;
                             }}
                             href={hrefWithSearch(result.href, query)}
                             onClick={onClose}
