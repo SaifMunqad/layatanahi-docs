@@ -1,29 +1,53 @@
 # Purchase
 
-## Overview
+Buying on Layatanahi is a short, guided flow. There are two ways to complete a purchase: **Buy now** from a product page, or **Add to cart** and check out later.
 
-Users can purchase products in two ways: by buying directly from the product page or by adding the item to the cart and completing the checkout later. This flexibility helps users make quick purchases when needed while also allowing them to review and compare items before they confirm the order.
+## Direct purchase (Buy now)
 
-## Direct Purchase
+Use this for a quick, single-item order.
 
-When a customer chooses a product and wants to purchase immediately, the system opens a streamlined purchase flow. The user can review the selected product, confirm the quantity, and check the total price before completing the order. This direct path is designed for fast transactions and minimal friction.
+1. Open a product and tap **Buy now**.
+2. Confirm the **quantity** and review the **total price**.
+3. Check your delivery details.
+4. Accept the purchase to go to **checkout**.
 
-## Add to Cart
+## Cart purchase (Add to cart)
 
-Users may also add products to the cart for later review. The cart allows them to manage multiple items, adjust quantities, remove products, or continue shopping before finalizing the purchase. This is useful when customers want to compare products or complete several purchases in one checkout session.
+Use this to gather several items before paying.
 
-## Product Review Before Purchase
+1. Tap **Add to cart** on each product you want.
+2. Open the **cart** to review quantities and prices.
+3. *Increase*, *decrease*, or **remove** any line, then continue shopping or proceed to **checkout**.
 
-Before accepting the purchase, users can view product details, including pricing, quantity, specifications, and availability. This ensures the customer has the information needed to confirm the product choice and complete the transaction with confidence.
+## What happens at checkout
 
-## Checkout and Confirmation
+Once you accept a purchase, the system validates the items, calculates the **final amount** (including tax), records the transaction securely, and creates your **order** with the related documents.
 
-Once the customer accepts the purchase, the system proceeds to the checkout process and prepares the order for fulfillment. The platform validates the selected items, calculates the final amount, and securely records the transaction. After confirmation, the system creates the order and prepares the related documents.
+> **Note:** Before you confirm, always review the **product details** — price, quantity, specifications, and availability — so the order is exactly what you expect.
 
-## Invoice Generation
+## Your invoice
 
-After the purchase is accepted, the system automatically sends an invoice to the customer. The invoice includes important details such as the product name, quantity, unit price, taxes, delivery details, total amount, and order reference. This document serves as a formal receipt and can be used for payment confirmation and record keeping.
+After the purchase is accepted, an **invoice** is generated and sent to you. It lists:
 
-## Order Tracking and Support
+| Item | Included |
+| --- | --- |
+| Product name & quantity | ✅ |
+| Unit price & total | ✅ |
+| Taxes | ✅ |
+| Delivery details | ✅ |
+| Order reference | ✅ |
 
-After the purchase is completed, users can view the status of their order in their account. They can monitor the progress from confirmation to shipment and delivery. The invoice and order information help support customer service and ensure transparency throughout the purchase process.
+The invoice is your **formal receipt** and is used for payment confirmation and record-keeping.
+
+## Tracking and support
+
+After you buy, the order moves through **confirmation → shipment → delivery**. You can follow every step from your account. If anything looks wrong, use the **order reference** on your invoice when you [contact support](/docs/support/contact-team).
+
+> **Tip:** Keep your **order reference** handy — it is the fastest way for support to help you.
+
+## Related pages
+
+- [User Overview](/docs/user/overview)
+- [AI Assistant](/docs/user/ai)
+- [Profile & Settings](/docs/user/profile)
+- [Return Policy](/docs/legal/return-policy)

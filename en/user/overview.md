@@ -1,23 +1,45 @@
 # User Overview
 
-User overview for managing accounts, activity, service status, and the complete shopping experience.
+This area is the **customer experience** — everything you do as a *shopper* on Layatanahi, from discovering a product to tracking the order after it ships.
 
-## Products
+## What you can do here
 
-Customers can browse and explore products through a rich shopping experience designed to make discovery, comparison, and purchase simple. Users can view a product in a quick-view drawer for a fast preview or open it on a dedicated full-page product detail screen for a deeper review. On either view, they can inspect key information such as product description, pricing, specifications, stock availability, variants, dimensions, materials, and related items.
+- **Browse and buy** products from many businesses in one place.
+- **Ask the AI assistant** to find and compare items for you.
+- **Manage your account**, address, language, and security.
+- **Track orders** and see what is on the way.
 
-Users can choose to purchase products directly from the product page or add them to the cart and complete the purchase later. This gives customers flexibility depending on whether they want an immediate transaction or a more careful comparison before checkout. Once an item is added to the cart, users can review quantities, update selections, remove products, and continue shopping before finalizing the order.
+## Browsing products
 
-The product experience also includes customer feedback and visual exploration. Users can read and add reviews and ratings, helping them understand product quality and real-world use before buying. They can inspect product images, download available media, or open 3D product views for more interactive inspection. Downloaded images and 3D model files are intended for personal use and evaluation, and they may not be reused for commercial purposes without explicit permission.
+Products can be explored in two ways:
 
-## AI and Search
+1. A **quick-view drawer** — a fast preview without leaving the list.
+2. A **full product page** — a deeper review with description, pricing, specifications, variants, stock, images, and related items.
 
-Users can take advantage of AI-powered support to search for products, refine results, and receive recommendations based on their needs. They can ask for product suggestions, compare alternatives, and explore options that match their preferences, budget, or use case without needing to manually browse every item.
+From either view you can **Buy now** for an instant purchase, or **Add to cart** to keep shopping and pay later.
 
-## Orders and Account Activity
+> **Tip:** Use *reviews and ratings* to judge real-world quality before you buy, and open the **3D view** or downloadable images when you want a closer look. Downloaded media is for **personal use** only and may not be reused commercially.
 
-The user overview also includes account-level activity so customers can stay informed about their purchases, shipments, and recent actions. Users can see their order history, review current items in transit, and monitor account status from a single place.
+## Your cart
 
-## Profile and Settings
+The **cart** lets you review several items together, change quantities, remove products, and continue shopping before you **check out**. See [Purchase](/docs/user/purchase) for the full checkout steps.
 
-Users can manage their personal account information, language preferences, security settings, and general platform settings from the profile area. They can also enable or disable AI features, switch between supported languages, and export their personal data as an Excel file when needed.
+## Account and activity
+
+Your account keeps everything in one place:
+
+| Section | What it holds |
+| --- | --- |
+| Orders | Order history and items currently in transit |
+| Profile | Name, contact details, address, preferences |
+| Settings | Language, notifications, and security |
+| Data export | Download your account data as an **Excel** file |
+
+> **Note:** Images and 3D model files are provided for *personal evaluation* and may not be reused for commercial purposes without permission.
+
+## Related pages
+
+- [Purchase](/docs/user/purchase)
+- [AI Assistant](/docs/user/ai)
+- [Profile & Settings](/docs/user/profile)
+- [Help Center](/docs/support/help-center)

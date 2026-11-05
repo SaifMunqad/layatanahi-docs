@@ -1,35 +1,50 @@
-# User Profile
+# Profile & Settings
 
-Manage the personal information, preferences, security settings, and activity history associated with a user account.
+Your **profile** is the control centre for your account — personal details, language, security, and the data the platform keeps about you.
 
-## Profile Information
+## Profile information
 
-Users can keep their personal details current, including their name, contact information, address, and account preferences. This helps maintain an accurate profile and ensures that communication, order updates, and personalization features remain relevant.
+Keep your details current so orders, delivery, and support stay accurate.
 
-## AI Agent Controls
+1. Open **Profile** from the account menu.
+2. Edit your **name**, **contact information**, and **address**.
+3. Save. Changes apply immediately to future orders.
 
-Users can enable or disable the AI assistant from their profile. This setting gives them control over whether AI-powered suggestions, product discovery, and shopping assistance are active in their account. The AI experience can be customized according to each user's comfort level and workflow.
+## Language & localisation
 
-## Language and Localization
+You can switch the interface between the three supported languages — **English**, **Dari**, and **Pashto** — so products, account details, and support content appear in the language you prefer.
 
-Users can choose from multiple languages, including three supported language options, to personalize the interface and improve accessibility. This allows them to use the platform in the language they are most comfortable with while viewing product information, account details, and support content in that language.
+## AI assistant control
 
-## Orders and Shipments
+From your profile you can **enable or disable** the AI assistant. Turn it off if you prefer to browse without AI suggestions; turn it on to get *guided product discovery*.
 
-From the profile, users can review their order history, track active shipments, monitor delivery status, and stay informed about expected arrival dates. This section gives users a clear view of recent purchases and the current status of their deliveries.
+## Orders & shipments
 
-## Calendar and Activity
+The profile shows your **order history** and lets you track **active shipments** and expected arrival dates in one view. See [Purchase](/docs/user/purchase) for how orders are created.
 
-The profile includes a calendar view that helps users keep track of important dates, order timelines, reminders, and scheduled activities. Users can review upcoming actions related to their purchases, deliveries, and account management tasks.
+> **Tip:** The built-in **calendar** helps you keep track of important dates, order timelines, and reminders.
 
-## Security Settings
+## Security settings
 
-Users can update account security settings to protect their personal information and maintain safe access to the platform. This includes managing sign-in security preferences, reviewing account protection settings, and adjusting controls that help reduce unauthorized access.
+Protect your account with the security controls:
 
-## General Settings
+- Sign-in and password preferences
+- Two-factor protection where available
+- Review of recent account activity
 
-Users can change general account settings such as notifications, display preferences, and service behavior. These settings allow users to tailor the platform experience to their individual needs and maintain the most convenient configuration for daily use.
+> **Note:** For your safety, some sensitive changes ask you to **re-enter your password** before they are saved.
 
-## Data Export
+## General settings
 
-Users can download all of their account data in an Excel file for personal records, backup, or review. This export may include order history, profile information, account settings, and related user activity data, making it easy to retain and manage their information outside the platform.
+Adjust **notifications** and **display preferences** so the platform behaves the way you want day to day.
+
+## Data export
+
+You can download **all of your account data** as an **Excel** file — including order history, profile information, and settings — for your own records or backup.
+
+## Related pages
+
+- [User Overview](/docs/user/overview)
+- [Purchase](/docs/user/purchase)
+- [AI Assistant](/docs/user/ai)
+- [Privacy Policy](/docs/legal/privacy-policy)

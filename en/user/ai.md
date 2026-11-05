@@ -1,22 +1,45 @@
-# AI
+# AI Assistant
 
-## Overview
+The **AI assistant** is your personal shopping helper inside Layatanahi. It lets you *find*, *compare*, and *understand* products using plain language instead of clicking through every category by hand.
 
-Users can access the AI assistant without limits to help them explore products, compare options, and discover items that match their needs. The AI experience is designed to make shopping more efficient by providing guided recommendations and instant answers about products, features, and availability.
+## What the assistant can do
 
-## Product Search and Discovery
+- **Search products** in natural language — describe what you need and get matching items.
+- **Compare options** side by side by price, material, size, or use case.
+- **Recommend items** based on your budget and preferences.
+- **Answer product questions** such as availability, specifications, or shipping.
 
-Users can search for products using natural language or keyword-based queries. The AI can suggest relevant items, refine results based on preferences, and help users find the best product for their goals. This includes searching by category, material, price range, use case, or product attributes.
+## How to use it
 
-## Shopping Assistance
+1. Open the **AI assistant** from the chat icon in the corner of the screen.
+2. Type a question the way you would ask a shopkeeper. For example:
+   - *“Find me a waterproof backpack under 2000 AFN.”*
+   - *“Which of these two phones has the better battery?”*
+   - *“Do you have this in a larger size?”*
+3. Read the reply. The assistant shows **product cards** you can tap to open the full page.
+4. Ask follow-up questions to *narrow* the results — refine by price, colour, or brand.
+5. When you are happy, tap **Buy now** or **Add to cart** directly from the conversation.
 
-The AI can support users during the purchase journey by helping them choose between products, highlighting important specifications, and recommending options that fit their budget or requirements. Users can use AI to plan purchases, learn about product details, and decide whether to buy immediately or add items to the cart.
+> **Note:** The assistant is **free to use**, but it is protected by fair-use limits so it stays fast for everyone — by default around **30 requests per minute** and **500 per day**. If you see a “slow down” message, wait a moment and try again.
 
-## Purchase Support
+## Good questions to ask
 
-Users can use AI assistance alongside direct purchasing or cart-based checkout. The AI helps them understand product differences, confirm compatibility, and decide on the most suitable option before completing a purchase. This creates a smoother and more informed buying experience.
+| Instead of | Try |
+| --- | --- |
+| Typing a single keyword | *“Show me durable office chairs for daily use”* |
+| Browsing every page | *“What are my best options under 1500 AFN?”* |
+| Guessing a product name | *“Do you sell the solar lantern that charges by USB?”* |
 
-## Limitations and Usage
+## Tips and limitations
 
-AI access is available without purchase limits, allowing users to interact freely while researching and selecting products. The assistant is intended to support product discovery and decision-making, while final transactions remain subject to standard sales, checkout, and account policies.
+- The assistant helps you **discover and decide**; the final purchase still follows the normal **checkout** and account rules.
+- Prices and stock shown in chat come from the live catalogue, so always confirm on the **product page** before buying.
+- It works in all supported languages — **English**, **Dari**, and **Pashto**.
 
+> **Tip:** Treat the assistant as a *starting point*. For a deep look at images, reviews, and a 3D view, open the dedicated **product detail** page.
+
+## Related pages
+
+- [User Overview](/docs/user/overview)
+- [Purchase](/docs/user/purchase)
+- [Profile & Settings](/docs/user/profile)
