@@ -1,111 +1,54 @@
 # Knowledge Base
 
-Our knowledge base provides quick, practical answers to common product, order, and service questions. It is designed to help customers find solutions faster while giving support teams reusable guidance for consistent responses.
+Quick, practical answers to the questions we hear most — about **orders**, **delivery**, **returns**, **payments**, and your **account**.
 
-## Overview
+## Orders & delivery
 
-This section covers high-frequency questions about:
+### Where is my order?
 
-- Orders and shipping
-- Product availability and specifications
-- Returns, refunds, and exchanges
-- Account access and login issues
-- Payment and checkout problems
-- Delivery delays and tracking updates
-- Store policies and customer support expectations
+Your order moves through **confirmation → shipment → delivery**. Follow every step from your account. Delivery times vary by *courier*, *location*, and *customs*, so the estimated window on your order is the best guide.
 
-## Common support topics
+### My delivery is late
 
-### 1. Order status and tracking
+If a package hasn't moved within the expected timeframe, contact [support](/docs/support/contact-team) with your **order reference** and we will run a manual status check.
 
-If a customer asks where their order is, respond with a clear update:
+> **Tip:** Always keep your **order reference** — it is the fastest way for anyone to help you. See [Purchase](/docs/user/purchase).
 
-- Confirm the order has been placed and paid for.
-- Share the order number, shipping method, and expected delivery window.
-- Explain that delivery times can vary based on courier schedules, location, and customs processing.
-- If tracking is unavailable or delayed, advise the customer to contact support for a manual status check.
+## Returns, refunds & exchanges
 
-### 2. Delayed delivery
+To send something back:
 
-For shipping delays, provide a helpful and reassuring answer:
+1. Check that the item is **unused** and in its **original condition**.
+2. Review the eligibility window in the [Return Policy](/docs/legal/return-policy).
+3. Contact [support](/docs/support/contact-team) with your **order reference** and a short description.
+4. After the return is reviewed, we advise whether a **refund** or **exchange** applies.
 
-- Acknowledge the delay and confirm the order is still in transit or being processed.
-- Encourage the customer to check the courier tracking link.
-- Provide the most recent shipment status and expected next update.
-- Offer to investigate if the package exceeds the normal delivery window.
+## Products & availability
 
-### 3. Returns and exchanges
+Product pages show **price**, **stock**, **specifications**, and **images**. If you can't find what you need, ask the [AI Assistant](/docs/user/ai) to search and compare for you.
 
-For return-related questions, the standard reply should include:
+## Login & account
 
-- The return eligibility period.
-- Whether items must be unused, sealed, or in original condition.
-- The process for requesting a refund or replacement.
-- The expected time for processing a return after the item is received.
+| Problem | What to do |
+| --- | --- |
+| Wrong password | Use the **reset password** link |
+| Account locked | Wait for the lockout window, then retry |
+| Need to change details | Update them under [Profile & Settings](/docs/user/profile) |
 
-### 4. Product questions
+> **Note:** Some sensitive changes ask you to **re-enter your password** to protect your account.
 
-For product information requests, answer with:
+## Payments & checkout
 
-- Product name, price, and key features
-- Materials, size, quantity, and availability
-- Compatibility, usage instructions, and included items
-- A direct link to the product page or support contact when needed
+- Confirm your **payment method** is accepted, then retry or choose another method.
+- A *duplicate charge* should be reported **immediately** to [support](/docs/support/contact-team).
+- The invoice you receive after checkout is your **formal receipt** — see [Purchase](/docs/user/purchase).
 
-### 5. Login and account troubleshooting
+## When to contact a human
 
-Common account issues include password resets, account lockouts, and login errors. Standard guidance:
+Escalate to our team when:
 
-- Ask the customer to confirm the email address used for registration.
-- Encourage a password reset if the login code is not accepted.
-- Check whether the account is inactive, blocked, or requires verification.
-- Confirm the customer has the latest version of the app or website if the problem persists.
+- A package is **lost, damaged, or wrong**
+- There is a **payment dispute** or duplicate charge
+- You need a **manual refund** or compensation review
 
-### 6. Payment and checkout problems
-
-For payment failures, a helpful answer should include:
-
-- Confirmation that the payment method is accepted.
-- Instructions to retry the payment or use a different method.
-- A review of card details, billing information, or bank restrictions.
-- A note that duplicate transactions should be reported immediately to support.
-
-## Reusable support responses
-
-### Example: order confirmation
-
-"Thank you for your order. Your purchase has been received and is being processed. You will receive a confirmation email with tracking details once the package is dispatched. If you need help before then, please share your order number and we will check the status for you."
-
-### Example: delayed shipment
-
-"We understand your concern about the delay. We are checking the current shipping status for your order and will update you as soon as we receive the latest information from the courier. In the meantime, please keep an eye on your tracking link and contact us if there is no movement after the expected timeframe."
-
-### Example: refund request
-
-"We are sorry to hear that. Please send us your order number and a brief description of the issue. Once the return is reviewed, we will advise whether a refund or exchange is available under our policy."
-
-### Example: product availability
-
-"Thank you for your interest in this item. The product is currently available in limited stock, and our team can help confirm the exact quantity, delivery ETA, or the closest alternative option if needed."
-
-## Support escalation guidance
-
-Escalate to a human support agent when:
-
-- A customer reports a lost, damaged, or wrong package
-- The order has not moved for an unusually long time
-- There is a payment dispute or duplicate charge
-- The customer requests a manual refund or compensation review
-- A serious product issue or safety concern is reported
-
-## Contact information
-
-For direct support, customers can contact the team through:
-
-- **Phone**: +93 70 902 8214
-- **Email**: info@layatanahi.store
-- **Address**: Ahmad Yar Tower, Macrorayan Square, Kabul, Afghanistan
-
-This knowledge base should be updated regularly as new product issues, policies, and support workflows are identified.
- 
-
+Reach us any time on the [Contact Team](/docs/support/contact-team) page.
