@@ -5,11 +5,11 @@ section: business
 
 # Finance Overview
 
-Finance is where money is accounted for. Every sale, purchase, salary, tax payment and operating cost
-eventually touches a branch account, and this module is how you see, record and reconcile those
+**Finance** is where money is accounted for. Every sale, purchase, salary, tax payment and operating cost
+eventually touches a **branch account**, and this module is how you see, record and reconcile those
 movements.
 
-The module is branch-scoped: each branch keeps its own accounts, incomes, expenses, taxes and salaries.
+The module is **branch-scoped**: each branch keeps its own accounts, incomes, expenses, taxes and salaries.
 Partners and categories are shared by the business, because they describe the company rather than a
 single location.
 
@@ -49,7 +49,7 @@ Everything financial is ultimately a change to an account balance:
 | Transfer request approved | Debit the sender, credit the receiver |
 | Capital adjustment | Debit or credit, depending on the sign |
 
-Accounts are never deleted. To stop using one, mark it inactive; history stays intact.
+> **Note:** Accounts are **never deleted**. To stop using one, mark it *inactive*; the history stays intact.
 
 ## Currency handling
 
@@ -57,8 +57,8 @@ Each account has one currency. A payment in another currency must carry an excha
 the system derives the rate and stores the base amount. Reports use the base amount, so totals remain
 comparable across currencies.
 
-If an account dropdown looks empty, it usually means there is no active account in the document's
-currency, not that the page is broken.
+> **Tip:** If an account dropdown looks empty, it usually means there is **no active account** in the
+> document's currency — not that the page is broken.
 
 ## What is restricted
 

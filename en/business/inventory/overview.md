@@ -5,8 +5,8 @@ section: business
 
 # Inventory Overview
 
-Inventory answers a single, deceptively hard question: how much of each product do we have, where is
-it, and how did it get there? The module keeps one stock row per product variant per location, records
+Inventory answers a single, deceptively hard question: **how much of each product do we have, where is
+it, and how did it get there?** The module keeps **one stock row** per product variant per location, records
 every movement, and lets you correct quantities without losing the audit trail.
 
 Stock is not a number typed once. It changes when you purchase, sell, transfer between locations,
@@ -40,8 +40,8 @@ entry you can review later.
 | Location | The inventory or branch that physically holds the goods |
 | Visibility | Whether the row is published to the global catalog |
 
-The distinction between available and reserved matters. Available is what you can sell now; reserved is
-committed to an open order and must not be promised twice.
+The distinction between **available** and **reserved** matters. *Available* is what you can sell now;
+*reserved* is committed to an open order and **must not be promised twice**.
 
 ## How stock changes
 
@@ -56,7 +56,9 @@ committed to an open order and must not be promised twice.
 | Merge | Merge Stocks | Duplicate rows are combined into one |
 
 Each action writes a configuration entry with the previous and new quantity, the employee and the
-reason. That entry is what makes an inventory trustworthy.
+reason.
+
+> **Note:** That configuration entry is what makes an inventory **trustworthy** — never skip the reason.
 
 ## What is restricted
 
