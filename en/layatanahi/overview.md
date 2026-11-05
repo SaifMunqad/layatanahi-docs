@@ -1,46 +1,39 @@
-# Layatanahi System
+# Layatanahi
 
-## Overview 
+**Layatanahi** is an e-commerce and business platform that helps Afghan businesses run their daily operations *and* connect with one another — in a single online system.
 
-Layatanahi is an e-commerce web application designed to help Afghan businesses manage their operations more easily and connect with one another. Many small and medium businesses still rely on paper-based records or simple spreadsheets, which are slow, costly, and difficult to maintain. Layatanahi was developed to solve these problems by providing a single online platform where businesses, suppliers, and customers can interact smoothly.
+Many small and medium businesses still rely on paper records or simple spreadsheets, which are slow, costly, and hard to maintain. Layatanahi replaces that with **one connected place** where businesses, suppliers, and customers can work together.
 
-The system supports both **business-to-business (B2B)** and **business-to-customer (B2C)** operations, allowing users to manage important activities such as purchases, sales, inventory, expenses, employees and salaries, and payments — all in one place.
+## Who it is for
 
-## Key Features
+Layatanahi supports both sides of commerce:
 
-- **Customer & Vendor Management** — Maintain and organize relationships with customers and suppliers
-- **Inventory Management** — Track stock levels, products, and supplies in real time
-- **Online Payment** — Secure handling of digital transactions
-- **Shopping Cart** — Streamlined purchasing experience for customers
-- **Notifications** — Timely updates on orders, transactions, and account activity
-- **Transaction Confirmation** — Verified confirmation process between users
-- **Tax Calculation** — Automated calculation of applicable taxes
-- **Google Authentication** — Simple and secure login using Google accounts
+- **Business-to-business (B2B)** — businesses buy from, sell to, and coordinate with each other.
+- **Business-to-customer (B2C)** — businesses sell directly to shoppers.
 
-## Core Modules
+## What it brings together
 
-| Module | Description |
-|---|---|
-| Purchases | Manage procurement of goods and supplies |
-| Sales | Track and process sales transactions |
-| Inventory Management | Monitor and control stock levels |
-| Expense Tracking | Record and manage business expenses |
-| Employee & Salary Management | Handle staff records and payroll |
-| Payments | Process and track payments between parties |
+| Area | You can… |
+| --- | --- |
+| Purchases | Record goods bought from suppliers and other branches |
+| Sales | Sell to customers and other branches, print invoices |
+| Inventory | Track stock across every branch in real time |
+| Finance | Manage accounts, incomes, expenses, salaries, and taxes |
+| Store | Run branches, employees, roles, and reports |
+| Shop | Let customers browse, buy, and track orders |
 
-## Development Approach
+> **Tip:** New here? Start with the **[Features](/docs/layatanahi/features)** tour, then dive into the **[Business](/docs/business/overview)** or **[User](/docs/user/overview)** guides.
 
-- **Methodology:** Agile — the system was built incrementally with continuous improvements at each stage
-- **Testing:** Multiple types of testing were conducted to ensure the system works correctly and reliably
+## Why it matters
 
-## Benefits
+- **Simple and affordable** for small and medium businesses
+- **Less paper** and far less manual, repetitive work
+- **Businesses connected** to suppliers and customers in one network
+- **Insight built in** — activity turns into reports and decisions
 
-- Simple to use and affordable for small and medium businesses
-- Reduces manual, paper-based work
-- Saves time through automation
-- Improves communication between businesses, suppliers, and customers
-- Supports Afghan businesses in transitioning to digital systems and improving efficiency
+## Explore the platform
 
-## Conclusion
-
-Layatanahi provides a practical, all-in-one solution for Afghan businesses to modernize their operations, streamline daily activities, and build stronger connections across the B2B and B2C ecosystem.
+- [Introduction](/docs/layatanahi/introduction) — the problem it solves
+- [Features](/docs/layatanahi/features) — what the system can do
+- [Idea](/docs/layatanahi/idea) — the vision behind it
+- [Team](/docs/layatanahi/team) — who builds it

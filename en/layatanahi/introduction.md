@@ -1,40 +1,45 @@
 # Introduction
-This project contains a system which mainly focuses on connecting businesses and developing a powerful network platform for Afghan E-commerce and Business and on operations that every business needs as an operating object,including connecting all the Afghan businesses,it suppliers, localstores, super stores, and customer [**both B2B and B2C**] nationwide with global scalability.
 
-The collaboration feature of this system helps simplify communication amongst businesses while monitoring provides interface for system admins to help maintain the application and to keep track of what users of the system perform.
+Layatanahi was built around one goal: **connect Afghan businesses** and give every business the tools it needs to operate — from *buying* and *selling* to *inventory*, *finance*, and *payroll*.
 
-This system can generate various reports related to the function of the system The system uses traditional form system to perform **CRUD** operations due to its simplicity of use and familiarity of people
-## Project overview
-This system is to advance traditional existing accounting and comunication system with busineses that are paper based or traditional spreadsheets base systems or there is no communications at all between busineses,and also replace the heavy and expensive international accounting systems that a small store can't afford of its price and its complexity which people would go for when they are trying to manage their business or when busineses want to communicate with each other the information related to each of them **e.g.** invoice provided by supplier those this invoice is reached to its customers and dose the customer pays that invoice and is this payment made by customer recived in busineses the traditional system is to print the docomentation as a transaction made between two busineses and send it to the customer via post,or Email,or phone this system is simplifies this and when there is a need for exchanging data and information by automating this process inside the system for each of them both the suppliers and customers or between two busineses.
+## The problem
 
-## This platform contains
+Traditionally, businesses exchange information on paper. A supplier sends an invoice, the buyer checks it by phone or post, and payments are tracked in spreadsheets that fall out of date. Communication between businesses is *slow*, *manual*, and *unreliable*.
 
-**Purchases:** contain all the incoming transactions ,purchase of raw materials,supplies,inventory,by every purchase the business recives a purchase invoice from a seller and contains purchases repors .
+International accounting software solves part of this, but it is often **too heavy and too expensive** for a small local store.
 
-**Sales:** all sales informations, what products sell at which price and which quantity and report for sales by product, sales by business,sales by customer,etc...
+## The Layatanahi approach
 
-**Expenses:** cover all the expenses a business can do from purchasing material, supplies, paying salaries and expenses.
+Layatanahi replaces that manual loop with an online system where a purchase, an invoice, a payment request, and a confirmation all happen **inside one platform**:
 
-**Employees and payroll mangment system:** the system has all information about employees and we can assign salaries to them.
+- A business records a **purchase** and receives the supplier's invoice digitally.
+- The other side reviews the request and confirms it.
+- **Payments** and receipts are tracked automatically, with every step recorded.
 
-**Inventory managment system:** every branch of a business has its own inventories also by every purchase the inventory adds those items and with every sale the inventory removes that item sold.
+This keeps every business — suppliers, stores, and customers — **connected and in sync**.
 
-**Activities:** record the log for every change made in system as an Audit log.
+## What's inside
 
-# features of system
-**Core E-commerce:** this system applies the core e-commers activities as its main functionality and by them its task and jobs were done.
-   
-      
-- Multi business managment,with dashboard. 
-- Products catalog with categories, variants SKUs,and barcodes.
-- Inventory managment system (**Stock alert,low stock,batch tracking**)
+The platform is organised around the everyday operations of a business:
 
-# User and business mangment 
- Managment of users is a significantly import portion of every computer system, especially in financial related projects as of authorization for management of this task this system has its own relation [**table**] for users and also applies Google Auto Sign in function using Google's API.
+| Module | Handles |
+| --- | --- |
+| **Purchases** | Incoming goods, supplier invoices, reports |
+| **Sales** | Selling by product, price, quantity, and customer |
+| **Expenses** | Rent, supplies, salaries, and other costs |
+| **Employees & Payroll** | Staff records and salary assignments |
+| **Inventory** | Stock per branch, added on purchase, reduced on sale |
+| **Activities** | A full audit log of every change |
 
-### There main types of users in this system are:
+## Three kinds of people
 
-1. Business (Vendor/Store Owner)
-2. Customer (B2B and B2C)
-3. Supplier (can be an external entity )
+> **Note:** A single account can take on different roles depending on how the platform is used.
 
+1. **Business** — vendor or store owner
+2. **Customer** — buying B2B or B2C
+3. **Supplier** — sometimes an external partner
+
+## Next steps
+
+- See **[Features](/docs/layatanahi/features)** for a guided tour
+- Read the **[Business Overview](/docs/business/overview)** to start operating

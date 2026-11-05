@@ -1,168 +1,37 @@
 # Credits
 
-## Project Overview
+Layatanahi stands on the work of many people and the open-source community that makes a platform like this possible.
 
-This document records credits and acknowledgements for the Layatanahi final year project at Salam University. The project involved design, implementation, testing, and documentation as part of the degree requirements.
+## The team
 
-## Acknowledgements
+The product is designed, built, tested, and maintained by the Layatanahi team. → See the full [Team](/docs/layatanahi/team) page.
 
-Thanks to Salam University, faculty, staff, and especially Professor Naseer Ahmad Shinwari for mentorship and guidance. Also grateful to peers, TAs, family, external testers, and the open-source community.
+## Mentorship & guidance
 
-## Contributors and Roles
+> **Note:** Early development was shaped by the mentorship of **Professor Naseer Ahmad Shinwari**, along with faculty, peers, external testers, and the wider community who reviewed and gave feedback.
 
-A final-year student team handled coordination, frontend, backend, testing, and documentation. Individual names are listed in the formal report.
+## Built on open source
 
-## Technical Acknowledgements
+Layatanahi is possible because of the open-source tools it stands on:
 
-The project used open-source frameworks, tooling, CI, and testing tools; licenses and attributions are documented in the repository.
+| Layer | Technology |
+| --- | --- |
+| Backend | `Laravel` |
+| App bridge | `Inertia.js` |
+| Frontend | `React` + `TypeScript` |
+| Styling | `Tailwind CSS` |
+| Database | `MySQL` |
+| Cache & queues | `Redis` |
+| Payments | `Hesab Pay` |
 
-## Educational Impact
+*Thank you* to the maintainers and contributors of every library, framework, and tool the platform depends on.
 
-The project bridged theory and practice, improving research, design, and technical skills and contributing to professional readiness.
+## To our users
 
-## Ethics and Academic Integrity
+The real credit goes to the **businesses and customers** who use Layatanahi every day. Your feedback is what turns *storing data* into *genuine business intelligence*. → Read our story on the [Idea](/docs/layatanahi/idea) page.
 
-Work follows Salam University policies; sources and data were cited and used ethically.
+## Related pages
 
-## Lessons Learned and Reflections
-
-Key lessons: plan early, test iteratively, and document thoroughly. Recommendations for future work are noted in project logs.
-
-## Final Remarks
-
-This project reflects the team's academic effort. See the repository and README for details and contact information.
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Layatanahi Overview](/docs/layatanahi/overview)
+- [Features](/docs/layatanahi/features)
+- [Team](/docs/layatanahi/team)

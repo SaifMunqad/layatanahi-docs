@@ -1,12 +1,9 @@
 # Team
 
-Our team is built on dedication, collaboration, and a shared passion for creating meaningful digital experiences. Every member brings focus, creativity, and discipline to the work, and together we push through challenges with a strong sense of responsibility. We believe that great systems are not built by individual effort alone, but by consistent teamwork, clear communication, and a commitment to quality at every stage of development.
+Layatanahi is built by a small, focused team that cares about *doing the work properly* — from planning and design to development and refinement. We believe great systems come from **consistent teamwork**, **clear communication**, and a commitment to quality at every stage.
 
-We work hard every day to turn ideas into reliable, scalable solutions that meet real user needs. From planning and design to development and refinement, our team stays coordinated and aligned around a common goal: building a system that is useful, efficient, and sustainable. This culture of discipline and cooperation helps us move forward with confidence, solve problems quickly, and keep improving the product with every milestone.
+## Meet the team
 
-The strength of our team lies in how well we support one another. We listen carefully, share ideas openly, and take ownership of our responsibilities with professionalism and care. By combining technical expertise with teamwork and a strong work ethic, we create a system that reflects both innovation and trust. This coordinated effort is what makes our progress possible and what helps us build something valuable for the future.
-
-## Our team 
 <div class="mt-8 flex flex-wrap justify-center gap-6">
   <div class="flex w-[150px] flex-col items-center text-center">
     <img class="h-[110px] w-[110px] rounded-full border-2 border-zinc-200 object-cover shadow-lg shadow-zinc-200/50 dark:border-zinc-700 dark:shadow-zinc-950/40" src="/imgs/najeeb.png" alt="Najeebullah Saleh" />
@@ -33,3 +30,13 @@ The strength of our team lies in how well we support one another. We listen care
     <p class="mt-3 text-sm text-zinc-700 dark:text-zinc-300"><strong class="font-semibold text-zinc-900 dark:text-zinc-100">Hedayatullah Samadee</strong><br /><span class="text-zinc-500 dark:text-zinc-400">Designer</span></p>
   </div>
 </div>
+
+## Get in touch
+
+> **Tip:** Questions about the product, a partnership, or support? We would love to hear from you — see the **[Contact Team](/docs/support/contact-team)** page.
+
+## Related pages
+
+- [Layatanahi Overview](/docs/layatanahi/overview)
+- [Idea](/docs/layatanahi/idea)
+- [Credits](/docs/layatanahi/credits)
